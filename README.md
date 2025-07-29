@@ -118,233 +118,38 @@ The Magellian Empire was technologically advanced, being capable of magical bioe
 
 The year is 366 days long, with 12 months of exactly 30 days each and concluding with 6 intercalary days. There are no leap years. There are four seasons in Conliah, and daylight changes between months. For each month, there is a birthsign associated with that month, and each of the last 6 intercalary days of the year have their own birthsign. The below sunrise and sunset times are not intended as exact, but are provided for convenience.
 
-Name
-
-Type
-
-Birthsign
-
-Season
-
-Sunrise
-
-Sunset
-
-Askonos
-
-Month
-
-Scorpion
-
-Spring
-
-7:00 AM
-
-7:30 PM
-
-Bamos
-
-Month
-
-Horse
-
-Spring
-
-6:30 AM
-
-8:30 PM
-
-Chomos
-
-Month
-
-Twin Princes
-
-Spring
-
-6:00 AM
-
-9:00 PM
-
-Destachtos
-
-Month
-
-Crab
-
-Summer
-
-6:00 AM
-
-9:00 PM
-
-Ekerios
-
-Month
-
-Sheep
-
-Summer
-
-6:00 AM
-
-9:00 PM
-
-Flogos
-
-Month
-
-Princess
-
-Summer
-
-6:30 AM
-
-8:30 PM
-
-Gaieros
-
-Month
-
-Trilobite
-
-Fall
-
-7:00 AM
-
-7:30 PM
-
-Hanemos
-
-Month
-
-Pig
-
-Fall
-
-7:30 AM
-
-7:00 PM
-
-Ikatagedos
-
-Month
-
-Servant
-
-Fall
-
-8:00 AM
-
-6:30 PM
-
-Jostagonos
-
-Month
-
-Spider
-
-Winter
-
-8:00 AM
-
-6:30 PM
-
-Kepotamos
-
-Month
-
-Donkey
-
-Winter
-
-8:00 AM
-
-6:30 PM
-
-Lithalasos
-
-Month
-
-Judge
-
-Winter
-
-7:30 AM
-
-7:00 PM
-
-Uletas
-
-Intercalary Day
-
-Moon
-
-Spring
-
-7:17 AM
-
-7:13 PM
-
-Valentas
-
-Intercalary Day
-
-Sun
-
-Spring
-
-7:16 AM
-
-7:14 PM
-
-Wethias
-
-Intercalary Day
-
-Hearth Fire
-
-Spring
-
-7:15 AM
-
-7:15 PM
-
-Exostas
-
-Intercalary Day
-
-Wedding
-
-Spring
-
-7:14 AM
-
-7:16 PM
-
-Yargasas
-
-Intercalary Day
-
-Mountain
-
-Spring
-
-7:13 AM
-
-7:17 PM
-
-Zitimas
-
-Intercalary Day
-
-Thunderbolt
-
-Spring
-
-7:12 AM
-
-7:18 PM
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Birthsign</th>
+      <th>Season</th>
+      <th>Sunrise</th>
+      <th>Sunset</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Askonos</td><td>Month</td><td>Scorpion</td><td>Spring</td><td>7:00 AM</td><td>7:30 PM</td></tr>
+    <tr><td>Bamos</td><td>Month</td><td>Horse</td><td>Spring</td><td>6:30 AM</td><td>8:30 PM</td></tr>
+    <tr><td>Chomos</td><td>Month</td><td>Twin Princes</td><td>Spring</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Destachtos</td><td>Month</td><td>Crab</td><td>Summer</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Ekerios</td><td>Month</td><td>Sheep</td><td>Summer</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Flogos</td><td>Month</td><td>Princess</td><td>Summer</td><td>6:30 AM</td><td>8:30 PM</td></tr>
+    <tr><td>Gaieros</td><td>Month</td><td>Trilobite</td><td>Fall</td><td>7:00 AM</td><td>7:30 PM</td></tr>
+    <tr><td>Hanemos</td><td>Month</td><td>Pig</td><td>Fall</td><td>7:30 AM</td><td>7:00 PM</td></tr>
+    <tr><td>Ikatagedos</td><td>Month</td><td>Servant</td><td>Fall</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Jostagonos</td><td>Month</td><td>Spider</td><td>Winter</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Kepotamos</td><td>Month</td><td>Donkey</td><td>Winter</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Lithalasos</td><td>Month</td><td>Judge</td><td>Winter</td><td>7:30 AM</td><td>7:00 PM</td></tr>
+    <tr><td>Uletas</td><td>Intercalary Day</td><td>Moon</td><td>Spring</td><td>7:17 AM</td><td>7:13 PM</td></tr>
+    <tr><td>Valentas</td><td>Intercalary Day</td><td>Sun</td><td>Spring</td><td>7:16 AM</td><td>7:14 PM</td></tr>
+    <tr><td>Wethias</td><td>Intercalary Day</td><td>Hearth Fire</td><td>Spring</td><td>7:15 AM</td><td>7:15 PM</td></tr>
+    <tr><td>Exostas</td><td>Intercalary Day</td><td>Wedding</td><td>Spring</td><td>7:14 AM</td><td>7:16 PM</td></tr>
+    <tr><td>Yargasas</td><td>Intercalary Day</td><td>Mountain</td><td>Spring</td><td>7:13 AM</td><td>7:17 PM</td></tr>
+    <tr><td>Zitimas</td><td>Intercalary Day</td><td>Thunderbolt</td><td>Spring</td><td>7:12 AM</td><td>7:18 PM</td></tr>
+  </tbody>
+</table>
 
 There are seven days in a week, starting with Onodes Day. The days of the week are Onodes, Twetes, Tritos, Fodras, Fefdes, Sigtes, and Seftos.
 
@@ -352,77 +157,72 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
 
 ### Languages
 
-Language
-
-Script
-
-Notes
-
-Common
-
-Common
-
-Spoken by the Humans of Eastgardia, and most other races.
-
-Dwarvish
-
-Common
-
-Spoken by the Dwarves of Helscar.
-
-Halfling
-
-Common
-
-Spoken by the Halflings of Middlestone.
-
-Dark Elvish
-
-Elvish
-
-Spoken by the Dark Elves of Valorgale.
-
-Wood Elvish
-
-Elvish
-
-Spoken by the Wood Elves of Westerwood.
-
-High Elvish
-
-Elvish
-
-Spoken by the High Elves of Fair Island.
-
-Catfolk
-
-Elvish
-
-Spoken by the Catfolk of Wuthelark.
-
-Lizardfolk
-
-Common
-
-Spoken by the Lizardfolk of Nightglade.
-
-Orcish
-
-Orcish
-
-Spoken by the Orcs of Lodumpis, and most other Lodumpan races.
-
-Goblin
-
-Orcish
-
-Spoken by the Goblins of Lodumpis.
-
-Ogre
-
-Orcish
-
-Spoken by the Ogres of Lodumpis.
+<table>
+  <thead>
+    <tr>
+      <th>Language</th>
+      <th>Script</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Common</td>
+      <td>Common</td>
+      <td>Spoken by the Humans of Eastgardia, and most other races.</td>
+    </tr>
+    <tr>
+      <td>Dwarvish</td>
+      <td>Common</td>
+      <td>Spoken by the Dwarves of Helscar.</td>
+    </tr>
+    <tr>
+      <td>Halfling</td>
+      <td>Common</td>
+      <td>Spoken by the Halflings of Middlestone.</td>
+    </tr>
+    <tr>
+      <td>Dark Elvish</td>
+      <td>Elvish</td>
+      <td>Spoken by the Dark Elves of Valorgale.</td>
+    </tr>
+    <tr>
+      <td>Wood Elvish</td>
+      <td>Elvish</td>
+      <td>Spoken by the Wood Elves of Westerwood.</td>
+    </tr>
+    <tr>
+      <td>High Elvish</td>
+      <td>Elvish</td>
+      <td>Spoken by the High Elves of Fair Island.</td>
+    </tr>
+    <tr>
+      <td>Catfolk</td>
+      <td>Elvish</td>
+      <td>Spoken by the Catfolk of Wuthelark.</td>
+    </tr>
+    <tr>
+      <td>Lizardfolk</td>
+      <td>Common</td>
+      <td>Spoken by the Lizardfolk of Nightglade.</td>
+    </tr>
+    <tr>
+      <td>Orcish</td>
+      <td>Orcish</td>
+      <td>Spoken by the Orcs of Lodumpis, and most other Lodumpan races.</td>
+    </tr>
+    <tr>
+      <td>Goblin</td>
+      <td>Orcish</td>
+      <td>Spoken by the Goblins of Lodumpis.</td>
+    </tr>
+    <tr>
+      <td>Ogre</td>
+      <td>Orcish</td>
+      <td>Spoken by the Ogres of Lodumpis.</td>
+    </tr>
+  </tbody>
+</table>
 
 In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence.
 
@@ -680,135 +480,103 @@ _\-- The Fifth Cloudruled Dialogue: The Dysthyphro_
 
 The pantheon of the Yargyez Empire recognizes five major Agathoi named the Six Guardians. They are worshipped in public temples and holidays recognized by the Empire. Each Agathos has its own clerical hierarchy and rites, and provinces often combine these with syncretic traditions. Besides these Six Guardians there are also many minor Agathoi who are acknowledged by the Empire as having legitimate cults.
 
-Name
-
-Title
-
-Gender
-
-Domain(s)
-
-Notes
-
-Iazus
-
-Sky Mother
-
-Female
-
-Storms, Law
-
-Iazus is one of the Six Guardians. She is called the "first among equals" in the Imperial Cult pantheon, and is revered by emperors and inquisitors. The Order of Iazus sanctions Imperial Cult Inquisitors to hunt down Cthonic threats of various kinds. Her symbol is a thunderbolt and stormcloud, and her elemental domains are wind and lightning.
-
-Inidilt
-
-Mountain King
-
-Male
-
-Agriculture, Seasons
-
-Inidilt is one of the Six Guardians. He is revered by soldiers and farmers. His symbol is a scythe. His elemental domain is earth.
-
-Burrue
-
-Sun Sister
-
-Female
-
-Beauty, Philosophy
-
-Burrue is one of the Six Guardians. She is revered by bards and philosophers. Her symbol is a lyre. Her elemental domain is sunlight.
-
-Lidnozie
-
-Moon Brother
-
-Male
-
-Wilderness, Full Moon
-
-Lidnozie is one of the Six Guardians. He is revered by lumberers and hunters. His symbol is a bow and arrow. His elemental domain is moonlight.
-
-Ereng
-
-Great Presider
-
-Male
-
-Marriage, Family
-
-Ereng is one of the Six Guardians. He is revered by widows and healers. His symbol is an ox. His elemental domain is water.
-
-Izdoeng
-
-Hearth Keeper
-
-Male
-
-Peace, Fraternal Love
-
-Izdoeng is one of the Six Guardians. He is revered by embassadors and second sons. Izdoeng's symbol is a hearth flame, and Izdoeng has a cult of missionaries called Friends of the Hearth Keeper. His elemental domain is fire.
-
-Dimie
-
-Clever Agathos
-
-Male
-
-Magic, Artisanship, War
-
-Minor cult is popular in Fair Island
-
-Ivezdazing
-
-Forge Master
-
-Female
-
-Forge, Fire, Craft
-
-Minor cult is popular in Helscar
-
-Vlutodie
-
-Prince of Joy
-
-Male
-
-Beauty, Infatuation, Hedonism
-
-Minor cult is popular in Middlestone
-
-Uzioting
-
-Lady of the Seas
-
-Female
-
-Oceans, Navigation
-
-Minor cult is popular among fishers
-
-Ilnizing
-
-Swift Agathos
-
-Female
-
-Travel, Trade
-
-Minor cult is popular among merchants
-
-Etizing
-
-Lady Necessity
-
-Female
-
-Life, Death
-
-Minor cult is popular among undertakers
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Gender</th>
+      <th>Domain(s)</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Iazus</td>
+      <td>Sky Mother</td>
+      <td>Female</td>
+      <td>Storms, Law</td>
+      <td>Iazus is one of the Six Guardians. She is called the "first among equals" in the Imperial Cult pantheon, and is revered by emperors and inquisitors. The Order of Iazus sanctions Imperial Cult Inquisitors to hunt down Cthonic threats of various kinds. Her symbol is a thunderbolt and stormcloud, and her elemental domains are wind and lightning.</td>
+    </tr>
+    <tr>
+      <td>Inidilt</td>
+      <td>Mountain King</td>
+      <td>Male</td>
+      <td>Agriculture, Seasons</td>
+      <td>Inidilt is one of the Six Guardians. He is revered by soldiers and farmers. His symbol is a scythe. His elemental domain is earth.</td>
+    </tr>
+    <tr>
+      <td>Burrue</td>
+      <td>Sun Sister</td>
+      <td>Female</td>
+      <td>Beauty, Philosophy</td>
+      <td>Burrue is one of the Six Guardians. She is revered by bards and philosophers. Her symbol is a lyre. Her elemental domain is sunlight.</td>
+    </tr>
+    <tr>
+      <td>Lidnozie</td>
+      <td>Moon Brother</td>
+      <td>Male</td>
+      <td>Wilderness, Full Moon</td>
+      <td>Lidnozie is one of the Six Guardians. He is revered by lumberers and hunters. His symbol is a bow and arrow. His elemental domain is moonlight.</td>
+    </tr>
+    <tr>
+      <td>Ereng</td>
+      <td>Great Presider</td>
+      <td>Male</td>
+      <td>Marriage, Family</td>
+      <td>Ereng is one of the Six Guardians. He is revered by widows and healers. His symbol is an ox. His elemental domain is water.</td>
+    </tr>
+    <tr>
+      <td>Izdoeng</td>
+      <td>Hearth Keeper</td>
+      <td>Male</td>
+      <td>Peace, Fraternal Love</td>
+      <td>Izdoeng is one of the Six Guardians. He is revered by embassadors and second sons. Izdoeng's symbol is a hearth flame, and Izdoeng has a cult of missionaries called Friends of the Hearth Keeper. His elemental domain is fire.</td>
+    </tr>
+    <tr>
+      <td>Dimie</td>
+      <td>Clever Agathos</td>
+      <td>Male</td>
+      <td>Magic, Artisanship, War</td>
+      <td>Minor cult is popular in Fair Island</td>
+    </tr>
+    <tr>
+      <td>Ivezdazing</td>
+      <td>Forge Master</td>
+      <td>Female</td>
+      <td>Forge, Fire, Craft</td>
+      <td>Minor cult is popular in Helscar</td>
+    </tr>
+    <tr>
+      <td>Vlutodie</td>
+      <td>Prince of Joy</td>
+      <td>Male</td>
+      <td>Beauty, Infatuation, Hedonism</td>
+      <td>Minor cult is popular in Middlestone</td>
+    </tr>
+    <tr>
+      <td>Uzioting</td>
+      <td>Lady of the Seas</td>
+      <td>Female</td>
+      <td>Oceans, Navigation</td>
+      <td>Minor cult is popular among fishers</td>
+    </tr>
+    <tr>
+      <td>Ilnizing</td>
+      <td>Swift Agathos</td>
+      <td>Female</td>
+      <td>Travel, Trade</td>
+      <td>Minor cult is popular among merchants</td>
+    </tr>
+    <tr>
+      <td>Etizing</td>
+      <td>Lady Necessity</td>
+      <td>Female</td>
+      <td>Life, Death</td>
+      <td>Minor cult is popular among undertakers</td>
+    </tr>
+  </tbody>
+</table>
 
 Outside of the Imperial Cult, there are religious factions of High Elves and Wood Elves who advocate Burrueism, considering the Imperial Cult to be a distortion. They seek to restore the original practices of Agathos worship as spread by the Magellian Empire, including a belief in Elven racial superiority to other mortal races and a belief that Burrue is an emanation of Gora herself.
 
@@ -818,145 +586,110 @@ Worship of the Archons is forbidden by law. Even so their cults persist, as thei
 
 Many Archon-worshippers are not philosophically inclined, but some cultists do have deeper musings on the nature of religion. The most common theme is that the Archons are the original creators of Ksylia and their rightful gods. The Agathoi do not exist, but are a metaphor for the conquest of natural desires by imperial civilization itself. Worship of the Archons actively reclaims innate impulses which were wrongly suppressed by the empires of old.
 
-Name
-
-Title
-
-Gender
-
-Domain(s)
-
-Notes
-
-Igedeng
-
-Father of Bones
-
-Male
-
-Necromancy
-
-Igedeng's sphere is called the Deadwoods, an endless forest of dead trees partially illuminated by the crescent moon. He is the patron of necromancers and witches. Igedeng's cults are called the Tenkerlads, necromantic researchers who seek his blessings of knowledge of evil magic. His symbol is a crescent moon.
-
-Lozie
-
-Strife Maker
-
-Male
-
-Chaos, Pranks
-
-Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. His symbol is an apple with a bite taken out of it.
-
-Ogzim
-
-Lord of the Void
-
-Male
-
-Darkness, Silence
-
-Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Gnomes inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. His symbol is a face with closed eyes.
-
-Lize
-
-Harvester of Mortals
-
-Female
-
-War, Torture
-
-Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonic minions, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.
-
-Uluzing
-
-Mistress of Ends
-
-Female
-
-Fate, Death
-
-Uluzing's sphere is called the Quaking Peaks. This is a narrow mountain path which leads to an endless abyss on both sides, where mortals must carefully tread without wandering too far in either direction. Furthermore, they are subject to continuous earthquakes that threaten to send them onto one or the other side of the abyss. Uluzing's cults are called the Morderlads, cold-blooded killers who perform assassinations for hire. Her symbol is a knife dripping with blood.
-
-Lundazing
-
-Queen of Destruction
-
-Female
-
-Rebellion, Power
-
-In the Age of Might Makes Right, Lundazing was a popular deity of the Dwarves. Lundazing's sphere is called Cinderthrone. It is a landscape of obsidian and lava, where the air is thick with smog. Ruins of castles and destroyed statues dot the landscape. Cinderthrone is populated by Dragons, who are powerful flying lizards who breathe elemental attacks. She has the power to corrupt mortals into Draklings, which are Dragon-like humanoids. Lundazing's cults are called the Brannenlads, an association of nobles across Conliah who aspire to usurp the Yargyez Emperor. Her symbol is an upside-down torch.
-
-Ulviazing
-
-Dream Caller
-
-Female
-
-Dreams, Illusions
-
-Ulviazing's sphere is the Blissful Hollow. Blissful Hollow is filled with petrified trees and spiderwebs created by Arachnaurs. Arachnaurs are centaur-like creatures with the torso of a human and the lower body of a spider. Arachnaurs spin webs and play their strings like musical instruments. Those corrupted by Ulviazing's promises of blissful dreams become insect-like Husks. Her symbol is a red, pointed cap.
-
-Inizozim
-
-Prince of Last Strike
-
-Male
-
-Retribution, Plots
-
-Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterplots. His symbol is a measuring rod.
-
-Nabazie
-
-Prince of Beasts
-
-Male
-
-Lust, Rage
-
-Nabazie's sphere is the Howling Hall. It is a tremendous, ornate castle populated by Lykoids, humanoid creatures with the faces of wolves. These Lykoids endlessly chase prey animals up and down the halls of the castle. His symbol is three red claw marks.
-
-Eovumid
-
-Mother of Ills
-
-Female
-
-Sickness, Blight
-
-Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood.
-
-Dreze
-
-World Bearer
-
-Female
-
-Endurance, Pain
-
-Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage.
-
-Omuzast
-
-Mistress of Revelry
-
-Female
-
-Madness, Wine
-
-In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone.
-
-Embe
-
-Queen of Forests
-
-Female
-
-Wilderness, Plants
-
-In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves.
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Title</th>
+      <th>Gender</th>
+      <th>Domain(s)</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Igedeng</td>
+      <td>Father of Bones</td>
+      <td>Male</td>
+      <td>Necromancy</td>
+      <td>Igedeng's sphere is called the Deadwoods, an endless forest of dead trees partially illuminated by the crescent moon. He is the patron of necromancers and witches. Igedeng's cults are called the Tenkerlads, necromantic researchers who seek his blessings of knowledge of evil magic. His symbol is a crescent moon.</td>
+    </tr>
+    <tr>
+      <td>Lozie</td>
+      <td>Strife Maker</td>
+      <td>Male</td>
+      <td>Chaos, Pranks</td>
+      <td>Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. His symbol is an apple with a bite taken out of it.</td>
+    </tr>
+    <tr>
+      <td>Ogzim</td>
+      <td>Lord of the Void</td>
+      <td>Male</td>
+      <td>Darkness, Silence</td>
+      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Gnomes inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. His symbol is a face with closed eyes.</td>
+    </tr>
+    <tr>
+      <td>Lize</td>
+      <td>Harvester of Mortals</td>
+      <td>Female</td>
+      <td>War, Torture</td>
+      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonic minions, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
+    </tr>
+    <tr>
+      <td>Uluzing</td>
+      <td>Mistress of Ends</td>
+      <td>Female</td>
+      <td>Fate, Death</td>
+      <td>Uluzing's sphere is called the Quaking Peaks. This is a narrow mountain path which leads to an endless abyss on both sides, where mortals must carefully tread without wandering too far in either direction. Furthermore, they are subject to continuous earthquakes that threaten to send them onto one or the other side of the abyss. Uluzing's cults are called the Morderlads, cold-blooded killers who perform assassinations for hire. Her symbol is a knife dripping with blood.</td>
+    </tr>
+    <tr>
+      <td>Lundazing</td>
+      <td>Queen of Destruction</td>
+      <td>Female</td>
+      <td>Rebellion, Power</td>
+      <td>In the Age of Might Makes Right, Lundazing was a popular deity of the Dwarves. Lundazing's sphere is called Cinderthrone. It is a landscape of obsidian and lava, where the air is thick with smog. Ruins of castles and destroyed statues dot the landscape. Cinderthrone is populated by Dragons, who are powerful flying lizards who breathe elemental attacks. She has the power to corrupt mortals into Draklings, which are Dragon-like humanoids. Lundazing's cults are called the Brannenlads, an association of nobles across Conliah who aspire to usurp the Yargyez Emperor. Her symbol is an upside-down torch.</td>
+    </tr>
+    <tr>
+      <td>Ulviazing</td>
+      <td>Dream Caller</td>
+      <td>Female</td>
+      <td>Dreams, Illusions</td>
+      <td>Ulviazing's sphere is the Blissful Hollow. Blissful Hollow is filled with petrified trees and spiderwebs created by Arachnaurs. Arachnaurs are centaur-like creatures with the torso of a human and the lower body of a spider. Arachnaurs spin webs and play their strings like musical instruments. Those corrupted by Ulviazing's promises of blissful dreams become insect-like Husks. Her symbol is a red, pointed cap.</td>
+    </tr>
+    <tr>
+      <td>Inizozim</td>
+      <td>Prince of Last Strike</td>
+      <td>Male</td>
+      <td>Retribution, Plots</td>
+      <td>Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterplots. His symbol is a measuring rod.</td>
+    </tr>
+    <tr>
+      <td>Nabazie</td>
+      <td>Prince of Beasts</td>
+      <td>Male</td>
+      <td>Lust, Rage</td>
+      <td>Nabazie's sphere is the Howling Hall. It is a tremendous, ornate castle populated by Lykoids, humanoid creatures with the faces of wolves. These Lykoids endlessly chase prey animals up and down the halls of the castle. His symbol is three red claw marks.</td>
+    </tr>
+    <tr>
+      <td>Eovumid</td>
+      <td>Mother of Ills</td>
+      <td>Female</td>
+      <td>Sickness, Blight</td>
+      <td>Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood.</td>
+    </tr>
+    <tr>
+      <td>Dreze</td>
+      <td>World Bearer</td>
+      <td>Female</td>
+      <td>Endurance, Pain</td>
+      <td>Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage.</td>
+    </tr>
+    <tr>
+      <td>Omuzast</td>
+      <td>Mistress of Revelry</td>
+      <td>Female</td>
+      <td>Madness, Wine</td>
+      <td>In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone.</td>
+    </tr>
+    <tr>
+      <td>Embe</td>
+      <td>Queen of Forests</td>
+      <td>Female</td>
+      <td>Wilderness, Plants</td>
+      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves.</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Ancestor Veneration
 
