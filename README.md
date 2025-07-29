@@ -1,4 +1,5 @@
-@media print { @page { margin: 0.5in; } .single-column-flow { column-count: 1; } .two-column-flow { column-count: 2; column-gap: 2em; } .break-column { break-before: column; } .break-page { break-before: page; } html, body { font-size: 10pt; font-family: serif; margin: 0; } } table { border: 1px solid black; border-collapse: collapse; } th, td { border: 1px solid black; }
+Nephelai Sourcebook
+-------------------
 
 Introduction
 ------------
