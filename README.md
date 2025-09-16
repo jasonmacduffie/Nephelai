@@ -26,7 +26,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
     *   **Sentient mortals** are creatures capable of forming their own societies and politics. Examples are Humans, Elves, Dwarves, Halflings, and Orcs.
     *   **Mundane beasts** may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.
     *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
-    *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Gnomes and Tormentors.
+    *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
     *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Zombies, Steelskulls and Flesh Mutants.
 *   **Factions:** You have heard about several factions with continent-spanning impact:
     *   **The Yargyez Empire:** The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.
@@ -616,7 +616,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Lord of the Void</td>
       <td>Male</td>
       <td>Darkness, Silence</td>
-      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Gnomes inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. His symbol is a face with closed eyes.</td>
+      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. His symbol is a face with closed eyes.</td>
     </tr>
     <tr>
       <td>Lize</td>
@@ -1152,7 +1152,7 @@ These exotic monsters are direct servants of the Archons, and cannot persist in 
 
 Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch.
 
-#### Gnomes
+#### Nightcreeps
 
 *   **Robustness:** 1
 *   **Number appearing:** 1-8
@@ -1160,7 +1160,7 @@ Lykoids are two-legged humanoids with the bodies of ordinary humans without fur,
 *   **Courage:** Pragmatic
 *   **Soul color:** Red
 
-Gnomes are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights.
+Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights.
 
 #### Oktocheirs
 
