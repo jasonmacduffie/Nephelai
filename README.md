@@ -97,7 +97,7 @@ Phasing into Cthonic spheres is much more common. The Agathoi have a weaker hold
 
 Archons are not content to reside in their spheres. The desire of all Archons is to breach the boundary with Ksylia and pull mortals into their domains with the ultimate goal of consuming the entire realm of Ksylia. Their capacity to do so is constrained, because Cthonic beings cannot permanently reside in Ksylia. However, temporary breaches activated by mortals can create indefinitely durable zones of Cthonic influence. By remaining within these zones, lesser Cthonic beings may reside in Ksylia for prolonged stays. They can even venture for a short time outside of these zones, and safely return to them. Thankfully, these breaches mainly occur in pre-Magellian ruins, from a time when Archon worship was common. However, those who intentionally delve into ancient ruins to banish these threats must exercise great caution against the hordes of Cthonians residing there.
 
-Ksylia does not naturally have spherical subrealms. However, the ancient Magellians knew how to warp space to create miniature spheres that mortals could phase into by the same magical means as Cthonic spheres. Within these spheres, the natural laws of Ksylia generally work as expected. The contents of Ksylic spheres varies depending on the intentions of its Magellian constructor. Portals to these Ksylic spheres were typically placed in lockets, mirrors, doors, and paintings.
+Ksylia does not naturally have spherical subrealms. However, the ancient Magellians knew how to warp space to create miniature spheres that mortals could phase into by the same magical means as Cthonic spheres. Within these spheres, the natural laws of Ksylia generally work as expected. The contents of Ksylic spheres varies depending on the intentions of its Magellian constructor. Portals to these Ksylic spheres were typically placed in lockets, mirrors, doors, and paintings. One specialized use of Ksylic spheres was to hold armies of Stoicheioi: unstable artificial beings of pure elements. The ancient Magellians had the ability to temporarily phase a Stoicheios out of its sphere for use as a temporary ally on the battlefield, and return the Stoicheios back to its sphere before its instability caused rampaging.
 
 ### Technology
 
@@ -1355,6 +1355,17 @@ The ancient Magellians constructed enormous clockwork machines as weapons of war
 *   **Soul color:** Yellow
 
 Blobs are amorphous gelatinous creatures who are the creations of the Magellians. They are unintelligent but are very dangerous in their desire to consume. Blobs secrete digestive acids to pre-digest their targets, then consume the liquid. When a Blob grows sufficiently large, it divides into two Blobs.
+
+#### Stoicheioi
+
+
+*   **Robustness:** 10
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Yellow
+
+A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.
 
 Provinces
 ---------
