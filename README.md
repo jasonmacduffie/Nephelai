@@ -1,122 +1,201 @@
-Nephelai Sourcebook
--------------------
+<!DOCTYPE html>
+<html>
+  <style>
+    @media print {
+      @page {
+        margin: 0.5in;
+      }
+      
+      .single-column-flow {
+        column-count: 1;
+      }
+      
+      .two-column-flow {
+        column-count: 2;
+        column-gap: 2em;
+      }
+      
+      .break-column {
+        break-before: column;
+      }
 
-Introduction
-------------
+      .break-page {
+        break-before: page;
+      }
+      
+      html, body {
+        font-size: 10pt;
+        font-family: serif;
+        margin: 0;
+      }
+    }
 
-_MEDIOCRATES: I cannot tell how you feel about the speeches of my accusers, people of Atherita. I heard their speeches, and even I forgot who I was, as was their intended effect. Nothing they have said is remotely true. Even so, there was one falsehood that stood out to me, regarding the force of my eloquence. They should be ashamed for accusing me of such, because their falsehood would be revealed as soon as I would speak._
+    table {
+      border: 1px solid black;
+      border-collapse: collapse;
+    }
+    
+    th, td {
+      border: 1px solid black;
+    }
+  </style>
+<body>
+<h2>Introduction</h2>
 
-_\-- The Ninth Cloudruled Dialogue: The Apology of Mediocrates_
+<p><em>MEDIOCRATES: I cannot tell how you feel about the speeches of my accusers, people of Atherita. I heard their speeches, and even I forgot who I was, as was their intended effect. Nothing they have said is remotely true. Even so, there was one falsehood that stood out to me, regarding the force of my eloquence. They should be ashamed for accusing me of such, because their falsehood would be revealed as soon as I would speak.</em></p>
 
-![Waterfalls at Subiaco by Joseph Anton Koch](Waterfalls_at_Subiaco_Joseph_Anton_Koch.jpeg "Waterfalls at Subiaco by Joseph Anton Koch")
+<p><em>-- The Ninth Cloudruled Dialogue: The Apology of Mediocrates</em></p>
 
-Nephelai is a continent-spanning fantasy setting full of political and cosmic struggle. This sourcebook is designed for use with any fantasy tabletop RPG such that a GM can easily adapt the materials to any appropriate RPG system. The author has considered the most popular fantasy role-playing system in both modern and old-school variants, as well as narrative-first role-playing systems, when designing this setting. The author attempted to strike a balance between enabling a variety of play-styles and environments while independently maintaining thematic and logical cohesion. This sourcebook provides history, geography, plot hooks, and various other essential information without referring to any specific rules.
+<div class="two-column-flow">
 
-### What You Must Know
+<center>
+<img title="Waterfalls at Subiaco by Joseph Anton Koch" alt="Waterfalls at Subiaco by Joseph Anton Koch" src="Waterfalls_at_Subiaco_Joseph_Anton_Koch.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-Most of this sourcebook is written for GMs. It contains spoilers, so players should avoid reading this sourcebook. However, there are a few bits of information every player character ought to know on the first day of the year 189 YE:
+<p>Nephelai is a continent-spanning fantasy setting full of political and cosmic struggle. This sourcebook is designed for use with any fantasy tabletop RPG such that a GM can easily adapt the materials to any appropriate RPG system. The author has considered the most popular fantasy role-playing system in both modern and old-school variants, as well as narrative-first role-playing systems, when designing this setting. The author attempted to strike a balance between enabling a variety of play-styles and environments while independently maintaining thematic and logical cohesion. This sourcebook provides history, geography, plot hooks, and various other essential information without referring to any specific rules.</p>
 
-*   **Where Are You:** You are on the continent of Conliah. Conliah was thought to be the only continent in the world, surrounded by endless ocean, until explorers from a continent to the east called Lodumpis landed on its shores nineteen years ago.
-*   **History:** In ancient times, there was a High Elven empire called the Magellian Empire. They had incredible magical technology which is now lost to time, and they mysteriously collapsed. 188 years ago, the Yargyez Empire was formed which reunited all of Conliah under Human rule.
-*   **Races:** There are eight races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inton, Eastgardia.
-*   **Religion:** There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.
-*   **Cosmology:** There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.
-*   **Magic:** Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.
-*   **Threat Ecology:** Conliah has a distinct threat ecology which is different from other classic fantasy settings. Two classic categories of "always evil humanoids" and "magical beasts" are absent, and must be reimagined as belonging to one of the below categories.
-    *   **Sentient mortals** are creatures capable of forming their own societies and politics. Examples are Humans, Elves, Dwarves, Halflings, and Orcs.
-    *   **Mundane beasts** may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.
-    *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
-    *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
-    *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Zombies, Steelskulls and Flesh Mutants.
-*   **Factions:** You have heard about several factions with continent-spanning impact:
-    *   **The Yargyez Empire:** The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.
-    *   **The Uzvu Confederation:** A confederation of Orcs, Goblins, and Ogres landed on the shores of Conliah nineteen years ago. They have rapidly started invading the land, declaring their domination of Conliah divinely mandated.
-    *   **The Academy of Knowledge:** The Academy is the largest magical organization in Conliah, and is dedicated to the systematic study of magic. Many magic wielders are taught in their universities.
-    *   **The Philosophers Guild:** A strange group of philosophical lodges across Conliah have formed a guild to defend free thinking against orthodoxy. They are not outright Archon worshippers, but they are viewed as suspicious by the Yargyez Empire.
-    *   **The Artisans Guild:** Urban manufacturers across Conliah are members of the Artisans Guild. The Guild also has an operative wing of covert agents who use stealth and advanced magical technology.
-    *   **The Belligerantes:** The Belligerantes are a martial organization that shuns magic and stealth in favor of physical combat. They are mercenaries for hire in rural areas the Empire cannot protect.
+<h3>What You Must Know</h3>
 
-World Overview
---------------
+<p>Most of this sourcebook is written for GMs. It contains spoilers, so players should avoid reading this sourcebook. However, there are a few bits of information every player character ought to know on the first day of the year 189 YE:</p>
 
-_KAITO THE HALFLING: I have heard a legend that in the Age of Might Makes Right, there was an Archon who ruled over a settlement with the most righteous laws of all._
+<ul>
+<li><strong>Where Are You:</strong> You are on the continent of Conliah. Conliah was thought to be the only continent in the world, surrounded by endless ocean, until explorers from a continent to the east called Lodumpis landed on its shores nineteen years ago.</li>
+<li><strong>History:</strong> In ancient times, there was a High Elven empire called the Magellian Empire. They had incredible magical technology which is now lost to time, and they mysteriously collapsed. 188 years ago, the Yargyez Empire was formed which reunited all of Conliah under Human rule.</li>
+<li><strong>Races:</strong> There are eight races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inton, Eastgardia.</li>
+<li><strong>Religion:</strong> There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.</li>
+<li><strong>Cosmology:</strong> There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.</li>
+<li><strong>Magic:</strong> Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.</li>
+<li><strong>Threat Ecology:</strong> Conliah has a distinct threat ecology which is different from other classic fantasy settings. Two classic categories of "always evil humanoids" and "magical beasts" are absent, and must be reimagined as belonging to one of the below categories.
+<ul>
+<li><strong>Sentient mortals</strong> are creatures capable of forming their own societies and politics. Examples are Humans, Elves, Dwarves, Halflings, and Orcs.</li>
+<li><strong>Mundane beasts</strong> may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.</li>
+<li><strong>Cthonically corrupt mortals</strong> are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.</li>
+<li><strong>Cthonian invaders</strong> are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.</li>
+<li><strong>Artificial beings</strong> are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Zombies, Steelskulls and Flesh Mutants.</li>
+</ul></li>
+<li><strong>Factions:</strong> You have heard about several factions with continent-spanning impact:
+<ul>
+<li><strong>The Yargyez Empire:</strong> The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.</li>
+<li><strong>The Uzvu Confederation:</strong> A confederation of Orcs, Goblins, and Ogres landed on the shores of Conliah nineteen years ago. They have rapidly started invading the land, declaring their domination of Conliah divinely mandated.</li>
+<li><strong>The Academy of Knowledge:</strong> The Academy is the largest magical organization in Conliah, and is dedicated to the systematic study of magic. Many magic wielders are taught in their universities.</li>
+<li><strong>The Philosophers Guild:</strong> A strange group of philosophical lodges across Conliah have formed a guild to defend free thinking against orthodoxy. They are not outright Archon worshippers, but they are viewed as suspicious by the Yargyez Empire.</li>
+<li><strong>The Artisans Guild:</strong> Urban manufacturers across Conliah are members of the Artisans Guild. The Guild also has an operative wing of covert agents who use stealth and advanced magical technology.</li>
+<li><strong>The Belligerantes:</strong> The Belligerantes are a martial organization that shuns magic and stealth in favor of physical combat. They are mercenaries for hire in rural areas the Empire cannot protect.</li>
+</ul></li>
+</ul>
 
-_ASEM THE WOOD ELF: That's a surprising legend, Kaito. You'll need to tell us about that._
+</div>
 
-_\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
+<div class="break-page">
 
-![The continent of Conliah](CONLIAH.png "The continent of Conliah")
+<h2>World Overview</h2>
 
-### Geographic Summary
+</div>
 
-Conliah is the main continent on the world of Arbigard. It is bordered by two oceans: the Talantic Ocean to the east, and the Acivic Ocean to the west. The entire continent is approximately 10.8 million square miles in area, including all land and bodies of water.
+<p><em>KAITO THE HALFLING: I have heard a legend that in the Age of Might Makes Right, there was an Archon who ruled over a settlement with the most righteous laws of all.</em></p>
 
-The Yargyez Empire has divided the continent into eight provinces, each one the homeland of a distinct race:
+<p><em>ASEM THE WOOD ELF: That's a surprising legend, Kaito. You'll need to tell us about that.</em></p>
 
-*   **Eastgardia** is a temperate coastal region to the east, and the heart of the Yargyez Empire. It is the homeland of all Humans.
-*   **Helscar** is a land of icy highlands to the northeast. It is the homeland of the Dwarves.
-*   **Middlestone** has endless fertile plains at the very center of Conliah. It is the homeland of the Halflings.
-*   **Valorgale** is made of volcanically active barrens and boreal forests to the northwest. It is the homeland of the Dark Elves.
-*   **Westerwood** is made of dense, old growth forest to the west. It is the homeland of the Wood Elves.
-*   **Fair Island** is a massive island of arid mountains to the southwest. It is the homeland of the High Elves.
-*   **Wuthelark** is a land of deserts and jungles to the south. It is the homeland of the Catfolk.
-*   **Nightglade** is a marsh to the southeast. It is the homeland of the Lizardfolk.
+<p><em>-- The Thirty-Third Cloudruled Dialogue: The Warlords</em></p>
 
-Until very recently, denizens of Conliah believed they were the only continent in the world and no other lands were beyond the oceans. Recently this was proven incorrect by explorers from across the Talantic Ocean, who claim to be from a continent called Lodumpis.
+<div class="two-column-flow">
 
-### Cosmological Summary
+<center>
+<img title="The continent of Conliah" alt="The continent of Conliah" src="CONLIAH.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-![The continent of Nephelai](COSMOS.png "The cosmos of Nephelai")
+<h3>Geographic Summary</h3>
 
-There are three realms in the setting of Nephelai:
+<p>Conliah is the main continent on the world of Arbigard. It is bordered by two oceans: the Talantic Ocean to the east, and the Acivic Ocean to the west. The entire continent is approximately 10.8 million square miles in area, including all land and bodies of water.</p>
 
-*   **Ksylia** has moderation in the quality of soul material and quantity of elemental substance. Arbigard is a flat disc at the center of Ksylia, dividing it into upper and lower hemispheres. This flat disc of unknown size is the surface where mortals dwell. Above Arbigard is a hemisphere called The Skies (the air and the clouds), enclosed by a dome of water called The Firmament. Below Arbigard is a hemisphere called The Neaths (the earth below), enclosed by a dome of magma called The Hade. Ksylia is suspended in a larger cosmos between Asteria and Cthonia.
-*   **Asteria** is a realm composed of fine soul material, and very little elemental substance. It is the residence of the Agathoi (good gods) and where souls rest between transmigratory cycles. It is physically above Ksylia, separated from it by The Firmament.
-*   **Cthonia** is a realm composed of very degraded soul material, and huge amounts of elemental substance. It is the residence of the Archons (evil gods) and their minions. It is physically below Ksylia, separated from it by The Hade.
+<p>The Yargyez Empire has divided the continent into eight provinces, each one the homeland of a distinct race:</p>
 
-It is impossible for mortal beings to freely navigate the wide open realms of Asteria and Cthonia. They can only navigate to spherical subrealms which mortals can, under certain circumstances, phase into. Examples of such circumstances are:
+<ul>
+<li><strong>Eastgardia</strong> is a temperate coastal region to the east, and the heart of the Yargyez Empire. It is the homeland of all Humans.</li>
+<li><strong>Helscar</strong> is a land of icy highlands to the northeast. It is the homeland of the Dwarves.</li>
+<li><strong>Middlestone</strong> has endless fertile plains at the very center of Conliah. It is the homeland of the Halflings.</li>
+<li><strong>Valorgale</strong> is made of volcanically active barrens and boreal forests to the northwest. It is the homeland of the Dark Elves.</li>
+<li><strong>Westerwood</strong> is made of dense, old growth forest to the west. It is the homeland of the Wood Elves.</li>
+<li><strong>Fair Island</strong> is a massive island of arid mountains to the southwest. It is the homeland of the High Elves.</li>
+<li><strong>Wuthelark</strong> is a land of deserts and jungles to the south. It is the homeland of the Catfolk.</li>
+<li><strong>Nightglade</strong> is a marsh to the southeast. It is the homeland of the Lizardfolk.</li>
+</ul>
 
-*   Naturally, between transmigratory cycles.
-*   Perceptually, as a vision granted by the divine.
-*   Intentionally, through powerful magic.
+<p>Until very recently, denizens of Conliah believed they were the only continent in the world and no other lands were beyond the oceans. Recently this was proven incorrect by explorers from across the Talantic Ocean, who claim to be from a continent called Lodumpis.</p>
 
-The Agathoi forbid mortals from accessing the Asteric spheres, except during transmigration (between reincarnation between mortal lives). They are not all-powerful, however, so there are exceptions.
+<h3>Cosmological Summary</h3>
 
-In between transmigratory cycles, mortals occupy various Asteric spheres which correspond to their moral conduct in life:
+<center>
+<img title="The cosmos of Nephelai" alt="The continent of Nephelai" src="COSMOS.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-*   Neutral lives: their sphere is like a blank, still space for introspection.
-*   Virtuous lives: the soul is rewarded temporarily by beauty, harmony, and joy.
-*   Wicked lives: the soul is punished temporarily to atone for their actions.
+<p>There are three realms in the setting of Nephelai:</p>
 
-Some legendary individuals are said to have witnessed the Asteric spheres during life, but these are exceptional circumstances.
+<ul>
+<li><strong>Ksylia</strong> has moderation in the quality of soul material and quantity of elemental substance. Arbigard is a flat disc at the center of Ksylia, dividing it into upper and lower hemispheres. This flat disc of unknown size is the surface where mortals dwell. Above Arbigard is a hemisphere called The Skies (the air and the clouds), enclosed by a dome of water called The Firmament. Below Arbigard is a hemisphere called The Neaths (the earth below), enclosed by a dome of magma called The Hade. Ksylia is suspended in a larger cosmos between Asteria and Cthonia.</li>
+<li><strong>Asteria</strong> is a realm composed of fine soul material, and very little elemental substance. It is the residence of the Agathoi (good gods) and where souls rest between transmigratory cycles. It is physically above Ksylia, separated from it by The Firmament.</li>
+<li><strong>Cthonia</strong> is a realm composed of very degraded soul material, and huge amounts of elemental substance. It is the residence of the Archons (evil gods) and their minions. It is physically below Ksylia, separated from it by The Hade.</li>
+</ul>
 
-Phasing into Cthonic spheres is much more common. The Agathoi have a weaker hold here, so mortals can phase there through magical rituals much more easily. The exact nature of these spheres vary dramatically:
+<p>It is impossible for mortal beings to freely navigate the wide open realms of Asteria and Cthonia. They can only navigate to spherical subrealms which mortals can, under certain circumstances, phase into. Examples of such circumstances are:</p>
 
-*   Some are formless spheres of raw elements.
-*   Some are domains shaped by Archons reflecting their natures.
+<ul>
+<li>Naturally, between transmigratory cycles.</li>
+<li>Perceptually, as a vision granted by the divine.</li>
+<li>Intentionally, through powerful magic.</li>
+</ul>
 
-Archons are not content to reside in their spheres. The desire of all Archons is to breach the boundary with Ksylia and pull mortals into their domains with the ultimate goal of consuming the entire realm of Ksylia. Their capacity to do so is constrained, because Cthonic beings cannot permanently reside in Ksylia. However, temporary breaches activated by mortals can create indefinitely durable zones of Cthonic influence. By remaining within these zones, lesser Cthonic beings may reside in Ksylia for prolonged stays. They can even venture for a short time outside of these zones, and safely return to them. Thankfully, these breaches mainly occur in pre-Magellian ruins, from a time when Archon worship was common. However, those who intentionally delve into ancient ruins to banish these threats must exercise great caution against the hordes of Cthonians residing there.
+<p>The Agathoi forbid mortals from accessing the Asteric spheres, except during transmigration (between reincarnation between mortal lives). They are not all-powerful, however, so there are exceptions.</p>
 
-Ksylia does not naturally have spherical subrealms. However, the ancient Magellians knew how to warp space to create miniature spheres that mortals could phase into by the same magical means as Cthonic spheres. Within these spheres, the natural laws of Ksylia generally work as expected. The contents of Ksylic spheres varies depending on the intentions of its Magellian constructor. Portals to these Ksylic spheres were typically placed in lockets, mirrors, doors, and paintings. One specialized use of Ksylic spheres was to hold armies of Stoicheioi: unstable artificial beings of pure elements. The ancient Magellians had the ability to temporarily phase a Stoicheios out of its sphere for use as a temporary ally on the battlefield, and return the Stoicheios back to its sphere before its instability caused rampaging.
+<p>In between transmigratory cycles, mortals occupy various Asteric spheres which correspond to their moral conduct in life:</p>
 
-### Technology
+<ul>
+<li>Neutral lives: their sphere is like a blank, still space for introspection.</li>
+<li>Virtuous lives: the soul is rewarded temporarily by beauty, harmony, and joy.</li>
+<li>Wicked lives: the soul is punished temporarily to atone for their actions.</li>
+</ul>
 
-The technology level of Conliah is approximately 1100s medieval Europe. Military technology is still based on melee combat, longbows and crossbows, and basic siege weapons. There is very little innovation in magical technology.
+<p>Some legendary individuals are said to have witnessed the Asteric spheres during life, but these are exceptional circumstances.</p>
 
-The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. They also possess extensive clockwork machinery appropriate to that era.
+<p>Phasing into Cthonic spheres is much more common. The Agathoi have a weaker hold here, so mortals can phase there through magical rituals much more easily. The exact nature of these spheres vary dramatically:</p>
 
-The Magellian Empire was technologically advanced, being capable of magical bioengineering and construction of gigantic clockwork guardians. This technology is native to Conliah, but is now lost in ancient ruins.
+<ul>
+<li>Some are formless spheres of raw elements.</li>
+<li>Some are domains shaped by Archons reflecting their natures.</li>
+</ul>
 
-### Currency
+<p>Archons are not content to reside in their spheres. The desire of all Archons is to breach the boundary with Ksylia and pull mortals into their domains with the ultimate goal of consuming the entire realm of Ksylia. Their capacity to do so is constrained, because Cthonic beings cannot permanently reside in Ksylia. However, temporary breaches activated by mortals can create indefinitely durable zones of Cthonic influence. By remaining within these zones, lesser Cthonic beings may reside in Ksylia for prolonged stays. They can even venture for a short time outside of these zones, and safely return to them. Thankfully, these breaches mainly occur in pre-Magellian ruins, from a time when Archon worship was common. However, those who intentionally delve into ancient ruins to banish these threats must exercise great caution against the hordes of Cthonians residing there.</p>
 
-*   The base unit of currency is the Drachma (ud), which is a silver coin. Three Drachmas can buy one night's stay at an average inn.
-*   A Hemiobol (ho) is a copper coin, worth one-tenth of one Drachma. Two Hemiobols can buy one loaf of bread.
-*   A Dekadrachma (dd) is a gold coin, worth ten Drachmas. One Dekadrachma can buy one day of rations.
-*   A Hekatodrachma (hd) is a platinum coin, worth one-hundred Drachmas. One Hekatodrachma can buy an extravagant banquet for one person.
+<p>Ksylia does not naturally have spherical subrealms. However, the ancient Magellians knew how to warp space to create miniature spheres that mortals could phase into by the same magical means as Cthonic spheres. Within these spheres, the natural laws of Ksylia generally work as expected. The contents of Ksylic spheres varies depending on the intentions of its Magellian constructor. Portals to these Ksylic spheres were typically placed in lockets, mirrors, doors, and paintings. One specialized use of Ksylic spheres was to hold armies of Stoicheioi: unstable artificial beings of pure elements. The ancient Magellians had the ability to temporarily phase a Stoicheios out of its sphere for use as a temporary ally on the battlefield, and return the Stoicheios back to its sphere before its instability caused rampaging.</p>
 
-### Calendar
+<div class="break-page">
 
-The year is 366 days long, with 12 months of exactly 30 days each and concluding with 6 intercalary days. There are no leap years. There are four seasons in Conliah, and daylight changes between months. For each month, there is a birthsign associated with that month, and each of the last 6 intercalary days of the year have their own birthsign. The below sunrise and sunset times are not intended as exact, but are provided for convenience.
+<h3>Technology</h3>
+
+</div>
+
+<p>The technology level of Conliah is approximately 1100s medieval Europe. Military technology is still based on melee combat, longbows and crossbows, and basic siege weapons. There is very little innovation in magical technology.</p>
+
+<p>The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. They also possess extensive clockwork machinery appropriate to that era.</p>
+
+<p>The Magellian Empire was technologically advanced, being capable of magical bioengineering and construction of gigantic clockwork guardians. This technology is native to Conliah, but is now lost in ancient ruins.</p>
+
+<h3>Currency</h3>
+
+<ul>
+<li>The base unit of currency is the Drachma (ud), which is a silver coin. Three Drachmas can buy one night's stay at an average inn.</li>
+<li>A Hemiobol (ho) is a copper coin, worth one-tenth of one Drachma. Two Hemiobols can buy one loaf of bread.</li>
+<li>A Dekadrachma (dd) is a gold coin, worth ten Drachmas. One Dekadrachma can buy one day of rations.</li>
+<li>A Hekatodrachma (hd) is a platinum coin, worth one-hundred Drachmas. One Hekatodrachma can buy an extravagant banquet for one person.</li>
+</ul>
+
+</div>
+
+<h3>Calendar</h3>
+
+<p>The year is 366 days long, with 12 months of exactly 30 days each and concluding with 6 intercalary days. There are no leap years. There are four seasons in Conliah, and daylight changes between months. For each month, there is a birthsign associated with that month, and each of the last 6 intercalary days of the year have their own birthsign. The below sunrise and sunset times are not intended as exact, but are provided for convenience.</p>
+
+<center>
 
 <table>
   <thead>
@@ -151,11 +230,15 @@ The year is 366 days long, with 12 months of exactly 30 days each and concluding
   </tbody>
 </table>
 
-There are seven days in a week, starting with Onodes Day. The days of the week are Onodes, Twetes, Tritos, Fodras, Fefdes, Sigtes, and Seftos.
+</center>
 
-The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is a full moon, and it is Onodes Day.
+<p>There are seven days in a week, starting with Onodes Day. The days of the week are Onodes, Twetes, Tritos, Fodras, Fefdes, Sigtes, and Seftos.</p>
 
-### Languages
+<p>The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is a full moon, and it is Onodes Day.</p>
+
+<center>
+
+<h3>Languages</h3>
 
 <table>
   <thead>
@@ -224,261 +307,368 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   </tbody>
 </table>
 
-In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence.
+</center>
 
-History
--------
+<p>In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence.</p>
 
-_MEDIOCRATES: Do you agree with me, that resting and moving are direct opposites?_
+<div class="break-page"></div>
 
-_THEOMISUS: Certainly._
+<h2>History</h2>
 
-_MEDIOCRATES: Do you also agree with me that when a thing is resting or moving, the thing exists?_
+<p><em>MEDIOCRATES: Do you agree with me, that resting and moving are direct opposites?</em></p>
 
-_THEOMISUS: Yes, again._
+<p><em>THEOMISUS: Certainly.</em></p>
 
-_MEDIOCRATES: Then existence is a third quality which is different from that of resting or moving._
+<p><em>MEDIOCRATES: Do you also agree with me that when a thing is resting or moving, the thing exists?</em></p>
 
-_\-- The Forty-First Cloudruled Dialogue: The Theomisus_
+<p><em>THEOMISUS: Yes, again.</em></p>
 
-### Mythological history
+<p><em>MEDIOCRATES: Then existence is a third quality which is different from that of resting or moving.</em></p>
 
-![The Glory of Psara by Nikolaos Gyzis](The_Glory_of_Psara_Nikolaos_Gyzis.jpeg "The Glory of Psara by Nikolaos Gyzis")
+<p><em>-- The Forty-First Cloudruled Dialogue: The Theomisus</em></p>
 
-The below is an account given by the poet Romulus (a High Elf poet who adored the Yargyez Empire) in the year 25 YE. It is the official account of the Yargyez Empire, and the most complete account of mythic pre-history, but there are many contradicting myths in Conliah.
+<div class="two-column-flow">
 
-In the beginning, the universe existed in a state of chaos. The elements fire, water, air, earth, sunlight, and moonlight existed as unformed, chaotic motion diffusely scattered throughout the void of the universe.
+<h3>Mythological history</h3>
 
-Gora was a benevolent and intelligent being who could mold the elements and give them structure. Her desire was to bring order into the universe.
+<center>
+<img title="The Glory of Psara by Nikolaos Gyzis" alt="The Glory of Psara by Nikolaos Gyzis" src="The_Glory_of_Psara_Nikolaos_Gyzis.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-Her first and most important act was to fashion soul material. Soul material was a substance which animated all living things. This task was very difficult for Gora, and not all the soul material she created was of uniform quality. The finer the soul material, the more benevolent the living thing was. Lower qualities of soul material resulted in less benevolent living things. However, she decided to use both higher and lower qualities of soul material in creation, because she still judged that existence is better than non-existence.
+<p>The below is an account given by the poet Romulus (a High Elf poet who adored the Yargyez Empire) in the year 25 YE. It is the official account of the Yargyez Empire, and the most complete account of mythic pre-history, but there are many contradicting myths in Conliah.</p>
 
-Her second act was to divide the cosmos into three realms: Asteria, Cthonia, and Ksylia. The purpose of Asteria was to house the finest soul material, the purpose of Cthonia was to house the elements, and Ksylia would bind soul material with elements into structured matter. Ksylia was divided into The Skies, The Neaths, and Arbigard between them. The Firmament was created to separate Ksylia from Asteria, and The Hade was created to separate Ksylia from Cthonia.
+<p>In the beginning, the universe existed in a state of chaos. The elements fire, water, air, earth, sunlight, and moonlight existed as unformed, chaotic motion diffusely scattered throughout the void of the universe.</p>
 
-Her third and last act was to create the souls of Agathoi out of first-rate soul material. These were benevolent and intelligent beings, who listened to Gora's will. Each Agathos was assigned responsibility for a fundamental principle of the cosmos. The souls of the Agathoi resided in Asteria, yet their influence extended into Ksylia. Gora explained her plan to the Agathoi, delegated all further tasks to them, and ceased to develop the cosmos further herself.
+<p>Gora was a benevolent and intelligent being who could mold the elements and give them structure. Her desire was to bring order into the universe.</p>
 
-The first act of the Agathoi used second-rate soul material to create the souls of mortals. Because their souls were inferior to the Agathoi, they could not permanently reside in Asteria. These beings were capable of reason and virtue, but also error and corruption.
+<p>Her first and most important act was to fashion soul material. Soul material was a substance which animated all living things. This task was very difficult for Gora, and not all the soul material she created was of uniform quality. The finer the soul material, the more benevolent the living thing was. Lower qualities of soul material resulted in less benevolent living things. However, she decided to use both higher and lower qualities of soul material in creation, because she still judged that existence is better than non-existence.</p>
 
-The second act of the Agathoi was to craft mortal bodies out of the six elements in order to sustain mortals in Ksylia.
+<p>Her second act was to divide the cosmos into three realms: Asteria, Cthonia, and Ksylia. The purpose of Asteria was to house the finest soul material, the purpose of Cthonia was to house the elements, and Ksylia would bind soul material with elements into structured matter. Ksylia was divided into The Skies, The Neaths, and Arbigard between them. The Firmament was created to separate Ksylia from Asteria, and The Hade was created to separate Ksylia from Cthonia.</p>
 
-The third act of the Agathoi was to establish a system of transmigration to purify mortal souls and eventually reunite them with Asteria. Mortal souls continued through the cycle of life and death over multiple lifetimes according to the morality of their actions during life. The Agathoi did this because Gora did not desire for these mortals to permanently exist in Ksylia. However, the soul adjusted its memory and perception to the realm it occupied. Prolonged exposure to the brilliance of Asteria caused the soul to adjust, and eventually lose its memories of mortal life. Again, when they returned to Ksylia, the soul adjusted to its darkness, and forgot its experience of Asteria. Therefore, mortals did not retain memories across their lives.
+<p>Her third and last act was to create the souls of Agathoi out of first-rate soul material. These were benevolent and intelligent beings, who listened to Gora's will. Each Agathos was assigned responsibility for a fundamental principle of the cosmos. The souls of the Agathoi resided in Asteria, yet their influence extended into Ksylia. Gora explained her plan to the Agathoi, delegated all further tasks to them, and ceased to develop the cosmos further herself.</p>
 
-The fourth and last act of the Agathoi was to create all other animals using third-rate soul material. These creatures populated Ksylia with simpler beings which would help mortals to sustain themselves.
+<p>The first act of the Agathoi used second-rate soul material to create the souls of mortals. Because their souls were inferior to the Agathoi, they could not permanently reside in Asteria. These beings were capable of reason and virtue, but also error and corruption.</p>
 
-During the infusion of the elements with soul material, there were highly degraded fragments of soul material which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive and intelligent but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons.
+<p>The second act of the Agathoi was to craft mortal bodies out of the six elements in order to sustain mortals in Ksylia.</p>
 
-The soul material of Cthonians was so degraded that they could not permanently reside in Ksylia, much as mortals could not permanently reside in Asteria.
+<p>The third act of the Agathoi was to establish a system of transmigration to purify mortal souls and eventually reunite them with Asteria. Mortal souls continued through the cycle of life and death over multiple lifetimes according to the morality of their actions during life. The Agathoi did this because Gora did not desire for these mortals to permanently exist in Ksylia. However, the soul adjusted its memory and perception to the realm it occupied. Prolonged exposure to the brilliance of Asteria caused the soul to adjust, and eventually lose its memories of mortal life. Again, when they returned to Ksylia, the soul adjusted to its darkness, and forgot its experience of Asteria. Therefore, mortals did not retain memories across their lives.</p>
 
-Mortals perceived the might of these Archons, and fearing them, began to worship them as gods. They sacrificed to them, formed cults, and raised temples to them. As a result there remained a cosmic struggle between these two sets of powerful beings: the Agathoi who were made with first-rate soul material who reside in Asteria, and the Archons who were formed with highly degraded fragments of soul material who reside in Cthonia.
+<p>The fourth and last act of the Agathoi was to create all other animals using third-rate soul material. These creatures populated Ksylia with simpler beings which would help mortals to sustain themselves.</p>
 
-After creation was finished, the Agathoi withdrew from Ksylia. Over time, distinct races emerged across Arbigard with their own cultures and identities. Civilizations rose and fell over the ages, with worship of the Agathoi and the Archons shifting back and forth.
+<p>During the infusion of the elements with soul material, there were highly degraded fragments of soul material which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive and intelligent but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons.</p>
 
-### Written History
+<p>The soul material of Cthonians was so degraded that they could not permanently reside in Ksylia, much as mortals could not permanently reside in Asteria.</p>
 
-![Serpentara Landscape with the Procession of the Magi Joseph Anton Koch](Serpentara_Landscape_with_the_Procession_of_the_Magi_Joseph_Anton_Koch.jpeg "Serpentara Landscape with the Procession of the Magi Joseph Anton Koch")
+<p>Mortals perceived the might of these Archons, and fearing them, began to worship them as gods. They sacrificed to them, formed cults, and raised temples to them. As a result there remained a cosmic struggle between these two sets of powerful beings: the Agathoi who were made with first-rate soul material who reside in Asteria, and the Archons who were formed with highly degraded fragments of soul material who reside in Cthonia.</p>
 
-#### c. 3000 BYE - 1567 BYE
+<p>After creation was finished, the Agathoi withdrew from Ksylia. Over time, distinct races emerged across Arbigard with their own cultures and identities. Civilizations rose and fell over the ages, with worship of the Agathoi and the Archons shifting back and forth.</p>
 
-Before any continent-spanning empires, Conliah was politically decentralized. This era is often referred to as the "Age of Might Makes Right". The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - populated the continent in city-states, small kingdoms, and tribes. Borders were constantly shifting, and warfare was a common means of resolving disputes. The Archons were openly worshipped across Conliah. Their cults promised strength to their followers in exchange for submission. The Agathoi were unknown to most of Conliah, and were only a small cult within the Wood Elves in the Kara Ates mountains. Every province was divided into many cultures and political formations. Nonetheless, the kernel of higher political formations were present, and every province was yearning for the rule of law. This paved the way for the fast rise of the Magellian Empire.
+<h3>Written History</h3>
 
-Worship of the Agathoi spread across Westerwood, which had a long history of war, conquest, and economic exchange with Fair Island. As a result, the High Elven empires of Fair Island gradually adopted Agathos worship themselves.
+<center>
+<img title="Serpentara Landscape with the Procession of the Magi Joseph Anton Koch" alt="Serpentara Landscape with the Procession of the Magi Joseph Anton Koch" src="Serpentara_Landscape_with_the_Procession_of_the_Magi_Joseph_Anton_Koch.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-#### 1566 BYE - 566 BYE
+<h4>c. 3000 BYE - 1567 BYE</h4>
 
-A great kingdom consolidated power across Fair Island, and declared itself the Magellian Empire. It rapidly conquered the continent of Conliah with advanced technology powered by unprecedented arcane science. They banned Archon worship and instituted Agathos worship, which was unknown outside of Westerwood and Fair Island at that time. The provinces were united for the first time, and the High Elves imposed their worldview on the other races. This worldview included an emphasis on rationality, control, and introspection. They constructed centers of arcane scientific research across the continent.
+<p>Before any continent-spanning empires, Conliah was politically decentralized. This era is often referred to as the "Age of Might Makes Right". The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - populated the continent in city-states, small kingdoms, and tribes. Borders were constantly shifting, and warfare was a common means of resolving disputes. The Archons were openly worshipped across Conliah. Their cults promised strength to their followers in exchange for submission. The Agathoi were unknown to most of Conliah, and were only a small cult within the Wood Elves in the Kara Ates mountains. Every province was divided into many cultures and political formations. Nonetheless, the kernel of higher political formations were present, and every province was yearning for the rule of law. This paved the way for the fast rise of the Magellian Empire.</p>
 
-After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Archonic threat. They established centers of learning called Phrontisterions, which were enormous floating buildings. At these Phrontisterions they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.
+<p>Worship of the Agathoi spread across Westerwood, which had a long history of war, conquest, and economic exchange with Fair Island. As a result, the High Elven empires of Fair Island gradually adopted Agathos worship themselves.</p>
 
-In an event later called "The Great Nothing", group of youth educated by the Cloudruled plotted an assassination against the Emperor and his heirs. The result was a succession crisis that could, theoretically, be resolved legally through an election at lower levels of government. However, the assassins made arguments that there could be no rightful successor that were so strong that government was gridlocked. What resulted was a continuation of the imperial bureaucracy that no longer had an emperor. Within a few years, the empire dissolved into rival states ruled by provincial governments. Over time, the magical technology spread by the Magellians was lost and the only remnants are magical, mechanical, and monstrous mysteries of their past. The magical knowledge behind the floating Phrontisterions was lost, and they collapsed into the ground.
+<h4>1566 BYE - 566 BYE</h4>
 
-#### 565 BYE - 1 BYE
+<p>A great kingdom consolidated power across Fair Island, and declared itself the Magellian Empire. It rapidly conquered the continent of Conliah with advanced technology powered by unprecedented arcane science. They banned Archon worship and instituted Agathos worship, which was unknown outside of Westerwood and Fair Island at that time. The provinces were united for the first time, and the High Elves imposed their worldview on the other races. This worldview included an emphasis on rationality, control, and introspection. They constructed centers of arcane scientific research across the continent.</p>
 
-After the Magellian Empire collapsed, there was a long dark age. Various successor states claimed legitimacy, but none were able to consolidate power over the whole continent. Agathos worship remained the dominant religion, but each state interpreted the myths differently and combined them with local traditions. Archon worship was taboo, but it gradually gained a minority of practitioners. The teachings of the Cloudruled, in the form of written dialogues, were lost. This period lasted until humans from Eastgardia conquered Conliah and established a second empire.
+<p>After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Archonic threat. They established centers of learning called Phrontisterions, which were enormous floating buildings. At these Phrontisterions they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.</p>
 
-During this period, many Magellian structures fell into ruin, or were repurposed by the locals of each province. As Agathos worship became blended with syncretic practices, new temples were constructed and old ones were modified. Practices of ancestor veneration became common again, and the rituals involved tended to interfere with transmigration. As a result, ghosts were bound to their resting places. Lastly, the many small kingdoms that arose were constantly at war with each other. Great fortresses were constructed to defend the land, and to prepare attacks on others.
+<p>In an event later called "The Great Nothing", group of youth educated by the Cloudruled plotted an assassination against the Emperor and his heirs. The result was a succession crisis that could, theoretically, be resolved legally through an election at lower levels of government. However, the assassins made arguments that there could be no rightful successor that were so strong that government was gridlocked. What resulted was a continuation of the imperial bureaucracy that no longer had an emperor. Within a few years, the empire dissolved into rival states ruled by provincial governments. Over time, the magical technology spread by the Magellians was lost and the only remnants are magical, mechanical, and monstrous mysteries of their past. The magical knowledge behind the floating Phrontisterions was lost, and they collapsed into the ground.</p>
 
-#### 1 YE - 189 YE (present)
+<h4>565 BYE - 1 BYE</h4>
 
-Humans conquered Conliah, uniting it once again. 1 YE marks the consolidation of power of the Yargyez Empire. It conceived itself as the successor of the Magellian Empire. The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - were brought under one government, each having partial autonomy in its own province. Agathos worship was standardized under the Imperial Cult, displacing local rites, and Archon worship was banned again.
+<p>After the Magellian Empire collapsed, there was a long dark age. Various successor states claimed legitimacy, but none were able to consolidate power over the whole continent. Agathos worship remained the dominant religion, but each state interpreted the myths differently and combined them with local traditions. Archon worship was taboo, but it gradually gained a minority of practitioners. The teachings of the Cloudruled, in the form of written dialogues, were lost. This period lasted until humans from Eastgardia conquered Conliah and established a second empire.</p>
 
-Now, in the past twenty years, the below events happened:
+<p>During this period, many Magellian structures fell into ruin, or were repurposed by the locals of each province. As Agathos worship became blended with syncretic practices, new temples were constructed and old ones were modified. Practices of ancestor veneration became common again, and the rituals involved tended to interfere with transmigration. As a result, ghosts were bound to their resting places. Lastly, the many small kingdoms that arose were constantly at war with each other. Great fortresses were constructed to defend the land, and to prepare attacks on others.</p>
 
-*   170 YE: Contact was made with peoples from a continent in the east named Lodumpis. They called themselves the Uzvu Confederation, a coalition between Orc warlords, Goblin traders and craftsmen, and Ogre manual laborers and soldiers. They have brought with them arcane technology superior to the Yargyez but inferior to the Magellians, and claim to be on a divine civilization mission to bring the continent under the ruler of the Uzvu Confederation.
-*   172 YE: A group of high ranking Human officials launched a failed coup against the emperor in Inton. It was later uncovered that they were Brannenlads, cultists of Lundazing.
-*   175 YE: In Nightglade, a faction of Lizardfolk launched a rebellion against the Empire. They were suppressed with force, undermining the legitimacy of the Empire.
-*   178 YE: In western Helscar, a coalition of Chieftains have agreed to revive forbidden forms of ancestor worship that interfere with transmigration, which the Imperial Cult considers a heresy.
-*   178 YE: Philosophical lodges across the continent have joined forces for mutual protection, calling themselves the Philosophers Guild. While not promoting outright Archon worship, their questioning opens the door to heresy.
-*   180 YE: The Osti Tribe has openly revived worship of Dreze, the Archon of Endurance, against the will of their fellow Ashfallen Tribes and the Empire.
-*   188 YE: In complete secrecy, a faction operating across Valorgale, Westerwood, and Fair Island is conspiring to overthrow the Yargyez Emperor and install an Elven-ruled empire.
-*   188 YE: A secret referendum was held by the Artisans Guild that, if Uzvu victory in Conliah appears immanent, then the Artisans Guild will begin trading with the Uzvu.
+<h4>1 YE - 189 YE (present)</h4>
 
-![Landschaft nach einem Gewitter by Joseph Anton Koch](Landschaft_nach_einem_Gewitter_Joseph_Anton_Koch.jpeg "Landschaft nach einem Gewitter by Joseph Anton Koch")
+<p>Humans conquered Conliah, uniting it once again. 1 YE marks the consolidation of power of the Yargyez Empire. It conceived itself as the successor of the Magellian Empire. The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - were brought under one government, each having partial autonomy in its own province. Agathos worship was standardized under the Imperial Cult, displacing local rites, and Archon worship was banned again.</p>
 
-Races
------
+<p>Now, in the past twenty years, the below events happened:</p>
 
-_KAITO THE HALFLING: Tell me, friends, were the laws written by an Agathos or by a mortal?_
+<ul>
+<li>170 YE: Contact was made with peoples from a continent in the east named Lodumpis. They called themselves the Uzvu Confederation, a coalition between Orc warlords, Goblin traders and craftsmen, and Ogre manual laborers and soldiers. They have brought with them arcane technology superior to the Yargyez but inferior to the Magellians, and claim to be on a divine civilization mission to bring the continent under the ruler of the Uzvu Confederation.</li>
+<li>172 YE: A group of high ranking Human officials launched a failed coup against the emperor in Inton. It was later uncovered that they were Brannenlads, cultists of Lundazing.</li>
+<li>175 YE: In Nightglade, a faction of Lizardfolk launched a rebellion against the Empire. They were suppressed with force, undermining the legitimacy of the Empire.</li>
+<li>178 YE: In western Helscar, a coalition of Chieftains have agreed to revive forbidden forms of ancestor worship that interfere with transmigration, which the Imperial Cult considers a heresy.</li>
+<li>178 YE: Philosophical lodges across the continent have joined forces for mutual protection, calling themselves the Philosophers Guild. While not promoting outright Archon worship, their questioning opens the door to heresy.</li>
+<li>180 YE: The Osti Tribe has openly revived worship of Dreze, the Archon of Endurance, against the will of their fellow Ashfallen Tribes and the Empire.</li>
+<li>188 YE: In complete secrecy, a faction operating across Valorgale, Westerwood, and Fair Island is conspiring to overthrow the Yargyez Emperor and install an Elven-ruled empire.</li>
+<li>188 YE: A secret referendum was held by the Artisans Guild that, if Uzvu victory in Conliah appears immanent, then the Artisans Guild will begin trading with the Uzvu.</li>
+</ul>
 
-_ASEM THE WOOD ELF: An Agathos, Kaito, but I do not know which one. Among us Wood Elves we say Iazus made the laws, but High Elves like Sitarophilus say Burrue did it. Is that right, Sitarophilus?_
+</div>
 
-_SITAROPHILUS THE HIGH ELF: You are right we do, Asem, but I also do not really know._
+<p><center>
+<img title="Landschaft nach einem Gewitter by Joseph Anton Koch" alt="Landschaft nach einem Gewitter by Joseph Anton Koch" src="Landschaft_nach_einem_Gewitter_Joseph_Anton_Koch.jpeg" style="max-width: 300px; max-height: 300px;">
+</center></p>
 
-_\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
+<div class="break-page">
 
-### Humans
-
-![Human portrait](HUMAN.png "Human portrait")
-
-*   **Physical Description:** Humans are highly varied in their physical appearance.
-*   **Homeland:** They hail from the temperate coast of Eastgardia, which has a variety of mountains, hills, forests, and wetlands.
-*   **Culture:** Human society is defined by pragmatism, diplomacy, and political aptitude.
-*   **Disposition:** As the ruling race of the Yargyez Empire, Humans seek to maintain its continuity in Conliah, restore its former glory, and broker agreement between the other provinces.
-*   **Language:** Humans speak Common, the official language of the Yargyez Empire.
-*   **Names:**
-    *   **Male:** Lale, Kite, Rothik, Barap, Satip, Guthin
-    *   **Female:** Giha, Basitra, Resha, Kata, Sapitha, Valeta
-
-### Dwarves
-
-![Dwarf portrait](DWARF.png "Dwarf portrait")
-
-*   **Physical Description:** Dwarves are stout, standing at about 4 feet tall. They are generally broad and strong.
-*   **Homeland:** Their homeland is the icy mountain province of Helscar.
-*   **Culture:** Dwarven society emphasizes stoicism, artisanry, military reverence.
-*   **Disposition:** The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.
-*   **Language:** Dwarves speak Dwarvish and Common.
-*   **Names:**
-    *   **Male:** Yurz, Frang, Wolfhan, Horik, Yarel, Karik
-    *   **Female:** Heigrid, Inya, Sonti, Elya, Godhi, Bagrid
-
-### Halflings
+<h2>Races</h2>
 
-![Halfling portrait](HALFLING.png "Halfling portrait")
+</div>
 
-*   **Physical Description:** Halflings are small, standing between 3 and 4 feet tall. They are skinnier and frailer than Dwarves.
-*   **Homeland:** They hail from Middlestone, which consists of three regions: rolling hills and valleys to the north, a massive fertile prarie in the center, and forested hills to the south.
-*   **Culture:** Halfling society values chivalry, formal etiquette, humility, and piety.
-*   **Disposition:** As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.
-*   **Language:** Halflings speak Halfling and Common.
-*   **Names:**
-    *   **Male:** Ashiko, Yokashi, Takira, Kiriko, Shishito, Katako
-    *   **Female:** Fuho, Miho, Shiko, Niko, Kiko, Tato
+<p><em>KAITO THE HALFLING: Tell me, friends, were the laws written by an Agathos or by a mortal?</em></p>
 
-### Dark Elves
+<p><em>ASEM THE WOOD ELF: An Agathos, Kaito, but I do not know which one. Among us Wood Elves we say Iazus made the laws, but High Elves like Sitarophilus say Burrue did it. Is that right, Sitarophilus?</em></p>
 
-![Dark Elf portrait](DARKELF.png "Dark Elf portrait")
+<p><em>SITAROPHILUS THE HIGH ELF: You are right we do, Asem, but I also do not really know.</em></p>
 
-*   **Physical Description:** Dark Elves are of average height, slender, with dark gray to bluish purple skin.
-*   **Homeland:** Their homeland is the volcanic taiga province of Valorgale.
-*   **Culture:** Dark Elven culture is steeped in secrecy and clan loyalty.
-*   **Disposition:** Perspectives on the Yargyez Empire vary widely across clans: some are loyal to the Yargyez, and others are outright Archon worshipping revivalists.
-*   **Language:** Dark Elves speak Dark Elvish and Common.
-*   **Names:**
-    *   **Male:** Azong, Taiguda, Tiyun, Gozing, Yongtin, Gaiti
-    *   **Female:** Bumjer, Erbutai, Jerdeni, Umbani, Erjer, Jerutai
+<p><em>-- The Thirty-Third Cloudruled Dialogue: The Warlords</em></p>
 
-### Wood Elves
+<div class="two-column-flow">
 
-![Wood Elf portrait](WOODELF.png "Wood Elf portrait")
+<div class="break-column"><h3>Humans</h3></div>
 
-*   **Physical Description:** Wood Elves are short and slender, with olive-toned to brown skin.
-*   **Homeland:** They hail from the mountainous forests of Westerwood.
-*   **Culture:** Wood Elven culture values ecological spirituality, resourcefulness, and a strong hunting tradition.
-*   **Disposition:** Having historically suffered under High Elf domination, Wood Elves see the Empire as a stabilizing buffer preserving their autonomy. However, there are secret factions in Westerwood who side with High Elven revivalists.
-*   **Language:** Wood Elves speak Wood Elvish and Common.
-*   **Names:**
-    *   **Male:** Takhildin, Turlandel, Akhsunal, Lursukhil, Tamirnal, Mirlakhil
-    *   **Female:** Nazhan, Ainura, Dilima, Gizhan, Zhanura, Linira
+<center>
+<img title="Human portrait" alt="Human portrait" src="HUMAN.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-### High Elves
+<ul>
+<li><strong>Physical Description:</strong> Humans are highly varied in their physical appearance.</li>
+<li><strong>Homeland:</strong> They hail from the temperate coast of Eastgardia, which has a variety of mountains, hills, forests, and wetlands.</li>
+<li><strong>Culture:</strong> Human society is defined by pragmatism, diplomacy, and political aptitude.</li>
+<li><strong>Disposition:</strong> As the ruling race of the Yargyez Empire, Humans seek to maintain its continuity in Conliah, restore its former glory, and broker agreement between the other provinces.</li>
+<li><strong>Language:</strong> Humans speak Common, the official language of the Yargyez Empire.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Lale, Kite, Rothik, Barap, Satip, Guthin</li>
+<li><strong>Female:</strong> Giha, Basitra, Resha, Kata, Sapitha, Valeta</li>
+</ul></li>
+</ul>
 
-![High Elf portrait](HIGHELF.png "High Elf portrait")
 
-*   **Physical Description:** High Elves are tall and slender, with radiant golden skin.
-*   **Homeland:** They hail from the arid mountains of Fair Island.
-*   **Culture:** High Elven society upholds religious dogma, the arcane arts, and a hierarchy based on lineage.
-*   **Disposition:** High Elves are nostalgic for the Magellian Empire, which prioritized High Elf superiority. Many High Elves view the Yargyez Empire as having strayed from the original form of Agathos worship practiced in the Magellian Empire.
-*   **Language:** High Elves speak High Elvish and Common.
-*   **Names:**
-    *   **Male:** Achos, Taleas, Diacrates, Lenysis, Goreas, Homias
-    *   **Female:** Astera, Zedara, Ozia, Elaria, Dorela, Soria
+
+<div class="break-column"><h3>Dwarves</h3></div>
 
-### Catfolk
+<center>
+<img title="Dwarf portrait" alt="Dwarf portrait" src="DWARF.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-![Catfolk portrait](CATFOLK.png "Catfolk portrait")
+<ul>
+<li><strong>Physical Description:</strong> Dwarves are stout, standing at about 4 feet tall. They are generally broad and strong.</li>
+<li><strong>Homeland:</strong> Their homeland is the icy mountain province of Helscar.</li>
+<li><strong>Culture:</strong> Dwarven society emphasizes stoicism, artisanry, military reverence.</li>
+<li><strong>Disposition:</strong> The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.</li>
+<li><strong>Language:</strong> Dwarves speak Dwarvish and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Yurz, Frang, Wolfhan, Horik, Yarel, Karik</li>
+<li><strong>Female:</strong> Heigrid, Inya, Sonti, Elya, Godhi, Bagrid</li>
+</ul></li>
+</ul>
 
-*   **Physical Description:** Catfolk are feline humanoids with sandy brown fur, upright ears, sharp claws, and long tails.
-*   **Homeland:** They hail from Wuthelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.
-*   **Culture:** Catfolk culture centers celestial spirituality, clan loyalty, and libertinism.
-*   **Disposition:** Perspectives on the Yargyez Empire are split geographically between jungle and desert Catfolk. The northern nomads resist the Yargyez Empire's encroachment due to its unwillingness to recognize nomadic land rights.
-*   **Language:** Catfolk speak Catfolk and Common.
-*   **Names:**
-    *   **Male:** Golni, Pundi, Dadiya, Tunnad, Samuha, Dvariya
-    *   **Female:** Bangu, Binan, Enduk, Konis, Kalis, Untam
+<div class="break-page"><h3>Halflings</h3></div>
+
+<center>
+<img title="Halfling portrait" alt="Halfling portrait" src="HALFLING.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-### Lizardfolk
+<ul>
+<li><strong>Physical Description:</strong> Halflings are small, standing between 3 and 4 feet tall. They are skinnier and frailer than Dwarves.</li>
+<li><strong>Homeland:</strong> They hail from Middlestone, which consists of three regions: rolling hills and valleys to the north, a massive fertile prarie in the center, and forested hills to the south.</li>
+<li><strong>Culture:</strong> Halfling society values chivalry, formal etiquette, humility, and piety.</li>
+<li><strong>Disposition:</strong> As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.</li>
+<li><strong>Language:</strong> Halflings speak Halfling and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Ashiko, Yokashi, Takira, Kiriko, Shishito, Katako</li>
+<li><strong>Female:</strong> Fuho, Miho, Shiko, Niko, Kiko, Tato</li>
+</ul></li>
+</ul>
 
-![Lizardfolk portrait](LIZARDFOLK.png "Lizardfolk portrait")
 
-*   **Physical Description:** Lizardfolk are reptilian humanoids with red or greenish brown scales and sharp claws.
-*   **Homeland:** They hail from the marsh province of Nightglade.
-*   **Culture:** Lizardfolk culture emphasizes ecological spirituality, ancestor veneration, and clan loyalty.
-*   **Disposition:** Lizardfolk are, on the whole, enemies of the Yargyez Empire. The Lizardfolk rulers who agreed to peacefully cede their lands to the Yargyez Empire in exchange for continuous rule are viewed as traitors to their own race. Factions of Lizardfolk across Nightglade actively resist Yargyez presence in the province. Many rebels have taken to underground caves across Nightglade and Eastgardia to stage attacks on Imperial outposts.
-*   **Language:** Lizardfolk speak Lizardfolk and Common.
-*   **Names:**
-    *   **Male:** Yengtan, Hobuing, Dongok, Toavan, Kuyet, Sontan
-    *   **Female:** Bithui, Nuwan, Natlan, Thiho, Tangko, Trinku
+
+<div class="break-column"><h3>Dark Elves</h3></div>
+
+<center>
+<img title="Dark Elf portrait" alt="Dark Elf portrait" src="DARKELF.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-### Orcs
+<ul>
+<li><strong>Physical Description:</strong> Dark Elves are of average height, slender, with dark gray to bluish purple skin.</li>
+<li><strong>Homeland:</strong> Their homeland is the volcanic taiga province of Valorgale.</li>
+<li><strong>Culture:</strong> Dark Elven culture is steeped in secrecy and clan loyalty.</li>
+<li><strong>Disposition:</strong> Perspectives on the Yargyez Empire vary widely across clans: some are loyal to the Yargyez, and others are outright Archon worshipping revivalists.</li>
+<li><strong>Language:</strong> Dark Elves speak Dark Elvish and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Azong, Taiguda, Tiyun, Gozing, Yongtin, Gaiti</li>
+<li><strong>Female:</strong> Bumjer, Erbutai, Jerdeni, Umbani, Erjer, Jerutai</li>
+</ul></li>
+</ul>
 
-![Orc portrait](ORC.png "Orc portrait")
 
-*   **Physical Description:** Orcs are tall and strong. Their faces are somewhat warthog-like, with straight medium-length tusks, elongated snouts and small lower jaws, pronounced cheekbones, and short pointy ears. Their skin is primarily green with a tinge of gray, and their fur covers their entire body with a mix of black and brown hues.
-*   **Homeland:** The Orcs are one of the Lodumpan races.
-*   **Culture:** Orcish culture upholds religious dogma, hereditary hierarchy, and reverence for military service.
-*   **Disposition:** They see the Yargyez Empire as decadent and corrupt, and view the incursion of the Uzvu as a divinely sanctioned civilizing mission.
-*   **Language:** Orcs speak Orcish.
 
-### Goblins
+<div class="break-page"><h3>Wood Elves</h3></div>
 
-![Goblin portrait](GOBLIN.png "Goblin portrait")
+<center>
+<img title="Wood Elf portrait" alt="Wood Elf portrait" src="WOODELF.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-*   **Physical Description:** Goblins are small humanoids. Their faces are somewhat babirusa-like, with long curved tusks long pointy ears, medium-length snouts and medium-size lower jaws. They are mostly hairless, with a skin tone halfway between green and gray.
-*   **Homeland:** The Goblins are one of the Lodumpan races.
-*   **Culture:** Goblin culture values commerce, technological inventiveness, and pragmatism.
-*   **Disposition:** Goblins view the Yargyez Empire as a repository of riches, ripe for extraction and development.
-*   **Language:** Goblins speak Goblin and Orcish.
+<ul>
+<li><strong>Physical Description:</strong> Wood Elves are short and slender, with olive-toned to brown skin.</li>
+<li><strong>Homeland:</strong> They hail from the mountainous forests of Westerwood.</li>
+<li><strong>Culture:</strong> Wood Elven culture values ecological spirituality, resourcefulness, and a strong hunting tradition.</li>
+<li><strong>Disposition:</strong> Having historically suffered under High Elf domination, Wood Elves see the Empire as a stabilizing buffer preserving their autonomy. However, there are secret factions in Westerwood who side with High Elven revivalists.</li>
+<li><strong>Language:</strong> Wood Elves speak Wood Elvish and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Takhildin, Turlandel, Akhsunal, Lursukhil, Tamirnal, Mirlakhil</li>
+<li><strong>Female:</strong> Nazhan, Ainura, Dilima, Gizhan, Zhanura, Linira</li>
+</ul></li>
+</ul>
 
-### Ogres
 
-![Ogre portrait](OGRE.png "Ogre portrait")
 
-*   **Physical Description:** Ogres are large and broad humanoids. Their faces are somewhat boar-like, with flat snouts, heavy jowls, small tusks, and large lower jaws. Their skin is primarily gray with a tinge of green, and their fur covers their entire body with hues of beige and gray.
-*   **Homeland:** The Ogres are one of the Lodumpan races.
-*   **Culture:** Ogre culture highlights disciplined work ethic, economic individualism, and a desire for recognition.
-*   **Disposition:** They view the Yargyez Empire as an opportunity to raise their social status by acquiring underdeveloped tracts of land in exchange for serving as settler soldiers of the frontier.
-*   **Language:** Ogres speak Ogre and Orcish.
+<div class="break-column"><h3>High Elves</h3></div>
 
-### Multiple Race Heritage
+<center>
+<img title="High Elf portrait" alt="High Elf portrait" src="HIGHELF.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-Although their exact origins are unknown, most races of Conliah share a common lineage which allows full interbreeding between them. This is true for Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. Catfolk and Lizardfolk are exceptions, as biologically distinct species. The possibility of offspring between the races of Conliah and the races of the Uzvu Confederation are unknown at this point. Sentient beings of Cthonic origin are also incapable of producing offspring with mundane sentient beings.
+<ul>
+<li><strong>Physical Description:</strong> High Elves are tall and slender, with radiant golden skin.</li>
+<li><strong>Homeland:</strong> They hail from the arid mountains of Fair Island.</li>
+<li><strong>Culture:</strong> High Elven society upholds religious dogma, the arcane arts, and a hierarchy based on lineage.</li>
+<li><strong>Disposition:</strong> High Elves are nostalgic for the Magellian Empire, which prioritized High Elf superiority. Many High Elves view the Yargyez Empire as having strayed from the original form of Agathos worship practiced in the Magellian Empire.</li>
+<li><strong>Language:</strong> High Elves speak High Elvish and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Achos, Taleas, Diacrates, Lenysis, Goreas, Homias</li>
+<li><strong>Female:</strong> Astera, Zedara, Ozia, Elaria, Dorela, Soria</li>
+</ul></li>
+</ul>
 
-Religion
---------
 
-_MEDIOCRATES: What makes a person holy?_
 
-_DYSTHYPHRO: To be holy is to root out and destroy unholiness: whatever is Cthonic, corrupt, and wicked. The people who dedicate their being to fight against it are called holy. Likewise, failing to root out and destroy unholiness is also unholiness. That definition seems sound, to me._
+<div class="break-page"><h3>Catfolk</h3></div>
 
-_\-- The Fifth Cloudruled Dialogue: The Dysthyphro_
+<center>
+<img title="Catfolk portrait" alt="Catfolk portrait" src="CATFOLK.png" style="max-width: 300px; max-height: 300px;">
+</center>
 
-![The Monastery of Arkadios by Theodoros Vryzakis](The_Monastery_of_Arkadios_Theodoros_Vryzakis.jpeg "The Monastery of Arkadios by Theodoros Vryzakis")
+<ul>
+<li><strong>Physical Description:</strong> Catfolk are feline humanoids with sandy brown fur, upright ears, sharp claws, and long tails.</li>
+<li><strong>Homeland:</strong> They hail from Wuthelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.</li>
+<li><strong>Culture:</strong> Catfolk culture centers celestial spirituality, clan loyalty, and libertinism.</li>
+<li><strong>Disposition:</strong> Perspectives on the Yargyez Empire are split geographically between jungle and desert Catfolk. The northern nomads resist the Yargyez Empire's encroachment due to its unwillingness to recognize nomadic land rights.</li>
+<li><strong>Language:</strong> Catfolk speak Catfolk and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Golni, Pundi, Dadiya, Tunnad, Samuha, Dvariya</li>
+<li><strong>Female:</strong> Bangu, Binan, Enduk, Konis, Kalis, Untam</li>
+</ul></li>
+</ul>
 
-### Overview of Religions in Conliah
 
-#### Agathos Worship
 
-The pantheon of the Yargyez Empire recognizes five major Agathoi named the Six Guardians. They are worshipped in public temples and holidays recognized by the Empire. Each Agathos has its own clerical hierarchy and rites, and provinces often combine these with syncretic traditions. Besides these Six Guardians there are also many minor Agathoi who are acknowledged by the Empire as having legitimate cults.
+<div class="break-column"><h3>Lizardfolk</h3></div>
+
+<center>
+<img title="Lizardfolk portrait" alt="Lizardfolk portrait" src="LIZARDFOLK.png" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Physical Description:</strong> Lizardfolk are reptilian humanoids with red or greenish brown scales and sharp claws.</li>
+<li><strong>Homeland:</strong> They hail from the marsh province of Nightglade.</li>
+<li><strong>Culture:</strong> Lizardfolk culture emphasizes ecological spirituality, ancestor veneration, and clan loyalty.</li>
+<li><strong>Disposition:</strong> Lizardfolk are, on the whole, enemies of the Yargyez Empire. The Lizardfolk rulers who agreed to peacefully cede their lands to the Yargyez Empire in exchange for continuous rule are viewed as traitors to their own race. Factions of Lizardfolk across Nightglade actively resist Yargyez presence in the province. Many rebels have taken to underground caves across Nightglade and Eastgardia to stage attacks on Imperial outposts.</li>
+<li><strong>Language:</strong> Lizardfolk speak Lizardfolk and Common.</li>
+<li><strong>Names:</strong>
+<ul>
+<li><strong>Male:</strong> Yengtan, Hobuing, Dongok, Toavan, Kuyet, Sontan</li>
+<li><strong>Female:</strong> Bithui, Nuwan, Natlan, Thiho, Tangko, Trinku</li>
+</ul></li>
+</ul>
+
+
+
+<div class="break-page"><h3>Orcs</h3></div>
+
+<center>
+<img title="Orc portrait" alt="Orc portrait" src="ORC.png" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Physical Description:</strong> Orcs are tall and strong. Their faces are somewhat warthog-like, with straight medium-length tusks, elongated snouts and small lower jaws, pronounced cheekbones, and short pointy ears. Their skin is primarily green with a tinge of gray, and their fur covers their entire body with a mix of black and brown hues.</li>
+<li><strong>Homeland:</strong> The Orcs are one of the Lodumpan races.</li>
+<li><strong>Culture:</strong> Orcish culture upholds religious dogma, hereditary hierarchy, and reverence for military service.</li>
+<li><strong>Disposition:</strong> They see the Yargyez Empire as decadent and corrupt, and view the incursion of the Uzvu as a divinely sanctioned civilizing mission.</li>
+<li><strong>Language:</strong> Orcs speak Orcish.</li>
+</ul>
+
+
+
+<div class="break-column"><h3>Goblins</h3></div>
+
+<center>
+<img title="Goblin portrait" alt="Goblin portrait" src="GOBLIN.png" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Physical Description:</strong> Goblins are small humanoids. Their faces are somewhat babirusa-like, with long curved tusks long pointy ears, medium-length snouts and medium-size lower jaws. They are mostly hairless, with a skin tone halfway between green and gray.</li>
+<li><strong>Homeland:</strong> The Goblins are one of the Lodumpan races.</li>
+<li><strong>Culture:</strong> Goblin culture values commerce, technological inventiveness, and pragmatism.</li>
+<li><strong>Disposition:</strong> Goblins view the Yargyez Empire as a repository of riches, ripe for extraction and development.</li>
+<li><strong>Language:</strong> Goblins speak Goblin and Orcish.</li>
+</ul>
+
+
+
+<div class="break-page"><h3>Ogres</h3></div>
+
+<center>
+<img title="Ogre portrait" alt="Ogre portrait" src="OGRE.png" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Physical Description:</strong> Ogres are large and broad humanoids. Their faces are somewhat boar-like, with flat snouts, heavy jowls, small tusks, and large lower jaws. Their skin is primarily gray with a tinge of green, and their fur covers their entire body with hues of beige and gray.</li>
+<li><strong>Homeland:</strong> The Ogres are one of the Lodumpan races.</li>
+<li><strong>Culture:</strong> Ogre culture highlights disciplined work ethic, economic individualism, and a desire for recognition.</li>
+<li><strong>Disposition:</strong> They view the Yargyez Empire as an opportunity to raise their social status by acquiring underdeveloped tracts of land in exchange for serving as settler soldiers of the frontier.</li>
+<li><strong>Language:</strong> Ogres speak Ogre and Orcish.</li>
+</ul>
+
+
+
+<div class="break-column"><h3>Multiple Race Heritage</h3></div>
+
+<p>Although their exact origins are unknown, most races of Conliah share a common lineage which allows full interbreeding between them. This is true for Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. Catfolk and Lizardfolk are exceptions, as biologically distinct species. The possibility of offspring between the races of Conliah and the races of the Uzvu Confederation are unknown at this point. Sentient beings of Cthonic origin are also incapable of producing offspring with mundane sentient beings.</p>
+
+
+
+</div>
+
+<div class="break-page"><h2>Religion</h2></div>
+
+<p><em>MEDIOCRATES: What makes a person holy?</em></p>
+
+<p><em>DYSTHYPHRO: To be holy is to root out and destroy unholiness: whatever is Cthonic, corrupt, and wicked. The people who dedicate their being to fight against it are called holy. Likewise, failing to root out and destroy unholiness is also unholiness. That definition seems sound, to me.</em></p>
+
+<p><em>-- The Fifth Cloudruled Dialogue: The Dysthyphro</em></p>
+
+<center>
+<img title="The Monastery of Arkadios by Theodoros Vryzakis" alt="The Monastery of Arkadios by Theodoros Vryzakis" src="The_Monastery_of_Arkadios_Theodoros_Vryzakis.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<h3>Overview of Religions in Conliah</h3>
+
+<h4>Agathos Worship</h4>
+
+<p>The pantheon of the Yargyez Empire recognizes six major Agathoi named the Six Guardians. They are worshipped in public temples and holidays recognized by the Empire. Each Agathos has its own clerical hierarchy and rites, and provinces often combine these with syncretic traditions. Besides these Six Guardians there are also many minor Agathoi who are acknowledged by the Empire as having legitimate cults.</p>
+
+<center>
 
 <table>
   <thead>
@@ -578,13 +768,18 @@ The pantheon of the Yargyez Empire recognizes five major Agathoi named the Six G
   </tbody>
 </table>
 
-Outside of the Imperial Cult, there are religious factions of High Elves and Wood Elves who advocate Burrueism, considering the Imperial Cult to be a distortion. They seek to restore the original practices of Agathos worship as spread by the Magellian Empire, including a belief in Elven racial superiority to other mortal races and a belief that Burrue is an emanation of Gora herself.
+</center>
 
-#### Archon Worship
+<p>Outside of the Imperial Cult, there are religious factions of High Elves and Wood Elves who advocate Burrueism, considering the Imperial Cult to be a distortion. They seek to restore the original practices of Agathos worship as spread by the Magellian Empire, including a belief in Elven racial superiority to other mortal races and a belief that Burrue is an emanation of Gora herself.</p>
 
-Worship of the Archons is forbidden by law. Even so their cults persist, as their power is too alluring to resist. Shrines to them can be found in ancient ruins, concealed temples, and the basements of shady nobles.
+<div class="break-page">
+<h4>Archon Worship</h4></div>
 
-Many Archon-worshippers are not philosophically inclined, but some cultists do have deeper musings on the nature of religion. The most common theme is that the Archons are the original creators of Ksylia and their rightful gods. The Agathoi do not exist, but are a metaphor for the conquest of natural desires by imperial civilization itself. Worship of the Archons actively reclaims innate impulses which were wrongly suppressed by the empires of old.
+<p>Worship of the Archons is forbidden by law. Even so their cults persist, as their power is too alluring to resist. Shrines to them can be found in ancient ruins, concealed temples, and the basements of shady nobles.</p>
+
+<p>Many Archon-worshippers are not philosophically inclined, but some cultists do have deeper musings on the nature of religion. The most common theme is that the Archons are the original creators of Ksylia and their rightful gods. The Agathoi do not exist, but are a metaphor for the conquest of natural desires by imperial civilization itself. Worship of the Archons actively reclaims innate impulses which were wrongly suppressed by the empires of old.</p>
+
+<center>
 
 <table>
   <thead>
@@ -691,928 +886,1187 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
   </tbody>
 </table>
 
-#### Ancestor Veneration
+</center>
 
-While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not interfere with transmigration. For those that perform these more taboo rituals, there are Imperial priests who hunt their practitioners across Conliah. These are the major races which practice ancestor veneration:
+<div class="two-column-flow">
 
-*   Dwarves believe that their honored dead are granted a unique sphere in Asteria named Erunhall, which is an eternal feast. Their practices include feasts held at burial mounds and burying possessions with the dead.
-*   Halflings believe that spirits linger in Arbigard until they are given proper burial rights, or else they will become restless spirits. Their practices include shrines placed in crypts and annual feasts in rememberance of the dead.
-*   Dark Elves believe that even after death, spirits remain connected to the physical location they were buried. Their practices include shrines placed in clan tombs and ritualistic chanting intended to ground the spirits of the dead in Arbigard.
-*   Lizardfolk believe that even after death, spirits remain connected to the ecology of the marsh. Their practices include carving fetishes believed to be imbued with spirits and the consumption of hallucinogenic plants which they believe allow them to commune with their ancestors.
+<h4>Ancestor Veneration</h4>
 
-#### Cloud Worship
+<p>While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not interfere with transmigration. For those that perform these more taboo rituals, there are Imperial priests who hunt their practitioners across Conliah. These are the major races which practice ancestor veneration:</p>
 
-The practice of worshipping clouds appears several times in the history of conliah. It is a mystery how it arose independently several times. Those who believe in Cloud Worship suggest that the observable anti-Cthonic power emanating from the clouds is observably true, and this is how different societies independently discovered they are the true gods. However, nobody has proven this definitively.
+<ul>
+<li>Dwarves believe that their honored dead are granted a unique sphere in Asteria named Erunhall, which is an eternal feast. Their practices include feasts held at burial mounds and burying possessions with the dead.</li>
+<li>Halflings believe that spirits linger in Arbigard until they are given proper burial rights, or else they will become restless spirits. Their practices include shrines placed in crypts and annual feasts in rememberance of the dead.</li>
+<li>Dark Elves believe that even after death, spirits remain connected to the physical location they were buried. Their practices include shrines placed in clan tombs and ritualistic chanting intended to ground the spirits of the dead in Arbigard.</li>
+<li>Lizardfolk believe that even after death, spirits remain connected to the ecology of the marsh. Their practices include carving fetishes believed to be imbued with spirits and the consumption of hallucinogenic plants which they believe allow them to commune with their ancestors.</li>
+</ul>
 
-*   During the Age of Might Makes Right, the Wood Elves of the Ak Ates Mountains in southern Westerwood worshipped the clouds. However, this was displaced by Agathos worship by the Aksu Khaganate, and almost nobody alive today knows that this was practiced.
-*   The Cloudruled at the end of the Magellian Empire also advocated for cloud worship, stating that lightning comes from the clouds and not Iazus.
-*   The Uzvu Confederation believe the clouds are the true gods of this world. From their worldview, the Agathos and Archon cults are equally heretical, and they view the extermination of these cults as part of their civilizing mission. While this belief superficially resembles the Cloudruled who taught philosophy towards the end of the Magellian Empire, the Uzvu claim they are unaware of who the Cloudruled were.
+<h4>Cloud Worship</h4>
 
-Scholars of the Yargyez Empire have attempted to document the religious beliefs of the Uzvu. Their best understanding is that the Uzvu believe that the creator Demvegaz created one world of Ksylia, and inhabited it with mortal beings in the Skies, the Neaths, and Arbigard between them. However, Demvegaz gave all mortal beings free will. The Archons are mortal beings who originated in the Neaths, and rebelled against Demvegaz. The Archons constructed the Hade to separate their realm from the Neaths, as a fortress against Demvegaz. They caused suffering to the mortals of Ksylia, and Demvegaz pitied the mortals. To help them, Demvegaz sacrificed her body and became the clouds. The Uzvu speculate that the Agathoi are a reconstruction of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament, instead believing that souls travel to the highest stratum of the Skies after death.
+<p>The practice of worshipping clouds appears several times in the history of conliah. It is a mystery how it arose independently several times. Those who believe in Cloud Worship suggest that the observable anti-Cthonic power emanating from the clouds is observably true, and this is how different societies independently discovered they are the true gods. However, nobody has proven this definitively.</p>
 
-Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.
+<ul>
+<li>During the Age of Might Makes Right, the Wood Elves of the Ak Ates Mountains in southern Westerwood worshipped the clouds. However, this was displaced by Agathos worship by the Aksu Khaganate, and almost nobody alive today knows that this was practiced.</li>
+<li>The Cloudruled at the end of the Magellian Empire also advocated for cloud worship, stating that lightning comes from the clouds and not Iazus.</li>
+<li>The Uzvu Confederation believe the clouds are the true gods of this world. From their worldview, the Agathos and Archon cults are equally heretical, and they view the extermination of these cults as part of their civilizing mission. While this belief superficially resembles the Cloudruled who taught philosophy towards the end of the Magellian Empire, the Uzvu claim they are unaware of who the Cloudruled were.</li>
+</ul>
 
-*   **No Clouds, No Rain:** Their powers resemble devouts of Burrue.
-*   **Partly Cloudy, No Rain:** Their powers resemble devouts of Inidilt.
-*   **Overcast, No Rain:** Their powers resemble devouts of Lidnozie.
-*   **Light shower:** Their powers resemble devouts of Ereng.
-*   **Thunderstorm:** Their powers resemble devouts of Iazus.
-*   **Rainbow visible:** Their powers resemble devouts of Izdoeng.
+<p>Scholars of the Yargyez Empire have attempted to document the religious beliefs of the Uzvu. Their best understanding is that the Uzvu believe that the creator Demvegaz created one world of Ksylia, and inhabited it with mortal beings in the Skies, the Neaths, and Arbigard between them. However, Demvegaz gave all mortal beings free will. The Archons are mortal beings who originated in the Neaths, and rebelled against Demvegaz. The Archons constructed the Hade to separate their realm from the Neaths, as a fortress against Demvegaz. They caused suffering to the mortals of Ksylia, and Demvegaz pitied the mortals. To help them, Demvegaz sacrificed her body and became the clouds. The Uzvu speculate that the Agathoi are a reconstruction of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament, instead believing that souls travel to the highest stratum of the Skies after death.</p>
 
-Magic
------
+<p>Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.</p>
 
-_TIMORUS: Now you tell me, what kind of magic is rhetoric?_
+<ul>
+<li><strong>No Clouds, No Rain:</strong> Their powers resemble devouts of Burrue.</li>
+<li><strong>Partly Cloudy, No Rain:</strong> Their powers resemble devouts of Inidilt.</li>
+<li><strong>Overcast, No Rain:</strong> Their powers resemble devouts of Lidnozie.</li>
+<li><strong>Light shower:</strong> Their powers resemble devouts of Ereng.</li>
+<li><strong>Thunderstorm:</strong> Their powers resemble devouts of Iazus.</li>
+<li><strong>Rainbow visible:</strong> Their powers resemble devouts of Izdoeng.</li>
+</ul>
 
-_MEDIOCRATES: Honestly, Timorus, rhetoric is not any kind of magic._
+</div>
 
-_TIMORUS: Then what, exactly, is rhetoric?_
+<div class="break-page"></div>
 
-_MEDIOCRATES: I would call it a tendency._
+<h2>Magic</h2>
 
-_TIMORUS: A tendency for what, Mediocrates?_
+<p><em>TIMORUS: Now you tell me, what kind of magic is rhetoric?</em></p>
 
-_MEDIOCRATES: A tendency to create impressions in others, regardless of their truth._
+<p><em>MEDIOCRATES: Honestly, Timorus, rhetoric is not any kind of magic.</em></p>
 
-_\-- The Twenty-First Cloudruled Dialogue: The Timorus_
+<p><em>TIMORUS: Then what, exactly, is rhetoric?</em></p>
 
-![The Parthenon by Frederic Edwin Church](The_Parthenon_by_Frederic_Edwin_Church.jpeg "The Parthenon by Frederic Edwin Church")
+<p><em>MEDIOCRATES: I would call it a tendency.</em></p>
 
-### Overview of Magic
+<p><em>TIMORUS: A tendency for what, Mediocrates?</em></p>
 
-Soul material flows ambiently throughout all three realms, but it is inaccessible to the uninitiated. Those who can obtain access to large quantities of soul material gain the power to magically manipulate the world to their will. However, the powers of magic wielders differ based on the source of soul material. There are six categories of people who can achieve these results: Wildmages, Schoolmages, Wretches, Invokers, Ardents, and Devouts.
+<p><em>MEDIOCRATES: A tendency to create impressions in others, regardless of their truth.</em></p>
 
-### Spell Categories
+<p><em>-- The Twenty-First Cloudruled Dialogue: The Timorus</em></p>
 
-*   **Cthonic Warding** spells are aimed at warding off Cthonians and the undead.
-*   **Curse** spells are aimed at bringing misfortune to their targets.
-*   **Detection** spells are aimed at perceiving otherwise unseen things.
-*   **Elemental Damage** spells use raw elemental forces to inflict damage. The six categories of elemental damage are sunlight, moonlight, fire, water, air (including lightning), and earth.
-*   **Exorcism** spells are aimed and purifying and banishing evil forces.
-*   **Healing** spells are aimed at restoring the health and wellness of their targets.
-*   **Illusion** spells are aimed at creating false appearances to their targets.
-*   **Mental Influence** spells are aimed at affecting a person's mental state.
-*   **Protection** spells involve warding off physical and magical attacks.
-*   **Self-Buff** spells are aimed at enhancing one's own abilities.
-*   **Soul Binding** spells involve infusing physical things with soul material.
-*   **Summoning** spells call forth Cthonic entities to help the caster.
-*   **Transmutation** spells manipulate physical substances.
-*   **Utility** spells are a catch-all category for non-combat spells that don't cleanly fit in other categories.
+<div class="two-column-flow">
 
-### Magic Wielder Types
+<center>
+<img title="The Parthenon by Frederic Edwin Church" alt="The Parthenon by Frederic Edwin Church" src="The_Parthenon_by_Frederic_Edwin_Church.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-The below list of Magic Wielder Types includes a listing of what Spell Categories the Magic Wielder Type generally has access to. These are not absolute rules, but guidelines that instruct the tone of each category.
+<h3>Overview of Magic</h3>
 
-*   _Always_ means the wielder type unequivocally has access to this kind of magic.
-*   _Sometimes_ means the wielder type may have access to variants of this magic which align thematically with the type.
-*   _Rarely_ means the wielder typically does not have access to this kind of magic.
+<p>Soul material flows ambiently throughout all three realms, but it is inaccessible to the uninitiated. Those who can obtain access to large quantities of soul material gain the power to magically manipulate the world to their will. However, the powers of magic wielders differ based on the source of soul material. There are six categories of people who can achieve these results: Wildmages, Schoolmages, Wretches, Invokers, Ardents, and Devouts.</p>
 
-#### Wildmage
+<h3>Spell Categories</h3>
 
-Wildmages passively absorb high amounts of soul material from their surroundings, then unleash their built-up soul material in a burst.
+<ul>
+<li><strong>Cthonic Warding</strong> spells are aimed at warding off Cthonians and the undead.</li>
+<li><strong>Curse</strong> spells are aimed at bringing misfortune to their targets.</li>
+<li><strong>Detection</strong> spells are aimed at perceiving otherwise unseen things.</li>
+<li><strong>Elemental Damage</strong> spells use raw elemental forces to inflict damage. The six categories of elemental damage are sunlight, moonlight, fire, water, air (including lightning), and earth.</li>
+<li><strong>Exorcism</strong> spells are aimed and purifying and banishing evil forces.</li>
+<li><strong>Healing</strong> spells are aimed at restoring the health and wellness of their targets.</li>
+<li><strong>Illusion</strong> spells are aimed at creating false appearances to their targets.</li>
+<li><strong>Mental Influence</strong> spells are aimed at affecting a person's mental state.</li>
+<li><strong>Protection</strong> spells involve warding off physical and magical attacks.</li>
+<li><strong>Self-Buff</strong> spells are aimed at enhancing one's own abilities.</li>
+<li><strong>Soul Binding</strong> spells involve infusing physical things with soul material.</li>
+<li><strong>Summoning</strong> spells call forth Cthonic entities to help the caster.</li>
+<li><strong>Transmutation</strong> spells manipulate physical substances.</li>
+<li><strong>Utility</strong> spells are a catch-all category for non-combat spells that don't cleanly fit in other categories.</li>
+</ul>
 
-*   _Always:_ Elemental Damage, Illusion, Mental Influence, Utility
-*   _Sometimes:_ Curse, Detection, Protection, Self-Buff, Transmutation
-*   _Rarely:_ Cthonic Warding, Healing, Exorcism, Soul Binding, Summoning
+<h3>Magic Wielder Types</h3>
 
-#### Schoolmage
+<p>The below list of Magic Wielder Types includes a listing of what Spell Categories the Magic Wielder Type generally has access to. These are not absolute rules, but guidelines that instruct the tone of each category.</p>
 
-Schoolmages are educated by the Academy of Knowledge to understand the physical laws of Ksylia. This enables Schoolmages to cast spells by accessing the ambient soul material that flows through Ksylia. Low-level spells like elemental projectiles and defensive wards are commonplace, but knowledge of even these basic spells implies years of dedicated study at an Academy of Knowledge university. High-level spells like flight, teleportation, and weather manipulation are legendary powers not known to the Academy of Knowledge but learnable through re-discovery of ancient tomes.
+<ul>
+<li><em>Always</em> means the wielder type unequivocally has access to this kind of magic.</li>
+<li><em>Sometimes</em> means the wielder type may have access to variants of this magic which align thematically with the type.</li>
+<li><em>Rarely</em> means the wielder typically does not have access to this kind of magic.</li>
+</ul>
 
-*   _Always:_ Detection, Elemental Damage, Illusion, Mental Influence, Soul Binding, Protection, Transmutation, Utility
-*   _Sometimes:_ Curse, Healing, Self-Buff, Summoning
-*   _Rarely:_ Cthonic Warding, Exorcism
+<h4>Wildmage</h4>
 
-#### Wretch
+<p>Wildmages passively absorb high amounts of soul material from their surroundings, then unleash their built-up soul material in a burst.</p>
 
-Wretches are individuals directly touched by Cthonia, without having a deliberate pact with a specific Archon. As a result, Wretches have lingering Cthonic energy coursing through their bodies which they can use to cast powerful spells.
+<ul>
+<li><em>Always:</em> Elemental Damage, Illusion, Mental Influence, Utility</li>
+<li><em>Sometimes:</em> Curse, Detection, Protection, Self-Buff, Transmutation</li>
+<li><em>Rarely:</em> Cthonic Warding, Healing, Exorcism, Soul Binding, Summoning</li>
+</ul>
 
-*   _Always:_ Curse, Elemental Damage, Mental Influence
-*   _Sometimes:_ Detection, Illusion, Self-Buff, Soul Binding, Summoning, Utility
-*   _Rarely:_ Cthonic Warding, Healing, Exorcism, Protection, Transmutation
+<h4>Schoolmage</h4>
 
-#### Invoker
+<p>Schoolmages are educated by the Academy of Knowledge to understand the physical laws of Ksylia. This enables Schoolmages to cast spells by accessing the ambient soul material that flows through Ksylia. Low-level spells like elemental projectiles and defensive wards are commonplace, but knowledge of even these basic spells implies years of dedicated study at an Academy of Knowledge university. High-level spells like flight, teleportation, and weather manipulation are legendary powers not known to the Academy of Knowledge but learnable through re-discovery of ancient tomes.</p>
 
-Invokers are members of Archonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.
+<ul>
+<li><em>Always:</em> Detection, Elemental Damage, Illusion, Mental Influence, Soul Binding, Protection, Transmutation, Utility</li>
+<li><em>Sometimes:</em> Curse, Healing, Self-Buff, Summoning</li>
+<li><em>Rarely:</em> Cthonic Warding, Exorcism</li>
+</ul>
 
-*   _Always:_ Curse, Mental Influence, Soul Binding, Summoning
-*   _Sometimes:_ Detection, Elemental Damage, Illusion, Protection, Self-Buff, Utility
-*   _Rarely:_ Cthonic Warding, Healing, Exorcism, Transmutation
+<h4>Wretch</h4>
 
-#### Ardent
+<p>Wretches are individuals directly touched by Cthonia, without having a deliberate pact with a specific Archon. As a result, Wretches have lingering Cthonic energy coursing through their bodies which they can use to cast powerful spells.</p>
 
-Ardents are philosophers who have obtained enlightenment, flooding their bodies with Asteric soul material. They may channel this Asteric soul material into magical spells, as long as they remain in their elevated state.
+<ul>
+<li><em>Always:</em> Curse, Elemental Damage, Mental Influence</li>
+<li><em>Sometimes:</em> Detection, Illusion, Self-Buff, Soul Binding, Summoning, Utility</li>
+<li><em>Rarely:</em> Cthonic Warding, Healing, Exorcism, Protection, Transmutation</li>
+</ul>
 
-*   _Always:_ Detection, Healing, Exorcism, Protection, Utility
-*   _Sometimes:_ Cthonic Warding, Illusion, Self-Buff, Transmutation
-*   _Rarely:_ Curse, Elemental Damage, Mental Influence, Soul Binding, Summoning
+<h4>Invoker</h4>
 
-#### Devout
+<p>Invokers are members of Archonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.</p>
 
-Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they receive a divine blessing which grants divine magical powers. There are certain spells which devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
+<ul>
+<li><em>Always:</em> Curse, Mental Influence, Soul Binding, Summoning</li>
+<li><em>Sometimes:</em> Detection, Elemental Damage, Illusion, Protection, Self-Buff, Utility</li>
+<li><em>Rarely:</em> Cthonic Warding, Healing, Exorcism, Transmutation</li>
+</ul>
 
-*   _Always:_ Cthonic Warding, Detection, Healing, Exorcism, Protection
-*   _Sometimes:_ Elemental Damage, Mental Influence, Self-Buff, Transmutation, Utility
-*   _Rarely:_ Curse, Illusion, Soul Binding, Summoning
+<h4>Ardent</h4>
 
-### Soul Color
+<p>Ardents are philosophers who have obtained enlightenment, flooding their bodies with Asteric soul material. They may channel this Asteric soul material into magical spells, as long as they remain in their elevated state.</p>
 
-The term "color" in reference to soul material is not literal, but refers to the magically detectable differences in signature based on where the soul material originated from. The color names are ancient conventions which have carried into the present, but it is only a feeling within the one probing magically infused substance. Soul color applies to both ambient soul material and discrete souls, but not all colors exist in both forms.
+<ul>
+<li><em>Always:</em> Detection, Healing, Exorcism, Protection, Utility</li>
+<li><em>Sometimes:</em> Cthonic Warding, Illusion, Self-Buff, Transmutation</li>
+<li><em>Rarely:</em> Curse, Elemental Damage, Mental Influence, Soul Binding, Summoning</li>
+</ul>
 
-*   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
-*   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
-*   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Agathoi have discrete blue souls, and are presumed to be immortal. Ambient blue soul material flows throughout Asteria.
-*   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and their souls return to their respective sphere of Cthonia upon death. Red soul material flows throughout Cthonia.
+<h4>Devout</h4>
 
-### Soul Binding & Enchanting
+<p>Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they receive a divine blessing which grants divine magical powers. There are certain spells which devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples are reviving a recently deceased person, or speaking to the soul of a recently deceased person.</p>
 
-Artifacts, locations, and other physical things may be infused with soul material. The effects of this infusion differ based on the nature of the soul material used and the techniques involved. The below list is not exhaustive, but provides an overview of common forms of soul infusion.
+<ul>
+<li><em>Always:</em> Cthonic Warding, Detection, Healing, Exorcism, Protection</li>
+<li><em>Sometimes:</em> Elemental Damage, Mental Influence, Self-Buff, Transmutation, Utility</li>
+<li><em>Rarely:</em> Curse, Illusion, Soul Binding, Summoning</li>
+</ul>
 
-*   **Yellow Soul Bound Artifacts:** _Requires sacrifice._ The most common way to enchant artifacts with powerful magical properties is through the sacrifice of a living thing. The Imperial Cult does not forbid the use of animals for this purpose.
-*   **Green Soul Bound Artifacts:** _Requires sacrifice._ Much more powerful enchantments are possible through the use of a green soul, instead of a yellow one. However, the transmigration cycle is sacred, and using green souls for enchanting is strictly forbidden. The act of binding a green soul is considered an offense punishable by death, equal in gravity to Archon worship.
-*   **Yellow Soul Bound Locations:** _Requires sacrifice._ A location may be enchanted with various magical properties.
-*   **Blue Enchanted Artifacts & Locations:** _Does not require sacrifice._ Ardents and Devouts can imbue blue soul material into a physical object or location, granting it the power to repel Cthonians. This is a very difficult process for all metals except silver, which readily absorbs blue soul material.
-*   **Red Enchanted Artifacts & Location:** _Does not require sacrifice._ Various forces of Cthonia can imbue red soul material into a physical object or location, granting it destructive and corrupting powers.
-*   **Artifical Constructs:** The nature of artifical constructs varies greatly based on their soul origin. These are elaborated upon in much greater detail in the Monsters section (see Artificial Monsters). The Magellian Empire experimented on the binding of green souls in various ways now considered heretical by the Imperial Cult, but the art was lost to time. In theory, the Imperial Cult also seeks to destroy these constructs to free their green souls, but it's a secondary concern as compared to eliminating Cthonic threats.
+<h3>Soul Color</h3>
 
-### Magic Wielders in Cthonia
+<p>The term "color" in reference to soul material is not literal, but refers to the magically detectable differences in signature based on where the soul material originated from. The color names are ancient conventions which have carried into the present, but it is only a feeling within the one probing magically infused substance. Soul color applies to both ambient soul material and discrete souls, but not all colors exist in both forms.</p>
 
-When a Magic Wielder phases into a sphere of Cthonia, their powers dramatically change. Invokers and Wretches become much more powerful, due to their proximity to their own power source. Wildmages and Schoolmages retain some of their power, because their mortal souls are tethered to Ksylia in a way that is not fully interrupted by phasing. However, their power is significantly stunted such that a wisened Schoolmage feels like a novice again. Devouts and Ardents become magically powerless due to the spiritual pressure of the surrounding environment.
+<ul>
+<li><strong>Green Souls:</strong> In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.</li>
+<li><strong>Yellow Souls:</strong> Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.</li>
+<li><strong>Blue Souls:</strong> Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Agathoi have discrete blue souls, and are presumed to be immortal. Ambient blue soul material flows throughout Asteria.</li>
+<li><strong>Red Souls:</strong> Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and their souls return to their respective sphere of Cthonia upon death. Red soul material flows throughout Cthonia.</li>
+</ul>
 
-Factions
---------
+<h3>Soul Binding &amp; Enchanting</h3>
 
-_KAITO THE HALFLING: What is most just for an empire: firstly to destroy the worse faction and enthrone the better, secondly to enthrone the better faction and force the worse to submit, or thirdly to reconcile them and neither destroy the worse or force it to submit?_
+<p>Artifacts, locations, and other physical things may be infused with soul material. The effects of this infusion differ based on the nature of the soul material used and the techniques involved. The below list is not exhaustive, but provides an overview of common forms of soul infusion.</p>
 
-_SITAROPHILUS THE HIGH ELF: Obviously the third option._
+<ul>
+<li><strong>Yellow Soul Bound Artifacts:</strong> <em>Requires sacrifice.</em> The most common way to enchant artifacts with powerful magical properties is through the sacrifice of a living thing. The Imperial Cult does not forbid the use of animals for this purpose.</li>
+<li><strong>Green Soul Bound Artifacts:</strong> <em>Requires sacrifice.</em> Much more powerful enchantments are possible through the use of a green soul, instead of a yellow one. However, the transmigration cycle is sacred, and using green souls for enchanting is strictly forbidden. The act of binding a green soul is considered an offense punishable by death, equal in gravity to Archon worship.</li>
+<li><strong>Yellow Soul Bound Locations:</strong> <em>Requires sacrifice.</em> A location may be enchanted with various magical properties.</li>
+<li><strong>Blue Enchanted Artifacts &amp; Locations:</strong> <em>Does not require sacrifice.</em> Ardents and Devouts can imbue blue soul material into a physical object or location, granting it the power to repel Cthonians. This is a very difficult process for all metals except silver, which readily absorbs blue soul material.</li>
+<li><strong>Red Enchanted Artifacts &amp; Location:</strong> <em>Does not require sacrifice.</em> Various forces of Cthonia can imbue red soul material into a physical object or location, granting it destructive and corrupting powers.</li>
+<li><strong>Artifical Constructs:</strong> The nature of artifical constructs varies greatly based on their soul origin. These are elaborated upon in much greater detail in the Monsters section (see Artificial Monsters). The Magellian Empire experimented on the binding of green souls in various ways now considered heretical by the Imperial Cult, but the art was lost to time. In theory, the Imperial Cult also seeks to destroy these constructs to free their green souls, but it's a secondary concern as compared to eliminating Cthonic threats.</li>
+</ul>
 
-_KAITO THE HALFLING: That would be the most just option. And clearly, the empire who chooses the third option will not be at war, but will be at peace. Therefore, the empire which is just will be at peace with itself._
+</div>
 
-_SITAROPHILUS THE HIGH ELF: Again, obviously so._
+<div class="break-page"><h3>Magic Wielders in Cthonia</h3></div>
 
-_KAITO THE HALFLING: And the empire is now at war with itself, is it not?_
+<p>When a Magic Wielder phases into a sphere of Cthonia, their powers dramatically change. Invokers and Wretches become much more powerful, due to their proximity to their own power source. Wildmages and Schoolmages retain some of their power, because their mortal souls are tethered to Ksylia in a way that is not fully interrupted by phasing. However, their power is significantly stunted such that a wisened Schoolmage feels like a novice again. Devouts and Ardents become magically powerless due to the spiritual pressure of the surrounding environment.</p>
 
-_\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
 
-![The German of Old Patras blesses the flag by Theodoros Vryzakis](The_German_of_Old_Patras_blesses_the_flag_Theodoros_Vryzakis.jpeg "The German of Old Patras blesses the flag by Theodoros Vryzakis")
+<div class="break-page"></div>
 
-### The Yargyez Empire
+<h2>Factions</h2>
 
-The Yargyez Empire is the dominant political force on the continent of Conliah. The center of power in the Yargyez Empire is the royal palace in Inton, Eastgardia. The Yargyez Emperor is the absolute ruler of the Yargyez Empire. The Grand Vizier oversees the Imperial Council and reports directly to the Yargyez Emperor.
+<p><em>KAITO THE HALFLING: What is most just for an empire: firstly to destroy the worse faction and enthrone the better, secondly to enthrone the better faction and force the worse to submit, or thirdly to reconcile them and neither destroy the worse or force it to submit?</em></p>
 
-The Imperial Council handles the day-to-day affairs of the Empire. It is composed of viziers, Royal Guard generals, and religious scholars. The Imperial Council decides the law and its practical enforcement across Conliah. They appoint provincial governors for each province across the continent, and have the power to revoke provincial governors' authority at-will.
+<p><em>SITAROPHILUS THE HIGH ELF: Obviously the third option.</em></p>
 
-The banner of the Yargyez features a white thunderbolt with three zags on a blue background.
+<p><em>KAITO THE HALFLING: That would be the most just option. And clearly, the empire who chooses the third option will not be at war, but will be at peace. Therefore, the empire which is just will be at peace with itself.</em></p>
 
-### The Royal Guard
+<p><em>SITAROPHILUS THE HIGH ELF: Again, obviously so.</em></p>
 
-The Yargyez Royal Guard are the military and law enforcement of the Yargyez Empire. They are a disciplined fighting force that works to suppress dissent.
+<p><em>KAITO THE HALFLING: And the empire is now at war with itself, is it not?</em></p>
 
-### The Uzvu Confederation
+<p><em>-- The Thirty-Third Cloudruled Dialogue: The Warlords</em></p>
 
-The Uzvu Confederation are a foreign state from a newly encountered continent named Lodumpis. They are a technologically advanced civilization that views its military incursion into Conliah as divinely sanctioned.
+<div class="two-column-flow">
 
-Their symbol is a white greataxe standing up straight, with three tulips at the base. The tulips are red, orange, and yellow with green stems. Behind the logo is a black background.
+<center>
+<img title="The German of Old Patras blesses the flag by Theodoros Vryzakis" alt="The German of Old Patras blesses the flag by Theodoros Vryzakis" src="The_German_of_Old_Patras_blesses_the_flag_Theodoros_Vryzakis.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-### The Synomachos
+<h3>The Yargyez Empire</h3>
 
-The Synomachos are a conspiracy of High Elves, Wood Elves, and Dark Elves to overthrow the Yargyez Empire and establish High Elven rule. However, they operate in complete secrecy and nobody in Conliah is aware of this conspiracy, yet.
+<p>The Yargyez Empire is the dominant political force on the continent of Conliah. The center of power in the Yargyez Empire is the royal palace in Inton, Eastgardia. The Yargyez Emperor is the absolute ruler of the Yargyez Empire. The Grand Vizier oversees the Imperial Council and reports directly to the Yargyez Emperor.</p>
 
-They seek the dissolution of the Imperial Cult, and its replacement with Burrueism which they consider the correct form of worship as spread by the Magellian Empire. This includes a belief in the racial superiority of the Elves above other mortal races.
+<p>The Imperial Council handles the day-to-day affairs of the Empire. It is composed of viziers, Royal Guard generals, and religious scholars. The Imperial Council decides the law and its practical enforcement across Conliah. They appoint provincial governors for each province across the continent, and have the power to revoke provincial governors' authority at-will.</p>
 
-They seek to dissolve the Imperial Cult pantheon and establish their own Burrueist Cult. The title "first among equals" is to be stripped from Iazus. Then Burrue will become the head of the pantheon - "first" but not "among equals" - with the other five being subordinated to Burrue.
+<p>The banner of the Yargyez features a white thunderbolt with three zags on a blue background.</p>
 
-Their signal to launch their secession is the first full moon of 190 YE, a year from now. This will be the 26th of Askonos, 190 YE. The King Typhen Maphelius of Fair Island is already part of the Synomachos. Khagan Anim Beldek of Westerwood will be usurped by Chieftain Tosir Arakzan, and the council of Ashfallen Tribes in Valorgale will be overthrown by the Pataf Tribe. Once power has been consolidated in these three provinces, the next phase of the plan is to invade the rest of Conliah.
+<h3>The Royal Guard</h3>
 
-The secret symbol of the Synomachos is a twelve-pointed sun.
+<p>The Yargyez Royal Guard are the military and law enforcement of the Yargyez Empire. They are a disciplined fighting force that works to suppress dissent.</p>
 
-### The Belligerantes
+<h3>The Uzvu Confederation</h3>
 
-The Belligerantes are a continent-spanning paramilitary organization with public-facing and private operations. As a public organization they operate as blades for hire, assisting smaller settlements that the Empire will not send aid to. As a private organization, they seek to overthrow the Yargyez Empire and institute a new order which can secure Conliah against enemies within and without. The majority of soldiers in the Belligerantes are aware of their unspoken goal to overthrow the Yargyez. The signal they are waiting for is the death of the emperor by natural means or assassination. Either way, they plan to attack the capital and seize the bureaucratic machinery of the Yargyez Empire. They shun magic and stealth as cowardly, favoring marching into battle in heavy plate armor with swords and shields.
+<p>The Uzvu Confederation are a foreign state from a newly encountered continent named Lodumpis. They are a technologically advanced civilization that views its military incursion into Conliah as divinely sanctioned.</p>
 
-In addition to seeking to overthrow the Yargyez Empire, the Belligerantes plan to reorganize the Imperial Cult. They believe the title of "first among equals" belongs to Inidilt, not Iazus.
+<p>Their symbol is a white greataxe standing up straight, with three tulips at the base. The tulips are red, orange, and yellow with green stems. Behind the logo is a black background.</p>
 
-There are about 2,000 members of the Belligerantes: approximately 1,600 infantry soldiers and 400 cavalry, and a small number of higher officers. For the higher ranking officers the hierarchy is the Supreme Commander, Captain, and Lieutenant. Below Lieutenant, the hierarchy divides between infantry and cavalry. For infantry the hierarchy is Sergeant, Corporal, Senior Private, and Private. For cavalry the hierarchy is Marshal, Brigadier, Senior Cavalier, Cavalier. There are approximately 24 Lieutenants across Conliah, and there are 8 Captains: one Captain for each province.
+<h3>The Synomachos</h3>
 
-The keystone officers are the Lieutenants, who operate out of chapterhouses. Lieutenants have two roles: firstly, they intake mercenary jobs and submit them to their Captains for review and prioritization. Secondly, they are the commanding officers of infantry Sergeants and cavalry Marshals on-the-ground during missions.
+<p>The Synomachos are a conspiracy of High Elves, Wood Elves, and Dark Elves to overthrow the Yargyez Empire and establish High Elven rule. However, they operate in complete secrecy and nobody in Conliah is aware of this conspiracy, yet.</p>
 
-The physical presence of the Belligerantes is through the chapterhouses. The Belligerantes headquarters is a large chapterhouse located in Omugi, Middlestone. All of their members are volunteers who perform various occupations when not in combat. The most common occupations are artisans and laborers. There are also passionate academics who volunteer out of a desire to defend Conliah, as well as nobles who occupy many of the higher officer roles.
+<p>They seek the dissolution of the Imperial Cult, and its replacement with Burrueism which they consider the correct form of worship as spread by the Magellian Empire. This includes a belief in the racial superiority of the Elves above other mortal races.</p>
 
-Due to the outsized responsibility of the Lieutenants, there are several consequences:
+<p>They seek to dissolve the Imperial Cult pantheon and establish their own Burrueist Cult. The title "first among equals" is to be stripped from Iazus. Then Burrue will become the head of the pantheon - "first" but not "among equals" - with the other five being subordinated to Burrue.</p>
 
-*   They tend to be more personally invested in the work than officers higher and lower than them
-*   They have outsized influence and may form subfactions of loyal subordinate officers, which threaten the integrity of the whole organization
-*   They are often involved in this line of work for opportunistic personal gain rather than altruism or honest pay.
+<p>Their signal to launch their secession is the first full moon of 190 YE, a year from now. This will be the 26th of Askonos, 190 YE. The King Typhen Maphelius of Fair Island is already part of the Synomachos. Khagan Anim Beldek of Westerwood will be usurped by Chieftain Tosir Arakzan, and the council of Ashfallen Tribes in Valorgale will be overthrown by the Pataf Tribe. Once power has been consolidated in these three provinces, the next phase of the plan is to invade the rest of Conliah.</p>
 
-The emblem used by the Belligerantes is a long black horizontal line below a solid red triangle, representing a stylized mountain.
+<p>The secret symbol of the Synomachos is a twelve-pointed sun.</p>
 
-### The Artisans Guild
+<h3>The Belligerantes</h3>
 
-The Artisans Guild is a price-fixing monopolist organization that represents the interests of large urban manufacturers against both merchants and political powers. They represent various kinds of craftspeople such as potion makers, blacksmiths, leathersmiths, and enchanters of magical weapons and armor.
+<p>The Belligerantes are a continent-spanning paramilitary organization with public-facing and private operations. As a public organization they operate as blades for hire, assisting smaller settlements that the Empire will not send aid to. As a private organization, they seek to overthrow the Yargyez Empire and institute a new order which can secure Conliah against enemies within and without. The majority of soldiers in the Belligerantes are aware of their unspoken goal to overthrow the Yargyez. The signal they are waiting for is the death of the emperor by natural means or assassination. Either way, they plan to attack the capital and seize the bureaucratic machinery of the Yargyez Empire. They shun magic and stealth as cowardly, favoring marching into battle in heavy plate armor with swords and shields.</p>
 
-The highest rank in the Artisans Guild is one Manufacturer Supreme, who resides in Eithar, Helscar. The Manufacturer Supreme is elected by a council of eight Syndics (one per province). Below Syndics are Master Manufacturers, divided by craft. Below the Master Manufacturers are skilled and unskilled crafters, who are the lowest rank.
+<p>In addition to seeking to overthrow the Yargyez Empire, the Belligerantes plan to reorganize the Imperial Cult. They believe the title of "first among equals" belongs to Inidilt, not Iazus.</p>
 
-There is an operative wing of the Artisans Guild. Their field agents are trained in combat and stealth. Additionally, they are equipped with advanced magical technology stolen from the Uzvu and ancient Magellian ruins. Each Syndic commands several superintendents. Each superintendent operates a safehouse, and commands several field agents from that safehouse. This operative wing serves multiple roles the Artisans Guild requires:
+<p>There are about 2,000 members of the Belligerantes: approximately 1,600 infantry soldiers and 400 cavalry, and a small number of higher officers. For the higher ranking officers the hierarchy is the Supreme Commander, Captain, and Lieutenant. Below Lieutenant, the hierarchy divides between infantry and cavalry. For infantry the hierarchy is Sergeant, Corporal, Senior Private, and Private. For cavalry the hierarchy is Marshal, Brigadier, Senior Cavalier, Cavalier. There are approximately 24 Lieutenants across Conliah, and there are 8 Captains: one Captain for each province.</p>
 
-*   They ensure the functioning of commerce so that urban manufacturers have secure buyers for their wares. Practically, that can involve threatening merchants, overthrowing lords, and negotiating with factions otherwise hostile to the Yargyez Empire.
-*   They advance the state-of-the-art of magical technology in Conliah. Practically, that involves stealing magical technology from the Uzvu or searching for rumored advanced technology in Magellian ruins.
-*   They spy on other factions to monitor the development of events in Conliah, and report their findings back to the Syndic.
+<p>The keystone officers are the Lieutenants, who operate out of chapterhouses. Lieutenants have two roles: firstly, they intake mercenary jobs and submit them to their Captains for review and prioritization. Secondly, they are the commanding officers of infantry Sergeants and cavalry Marshals on-the-ground during missions.</p>
 
-A secret session was held by the council of Syndics, where a referendum was agreed that in the case of an Uzvu takeover, the Artisans Guild will side with the apparent winner and not commit to Yargyez loyalty. If the Uzvu successfully capture a fort in Eastgardia and hold it for thirty days, an emergency session will be held. The likely outcome of this emergency session is that the Artisans Guild will cease to supply the Yargyez Empire, and conditions will be established for when to begin supplying the Uzvu Confederation.
+<p>The physical presence of the Belligerantes is through the chapterhouses. The Belligerantes headquarters is a large chapterhouse located in Omugi, Middlestone. All of their members are volunteers who perform various occupations when not in combat. The most common occupations are artisans and laborers. There are also passionate academics who volunteer out of a desire to defend Conliah, as well as nobles who occupy many of the higher officer roles.</p>
 
-The symbol used by the Artisans Guild is an eight-toothed gear with an eye in the center.
+<p>Due to the outsized responsibility of the Lieutenants, there are several consequences:</p>
 
-### The Philosophers Guild
+<ul>
+<li>They tend to be more personally invested in the work than officers higher and lower than them</li>
+<li>They have outsized influence and may form subfactions of loyal subordinate officers, which threaten the integrity of the whole organization</li>
+<li>They are often involved in this line of work for opportunistic personal gain rather than altruism or honest pay.</li>
+</ul>
 
-The Philosophers Guild is a coalition of heterodox thinkers who associate for mutual protection. They have founded lodges across the continent and sponsor expeditions into Magellian ruins in search of ancient artifacts and tomes. There is no hierarchy above the lodges themselves, and individual lodges are associated or disavowed from the Philosophers Guild in a decentralized manner. Within a lodge itself, there is only one formal leader called the Lodgemaster. All other members are of equal rank, although some may be more advanced in their intellectual engagement. Lodges often fall under one of eight schools of thought listed below. This is not an absolute rule, and individual lodges can and do follow other schools of thought not listed.
+<p>The emblem used by the Belligerantes is a long black horizontal line below a solid red triangle, representing a stylized mountain.</p>
 
-#### The Quietists
+<h3>The Artisans Guild</h3>
 
-The Quietist school of thought emerged in Wuthelark, based on their epistemological claim that truth can only be revealed by inward and outward silence. Their worldview rejected that it is necessary to act in the world or engage discursively to arrive at truth. Their goal is to defend the practice of solitude and silence as a pathway to truth. In their lodges, they offer silent meditation rooms where practicioners seek to obtain visions through total silence. Their followers have the ability to cast Ardent Magic, but only in complete darkness and silence. They are resistant to silencing spells, and have enhanced vision in darkness. Their master lodge is located in Wuthelark. Their lodge seal is a lion, sleeping on a hill. Their harshest critics are the Destructivists, and their sympathizers are the Refinists, the Escapists, and the Symphonists.
+<p>The Artisans Guild is a price-fixing monopolist organization that represents the interests of large urban manufacturers against both merchants and political powers. They represent various kinds of craftspeople such as potion makers, blacksmiths, leathersmiths, and enchanters of magical weapons and armor.</p>
 
-#### The Refinists
+<p>The highest rank in the Artisans Guild is one Manufacturer Supreme, who resides in Eithar, Helscar. The Manufacturer Supreme is elected by a council of eight Syndics (one per province). Below Syndics are Master Manufacturers, divided by craft. Below the Master Manufacturers are skilled and unskilled crafters, who are the lowest rank.</p>
 
-The Refinist school of thought emerged in Westerwood, based on their epistemological claim that truth requires individuals to cultivate their own moral improvement. Their worldview rejected that unthinking submission to authority or complete disengagement with the world were pathways to truth. Their goal is to defend the practice of contemplative, moral self-improvement as a pathway to truth. In their lodges, they keep a library of the meditative diaries of lodge members. Instead of discussing philosophy, they encourage lodge members to keep diaries and read the stored diaries of others. Their followers have the ability to cast Ardent Magic, but only if their actions are grounded in deep contemplation of the moral facts of the situation. They are resistant to silencing spells, and have the ability to resist dominating magic if it forces them to commit evil. Their master lodge is located in Westerwood. Their lodge seal is a wolf and a dog, mutually biting each other. Their harshest critics are the Freneticists, and their symphathizers are the Quietists, the Refusalists, and the Legalists.
+<p>There is an operative wing of the Artisans Guild. Their field agents are trained in combat and stealth. Additionally, they are equipped with advanced magical technology stolen from the Uzvu and ancient Magellian ruins. Each Syndic commands several superintendents. Each superintendent operates a safehouse, and commands several field agents from that safehouse. This operative wing serves multiple roles the Artisans Guild requires:</p>
 
-#### The Escapists
+<ul>
+<li>They ensure the functioning of commerce so that urban manufacturers have secure buyers for their wares. Practically, that can involve threatening merchants, overthrowing lords, and negotiating with factions otherwise hostile to the Yargyez Empire.</li>
+<li>They advance the state-of-the-art of magical technology in Conliah. Practically, that involves stealing magical technology from the Uzvu or searching for rumored advanced technology in Magellian ruins.</li>
+<li>They spy on other factions to monitor the development of events in Conliah, and report their findings back to the Syndic.</li>
+</ul>
 
-The Escapist school of thought emerged in Valorgale, based on their epistemological claim that truth requires individuals to commune with unfiltered nature. Their worldview rejected that truth could be found through language or social activity, which corrupted the purity of nature itself. They do not completely reject social interaction, but purposefully agree to it on a temporary basis until individuals are prepared to abandon society and live as hermits. Their goal is to defend individual communion with nature as a means of obtaining the truth. In their lodges, they discuss less about philosophy and more about the practical hermitization process and documenting safe pathways to sites of natural beauty. Their actual practices take place outside their lodges, where they gradually spend more and more time outside of civilization and more time in untouched nature. Their followers have the ability to cast Ardent Magic, which becomes more and more potent as they become more socially isolated. They have an extraordinary knowledge of geography and survivalism. Their master lodge is located in Valorgale. Their lodge seal is a caged racoon, with its head peeking outside the cage bars. Their harshest critics are the Legalists, and their sympathizers are the Quietists, the Refualists, and the Freneticists.
+<p>A secret session was held by the council of Syndics, where a referendum was agreed that in the case of an Uzvu takeover, the Artisans Guild will side with the apparent winner and not commit to Yargyez loyalty. If the Uzvu successfully capture a fort in Eastgardia and hold it for thirty days, an emergency session will be held. The likely outcome of this emergency session is that the Artisans Guild will cease to supply the Yargyez Empire, and conditions will be established for when to begin supplying the Uzvu Confederation.</p>
 
-#### The Refusalists
+<p>The symbol used by the Artisans Guild is an eight-toothed gear with an eye in the center.</p>
 
-The Refusalist school of thought emerged in Nightglade, based on their epistemological claim that truth can only emerge when individuals actively contradict the dominant order of society. Their worldview rejected that truth could be found through purposeful social activity whatsoever, and society is a contaminant of pure individual will. They do not completely reject social interaction, but mutually agree to it on a provisional basis. Their goal is to defend individual autonomous action as a mean of obtaining the truth. In their lodges, they endlessly discuss philosophy for personal satisfaction, with the mutual understanding that no amount of discussion will lead to truth. Their actual practices take place outside of their lodges, where they make a point of living contrary to the dominant social order as beggars, thieves, and vagabonds. Their followers have the ability to cast Ardent Magic, but only when they are committing acts which contradict the dominant social order. They have resistance to mentally dominating magic, due to their active day-to-day resistance to society. Their master lodge is located in Nightglade. Their lodge seal is of two oxes formerlly yoked together: one is still yoked but the other has broken away from the yoke in rage. Their harshest critics are the Symphonists and their sympathizers are the Escapists, the Refinists, and the Destructivists.
+<h3>The Philosophers Guild</h3>
 
-#### The Symphonists
+<p>The Philosophers Guild is a coalition of heterodox thinkers who associate for mutual protection. They have founded lodges across the continent and sponsor expeditions into Magellian ruins in search of ancient artifacts and tomes. There is no hierarchy above the lodges themselves, and individual lodges are associated or disavowed from the Philosophers Guild in a decentralized manner. Within a lodge itself, there is only one formal leader called the Lodgemaster. All other members are of equal rank, although some may be more advanced in their intellectual engagement. Lodges often fall under one of eight schools of thought listed below. This is not an absolute rule, and individual lodges can and do follow other schools of thought not listed.</p>
 
-The Symphonist school of thought emerged in Fair Island, based on the epistemological claim that truth can only emerge through the social creation of beauty. Their worldview rejected that truth could be found through quiet meditation or purely rational discourse. Their goal is to defend aesthetic production as a means of obtaining truth. In their lodges, they host various activities involving the collective production of art such as massive paintings where each member fills in a section, musical productions, or dramatic performances. Their followers have the ability to cast Ardent Magic by means of witnessing grandeur, transcending their spirit to a sublime state. They can passively detect sources of extraordinary beauty, such as ancient buried megalographies. Their master lodge is located in Fair Island. Their lodge seal is a group of doves playing trumpets. Their harshest critics are the Refusalists, and their sympathizers are the Legalists, the Quietists, and the Freneticists.
+<h4>The Quietists</h4>
 
-#### The Legalists
+<p>The Quietist school of thought emerged in Wuthelark, based on their epistemological claim that truth can only be revealed by inward and outward silence. Their worldview rejected that it is necessary to act in the world or engage discursively to arrive at truth. Their goal is to defend the practice of solitude and silence as a pathway to truth. In their lodges, they offer silent meditation rooms where practicioners seek to obtain visions through total silence. Their followers have the ability to cast Ardent Magic, but only in complete darkness and silence. They are resistant to silencing spells, and have enhanced vision in darkness. Their master lodge is located in Wuthelark. Their lodge seal is a lion, sleeping on a hill. Their harshest critics are the Destructivists, and their sympathizers are the Refinists, the Escapists, and the Symphonists.</p>
 
-The Legalist school of thought emerged in Eastgardia, based on the epistemological claim that truth is only accessible through complex social structures which reward correct thinking and acting. Their worldview rejected that individuals can ever transcend a social understanding of truth, but that the whole society needs to engage discursively to develop its understanding. Their goal is to defend the law and established social structures as necessary to preserve a coherent understanding of the truth. In their lodges, they host debates with large audiences to decide the better argument, and engage with each other through open letters. Their followers have the ability to cast Ardent Magic, but only when their actions are aligned with the overall will of the masses. They have an extraordinary ability to persuade others concerning why obedience to the law is actually for their own benefit, even in the middle of an evil act. Their master lodge is located in Eastgardia. Their lodge seal is one elephant holding a compass, and another elephant holding a straightedge, bound together by a rope. Their harshest critics are the Escapists, and their sympathizers are the Symphonists, the Refinists, and the Destructivists.
+<h4>The Refinists</h4>
 
-#### The Freneticists
+<p>The Refinist school of thought emerged in Westerwood, based on their epistemological claim that truth requires individuals to cultivate their own moral improvement. Their worldview rejected that unthinking submission to authority or complete disengagement with the world were pathways to truth. Their goal is to defend the practice of contemplative, moral self-improvement as a pathway to truth. In their lodges, they keep a library of the meditative diaries of lodge members. Instead of discussing philosophy, they encourage lodge members to keep diaries and read the stored diaries of others. Their followers have the ability to cast Ardent Magic, but only if their actions are grounded in deep contemplation of the moral facts of the situation. They are resistant to silencing spells, and have the ability to resist dominating magic if it forces them to commit evil. Their master lodge is located in Westerwood. Their lodge seal is a wolf and a dog, mutually biting each other. Their harshest critics are the Freneticists, and their symphathizers are the Quietists, the Refusalists, and the Legalists.</p>
 
-The Freneticist school of thought emerged in Middlestone, based on the epistemological claim that truth can be obtained through extreme states of consciousness. Their worldview rejected that reason has any privileged claim to a correct understanding of reality. Their goal is to defend frenzy as a legitimate path to truth and tear down the monopoly of rationalism in philosophical circles. In their lodges, they engage in rituals that induce frenzy in their participants in order to obtain transcendent visions. Their followers have the ability to cast Ardent Magic by means of self-inducing a frenzied trance. They are difficult to persuade and intimidate because of their purpose-driven irrationalism. Their master lodge is located in Middlestone. Their lodge seal is a snake drinking from a goblet, with its body coiled in a spiral. Their harshest critics are the Refinists, and their sympathizers are the Symphonists, the Destructivists, and the Escapists.
+<h4>The Escapists</h4>
 
-#### The Destructivists
+<p>The Escapist school of thought emerged in Valorgale, based on their epistemological claim that truth requires individuals to commune with unfiltered nature. Their worldview rejected that truth could be found through language or social activity, which corrupted the purity of nature itself. They do not completely reject social interaction, but purposefully agree to it on a temporary basis until individuals are prepared to abandon society and live as hermits. Their goal is to defend individual communion with nature as a means of obtaining the truth. In their lodges, they discuss less about philosophy and more about the practical hermitization process and documenting safe pathways to sites of natural beauty. Their actual practices take place outside their lodges, where they gradually spend more and more time outside of civilization and more time in untouched nature. Their followers have the ability to cast Ardent Magic, which becomes more and more potent as they become more socially isolated. They have an extraordinary knowledge of geography and survivalism. Their master lodge is located in Valorgale. Their lodge seal is a caged racoon, with its head peeking outside the cage bars. Their harshest critics are the Legalists, and their sympathizers are the Quietists, the Refualists, and the Freneticists.</p>
 
-The Destructivist school of thought emerged in Helscar, based on their epistemological claim that knowledge of truth requires struggle against the morally corrupt majority. Their worldview rejected that discourse leads to truth, because the dominant social structure rewards evil. Their goal is to hypothetically defend periodic vast uprisings of zealots to cleanse the land from corruption. In their lodges, they actively train in combat which mixes martial and magical methods. Their followers have the ability to cast Ardent Magic, but only when they are actively enraged by social injustice. Their vigilance against an ever-present evil gives them a passive ability to detect deception and traps. Their master lodge is located in Helscar. Their lodge seal is a sheep standing on two legs, holding a sword and shield. Their harshest critics are the Quietists, and their sympathizers are the Freneticists, the Legalists, and the Refusalists.
+<h4>The Refusalists</h4>
 
-### The Academy of Knowledge
+<p>The Refusalist school of thought emerged in Nightglade, based on their epistemological claim that truth can only emerge when individuals actively contradict the dominant order of society. Their worldview rejected that truth could be found through purposeful social activity whatsoever, and society is a contaminant of pure individual will. They do not completely reject social interaction, but mutually agree to it on a provisional basis. Their goal is to defend individual autonomous action as a mean of obtaining the truth. In their lodges, they endlessly discuss philosophy for personal satisfaction, with the mutual understanding that no amount of discussion will lead to truth. Their actual practices take place outside of their lodges, where they make a point of living contrary to the dominant social order as beggars, thieves, and vagabonds. Their followers have the ability to cast Ardent Magic, but only when they are committing acts which contradict the dominant social order. They have resistance to mentally dominating magic, due to their active day-to-day resistance to society. Their master lodge is located in Nightglade. Their lodge seal is of two oxes formerlly yoked together: one is still yoked but the other has broken away from the yoke in rage. Their harshest critics are the Symphonists and their sympathizers are the Escapists, the Refinists, and the Destructivists.</p>
 
-The Academy of Knowledge is the largest magical organization in Conliah, and has direct ties to the Yargyez Empire. It is dedicated to the open, systematic study of magic.
+<h4>The Symphonists</h4>
 
-Each university is overseen by a Rectormage, who is appointed by an Archmage Provincial. Likewise, the Rectormage appoints Chairmages for each department of study. There are eight Archmage Provincials, one for each province. Above all of them stand the Archmage General in Inton, Eastgardia.
+<p>The Symphonist school of thought emerged in Fair Island, based on the epistemological claim that truth can only emerge through the social creation of beauty. Their worldview rejected that truth could be found through quiet meditation or purely rational discourse. Their goal is to defend aesthetic production as a means of obtaining truth. In their lodges, they host various activities involving the collective production of art such as massive paintings where each member fills in a section, musical productions, or dramatic performances. Their followers have the ability to cast Ardent Magic by means of witnessing grandeur, transcending their spirit to a sublime state. They can passively detect sources of extraordinary beauty, such as ancient buried megalographies. Their master lodge is located in Fair Island. Their lodge seal is a group of doves playing trumpets. Their harshest critics are the Refusalists, and their sympathizers are the Legalists, the Quietists, and the Freneticists.</p>
 
-In addition to learning the principles of schoolmagic, the universities also emphasize civil, moral, and philosophical education to ensure graduates employ magic in line with the Yargyez Empire's wishes.
+<h4>The Legalists</h4>
 
-The symbol used by the Academy of Knowledge is a tetractys of white, four-pointed stars on a blue background. White suns and white moons on a blue background are also commonly used symbols.
+<p>The Legalist school of thought emerged in Eastgardia, based on the epistemological claim that truth is only accessible through complex social structures which reward correct thinking and acting. Their worldview rejected that individuals can ever transcend a social understanding of truth, but that the whole society needs to engage discursively to develop its understanding. Their goal is to defend the law and established social structures as necessary to preserve a coherent understanding of the truth. In their lodges, they host debates with large audiences to decide the better argument, and engage with each other through open letters. Their followers have the ability to cast Ardent Magic, but only when their actions are aligned with the overall will of the masses. They have an extraordinary ability to persuade others concerning why obedience to the law is actually for their own benefit, even in the middle of an evil act. Their master lodge is located in Eastgardia. Their lodge seal is one elephant holding a compass, and another elephant holding a straightedge, bound together by a rope. Their harshest critics are the Escapists, and their sympathizers are the Symphonists, the Refinists, and the Destructivists.</p>
 
-### The Imperial Cult
+<h4>The Freneticists</h4>
 
-The Imperial Cult is the official religion of the Yargyez Empire. Each Agathos has its own clerical hierarchy and rites. The Yargyez Emperor is considered the ultimate head of the Imperial Cult, who guides the Archbishops of the Six Guardians. At the head of each cult of a Guardian Agathos is an Archbishop, who spiritually leads that specific cult. Below Archbishops are Bishops, whose main purpose is to serve as intermediaries between a group of Priests and the Archbishop. Priests are the leaders of a particular temple, who directly serve the local community. Below priests are Seminarians, who are training at a temple to become full-fledged priests.
+<p>The Freneticist school of thought emerged in Middlestone, based on the epistemological claim that truth can be obtained through extreme states of consciousness. Their worldview rejected that reason has any privileged claim to a correct understanding of reality. Their goal is to defend frenzy as a legitimate path to truth and tear down the monopoly of rationalism in philosophical circles. In their lodges, they engage in rituals that induce frenzy in their participants in order to obtain transcendent visions. Their followers have the ability to cast Ardent Magic by means of self-inducing a frenzied trance. They are difficult to persuade and intimidate because of their purpose-driven irrationalism. Their master lodge is located in Middlestone. Their lodge seal is a snake drinking from a goblet, with its body coiled in a spiral. Their harshest critics are the Refinists, and their sympathizers are the Symphonists, the Destructivists, and the Escapists.</p>
 
-#### The Order of Iazus
+<h4>The Destructivists</h4>
 
-Imperial Cult Inquisitors are agents of the Order of Iazus, and they are dedicated to actively smiting evil across Conliah. Their mandate is to suppress Archonic cult activity, gather intelligence regarding Cthonic magic and rituals, and to recover and destroy Cthonic artifacts. The local priest of Iazus will observe rumors of Cthonic rites being practiced, and send an Inquisitor cell to investigate the rumor. Then, the Inquisitors will conclude their investigation, take appropriate action, and report their findings back to the priest. The local law enforcers must yield to their Inquisitors during an investigation, backed by imperial law. They have the right to confiscate evidence, detain suspected individuals, and punish proven cultists with lethal force.
+<p>The Destructivist school of thought emerged in Helscar, based on their epistemological claim that knowledge of truth requires struggle against the morally corrupt majority. Their worldview rejected that discourse leads to truth, because the dominant social structure rewards evil. Their goal is to hypothetically defend periodic vast uprisings of zealots to cleanse the land from corruption. In their lodges, they actively train in combat which mixes martial and magical methods. Their followers have the ability to cast Ardent Magic, but only when they are actively enraged by social injustice. Their vigilance against an ever-present evil gives them a passive ability to detect deception and traps. Their master lodge is located in Helscar. Their lodge seal is a sheep standing on two legs, holding a sword and shield. Their harshest critics are the Quietists, and their sympathizers are the Freneticists, the Legalists, and the Refusalists.</p>
 
-A typical Inquisitor cell has three members.
+<h3>The Academy of Knowledge</h3>
 
-*   The lead inquisitor is the most experienced, and primarily focuses on martial presence. Their purpose is to make critical decisions for the cell, and speak on behalf of the cell. They have past experience in the other roles, but delegate to the other cell members.
-*   The field researcher is often the least experienced member of the cell. Their purpose is to accumulate theoretical knowledge of cult activity, and actively search for evidence of cult activity.
-*   The exorcist has a magical focus, and has the greatest knowledge on actively purifying locations and objects which are imbued with Cthonic magic.
+<p>The Academy of Knowledge is the largest magical organization in Conliah, and has direct ties to the Yargyez Empire. It is dedicated to the open, systematic study of magic.</p>
 
-Examples of contraband which the Inquisitors will seize are:
+<p>Each university is overseen by a Rectormage, who is appointed by an Archmage Provincial. Likewise, the Rectormage appoints Chairmages for each department of study. There are eight Archmage Provincials, one for each province. Above all of them stand the Archmage General in Inton, Eastgardia.</p>
 
-*   Archonic amulets and tokens
-*   Cursed scrolls and tomes
-*   Weapons and armor enchanted with Cthonic magic
-*   Various other artifacts with detectable Cthonic energy
+<p>In addition to learning the principles of schoolmagic, the universities also emphasize civil, moral, and philosophical education to ensure graduates employ magic in line with the Yargyez Empire's wishes.</p>
 
-#### Friends of the Hearth Keeper
+<p>The symbol used by the Academy of Knowledge is a tetractys of white, four-pointed stars on a blue background. White suns and white moons on a blue background are also commonly used symbols.</p>
 
-The friends of the Hearth Keeper are missionaries who spread orthodox Agathos worship in remote regions of Conliah such as Valorgale. While they are not a militant order, their members equip themselves for self-defense against Cthonic threats.
+<h3>The Imperial Cult</h3>
 
-### Archonic Cults
+<p>The Imperial Cult is the official religion of the Yargyez Empire. Each Agathos has its own clerical hierarchy and rites. The Yargyez Emperor is considered the ultimate head of the Imperial Cult, who guides the Archbishops of the Six Guardians. At the head of each cult of a Guardian Agathos is an Archbishop, who spiritually leads that specific cult. Below Archbishops are Bishops, whose main purpose is to serve as intermediaries between a group of Priests and the Archbishop. Priests are the leaders of a particular temple, who directly serve the local community. Below priests are Seminarians, who are training at a temple to become full-fledged priests.</p>
 
-Across Conliah, there are a large number of small Archonic cults. Their specific nature and activities depends on the Archon they serve.
 
-#### The Tenkerlad Scholars
 
-The Tenkerlad scholars are a decentralized network of necromancers who worship Igedeng, the Father of Bones. They form circles of researchers dedicated to studying the process of death and decay, and the reanimation of flesh through infusion with soul material.
+<h4>The Order of Iazus</h4>
 
-#### The Tyvenlad Syndicates
+<p>Imperial Cult Inquisitors are agents of the Order of Iazus, and they are dedicated to actively smiting evil across Conliah. Their mandate is to suppress Archonic cult activity, gather intelligence regarding Cthonic magic and rituals, and to recover and destroy Cthonic artifacts. The local priest of Iazus will observe rumors of Cthonic rites being practiced, and send an Inquisitor cell to investigate the rumor. Then, the Inquisitors will conclude their investigation, take appropriate action, and report their findings back to the priest. The local law enforcers must yield to their Inquisitors during an investigation, backed by imperial law. They have the right to confiscate evidence, detain suspected individuals, and punish proven cultists with lethal force.</p>
 
-The Tyvenlad are a decentralized network of criminal syndicates operating the black market economy across Conliah. Each Tyvenlad syndicate has its own territory and hierarchical structure, but there is no rank above the leader of a single syndicate. Instead, the leaders of syndicates negotiate and compromise with each other according to customs and informal rules of engagement in order to prevent feuding between thieves.
+<p>A typical Inquisitor cell has three members.</p>
 
-Within a single Tyvenlad syndicate, there is a common hierarchy. A Bandit King or Bandit Queen is the leader of a single syndicate. A Consigliere serves to arbitrate disputes between syndicates. The Consigliere reports directly to the Bandit King/Queen, but does not have any subordinate reports and is forbidden from succeeding the Bandit King/Queen. Also reporting directly to the Bandit King/Queen are one or more Captains, who each command a crew. The lowest rank are Soldiers, who perform the grunt work.
+<ul>
+<li>The lead inquisitor is the most experienced, and primarily focuses on martial presence. Their purpose is to make critical decisions for the cell, and speak on behalf of the cell. They have past experience in the other roles, but delegate to the other cell members.</li>
+<li>The field researcher is often the least experienced member of the cell. Their purpose is to accumulate theoretical knowledge of cult activity, and actively search for evidence of cult activity.</li>
+<li>The exorcist has a magical focus, and has the greatest knowledge on actively purifying locations and objects which are imbued with Cthonic magic.</li>
+</ul>
 
-Although low-ranking members do not participate, Bandit Kings and Bandit Queens are intermediaries between a syndicate and the Archon Ogzim, and they make sacrifices to him for his blessing. The Tyvenlad are extensions of Ogzim's physical presence in Conliah.
+<p>Examples of contraband which the Inquisitors will seize are:</p>
 
-#### The Morderlad Fraternities
+<ul>
+<li>Archonic amulets and tokens</li>
+<li>Cursed scrolls and tomes</li>
+<li>Weapons and armor enchanted with Cthonic magic</li>
+<li>Various other artifacts with detectable Cthonic energy</li>
+</ul>
 
-The Morderlad fraternities are a decentralized underground association of assassins-for-hire. They worship Uluzing, the Mistress of Ends. Each fraternity house has its own High Priest who directly communes with Uluzing to receive notice of someone praying to Uluzing for her cult to perform an assassination. The High Priest then sends an agent to directly meet with the petitioner to receive payment and information regarding the target. Then, the High Priest sends an agent to assassinate the target, and the assassin receives part of the petitioner's payment.
 
-#### The Spokefuglad Bands
 
-The Spokefuglad bands are a decentralized underground association of pranksters. They worship Lozie, the Strifemaker. They travel from town to town, staging performances which are incomprehensible to local residents. While in the town, they constantly prank the local residents, create unnecessary strife between townsfolk, and humiliate nobles.
+<h4>Friends of the Hearth Keeper</h4>
 
-#### The Overvelderlad Armies
+<p>The friends of the Hearth Keeper are missionaries who spread orthodox Agathos worship in remote regions of Conliah such as Valorgale. While they are not a militant order, their members equip themselves for self-defense against Cthonic threats.</p>
 
-The Overvelderlad armies are a decentralized underground association of aspiring conquerors. They worship Lize, the Harvester of Mortals. They summon Cthonian creatures to serve in their armies and plan invasions starting from the countrysides of Conliah.
+<h3>Archonic Cults</h3>
 
-#### The Brannenlad Conspiracies
+<p>Across Conliah, there are a large number of small Archonic cults. Their specific nature and activities depends on the Archon they serve.</p>
 
-The Brannenlad Conspiracies are a decentralized underground association of nobles who aspire to overthrow the Yargyez Emperor. They worship Lundazing, the Queen of Destruction. They were responsible for a failed attempt on the Yargyez Emperor, but they are regrouping their forces.
+<h4>The Tenkerlad Scholars</h4>
 
-Monsters
---------
+<p>The Tenkerlad scholars are a decentralized network of necromancers who worship Igedeng, the Father of Bones. They form circles of researchers dedicated to studying the process of death and decay, and the reanimation of flesh through infusion with soul material.</p>
 
-_After repeated exposure to Cthonic energy, you are guaranteed to develop a faint synesthesia for its presence. Some describe a literal red glow, and others report the faint smell of burning garlic. Regardless of how it manifests, what is indispensible is to trust your senses and instincts. Once Cthonic energy is detected, it is necessary to take decisive action. A first strike can make the difference between life and death._
+<h4>The Tyvenlad Syndicates</h4>
 
-_\-- The Inquisitorial Field Manual of Iazus_
+<p>The Tyvenlad are a decentralized network of criminal syndicates operating the black market economy across Conliah. Each Tyvenlad syndicate has its own territory and hierarchical structure, but there is no rank above the leader of a single syndicate. Instead, the leaders of syndicates negotiate and compromise with each other according to customs and informal rules of engagement in order to prevent feuding between thieves.</p>
 
-![Henry V Discovering the Conspirators by Henry Fuseli](Henry_V_Discovering_the_Conspirators_Henry_Fuseli.jpeg "Henry V Discovering the Conspirators by Henry Fuseli")
+<p>Within a single Tyvenlad syndicate, there is a common hierarchy. A Bandit King or Bandit Queen is the leader of a single syndicate. A Consigliere serves to arbitrate disputes between syndicates. The Consigliere reports directly to the Bandit King/Queen, but does not have any subordinate reports and is forbidden from succeeding the Bandit King/Queen. Also reporting directly to the Bandit King/Queen are one or more Captains, who each command a crew. The lowest rank are Soldiers, who perform the grunt work.</p>
 
-Note that Conliah lacks two distinct categories of monsters: "always evil humanoids" and "magical beasts". While classic mythological creatures may be present in Conliah in some form, they must be reimagined as belonging to one of the below categories outlined.
+</div>
+<div class="break-page"></div>
 
-The below listing provides several traits, which help to contextualize what an encounter with the monster is like:
+<p>Although low-ranking members do not participate, Bandit Kings and Bandit Queens are intermediaries between a syndicate and the Archon Ogzim, and they make sacrifices to him for his blessing. The Tyvenlad are extensions of Ogzim's physical presence in Conliah.</p>
 
-*   **Robustness** refers to the overall resilience of the monster in combat, by analogy with a real-world animal.
-    *   1: Baseline for untrained, sentient humanoids
-    *   2: Domestic Mule
-    *   3: Wild Boar
-    *   4: Black Bear
-    *   5: Grizzly Bear
-    *   6: Cape Buffalo
-    *   7: American Bison
-    *   8: Black Rhinoceros
-    *   9: African Elephant
-    *   10: Resilient beyond analogy
-*   **Number appearing** provides a range for how many monsters are present in a random encounter.
-*   **Disposition** may be peaceful, cautious, or hostile. It refers to the default, unprovoked friendliness of the monster.
-*   **Courage** may be relentless, brave, pragmatic, or cowardly. It refers to the willingness of the monster to fight to the death.
-*   **Soul color** describes the magical signature that the monster's presence emits.
+<h4>The Morderlad Fraternities</h4>
 
-### Corrupted Mortals
+<p>The Morderlad fraternities are a decentralized underground association of assassins-for-hire. They worship Uluzing, the Mistress of Ends. Each fraternity house has its own High Priest who directly communes with Uluzing to receive notice of someone praying to Uluzing for her cult to perform an assassination. The High Priest then sends an agent to directly meet with the petitioner to receive payment and information regarding the target. Then, the High Priest sends an agent to assassinate the target, and the assassin receives part of the petitioner's payment.</p>
 
-These common monsters are former mortals, who were corrupted by Cthonic forces in life, or in death. Corrupted mortals enact the will of the Archons, whether they want to or not. For their common fear of being persecuted by the sentient mortal races on the surface, these corrupted mortals will often settle in the same underground complexes such as Magellian ruins and caves. The different groups of corrupted mortals do not necessarily trust each other, but avoid conflict with one another in order to survive.
+<h4>The Spokefuglad Bands</h4>
 
-#### Gutterplots
+<p>The Spokefuglad bands are a decentralized underground association of pranksters. They worship Lozie, the Strifemaker. They travel from town to town, staging performances which are incomprehensible to local residents. While in the town, they constantly prank the local residents, create unnecessary strife between townsfolk, and humiliate nobles.</p>
 
-*   **Robustness:** 1
-*   **Number appearing:** 2-8
-*   **Disposition:** Cautious
-*   **Courage:** Cowardly
-*   **Soul color:** Green core, with traces of red
+<h4>The Overvelderlad Armies</h4>
 
-Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage.
+<p>The Overvelderlad armies are a decentralized underground association of aspiring conquerors. They worship Lize, the Harvester of Mortals. They summon Cthonian creatures to serve in their armies and plan invasions starting from the countrysides of Conliah.</p>
 
-#### Husks
+<h4>The Brannenlad Conspiracies</h4>
 
-*   **Robustness:** 2
-*   **Number appearing:** 1-6
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Green core, with traces of red
+<p>The Brannenlad Conspiracies are a decentralized underground association of nobles who aspire to overthrow the Yargyez Emperor. They worship Lundazing, the Queen of Destruction. They were responsible for a failed attempt on the Yargyez Emperor, but they are regrouping their forces.</p>
 
-Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Synhearts have faces that look like grasshoppers. Due to their Cthonic corruption, Synhearts dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.
+<div class="break-page"></div>
 
-#### Draklings
+<h2>Monsters</h2>
 
-*   **Robustness:** 1
-*   **Number appearing:** 2-8
-*   **Disposition:** Cautious
-*   **Courage:** Cowardly
-*   **Soul color:** Green core, with traces of red
+<p><em>After repeated exposure to Cthonic energy, you are guaranteed to develop a faint synesthesia for its presence. Some describe a literal red glow, and others report the faint smell of burning garlic. Regardless of how it manifests, what is indispensible is to trust your senses and instincts. Once Cthonic energy is detected, it is necessary to take decisive action. A first strike can make the difference between life and death.</em></p>
 
-Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with transformation into a Drakling. They grow reptilian scales, tails, and curved horns. They gain the ability to breathe fire or acid. Draklings are cunning, but prefer to avoid direct combat in melee range. Instead, they tend to use ranged weapons, lay traps, and ambush their enemies. Draklings are usually former nobles and their loyal courts. The goal of most Draklings is to usurp their superiors and rule over the land. Even if they successfully kill their superiors, their monstrous transformation undermines their legitimacy and authority.
+<p><em>-- The Inquisitorial Field Manual of Iazus</em></p>
 
-#### Iavols
+<div class="two-column-flow">
 
-*   **Robustness:** 1
-*   **Number appearing:** 2-8
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Green core, with traces of red
+<center>
+<img title="Henry V Discovering the Conspirators by Henry Fuseli" alt="Henry V Discovering the Conspirators by Henry Fuseli" src="Henry_V_Discovering_the_Conspirators_Henry_Fuseli.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-Mortals who worship Lize in hopes of conquering Conliah may be gifted with transformation into an Iavol. Their skin turns red, and they grow horns and a barbed tail. They gain the ability to induce unbearable pain in others. Iavols are bent on war and domination. When Iavols invade a region, they establish a lair to launch attacks on the country side. They raid settlements to loot weapons, armor, and rations.
+<p>Note that Conliah lacks two distinct categories of monsters: "always evil humanoids" and "magical beasts". While classic mythological creatures may be present in Conliah in some form, they must be reimagined as belonging to one of the below categories outlined.</p>
 
-#### Blood Monsters
+<p>The below listing provides several traits, which help to contextualize what an encounter with the monster is like:</p>
 
-*   **Robustness:** 7
-*   **Number appearing:** 1-6
-*   **Disposition:** Cautious
-*   **Courage:** Brave
-*   **Soul color:** Green core, with floods of red
+<ul>
+<li><strong>Robustness</strong> refers to the overall resilience of the monster in combat, by analogy with a real-world animal.
+<ul>
+<li>1: Baseline for untrained, sentient humanoids</li>
+<li>2: Domestic Mule</li>
+<li>3: Wild Boar</li>
+<li>4: Black Bear</li>
+<li>5: Grizzly Bear</li>
+<li>6: Cape Buffalo</li>
+<li>7: American Bison</li>
+<li>8: Black Rhinoceros</li>
+<li>9: African Elephant</li>
+<li>10: Resilient beyond analogy</li>
+</ul></li>
+<li><strong>Number appearing</strong> provides a range for how many monsters are present in a random encounter.</li>
+<li><strong>Disposition</strong> may be peaceful, cautious, or hostile. It refers to the default, unprovoked friendliness of the monster.</li>
+<li><strong>Courage</strong> may be relentless, brave, pragmatic, or cowardly. It refers to the willingness of the monster to fight to the death.</li>
+<li><strong>Soul color</strong> describes the magical signature that the monster's presence emits.</li>
+</ul>
 
-Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.
+<h3>Corrupted Mortals</h3>
 
-#### Liches
+<p>These common monsters are former mortals, who were corrupted by Cthonic forces in life, or in death. Corrupted mortals enact the will of the Archons, whether they want to or not. For their common fear of being persecuted by the sentient mortal races on the surface, these corrupted mortals will often settle in the same underground complexes such as Magellian ruins and caves. The different groups of corrupted mortals do not necessarily trust each other, but avoid conflict with one another in order to survive.</p>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1
-*   **Disposition:** Cautious
-*   **Courage:** Brave
-*   **Soul color:** Green core, with floods of red
+<h4>Gutterplots</h4>
 
-Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.
+<ul>
+<li><strong>Robustness:</strong> 1</li>
+<li><strong>Number appearing:</strong> 2-8</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Cowardly</li>
+<li><strong>Soul color:</strong> Green core, with traces of red</li>
+</ul>
 
-#### Ghosts
+<p>Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage.</p>
 
-*   **Robustness:** Intangible; can only be exorcised
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Green core, with floods of red
+<div class="break-page"></div>
 
-A green soul bound to a location becomes a Ghost. Most often, this is achieved through powerful ancestor veneration rituals. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound to a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic.
+<h4>Husks</h4>
 
-#### Lycanthropes
+<ul>
+<li><strong>Robustness:</strong> 2</li>
+<li><strong>Number appearing:</strong> 1-6</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Green core, with traces of red</li>
+</ul>
 
-*   **Robustness:** 4
-*   **Number appearing:** 1-6
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Green core, with floods of red
+<p>Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Synhearts have faces that look like grasshoppers. Due to their Cthonic corruption, Synhearts dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.</p>
 
-Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.
+<h4>Draklings</h4>
 
-### Cthonians
+<ul>
+<li><strong>Robustness:</strong> 1</li>
+<li><strong>Number appearing:</strong> 2-8</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Cowardly</li>
+<li><strong>Soul color:</strong> Green core, with traces of red</li>
+</ul>
 
-These exotic monsters are direct servants of the Archons, and cannot persist in Ksylia for prolonged periods. Seeing them in the open is a sure sign of a Cthonic Breach.
+<p>Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with transformation into a Drakling. They grow reptilian scales, tails, and curved horns. They gain the ability to breathe fire or acid. Draklings are cunning, but prefer to avoid direct combat in melee range. Instead, they tend to use ranged weapons, lay traps, and ambush their enemies. Draklings are usually former nobles and their loyal courts. The goal of most Draklings is to usurp their superiors and rule over the land. Even if they successfully kill their superiors, their monstrous transformation undermines their legitimacy and authority.</p>
 
-#### Lykoids
+<h4>Iavols</h4>
 
-*   **Robustness:** 2
-*   **Number appearing:** 1-6
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Red
+<ul>
+<li><strong>Robustness:</strong> 1</li>
+<li><strong>Number appearing:</strong> 2-8</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Green core, with traces of red</li>
+</ul>
 
-Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch.
+<p>Mortals who worship Lize in hopes of conquering Conliah may be gifted with transformation into an Iavol. Their skin turns red, and they grow horns and a barbed tail. They gain the ability to induce unbearable pain in others. Iavols are bent on war and domination. When Iavols invade a region, they establish a lair to launch attacks on the country side. They raid settlements to loot weapons, armor, and rations.</p>
 
-#### Nightcreeps
+<h4>Blood Monsters</h4>
 
-*   **Robustness:** 1
-*   **Number appearing:** 1-8
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Red
+<ul>
+<li><strong>Robustness:</strong> 7</li>
+<li><strong>Number appearing:</strong> 1-6</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Green core, with floods of red</li>
+</ul>
 
-Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights.
+<p>Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.</p>
 
-#### Oktocheirs
+<div class="break-page"></div>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1-4
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Red
+<h4>Liches</h4>
 
-Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with eight arms, no legs, and no heads. In the absence of eyes or ears, Oktocheirs can detect where mortals are positioned based on the vibration of their footsteps, however subtly their prey attempts to sneak. They can move in different ways, often either by crawling on all eight arms like a spider, or by walking on two arms like humanoid legs. They are native to Uluzing's Quaking Peaks, where they threaten to push or throw travellers onto either side of a narrow cliff.
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Green core, with floods of red</li>
+</ul>
 
-#### Tentacle Heads
+<p>Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.</p>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1-4
-*   **Disposition:** Cautious
-*   **Courage:** Relentless
-*   **Soul color:** Red
+<h4>Ghosts</h4>
 
-Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods.
+<ul>
+<li><strong>Robustness:</strong> Intangible; can only be exorcised</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Green core, with floods of red</li>
+</ul>
 
-#### Dragons
+<p>A green soul bound to a location becomes a Ghost. Most often, this is achieved through powerful ancestor veneration rituals. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound to a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic.</p>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1-4
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Red
+<h4>Lycanthropes</h4>
 
-Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's Cinderthrone. The largest Dragons may be fifty feet long. They have a well-defined social hierarchy in which the leader of a Dragon kingdom is constantly being overthrown by their subjects. They rule over other lesser Dragon-like beings who populate Cinderthrone who exist at lower strata of this social hierarchy. According to legend, the ancient Dwarves who worshipped Lundazing were granted the power to summon Dragons as flying mounts.
+<ul>
+<li><strong>Robustness:</strong> 4</li>
+<li><strong>Number appearing:</strong> 1-6</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Green core, with floods of red</li>
+</ul>
 
-#### Tormentors
+<p>Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.</p>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1-4
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Red
+<h3>Cthonians</h3>
 
-Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
+<p>These exotic monsters are direct servants of the Archons, and cannot persist in Ksylia for prolonged periods. Seeing them in the open is a sure sign of a Cthonic Breach.</p>
 
-#### Nagas
+<h4>Lykoids</h4>
 
-*   **Robustness:** 4
-*   **Number appearing:** 3-18
-*   **Disposition:** Cautious
-*   **Courage:** Relentless
-*   **Soul color:** Red
+<ul>
+<li><strong>Robustness:</strong> 2</li>
+<li><strong>Number appearing:</strong> 1-6</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-Nagas are creatures with the torso of a human and the lower body of a snake. They can breathe in water or air. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs.
+<p>Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch.</p>
 
-#### Arachnaurs
+<h4>Nightcreeps</h4>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1
-*   **Disposition:** Peaceful
-*   **Courage:** Relentless
-*   **Soul color:** Red
+<ul>
+<li><strong>Robustness:</strong> 1</li>
+<li><strong>Number appearing:</strong> 1-8</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.
+<p>Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights.</p>
 
-### Artificial Monsters
+<div class="break-page"></div>
 
-There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Golems and Zombies, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
+<h4>Oktocheirs</h4>
 
-#### Flesh Mutants
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 6
-*   **Number appearing:** 1-8
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Yellow
+<p>Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with eight arms, no legs, and no heads. In the absence of eyes or ears, Oktocheirs can detect where mortals are positioned based on the vibration of their footsteps, however subtly their prey attempts to sneak. They can move in different ways, often either by crawling on all eight arms like a spider, or by walking on two arms like humanoid legs. They are native to Uluzing's Quaking Peaks, where they threaten to push or throw travellers onto either side of a narrow cliff.</p>
 
-The Magellians attempted to enhance mortal flesh through magical means, but their early attempts backfired. As a result they created deformed humanoids with enormous amorphous growths. The flesh of these mutants is often grafted to metal. Flesh Mutants wander mindlessly in underground ruins unless agitated and ravenous. If they are provoked, they will blast their targets with elemental projectiles. Flesh Mutants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+<h4>Tentacle Heads</h4>
 
-#### Trolls
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 6
-*   **Number appearing:** 1-8
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Yellow
+<p>Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods.</p>
 
-Trolls are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. Trolls are nine feet tall, and walk with a hunch. They also have the ability to regenerate in the midst of combat. In combat, Trolls are very agile and strike with claws and teeth. Trolls often wander in groups outdoors aimlessly searching for sustenance. Trolls do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+<h4>Dragons</h4>
 
-#### Giants
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 8
-*   **Number appearing:** 1-4
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Yellow
+<p>Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's Cinderthrone. The largest Dragons may be fifty feet long. They have a well-defined social hierarchy in which the leader of a Dragon kingdom is constantly being overthrown by their subjects. They rule over other lesser Dragon-like beings who populate Cinderthrone who exist at lower strata of this social hierarchy. According to legend, the ancient Dwarves who worshipped Lundazing were granted the power to summon Dragons as flying mounts.</p>
 
-Giants are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. They were intended as beasts of burden who could perform tasks more suitable for a humanoid form. They stand at eleven feet tall and are capable of fighting with clubs. Giants often wander in groups outdoors aimlessly searching for sustenance. Giants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+<h4>Tormentors</h4>
 
-#### Steelskulls
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 6
-*   **Number appearing:** 1-4
-*   **Disposition:** Peaceful
-*   **Courage:** Brave
-*   **Soul color:** Green
+<p>Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.</p>
 
-Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life.
+<h4>Nagas</h4>
 
-#### Mechanids
+<ul>
+<li><strong>Robustness:</strong> 4</li>
+<li><strong>Number appearing:</strong> 3-18</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 2
-*   **Number appearing:** 1-8
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow and green mixed
+<p>Nagas are creatures with the torso of a human and the lower body of a snake. They can breathe in water or air. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs.</p>
 
-Mechanids are humanoid constructs the Magellians used as servants and soldiers. The ancient Magellians knew how to animate this clockwork vessel with a sentient mortal and animal soul combined. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
+<h4>Arachnaurs</h4>
 
-#### Skeletons
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Peaceful</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Red</li>
+</ul>
 
-*   **Robustness:** 1
-*   **Number appearing:** 3-18
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
+<p>Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.</p>
 
-Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
+<h3>Artificial Monsters</h3>
 
-#### Zombies
+<p>There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Golems and Zombies, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.</p>
 
-*   **Robustness:** 2
-*   **Number appearing:** 2-8
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
+<h4>Flesh Mutants</h4>
 
-Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
+<ul>
+<li><strong>Robustness:</strong> 6</li>
+<li><strong>Number appearing:</strong> 1-8</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-#### Ghouls
+<p>The Magellians attempted to enhance mortal flesh through magical means, but their early attempts backfired. As a result they created deformed humanoids with enormous amorphous growths. The flesh of these mutants is often grafted to metal. Flesh Mutants wander mindlessly in underground ruins unless agitated and ravenous. If they are provoked, they will blast their targets with elemental projectiles. Flesh Mutants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.</p>
 
-*   **Robustness:** 2
-*   **Number appearing:** 1-6
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow core, with floods of red
+<h4>Trolls</h4>
 
-Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
+<ul>
+<li><strong>Robustness:</strong> 6</li>
+<li><strong>Number appearing:</strong> 1-8</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-#### Golems
+<p>Trolls are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. Trolls are nine feet tall, and walk with a hunch. They also have the ability to regenerate in the midst of combat. In combat, Trolls are very agile and strike with claws and teeth. Trolls often wander in groups outdoors aimlessly searching for sustenance. Trolls do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.</p>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Faintly yellow
+<h4>Giants</h4>
 
-Unintelligent golems that mindlessly obey their creators are common tools in combat. They may be made of various materials like clay, wood, iron, and bronze. They vary in size and shape.
+<ul>
+<li><strong>Robustness:</strong> 8</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-#### Agalmaliths
+<p>Giants are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. They were intended as beasts of burden who could perform tasks more suitable for a humanoid form. They stand at eleven feet tall and are capable of fighting with clubs. Giants often wander in groups outdoors aimlessly searching for sustenance. Giants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.</p>
 
-*   **Robustness:** 5
-*   **Number appearing:** 1-3
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Yellow
+<h4>Steelskulls</h4>
 
-The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than golems, and capable of greater autonomy in following its commands.
+<ul>
+<li><strong>Robustness:</strong> 6</li>
+<li><strong>Number appearing:</strong> 1-4</li>
+<li><strong>Disposition:</strong> Peaceful</li>
+<li><strong>Courage:</strong> Brave</li>
+<li><strong>Soul color:</strong> Green</li>
+</ul>
 
-#### Rammenas
+<p>Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life.</p>
 
-*   **Robustness:** 4
-*   **Number appearing:** 2-12
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow and green mixed
+<h4>Mechanids</h4>
 
-The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. These beings possess all the intelligence the sentient mortal held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+<ul>
+<li><strong>Robustness:</strong> 2</li>
+<li><strong>Number appearing:</strong> 1-8</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Yellow and green mixed</li>
+</ul>
 
-#### Arketons
+<p>Mechanids are humanoid constructs the Magellians used as servants and soldiers. The ancient Magellians knew how to animate this clockwork vessel with a sentient mortal and animal soul combined. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.</p>
 
-*   **Robustness:** 8
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Multiple green patches
+<h4>Skeletons</h4>
 
-The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with the souls of several sentient mortals. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting memories confused the being regarding its origin. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
+<ul>
+<li><strong>Robustness:</strong> 1</li>
+<li><strong>Number appearing:</strong> 3-18</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Faintly yellow and red mixed</li>
+</ul>
 
-#### Blobs
+<p>Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.</p>
 
-*   **Robustness:** 3
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Yellow
+<h4>Zombies</h4>
 
-Blobs are amorphous gelatinous creatures who are the creations of the Magellians. They are unintelligent but are very dangerous in their desire to consume. Blobs secrete digestive acids to pre-digest their targets, then consume the liquid. When a Blob grows sufficiently large, it divides into two Blobs.
+<ul>
+<li><strong>Robustness:</strong> 2</li>
+<li><strong>Number appearing:</strong> 2-8</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Faintly yellow and red mixed</li>
+</ul>
 
-#### Stoicheioi
+<p>Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.</p>
 
+<h4>Ghouls</h4>
 
-*   **Robustness:** 10
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Yellow
+<ul>
+<li><strong>Robustness:</strong> 2</li>
+<li><strong>Number appearing:</strong> 1-6</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Yellow core, with floods of red</li>
+</ul>
 
-A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.
+<p>Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.</p>
 
-Provinces
----------
+<h4>Golems</h4>
 
-### Eastgardia
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Faintly yellow</li>
+</ul>
 
-![The Catskills by Asher B Durand](The_Catskills_Asher_B_Durand.jpeg "Eastgardia is a land of hills, forests, and rivers.")
+<p>Unintelligent golems that mindlessly obey their creators are common tools in combat. They may be made of various materials like clay, wood, iron, and bronze. They vary in size and shape.</p>
 
-*   **Capital:** Inton (pop. 80,000)
-*   **Population:** 24 million
-*   **Majority Race:** Human
-*   **Wild Beasts:** Black Bears, Giant Rats, Wild Boars
-*   **Uzvu Presence:** Medium
-*   **Cthonian Presence:** Low
-*   **Magellian Ruin Presence:** Medium
-*   **Haunted Tomb Presence:** Low
-*   **Resources:** grain, timber, livestock, fish
-*   **Area:** 720 thousand square miles
-*   **Important NPCs:**
-    *   **Emperor Ezgar Yargyez (Human)** is the head of the Yargyez Empire. He rules from the Royal Palace, in Inton.
-    *   **Archmage General Gopa (Human)** is the head of the Academy of Knowledge, and resides in Inton. He does not have any personal loyalty to the Yargyez Empire, but cooperates with it in order to continue his research.
-    *   **Archbishop Ushra (Human)** is the head of the Order of Iazus. She is incredibly dedicated to rooting out Archon worship across Conliah, but worries that her inquisitors are stretched thin.
-    *   **Bandit King Lo Vicious (Human)** is the head of a province-spanning Tyvenlad syndicate. He operates out of Bridgeport, where he controls the government.
+<h4>Agalmaliths</h4>
 
-Eastgardia is a temperate region with fertile soil, and numerous lakes and rivers. The heart of the Yargyez Empire is in the Royal Palace, located in the mountain city of Inton. In the Jang River region, there is the city of Bridgeport, which has a corrupt government loyal to the local Bandit King. The Karlsvale region to the south borders Nightglade, and faces constant attacks from Lizardfolk rebels. To the north are the Chainledges region, home to Portborough University, the largest school of the Academy of Knowledge.
+<ul>
+<li><strong>Robustness:</strong> 5</li>
+<li><strong>Number appearing:</strong> 1-3</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-### Helscar
+<p>The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than golems, and capable of greater autonomy in following its commands.</p>
 
-![The Icebergs by Frederic Edwin Church](The_Icebergs_Frederic_Edwin_Church.jpeg "Helscar is a rolling tundra.")
+<h4>Rammenas</h4>
 
-*   **Capital:** Eithar (pop. 4,000)
-*   **Population:** 1.2 million
-*   **Majority Race:** Dwarf
-*   **Wild Beasts:** Dire Wolves, Giant Spiders, White Carnivorous Apes
-*   **Uzvu Presence:** Low
-*   **Cthonian Presence:** Low
-*   **Magellian Ruin Presence:** Low
-*   **Haunted Tomb Presence:** High
-*   **Resources:** ore, fish
-*   **Area:** 2.9 million square miles
-*   **Important NPCs:**
-    *   **Chieftain Asbirn (Dwarf)** resides in the Highchill Mountains city of Hrafnagil. He is a firebrand who supports soul-binding ancestral veneration.
-    *   **Manufacturer Supreme Vasa (Human)** is the head of the Artisans Guild. She resides in Eithar.
+<ul>
+<li><strong>Robustness:</strong> 4</li>
+<li><strong>Number appearing:</strong> 2-12</li>
+<li><strong>Disposition:</strong> Cautious</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Yellow and green mixed</li>
+</ul>
 
-Helscar is a massive tundra region, which mainly exports ore and requires agricultural exports from Middlestone and Eastgardia for survival. The local chieftains have no formal authority, but are respected by the Imperial provincial governor as representatives of their clans. The region is divided between the western chieftains of the Highchill Mountains who demand greater autonomy, and the eastern chieftains of the Shifting Foothills who willingly submit to Imperial oversight.
+<p>The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. These beings possess all the intelligence the sentient mortal held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.</p>
 
-### Middlestone
+<h4>Arketons</h4>
 
-![The First Harvest in the Wilderness Asher B Durand](The_First_Harvest_in_the_Wilderness_Asher_B_Durand.jpeg "Middlestone is a vast fertile plain.")
+<ul>
+<li><strong>Robustness:</strong> 8</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Pragmatic</li>
+<li><strong>Soul color:</strong> Multiple green patches</li>
+</ul>
 
-*   **Capital:** Omugi (pop. 40,000)
-*   **Population:** 12 million
-*   **Majority Race:** Halfling
-*   **Wild Beasts:** Giant Ants, Giant Badgers, Giant Bees
-*   **Uzvu Presence:** None
-*   **Cthonian Presence:** Medium
-*   **Magellian Ruin Presence:** Medium
-*   **Haunted Tomb Presence:** High
-*   **Resources:** grain, wine, livestock
-*   **Area:** 1.4 million square miles
-*   **Important NPCs:**
-    *   **Supreme Commander Taeko (Halfling)** is the head of the Belligerantes. She resides in Omugi.
-    *   **Lord Kobuno (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
+<p>The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with the souls of several sentient mortals. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting memories confused the being regarding its origin. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.</p>
 
-Middlestone is divided into three regions. First are the massive Uzu Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.
 
-### Valorgale
+<h4>Blobs</h4>
 
-![Winter by Ivan Shishkin](Winter_Ivan_Shishkin.jpeg "Valorgale is a volcanic taiga.")
+<ul>
+<li><strong>Robustness:</strong> 3</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-*   **Capital:** Matay (pop. 1,200)
-*   **Population:** 370 thousand
-*   **Majority Race:** Dark Elf
-*   **Wild Beasts:** White Tigers, Wooly Mammoths, Wooly Rhinoceroses
-*   **Uzvu Presence:** Low
-*   **Cthonian Presence:** High
-*   **Magellian Ruin Presence:** Low
-*   **Haunted Tomb Presence:** High
-*   **Resources:** timber, hunted meat
-*   **Area:** 1.8 million square miles
+<p>Blobs are amorphous gelatinous creatures who are the creations of the Magellians. They are unintelligent but are very dangerous in their desire to consume. Blobs secrete digestive acids to pre-digest their targets, then consume the liquid. When a Blob grows sufficiently large, it divides into two Blobs.</p>
 
-Valorgale is divided into three regions. First is the southern Zama Valley, which is a vast taiga of flowing rivers. Second is the northern Zensuke Peninsula, which is a harsher taiga to the north which borders the Highchill Mountains of Helscar. Last is Iktib Island, which is a massive active volcano at the center of the province. It is jointly governed by an Imperial governor and a council of the Six Ashfallen Tribes. Each of the Ashfallen Tribes has a distinct disposition towards the Yargyez Empire. Distinctly, the Pataf Tribe is conspiring with the Synomachos, the Osti Tribe is reviving worship of the Archon Dreze, and the Tivik Tribe is steadfastly loyal to the Yargyez Empire. Wooly rhinoceros herding for subsistence is common in the Zensuke Peninsula, and timber from the Zama Valley is exported to the rest of the Empire.
+<h4>Stoicheioi</h4>
 
-### Westerwood
+<ul>
+<li><strong>Robustness:</strong> 10</li>
+<li><strong>Number appearing:</strong> 1</li>
+<li><strong>Disposition:</strong> Hostile</li>
+<li><strong>Courage:</strong> Relentless</li>
+<li><strong>Soul color:</strong> Yellow</li>
+</ul>
 
-![Forest of Bavella by Edward Lear](Forest_of_Bavella_Edward_Lear.jpeg "Westerwood is a dense forest atop rugged mountains.")
+<p>A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.</p>
 
-*   **Capital:** Kabat (pop. 5,000)
-*   **Population:** 1.5 million
-*   **Majority Race:** Wood Elf
-*   **Wild Beasts:** Brown Bears, Giant Elks, Giant Owls
-*   **Uzvu Presence:** None
-*   **Cthonian Presence:** Medium
-*   **Magellian Ruin Presence:** Medium
-*   **Haunted Tomb Presence:** Low
-*   **Resources:** timber, livestock, hunted meat
-*   **Area:** 720 thousand square miles
-*   **Important NPCs:**
-    *   **Khagan Anim Beldek (Wood Elf)** is the ruling Khagan of Westerwood. He is fervently loyal to the Yargyez Empire.
-    *   **Chieftain Tosir Arakzan (Wood Elf)** is a member of the Synomachos conspiracy. He seeks to overthrow Anim Beldek and replace him.
+</div>
+<div class="break-page"></div>
 
-Westerwood is divided into three regions. First is the densely forested Teren Basin at the center, which holds the capital of Kabat and is the political center of Westerwood. Second are the rugged and forested Kara Ates Mountains to the north, which is home to the Wood Elves' ancient capital of Koknar which is long ruined. Last are the semi-arid grasslands of the Ak Ates Mountains to the south, which are occupied by pastoral nomads. Westerwood is ruled chieftains who ultimately answer to the Khagan Anim Beldek of Westerwood, who jointly rules with the Imperial governor. The current Khagan is loyal to the Yargyez Empire, but the Wood Elf Chieftain Tosir Arakzan is planning to overthrow him in the Synomachos conspiracy.
+<h2>Provinces</h2>
 
-### Fair Island
+<div class="two-column-flow">
 
-![Piramides del Sol y de la Luna by Jose Maria Velasco](Piramides_del_Sol_y_de_la_Luna_Jose_Maria_Velasco.jpeg "Fair Island is a giant island filled with arid mountains.")
+<h3>Eastgardia</h3>
 
-*   **Capital:** Thesekira (pop. 5,000)
-*   **Population:** 1.5 million
-*   **Majority Race:** High Elf
-*   **Wild Beasts:** Giant Eagles, Protoceratopses, Velociraptors
-*   **Uzvu Presence:** None
-*   **Cthonian Presence:** Low
-*   **Magellian Ruin Presence:** High
-*   **Haunted Tomb Presence:** Low
-*   **Resources:** fruit, wine
-*   **Area:** 720 thousand square miles
-*   **Important NPCs:**
-    *   **King Typhen Maphelius (High Elf)** is the ruling king of Fair Island. He is a member of the Synomachos conspiracy, and is planning an invasion on the rest of Conliah.
+<center>
+<img title="Eastgardia is a land of hills, forests, and rivers." alt="The Catskills by Asher B Durand" src="The_Catskills_Asher_B_Durand.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-Fair Island is a massive arid island divided into three regions. The Tispus Coast to the west receives winter rainfall which allows for massive orchards. The Tipsus Coast is home to the capital of Thesekira, as well as the ancient Magellian capital of Atherita which is still inhabited. The Taknis Mountains at the center are sparsely populated grasslands, and the Gastus Coast to the east is a barren, uninhabited desert. The High Elf King Typhen resides in Thesekira, and jointly rules Fair Island with the Imperial governor. However, he is not loyal to the Yargyez Empire and is part of the Synomachos conspiracy.
+<ul>
+<li><strong>Capital:</strong> Inton (pop. 80,000)</li>
+<li><strong>Population:</strong> 24 million</li>
+<li><strong>Majority Race:</strong> Human</li>
+<li><strong>Wild Beasts:</strong> Black Bears, Giant Rats, Wild Boars</li>
+<li><strong>Uzvu Presence:</strong> Medium</li>
+<li><strong>Cthonian Presence:</strong> Low</li>
+<li><strong>Magellian Ruin Presence:</strong> Medium</li>
+<li><strong>Haunted Tomb Presence:</strong> Low</li>
+<li><strong>Resources:</strong> grain, timber, livestock, fish</li>
+<li><strong>Area:</strong> 720 thousand square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>Emperor Ezgar Yargyez (Human)</strong> is the head of the Yargyez Empire. He rules from the Royal Palace, in Inton.</li>
+<li><strong>Archmage General Gopa (Human)</strong> is the head of the Academy of Knowledge, and resides in Inton. He does not have any personal loyalty to the Yargyez Empire, but cooperates with it in order to continue his research.</li>
+<li><strong>Archbishop Ushra (Human)</strong> is the head of the Order of Iazus. She is incredibly dedicated to rooting out Archon worship across Conliah, but worries that her inquisitors are stretched thin.</li>
+<li><strong>Bandit King Lo Vicious (Human)</strong> is the head of a province-spanning Tyvenlad syndicate. He operates out of Bridgeport, where he controls the government.</li>
+</ul></li>
+</ul>
 
-### Wuthelark
+<p>Eastgardia is a temperate region with fertile soil, and numerous lakes and rivers. The heart of the Yargyez Empire is in the Royal Palace, located in the mountain city of Inton. In the Jang River region, there is the city of Bridgeport, which has a corrupt government loyal to the local Bandit King. The Karlsvale region to the south borders Nightglade, and faces constant attacks from Lizardfolk rebels. To the north are the Chainledges region, home to Portborough University, the largest school of the Academy of Knowledge.</p>
 
-![Chasm of the Colorado by Thomas Moran](Chasm_of_the_Colorado_Thomas_Moran.jpeg "Northern Wuthelark is a vast desert.")
+<h3>Helscar</h3>
 
-![Brazilian Virgin Forest by Johann Moritz Rugendas](Brazilian_Virgin_Forest_Johann_Moritz_Rugendas.jpeg "Southern Wuthelark is a vast jungle.")
+<center>
+<img title="Helscar is a rolling tundra." alt="The Icebergs by Frederic Edwin Church" src="The_Icebergs_Frederic_Edwin_Church.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-*   **Capital:** Ramadiya (pop. 15,000)
-*   **Population:** 4.5 million
-*   **Majority Race:** Catfolk
-*   **Wild Beasts:** Leapords, Giant Cobras, Giant Scorpions
-*   **Uzvu Presence:** Low
-*   **Cthonian Presence:** Medium
-*   **Magellian Ruin Presence:** Medium
-*   **Haunted Tomb Presence:** Low
-*   **Resources:** fruit, ore
-*   **Area:** 1.8 million square miles
-*   **Important NPCs:**
-    *   **Willis the Watcher (Catfolk)**
-    is the founder of the Quietest Master Lodge in Wuthelark. He trains new members in the art of silent contemplation.*   **Pip the Crier (Catfolk)**
-    is a legendary prankster who seeks a revival of Lozie worship.
+<ul>
+<li><strong>Capital:</strong> Eithar (pop. 4,000)</li>
+<li><strong>Population:</strong> 1.2 million</li>
+<li><strong>Majority Race:</strong> Dwarf</li>
+<li><strong>Wild Beasts:</strong> Dire Wolves, Giant Spiders, White Carnivorous Apes</li>
+<li><strong>Uzvu Presence:</strong> Low</li>
+<li><strong>Cthonian Presence:</strong> Low</li>
+<li><strong>Magellian Ruin Presence:</strong> Low</li>
+<li><strong>Haunted Tomb Presence:</strong> High</li>
+<li><strong>Resources:</strong> ore, fish</li>
+<li><strong>Area:</strong> 2.9 million square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>Chieftain Asbirn (Dwarf)</strong> resides in the Highchill Mountains city of Hrafnagil. He is a firebrand who supports soul-binding ancestral veneration.</li>
+<li><strong>Manufacturer Supreme Vasa (Human)</strong> is the head of the Artisans Guild. She resides in Eithar.</li>
+</ul></li>
+</ul>
 
-Wuthelark is divided into three regions. First is the southern Tamain Jungle, which is an untamed wilderness ruled by land-owning Catfolk nobles who ultimately answer to the Imperial governor. Second are the Karamain Highlands, which are a semi-arid region dividing the southern jungle and the northern desert, which is hardly inhabited. Last is the Namara Desert to the north, which is home to nomadic tribes who resist Imperial rule. They have not formed an active resistance, but essentially do not respect the laws of the Yargyez Empire and view it as an illegitimate occupier of their nomadic lands.
+<p>Helscar is a massive tundra region, which mainly exports ore and requires agricultural exports from Middlestone and Eastgardia for survival. The local chieftains have no formal authority, but are respected by the Imperial provincial governor as representatives of their clans. The region is divided between the western chieftains of the Highchill Mountains who demand greater autonomy, and the eastern chieftains of the Shifting Foothills who willingly submit to Imperial oversight.</p>
 
-### Nightglade
+<h3>Middlestone</h3>
 
-![The Great Florida Marsh by Martin Johnson Heade.jpeg](The_Great_Florida_Marsh_Martin_Johnson_Heade.jpeg "Nightglade is a vast marsh.")
+<center>
+<img title="Middlestone is a vast fertile plain." alt="The First Harvest in the Wilderness Asher B Durand" src="The_First_Harvest_in_the_Wilderness_Asher_B_Durand.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
 
-*   **Capital:** Emtong (pop. 20,000)
-*   **Population:** 12 million
-*   **Majority Race:** Lizardfolk
-*   **Wild Beasts:** Giant Crocodiles, Giant Leeches, Giant Turtles
-*   **Cthonian Presence:** Medium
-*   **Uzvu Presence:** High
-*   **Magellian Ruin Presence:** Low
-*   **Haunted Tomb Presence:** Medium
-*   **Resources:** fish
-*   **Area:** 720 thousand square miles
+<ul>
+<li><strong>Capital:</strong> Omugi (pop. 40,000)</li>
+<li><strong>Population:</strong> 12 million</li>
+<li><strong>Majority Race:</strong> Halfling</li>
+<li><strong>Wild Beasts:</strong> Giant Ants, Giant Badgers, Giant Bees</li>
+<li><strong>Uzvu Presence:</strong> None</li>
+<li><strong>Cthonian Presence:</strong> Medium</li>
+<li><strong>Magellian Ruin Presence:</strong> Medium</li>
+<li><strong>Haunted Tomb Presence:</strong> High</li>
+<li><strong>Resources:</strong> grain, wine, livestock</li>
+<li><strong>Area:</strong> 1.4 million square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>Supreme Commander Taeko (Halfling)</strong> is the head of the Belligerantes. She resides in Omugi.</li>
+<li><strong>Lord Kobuno (Halfling)</strong> is a noble in the Oto foothills who is seeking to revive Omuzast worship.</li>
+</ul></li>
+</ul>
 
-Nightglade is divided into two regions. First is the Kangiet Highlands to the west, which are the headwaters of the marsh. Second is the Aungkong Lowlands to the east, which drain the rivers into the Talantic Ocean. Since the conquest of the Yargyez Empire, the entire region has been in an open civil war between the land-owning Lizardfolk nobles who willingly surrendered to the Yargyez Empire and answer the Imperial governor, and the vast majority of Lizardfolk who view the Yargyez Empire's presence as an illegitimate occupier of their lands. There are numerous deep caves across Nightglade which have served as fortresses for Lizardfolk rebels.
+<p>Middlestone is divided into three regions. First are the massive Uzu Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.</p>
 
-Image Credits
--------------
+<h3>Valorgale</h3>
+
+<center>
+<img title="Valorgale is a volcanic taiga." alt="Winter by Ivan Shishkin" src="Winter_Ivan_Shishkin.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Capital:</strong> Matay (pop. 1,200)</li>
+<li><strong>Population:</strong> 370 thousand</li>
+<li><strong>Majority Race:</strong> Dark Elf</li>
+<li><strong>Wild Beasts:</strong> White Tigers, Wooly Mammoths, Wooly Rhinoceroses</li>
+<li><strong>Uzvu Presence:</strong> Low</li>
+<li><strong>Cthonian Presence:</strong> High</li>
+<li><strong>Magellian Ruin Presence:</strong> Low</li>
+<li><strong>Haunted Tomb Presence:</strong> High</li>
+<li><strong>Resources:</strong> timber, hunted meat</li>
+<li><strong>Area:</strong> 1.8 million square miles</li>
+</ul>
+
+<p>Valorgale is divided into three regions. First is the southern Zama Valley, which is a vast taiga of flowing rivers. Second is the northern Zensuke Peninsula, which is a harsher taiga to the north which borders the Highchill Mountains of Helscar. Last is Iktib Island, which is a massive active volcano at the center of the province. It is jointly governed by an Imperial governor and a council of the Six Ashfallen Tribes. Each of the Ashfallen Tribes has a distinct disposition towards the Yargyez Empire. Distinctly, the Pataf Tribe is conspiring with the Synomachos, the Osti Tribe is reviving worship of the Archon Dreze, and the Tivik Tribe is steadfastly loyal to the Yargyez Empire. Wooly rhinoceros herding for subsistence is common in the Zensuke Peninsula, and timber from the Zama Valley is exported to the rest of the Empire.</p>
+
+<div class="break-page">
+<h3>Westerwood</h3></div>
+
+<center>
+<img title="Westerwood is a dense forest atop rugged mountains." alt="Forest of Bavella by Edward Lear" src="Forest_of_Bavella_Edward_Lear.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Capital:</strong> Kabat (pop. 5,000)</li>
+<li><strong>Population:</strong> 1.5 million</li>
+<li><strong>Majority Race:</strong> Wood Elf</li>
+<li><strong>Wild Beasts:</strong> Brown Bears, Giant Elks, Giant Owls</li>
+<li><strong>Uzvu Presence:</strong> None</li>
+<li><strong>Cthonian Presence:</strong> Medium</li>
+<li><strong>Magellian Ruin Presence:</strong> Medium</li>
+<li><strong>Haunted Tomb Presence:</strong> Low</li>
+<li><strong>Resources:</strong> timber, livestock, hunted meat</li>
+<li><strong>Area:</strong> 720 thousand square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>Khagan Anim Beldek (Wood Elf)</strong> is the ruling Khagan of Westerwood. He is fervently loyal to the Yargyez Empire.</li>
+<li><strong>Chieftain Tosir Arakzan (Wood Elf)</strong> is a member of the Synomachos conspiracy. He seeks to overthrow Anim Beldek and replace him.</li>
+</ul></li>
+</ul>
+
+<p>Westerwood is divided into three regions. First is the densely forested Teren Basin at the center, which holds the capital of Kabat and is the political center of Westerwood. Second are the rugged and forested Kara Ates Mountains to the north, which is home to the Wood Elves' ancient capital of Koknar which is long ruined. Last are the semi-arid grasslands of the Ak Ates Mountains to the south, which are occupied by pastoral nomads. Westerwood is ruled chieftains who ultimately answer to the Khagan Anim Beldek of Westerwood, who jointly rules with the Imperial governor. The current Khagan is loyal to the Yargyez Empire, but the Wood Elf Chieftain Tosir Arakzan is planning to overthrow him in the Synomachos conspiracy.</p>
+
+<h3>Fair Island</h3>
+
+<center>
+<img title="Fair Island is a giant island filled with arid mountains." alt="Piramides del Sol y de la Luna by Jose Maria Velasco" src="Piramides_del_Sol_y_de_la_Luna_Jose_Maria_Velasco.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Capital:</strong> Thesekira (pop. 5,000)</li>
+<li><strong>Population:</strong> 1.5 million</li>
+<li><strong>Majority Race:</strong> High Elf</li>
+<li><strong>Wild Beasts:</strong> Giant Eagles, Protoceratopses, Velociraptors</li>
+<li><strong>Uzvu Presence:</strong> None</li>
+<li><strong>Cthonian Presence:</strong> Low</li>
+<li><strong>Magellian Ruin Presence:</strong> High</li>
+<li><strong>Haunted Tomb Presence:</strong> Low</li>
+<li><strong>Resources:</strong> fruit, wine</li>
+<li><strong>Area:</strong> 720 thousand square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>King Typhen Maphelius (High Elf)</strong> is the ruling king of Fair Island. He is a member of the Synomachos conspiracy, and is planning an invasion on the rest of Conliah.</li>
+</ul></li>
+</ul>
+
+<p>Fair Island is a massive arid island divided into three regions. The Tispus Coast to the west receives winter rainfall which allows for massive orchards. The Tipsus Coast is home to the capital of Thesekira, as well as the ancient Magellian capital of Atherita which is still inhabited. The Taknis Mountains at the center are sparsely populated grasslands, and the Gastus Coast to the east is a barren, uninhabited desert. The High Elf King Typhen resides in Thesekira, and jointly rules Fair Island with the Imperial governor. However, he is not loyal to the Yargyez Empire and is part of the Synomachos conspiracy.</p>
+
+<div class="break-page">
+<h3>Wuthelark</h3></div>
+
+<center>
+<img title="Northern Wuthelark is a vast desert." alt="Chasm of the Colorado by Thomas Moran" src="Chasm_of_the_Colorado_Thomas_Moran.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<center>
+<img title="Southern Wuthelark is a vast jungle." alt="Brazilian Virgin Forest by Johann Moritz Rugendas" src="Brazilian_Virgin_Forest_Johann_Moritz_Rugendas.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Capital:</strong> Ramadiya (pop. 15,000)</li>
+<li><strong>Population:</strong> 4.5 million</li>
+<li><strong>Majority Race:</strong> Catfolk</li>
+<li><strong>Wild Beasts:</strong> Leapords, Giant Cobras, Giant Scorpions</li>
+<li><strong>Uzvu Presence:</strong> Low</li>
+<li><strong>Cthonian Presence:</strong> Medium</li>
+<li><strong>Magellian Ruin Presence:</strong> Medium</li>
+<li><strong>Haunted Tomb Presence:</strong> Low</li>
+<li><strong>Resources:</strong> fruit, ore</li>
+<li><strong>Area:</strong> 1.8 million square miles</li>
+<li><strong>Important NPCs:</strong>
+<ul>
+<li><strong>Willis the Watcher (Catfolk)</strong></li> is the founder of the Quietest Master Lodge in Wuthelark. He trains new members in the art of silent contemplation.
+<li><strong>Pip the Crier (Catfolk)</strong></li> is a legendary prankster who seeks a revival of Lozie worship.
+</ul></li>
+</ul>
+
+<p>Wuthelark is divided into three regions. First is the southern Tamain Jungle, which is an untamed wilderness ruled by land-owning Catfolk nobles who ultimately answer to the Imperial governor. Second are the Karamain Highlands, which are a semi-arid region dividing the southern jungle and the northern desert, which is hardly inhabited. Last is the Namara Desert to the north, which is home to nomadic tribes who resist Imperial rule. They have not formed an active resistance, but essentially do not respect the laws of the Yargyez Empire and view it as an illegitimate occupier of their nomadic lands.</p>
+
+<h3>Nightglade</h3>
+
+<center>
+<img title="Nightglade is a vast marsh." alt="The Great Florida Marsh by Martin Johnson Heade.jpeg" src="The_Great_Florida_Marsh_Martin_Johnson_Heade.jpeg" style="max-width: 300px; max-height: 300px;">
+</center>
+
+<ul>
+<li><strong>Capital:</strong> Emtong (pop. 20,000)</li>
+<li><strong>Population:</strong> 12 million</li>
+<li><strong>Majority Race:</strong> Lizardfolk</li>
+<li><strong>Wild Beasts:</strong> Giant Crocodiles, Giant Leeches, Giant Turtles</li>
+<li><strong>Cthonian Presence:</strong> Medium</li>
+<li><strong>Uzvu Presence:</strong> High</li>
+<li><strong>Magellian Ruin Presence:</strong> Low</li>
+<li><strong>Haunted Tomb Presence:</strong> Medium</li>
+<li><strong>Resources:</strong> fish</li>
+<li><strong>Area:</strong> 720 thousand square miles</li>
+</ul>
+
+<p>Nightglade is divided into two regions. First is the Kangiet Highlands to the west, which are the headwaters of the marsh. Second is the Aungkong Lowlands to the east, which drain the rivers into the Talantic Ocean. Since the conquest of the Yargyez Empire, the entire region has been in an open civil war between the land-owning Lizardfolk nobles who willingly surrendered to the Yargyez Empire and answer the Imperial governor, and the vast majority of Lizardfolk who view the Yargyez Empire's presence as an illegitimate occupier of their lands. There are numerous deep caves across Nightglade which have served as fortresses for Lizardfolk rebels.</p>
+
+</div>
+
+<div class="break-page"><h2>Image Credits</h2></div>
 
 All images are either original for this sourcebook or taken from the public domain, but for the reader's convenience public domain images are cited here.
 
-*   Cover
-    
-    *   Clouds by John Constable, 1822
-*   Introduction
-    
-    *   Waterfalls at Subiaco by Joseph Anton Koch, c. 1813
-*   History: Mythological
-    
-    *   The Glory of Psara by Nikolaos Gyzis, 1898
-*   History: Written
-    
-    *   Serpentara Landscape with the Procession of the Magi by Joseph Anton Koch, 1820
-*   Races
-    
-    *   Landschaft nach einem Gewitter by Joseph Anton Koch, c. 1830
-*   Religion
-    
-    *   The Monastery of Arkadios by Theodoros Vryzakis, c. 1867
-*   Magic
-    
-    *   The Parthenon by Frederic Edwin Church, 1871
-*   Factions
-    
-    *   The German of Old Patras blesses the flag by Theodoros Vryzakis, 1865
-*   Monsters
-    
-    *   Henry V Discovering the Conspirators by Henry Fuseli, c. 1780
-*   Provinces
-    
-    *   The Catskills by Asher B. Durand, 1858
-    *   The Icebergs by Frederic Edwin Church, 1861
-    *   The First Harvest in the Wilderness by Asher B. Durand, c. 1855
-    *   Winter by Ivan Shishkin, 1890
-    *   Forest of Bavella by Edward Lear, c. 1869
-    *   Piramides del Sol y de la Luna Jose Maria Velasco, 1878
-    *   Brazilian Virgin Forest by Johann Moritz Rugendas, 1830
-    *   Chasm of the Colorado by Thomas Moran, c. 1874
-    *   The Great Florida Marsh by Martin Johnson Heade, 1886
+<ul>
+<li><p>Cover</p>
+<ul>
+<li>Clouds by John Constable, 1822</li>
+</ul></li>
 
-Licensing
----------
+<li><p>Introduction</p>
 
-Nephelai is released into the public domain by the terms of the CC0 1.0 Universal license. Simply put, you are granted the maximum possible rights to re-use this work as I may grant according to the law. I have chosen to release Nephelai to the public domain in hopes that people in general find it useful, rather than a desire to receive income or credit. I know that players and GMs have many options besides Nephelai, and I felt making it public domain could sweeten the deal for some to try it out.
+<ul>
+<li>Waterfalls at Subiaco by Joseph Anton Koch, c. 1813</li>
+</ul></li>
+<li><p>History: Mythological</p>
 
-CC0 1.0 Universal
------------------
+<ul>
+<li>The Glory of Psara by Nikolaos Gyzis, 1898</li>
+</ul></li>
+<li><p>History: Written</p>
 
-CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+<ul>
+<li>Serpentara Landscape with the Procession of the Magi by Joseph Anton Koch, 1820</li>
+</ul></li>
+<li><p>Races</p>
 
-### Statement of Purpose
+<ul>
+<li>Landschaft nach einem Gewitter by Joseph Anton Koch, c. 1830</li>
+</ul></li>
+<li><p>Religion</p>
 
-The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
+<ul>
+<li>The Monastery of Arkadios by Theodoros Vryzakis, c. 1867</li>
+</ul></li>
+<li><p>Magic</p>
 
-Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
+<ul>
+<li>The Parthenon by Frederic Edwin Church, 1871</li>
+</ul></li>
+<li><p>Factions</p>
 
-For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
+<ul>
+<li>The German of Old Patras blesses the flag by Theodoros Vryzakis, 1865</li>
+</ul></li>
+<li><p>Monsters</p>
 
-### 1\. Copyright and Related Rights.
+<ul>
+<li>Henry V Discovering the Conspirators by Henry Fuseli, c. 1780</li>
+</ul></li>
+<li><p>Provinces</p>
 
-A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
+<ul>
+<li>The Catskills by Asher B. Durand, 1858</li>
+<li>The Icebergs by Frederic Edwin Church, 1861</li>
+<li>The First Harvest in the Wilderness by Asher B. Durand, c. 1855</li>
+<li>Winter by Ivan Shishkin, 1890</li>
+<li>Forest of Bavella by Edward Lear, c. 1869</li>
+<li>Piramides del Sol y de la Luna Jose Maria Velasco, 1878</li>
+<li>Brazilian Virgin Forest by Johann Moritz Rugendas, 1830</li>
+<li>Chasm of the Colorado by Thomas Moran, c. 1874</li>
+<li>The Great Florida Marsh by Martin Johnson Heade, 1886</li>
+</ul></li>
+</ul>
 
-1.  the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
-2.  moral rights retained by the original author(s) and/or performer(s);
-3.  publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
-4.  rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
-5.  rights protecting the extraction, dissemination, use and reuse of data in a Work;
-6.  database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
-7.  other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
 
-### 2\. Waiver.
+<div class="break-page"></div>
+<h2>Licensing</h2>
 
-To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
+<p>Nephelai is released into the public domain by the terms of the CC0 
+1.0 Universal license. Simply put, you are granted the maximum possible 
+rights to re-use this work as I may grant according to the law. I have 
+chosen to release Nephelai to the public domain in hopes that people in 
+general find it useful, rather than a desire to receive income or 
+credit. I know that players and GMs have many options besides Nephelai, 
+and I felt making it public domain could sweeten the deal for some to 
+try it out.</p>
 
-### 3\. Public License Fallback.
+    <div id="legal-code-body">
+     <h2 id="legal-code-title">
+      CC0 1.0 Universal
+     </h2>
+     <p>
+      CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED HEREUNDER.
+     </p>
+     <h3 id="sop">
+      Statement of Purpose
+     </h3>
+     <p>
+      The laws of most jurisdictions throughout the world automatically confer exclusive Copyright and Related Rights (defined below) upon the creator and subsequent owner(s) (each and all, an "owner") of an original work of authorship and/or a database (each, a "Work").
+     </p>
+     <p>
+      Certain owners wish to permanently relinquish those rights to a Work for the purpose of contributing to a commons of creative, cultural and scientific works ("Commons") that the public can reliably and without fear of later claims of infringement build upon, modify, incorporate in other works, reuse and redistribute as freely as possible in any form whatsoever and for any purposes, including without limitation commercial purposes. These owners may contribute to the Commons to promote the ideal of a free culture and the further production of creative, cultural and scientific works, or to gain reputation or greater distribution for their Work in part through the use and efforts of others.
+     </p>
+     <p>
+      For these and/or other purposes and motivations, and without any expectation of additional consideration or compensation, the person associating CC0 with a Work (the "Affirmer"), to the extent that he or she is an owner of Copyright and Related Rights in the Work, voluntarily elects to apply CC0 to the Work and publicly distribute the Work under its terms, with knowledge of his or her Copyright and Related Rights in the Work and the meaning and intended legal effect of CC0 on those rights.
+     </p>
+     <h3 id="copyright">
+      1. Copyright and Related Rights.
+     </h3>
+     <p>
+      A Work made available under CC0 may be protected by copyright and related or neighboring rights ("Copyright and Related Rights"). Copyright and Related Rights include, but are not limited to, the following:
+     </p>
+     <ol type="i">
+      <li>
+       the right to reproduce, adapt, distribute, perform, display, communicate, and translate a Work;
+      </li>
+      <li>
+       moral rights retained by the original author(s) and/or performer(s);
+      </li>
+      <li>
+       publicity and privacy rights pertaining to a person's image or likeness depicted in a Work;
+      </li>
+      <li>
+       rights protecting against unfair competition in regards to a Work, subject to the limitations in paragraph 4(a), below;
+      </li>
+      <li>
+       rights protecting the extraction, dissemination, use and reuse of data in a Work;
+      </li>
+      <li>
+       database rights (such as those arising under Directive 96/9/EC of the European Parliament and of the Council of 11 March 1996 on the legal protection of databases, and under any national implementation thereof, including any amended or successor version of such directive); and
+      </li>
+      <li>
+       other similar, equivalent or corresponding rights throughout the world based on applicable law or treaty, and any national implementations thereof.
+      </li>
+     </ol>
+     <h3 id="waiver">
+      2. Waiver.
+     </h3>
+     <p>
+      To the greatest extent permitted by, but not in contravention of, applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and unconditionally waives, abandons, and surrenders all of Affirmer's Copyright and Related Rights and associated claims and causes of action, whether now known or unknown (including existing as well as future claims and causes of action), in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "Waiver"). Affirmer makes the Waiver for the benefit of each member of the public at large and to the detriment of Affirmer's heirs and successors, fully intending that such Waiver shall not be subject to revocation, rescission, cancellation, termination, or any other legal or equitable action to disrupt the quiet enjoyment of the Work by the public as contemplated by Affirmer's express Statement of Purpose.
+     </p>
+     <h3 id="fallback">
+      3. Public License Fallback.
+     </h3>
+     <p>
+      Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
+     </p>
+     <h3 id="limitations">
+      4. Limitations and Disclaimers.
+     </h3>
+     <ol type="a">
+      <li>
+       No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
+      </li>
+      <li>
+       Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
+      </li>
+      <li>
+       Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
+      </li>
+      <li>
+       Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
+      </li>
+     </ol>
+    </div>
 
-Should any part of the Waiver for any reason be judged legally invalid or ineffective under applicable law, then the Waiver shall be preserved to the maximum extent permitted taking into account Affirmer's express Statement of Purpose. In addition, to the extent the Waiver is so judged Affirmer hereby grants to each affected person a royalty-free, non transferable, non sublicensable, non exclusive, irrevocable and unconditional license to exercise Affirmer's Copyright and Related Rights in the Work (i) in all territories worldwide, (ii) for the maximum duration provided by applicable law or treaty (including future time extensions), (iii) in any current or future medium and for any number of copies, and (iv) for any purpose whatsoever, including without limitation commercial, advertising or promotional purposes (the "License"). The License shall be deemed effective as of the date CC0 was applied by Affirmer to the Work. Should any part of the License for any reason be judged legally invalid or ineffective under applicable law, such partial invalidity or ineffectiveness shall not invalidate the remainder of the License, and in such case Affirmer hereby affirms that he or she will not (i) exercise any of his or her remaining Copyright and Related Rights in the Work or (ii) assert any associated claims and causes of action with respect to the Work, in either case contrary to Affirmer's express Statement of Purpose.
-
-### 4\. Limitations and Disclaimers.
-
-1.  No trademark or patent rights held by Affirmer are waived, abandoned, surrendered, licensed or otherwise affected by this document.
-2.  Affirmer offers the Work as-is and makes no representations or warranties of any kind concerning the Work, express, implied, statutory or otherwise, including without limitation warranties of title, merchantability, fitness for a particular purpose, non infringement, or the absence of latent or other defects, accuracy, or the present or absence of errors, whether or not discoverable, all to the greatest extent permissible under applicable law.
-3.  Affirmer disclaims responsibility for clearing rights of other persons that may apply to the Work or any use thereof, including without limitation any person's Copyright and Related Rights in the Work. Further, Affirmer disclaims responsibility for obtaining any necessary consents, permissions or other rights required for any use of the Work.
-4.  Affirmer understands and acknowledges that Creative Commons is not a party to this document and has no duty or obligation with respect to this CC0 or use of the Work.
+</body>
+</html>
