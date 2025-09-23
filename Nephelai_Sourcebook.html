@@ -309,7 +309,7 @@
 
 </center>
 
-<p>In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence.</p>
+<p>In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence. However, it is also possible to know an Archonic cult language through ordinary learning.</p>
 
 <div class="break-page"></div>
 
