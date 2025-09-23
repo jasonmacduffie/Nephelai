@@ -129,7 +129,7 @@
 <img title="The cosmos of Nephelai" alt="The continent of Nephelai" src="COSMOS.png" style="max-width: 300px; max-height: 300px;">
 </center>
 
-<p>There are three realms in the setting of Nephelai:</p>
+<p>According to the doctrine of the Imperial Cult, there are three realms:</p>
 
 <ul>
 <li><strong>Ksylia</strong> has moderation in the quality of soul material and quantity of elemental substance. Arbigard is a flat disc at the center of Ksylia, dividing it into upper and lower hemispheres. This flat disc of unknown size is the surface where mortals dwell. Above Arbigard is a hemisphere called The Skies (the air and the clouds), enclosed by a dome of water called The Firmament. Below Arbigard is a hemisphere called The Neaths (the earth below), enclosed by a dome of magma called The Hade. Ksylia is suspended in a larger cosmos between Asteria and Cthonia.</li>
