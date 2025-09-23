@@ -1346,7 +1346,7 @@
 <li><strong>Soul color:</strong> Green core, with traces of red</li>
 </ul>
 
-<p>Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Synhearts have faces that look like grasshoppers. Due to their Cthonic corruption, Synhearts dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.</p>
+<p>Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Husks have faces that look like grasshoppers. Due to their Cthonic corruption, Husks dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.</p>
 
 <h4>Draklings</h4>
 
