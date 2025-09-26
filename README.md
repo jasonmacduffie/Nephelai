@@ -1308,7 +1308,7 @@ Ghouls are created by transferring a living animal's soul into a deceased mortal
 
 #### Warpuppets
 
-*   **Robustness:** 10
+*   **Robustness:** 4
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
