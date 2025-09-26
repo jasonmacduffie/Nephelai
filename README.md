@@ -1167,10 +1167,10 @@ Lykoids are two-legged humanoids with the bodies of ordinary humans without fur,
 *   **Robustness:** 1
 *   **Number appearing:** 1-8
 *   **Disposition:** Cautious
-*   **Courage:** Pragmatic
+*   **Courage:** Cowardly
 *   **Soul color:** Red
 
-Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights.
+Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights. Proximity to a Nightcreep gradually dulls all of one's senses. After several minutes of exposure, those affected instantly die.
 
 #### Oktocheirs
 
