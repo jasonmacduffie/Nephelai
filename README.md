@@ -616,7 +616,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Lord of the Void</td>
       <td>Male</td>
       <td>Darkness, Silence</td>
-      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. His symbol is a face with closed eyes.</td>
+      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. Mortals corrupted by Ogzim become Zoners, which turns them completely invisible. His symbol is a face with closed eyes.</td>
     </tr>
     <tr>
       <td>Lize</td>
