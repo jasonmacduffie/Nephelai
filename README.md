@@ -1078,6 +1078,16 @@ Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterpl
 
 Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Husks have faces that look like grasshoppers. Due to their Cthonic corruption, Husks dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.
 
+#### Zoners
+
+*   **Robustness:** 1
+*   **Number appearing:** 1-3
+*   **Disposition:** Peaceful
+*   **Courage:** Cowardly
+*   **Soul color:** Green core, with traces of red
+
+Mortals who serve Ogzim may be transformed into Zoners. The only apparent effect of this transformation is permanent, complete invisibility. This invisibility covers all body parts, but it does not effect clothing, weapons, jewelry, etc. that the Zoner possesses. In general, Zoners are not combatants and they prefer to use their newfound power for personal material gain. However, their invisibility isolates them from living in normal society, often undermining their original motivation to gain social advantage through invisibility.
+
 #### Draklings
 
 *   **Robustness:** 1
