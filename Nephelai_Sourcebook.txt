@@ -1187,7 +1187,7 @@ Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with
 *   **Robustness:** 10
 *   **Number appearing:** 1-4
 *   **Disposition:** Cautious
-*   **Courage:** Relentless
+*   **Courage:** Brave
 *   **Soul color:** Red
 
 Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods.
@@ -1217,17 +1217,17 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and 
 *   **Robustness:** 4
 *   **Number appearing:** 3-18
 *   **Disposition:** Cautious
-*   **Courage:** Relentless
+*   **Courage:** Brave
 *   **Soul color:** Red
 
 Nagas are creatures with the torso of a human and the lower body of a snake. They can breathe in water or air. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs.
 
 #### Arachnaurs
 
-*   **Robustness:** 10
+*   **Robustness:** 9
 *   **Number appearing:** 1
 *   **Disposition:** Peaceful
-*   **Courage:** Relentless
+*   **Courage:** Brave
 *   **Soul color:** Red
 
 Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.
