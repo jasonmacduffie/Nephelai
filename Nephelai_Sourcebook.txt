@@ -1224,7 +1224,7 @@ Arachnaurs are centaur-like creatures with the upper body of a human and the low
 
 ### Artificial Monsters
 
-There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Golems and Zombies, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
+There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Warpuppets and Zombies, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
 
 #### Flesh Mutants
 
@@ -1306,7 +1306,7 @@ Raising reanimated zombies requires Cthonic magic to animate flesh. They are not
 
 Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
 
-#### Golems
+#### Warpuppets
 
 *   **Robustness:** 10
 *   **Number appearing:** 1
@@ -1314,7 +1314,7 @@ Ghouls are created by transferring a living animal's soul into a deceased mortal
 *   **Courage:** Relentless
 *   **Soul color:** Faintly yellow
 
-Unintelligent golems that mindlessly obey their creators are common tools in combat. They may be made of various materials like clay, wood, iron, and bronze. They vary in size and shape.
+Warpuppets may be made of various materials like clay, wood, iron, or bronze. They are completely unintelligent, and require continuous commands from their creators to be useful in combat. They vary in size and shape, but humanoid forms are most common.
 
 #### Agalmaliths
 
@@ -1324,7 +1324,7 @@ Unintelligent golems that mindlessly obey their creators are common tools in com
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
 
-The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than golems, and capable of greater autonomy in following its commands.
+The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than Warpuppets, and capable of greater autonomy in following its commands.
 
 #### Rammenas
 
