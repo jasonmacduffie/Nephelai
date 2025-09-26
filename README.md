@@ -1118,6 +1118,16 @@ Blood Monstrosity is a disease that spreads through contact with the blood of th
 
 Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.
 
+#### Corpsals
+
+*   **Robustness:** 3
+*   **Number appearing:** 2-8
+*   **Disposition:** Hostile
+*   **Courage:** Pragmatic
+*   **Soul color:** Green core, with traces of red
+
+Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
+
 #### Ghosts
 
 *   **Robustness:** Intangible; can only be exorcised
