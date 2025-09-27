@@ -1066,7 +1066,7 @@ These common monsters are former mortals, who were corrupted by Cthonic forces i
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with traces of red
 
-Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage.
+Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. After taking vengeance, Gutterplots often live in fear of retribution towards themselves in turn. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage. They plan surprise attacks on innocent travelers for fear that they are the friends and family of those they wronged.
 
 #### Husks
 
