@@ -1160,7 +1160,7 @@ Lycanthropy is a disease that spreads through a bite or claw attack from the inf
 
 ### Cthonians
 
-These exotic monsters are direct servants of the Archons, and cannot persist in Ksylia for prolonged periods. Seeing them in the open is a sure sign of a Cthonic Breach.
+These exotic monsters originate in Cthonia, and cannot persist in Ksylia for prolonged periods. Summoners aligned with an Archon may temporarily summon a Cthonian as an ally in battle, without a Cthonic Breach. However, seeing any of these monsters wandering in the open without a summoner is a sure sign of a Cthonic Breach.
 
 #### Lykoids
 
