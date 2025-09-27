@@ -1109,46 +1109,6 @@ Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with
 
 Mortals who worship Lize in hopes of conquering Conliah may be gifted with transformation into an Iavol. Their skin turns red, and they grow horns and a barbed tail. They gain the ability to induce unbearable pain in others. Iavols are bent on war and domination. When Iavols invade a region, they establish a lair to launch attacks on the country side. They raid settlements to loot weapons, armor, and rations.
 
-#### Blood Monsters
-
-*   **Robustness:** 7
-*   **Number appearing:** 1-6
-*   **Disposition:** Cautious
-*   **Courage:** Brave
-*   **Soul color:** Green core, with floods of red
-
-Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.
-
-#### Liches
-
-*   **Robustness:** 10
-*   **Number appearing:** 1
-*   **Disposition:** Cautious
-*   **Courage:** Brave
-*   **Soul color:** Green core, with floods of red
-
-Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.
-
-#### Corpsals
-
-*   **Robustness:** 3
-*   **Number appearing:** 2-8
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Green core, with traces of red
-
-Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
-
-#### Ghosts
-
-*   **Robustness:** Intangible; can only be exorcised
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Green core, with floods of red
-
-A green soul bound to a location becomes a Ghost. Most often, this is achieved through powerful ancestor veneration rituals. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound to a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic.
-
 #### Lycanthropes
 
 *   **Robustness:** 4
@@ -1245,7 +1205,7 @@ Arachnaurs are centaur-like creatures with the upper body of a human and the low
 
 ### Artificial Monsters
 
-There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Warpuppets and Zombies, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
+There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Warpuppets, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
 
 #### Flesh Mutants
 
@@ -1296,36 +1256,6 @@ Deceased mages attempted to immortalize themselves by encasing their brains in s
 *   **Soul color:** Yellow and green mixed
 
 Mechanids are humanoid constructs the Magellians used as servants and soldiers. The ancient Magellians knew how to animate this clockwork vessel with a sentient mortal and animal soul combined. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
-
-#### Skeletons
-
-*   **Robustness:** 1
-*   **Number appearing:** 3-18
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
-
-Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
-
-#### Zombies
-
-*   **Robustness:** 2
-*   **Number appearing:** 2-8
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
-
-Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
-
-#### Ghouls
-
-*   **Robustness:** 2
-*   **Number appearing:** 1-6
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow core, with floods of red
-
-Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
 
 #### Warpuppets
 
