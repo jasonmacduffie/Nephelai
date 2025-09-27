@@ -1165,7 +1165,7 @@ These exotic monsters originate in Cthonia, and cannot persist in Ksylia for pro
 #### Lykoids
 
 *   **Robustness:** 2
-*   **Number appearing:** 1-6
+*   **Number appearing:** 4-9
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Red
