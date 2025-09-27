@@ -27,7 +27,8 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
     *   **Mundane beasts** may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.
     *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
     *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
-    *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Zombies, Steelskulls and Flesh Mutants.
+    *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Warpuppets, Steelskulls and Flesh Mutants.
+    *   **Undead beings** are a special kind of artificial being, whose only universal traits are (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt. Examples are Ghosts, Zombies, and Blood Monsters.
 *   **Factions:** You have heard about several factions with continent-spanning impact:
     *   **The Yargyez Empire:** The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.
     *   **The Uzvu Confederation:** A confederation of Orcs, Goblins, and Ogres landed on the shores of Conliah nineteen years ago. They have rapidly started invading the land, declaring their domination of Conliah divinely mandated.
