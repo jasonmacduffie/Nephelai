@@ -623,7 +623,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Harvester of Mortals</td>
       <td>Female</td>
       <td>War, Torture</td>
-      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonic minions, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
+      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonic minions, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
     </tr>
     <tr>
       <td>Uluzing</td>
@@ -1220,7 +1220,7 @@ Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's 
 *   **Courage:** Relentless
 *   **Soul color:** Red
 
-Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
+Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
 
 #### Nagas
 
