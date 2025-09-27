@@ -1318,6 +1318,83 @@ Blobs are amorphous gelatinous creatures who are the creations of the Magellians
 
 A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.
 
+
+### Undead Monsters
+
+The undead are similar to artificial beings, in that their existence is almost always based on soul binding rituals granted by the Archon Igedeng. There are exceptions like Blood Monsters, which are spread by a disease and not soul binding. However, all undead creatures possess two universal traits: (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt.
+
+#### Blood Monsters
+
+*   **Robustness:** 7
+*   **Number appearing:** 1-6
+*   **Disposition:** Cautious
+*   **Courage:** Brave
+*   **Soul color:** Green core, with floods of red
+
+Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.
+
+#### Liches
+
+*   **Robustness:** 10
+*   **Number appearing:** 1
+*   **Disposition:** Cautious
+*   **Courage:** Brave
+*   **Soul color:** Green core, with floods of red
+
+Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.
+
+#### Corpsals
+
+*   **Robustness:** 3
+*   **Number appearing:** 2-8
+*   **Disposition:** Hostile
+*   **Courage:** Pragmatic
+*   **Soul color:** Green core, with traces of red
+
+Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
+
+#### Ghosts
+
+*   **Robustness:** Intangible; can only be exorcised
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with floods of red
+
+A green soul bound to a location becomes a Ghost. Most often, this is achieved through powerful ancestor veneration rituals. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound to a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic.
+
+
+#### Skeletons
+
+*   **Robustness:** 1
+*   **Number appearing:** 3-18
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Faintly yellow and red mixed
+
+Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
+
+#### Zombies
+
+*   **Robustness:** 2
+*   **Number appearing:** 2-8
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Faintly yellow and red mixed
+
+Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
+
+#### Ghouls
+
+*   **Robustness:** 2
+*   **Number appearing:** 1-6
+*   **Disposition:** Hostile
+*   **Courage:** Pragmatic
+*   **Soul color:** Yellow core, with floods of red
+
+Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
+
+
 Provinces
 ---------
 
