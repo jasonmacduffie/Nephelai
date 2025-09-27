@@ -1191,7 +1191,7 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leat
 *   **Courage:** Brave
 *   **Soul color:** Red
 
-Nagas are creatures with the torso of a human and the lower body of a snake. They can breathe in water or air. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs.
+Nagas are creatures with the upper body of a human and the lower body of a snake. They can hold their breath underwater for hours at a time. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs. They are very fast when slithering or swimming, and they typically wield two longswords to strike their opponents.
 
 #### Arachnaurs
 
