@@ -1127,6 +1127,16 @@ Mortals who worship Lize in hopes of conquering Conliah may be gifted with trans
 
 Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.
 
+#### Pertinaxes
+
+*   **Robustness:** 5
+*   **Number appearing:** 1-4
+*   **Disposition:** Peaceful
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with traces of red
+
+Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinax's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinax into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinax is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful.
+
 ### Cthonians
 
 These exotic monsters originate in Cthonia, and cannot persist in Ksylia for prolonged periods. Summoners aligned with an Archon may temporarily summon a Cthonian as an ally in battle, without a Cthonic Breach. However, seeing any of these monsters wandering in the open without a summoner is a sure sign of a Cthonic Breach.
