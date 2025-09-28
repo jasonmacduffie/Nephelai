@@ -1143,7 +1143,7 @@ Mortals who worship Lozie may be transformed into a Laffid. Their physical form 
 *   **Number appearing:** 1-4
 *   **Disposition:** Peaceful
 *   **Courage:** Relentless
-*   **Soul color:** Green core, with traces of red
+*   **Soul color:** Green core, with floods of red
 
 Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinax's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinax into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinax is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful.
 
