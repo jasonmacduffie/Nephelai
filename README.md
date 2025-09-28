@@ -1127,6 +1127,16 @@ Mortals who worship Lize in hopes of conquering Conliah may be gifted with trans
 
 Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.
 
+#### Laffids
+
+*   **Robustness:** 4
+*   **Number appearing:** 1-6
+*   **Disposition:** Cautious
+*   **Courage:** Brave
+*   **Soul color:** Green core, with traces of red
+
+Mortals who worship Lozie may be transformed into a Laffid. Their physical form becomes warped and repulsive, as if their skin has melted and boiled, leading them to wear wooden masks to conceal their faces. Their transformation also makes Laffids physically strong and fast. In addition, their transformation allows them to temporarily shape-shift into any humanoid, sentient mortal they choose to resemble. This shape-shifting may be sustained for several hours, but requires an equal amount of time to rest in between impersonations. Laffids tend to use their powers of impersonation to cause social discord. However, while in their true form they live in constant fear of being mocked for their revolting faces.
+
 #### Pertinaxes
 
 *   **Robustness:** 5
