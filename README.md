@@ -827,7 +827,7 @@ The term "color" in reference to soul material is not literal, but refers to the
 *   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
 *   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
 *   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Agathoi have discrete blue souls, and are presumed to be immortal. Ambient blue soul material flows throughout Asteria.
-*   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and their souls return to their respective sphere of Cthonia upon death. Red soul material flows throughout Cthonia.
+*   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and red soul material flows throughout Cthonia. Upon death, Cthonian bodies disintegrate into dust. Their red souls return to their respective sphere of Cthonia, where their physical forms slowly reconstitute.
 
 ### Soul Binding & Enchanting
 
