@@ -673,7 +673,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>World Bearer</td>
       <td>Female</td>
       <td>Endurance, Pain</td>
-      <td>Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage.</td>
+      <td>Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage. Dreze's cults are called the Tofflads. They are pugilists who engage in bloodsport as a form of devotion. Those who seek her blessing of endurance are transformed into Pertinaxes, which grants the petitioner strength to perform a single task.</td>
     </tr>
     <tr>
       <td>Omuzast</td>
