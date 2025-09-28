@@ -1030,6 +1030,10 @@ The Overvelderlad armies are a decentralized underground association of aspiring
 
 The Brannenlad Conspiracies are a decentralized underground association of nobles who aspire to overthrow the Yargyez Emperor. They worship Lundazing, the Queen of Destruction. They were responsible for a failed attempt on the Yargyez Emperor, but they are regrouping their forces.
 
+#### The Tofflad Clubs
+
+The Tofflad Clubs are a decentralized underground association of pugilists. They engage in bloodsport as an act of devotion to Dreze. Their cultists gather on a regular schedule to engage in bare-knuckle boxing with strict rules of competition.
+
 Monsters
 --------
 
