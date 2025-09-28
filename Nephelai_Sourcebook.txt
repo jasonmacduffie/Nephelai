@@ -694,7 +694,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
 
 #### Ancestor Veneration
 
-While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not interfere with transmigration. For those that perform these more taboo rituals, there are Imperial priests who hunt their practitioners across Conliah. These are the major races which practice ancestor veneration:
+While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not interfere with transmigration. Rituals that bind souls to a location are illegal, and inquisitors of the Order of Iazus punish those who practice such ancestor veneration. Ancestor veneration is complicated to regulate, because many of its practitioners either do not understand they are binding souls or do not understand the harm of doing so. These are the major races which practice ancestor veneration:
 
 *   Dwarves believe that their honored dead are granted a unique sphere in Asteria named Erunhall, which is an eternal feast. Their practices include feasts held at burial mounds and burying possessions with the dead.
 *   Halflings believe that spirits linger in Arbigard until they are given proper burial rights, or else they will become restless spirits. Their practices include shrines placed in crypts and annual feasts in rememberance of the dead.
