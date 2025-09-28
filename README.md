@@ -812,7 +812,9 @@ Ardents are philosophers who have obtained enlightenment, flooding their bodies 
 
 #### Devout
 
-Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they receive a divine blessing which grants divine magical powers. There are certain spells which devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
+Devouts are generally members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they receive a divine blessing which grants divine magical powers. There are certain spells which devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
+
+Cloud Devouts are cloud worshippers in the ranks of the Uzvu Confederation, who apparently draw power from the clouds. However, despite the ostensible difference in source, they function similarly to Imperial Cult Devouts.
 
 *   _Always:_ Cthonic Warding, Detection, Healing, Exorcism, Protection
 *   _Sometimes:_ Elemental Damage, Mental Influence, Self-Buff, Transmutation, Utility
