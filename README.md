@@ -1604,6 +1604,25 @@ All images are either original for this sourcebook or taken from the public doma
     *   Chasm of the Colorado by Thomas Moran, c. 1874
     *   The Great Florida Marsh by Martin Johnson Heade, 1886
 
+Daily Life
+----------
+
+### Crime
+
+#### Gambling
+
+* **Trifle** is a 2v2 trick-taking card game. It is mainly a game of chance played for money, but there is a small element of skill during trick-taking. The deck for trifle has 52 cards, 4 suits, and 13 ranks. The suits are hammers, coins, swords, and cups. The ranks are 1 through 10, knight, queen, and king.
+* **Spider-Eyes** is a game of pure chance played with four six-sided dice.
+
+#### Drugs
+
+* **Mola dust** is a powdered stimulant which is snorted and absorbed in the nostrils. It is derived from the the mola nut, which must be roasted then ground into a fine powder. Without exposure to high temperatures, the drug is inert. Mola trees grow natively in Westerwood. It is highly addictive, and it is illegal to trade, possess and consume.
+* **Mola tea** is a more mild stimulant created by brewing the dry leaves of the mola tree. It contains the same active ingredient as mola dust. Brewing the dry leaves in hot water activates a smaller quantity of the active drug, but also releases the complex flavors of the leaf. Despite it being only weakly addictive, it is illegal to trade, possess, and consume due to its association with the highly addictive mola dust.
+* **Azeta nectar** is a sweet secretion given by azetas, a species of giant aphid native to Wuthelark. It has depressant effects when ingested. It is highly addictive, and it is illegal to trade, possess and consume.
+* **Haze shrooms** are brown mushrooms with pink spots which have a depressant effect when ingested. They grow underground across all of Conliah. It is illegal to trade, possess and consume.
+* **Ongvakong plants** are herbs native to Nightglade with hallucinogenic effects. They are used by Lizardfolk for ancestor veneration rituals.
+
+
 Licensing
 ---------
 
