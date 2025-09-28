@@ -703,7 +703,7 @@ While the Imperial Cult does not officially recognize its practice, the venerati
 
 #### Cloud Worship
 
-The practice of worshipping clouds appears several times in the history of conliah. It is a mystery how it arose independently several times. Those who believe in Cloud Worship suggest that the observable anti-Cthonic power emanating from the clouds is observably true, and this is how different societies independently discovered they are the true gods. However, nobody has proven this definitively.
+The practice of worshipping clouds appears several times in the history of Conliah. It is a mystery how it arose independently several times. Those who believe in Cloud Worship suggest that its independent development is proof of its truth.
 
 *   During the Age of Might Makes Right, the Wood Elves of the Ak Ates Mountains in southern Westerwood worshipped the clouds. However, this was displaced by Agathos worship by the Aksu Khaganate, and almost nobody alive today knows that this was practiced.
 *   The Cloudruled at the end of the Magellian Empire also advocated for cloud worship, stating that lightning comes from the clouds and not Iazus.
@@ -711,7 +711,7 @@ The practice of worshipping clouds appears several times in the history of conli
 
 Scholars of the Yargyez Empire have attempted to document the religious beliefs of the Uzvu. Their best understanding is that the Uzvu believe that the creator Demvegaz created one world of Ksylia, and inhabited it with mortal beings in the Skies, the Neaths, and Arbigard between them. However, Demvegaz gave all mortal beings free will. The Archons are mortal beings who originated in the Neaths, and rebelled against Demvegaz. The Archons constructed the Hade to divide the Neaths into the "Near Neaths" and the "Far Neaths", and made the Far Neaths their fortress against the wrath of Demvegaz. They caused suffering to the surface mortals of Arbigard, and Demvegaz pitied the mortals. To help them, Demvegaz sacrificed her body and became the clouds.
 
-In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Archonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. However, they have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament, instead believing that souls travel to the highest stratum of the Skies after death.
+In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Archonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. However, they have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament. Instead, they believe that souls transmigrate to the highest stratum of the Skies after death, rest there temporarily, then return to Arbigard. Furthermore, blue soul material originates in the clouds instead of another realm.
 
 Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.
 
