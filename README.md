@@ -666,28 +666,28 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Mother of Ills</td>
       <td>Female</td>
       <td>Sickness, Blight</td>
-      <td>Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood.</td>
+      <td>Eovumid's sphere is the Apothecary of Knives. The Apothecary of Knives is an endless row of prison cells. The guards of this prison are Pulsecutters, beings made of toxic blades bound together. They walk cell by cell, gently cutting the prisoners with their toxic blades, making them more and more sick. Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood.</td>
     </tr>
     <tr>
       <td>Dreze</td>
       <td>World Bearer</td>
       <td>Female</td>
       <td>Endurance, Pain</td>
-      <td>Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage. Dreze's cults are called the Tofflads. They are pugilists who engage in bloodsport as a form of devotion. Those who seek her blessing of endurance are transformed into Pertinaxes, which grants the petitioner strength to perform a single task.</td>
+      <td>In the Age of Might Makes Right, Dreze was a popular deity of the Dark Elves. Some still worship her in Valorgale. Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage. Dreze's cults are called the Tofflads. They are pugilists who engage in bloodsport as a form of devotion. Those who seek her blessing of endurance are transformed into Pertinaxes, which grants the petitioner strength to perform a single task.</td>
     </tr>
     <tr>
       <td>Omuzast</td>
       <td>Mistress of Revelry</td>
       <td>Female</td>
       <td>Madness, Wine</td>
-      <td>In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone.</td>
+      <td>In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone. Omuzast's sphere is the Shining Mansion. It is an ornately decorated mansion full of wine, food, dance halls, and bedrooms. Crawling throughout the Shining Mansion are Fouskalas. These Fouskalas are gelatinous slimes that force themselves into the mouths of mortals who spend too much time in the Shining Mansion, eventually leading to their suffocation. Those corrupted by Omuzast become Sunspawns. Their skin glows radiantly, causing those around them to be instantly attracted them. However, those who walk close to a Sunspawn begin to feel confused. Omuzast's cults are called the Drikenlads. They organize parties where excessive amounts of wine are consumed.</td>
     </tr>
     <tr>
       <td>Embe</td>
       <td>Queen of Forests</td>
       <td>Female</td>
       <td>Wilderness, Plants</td>
-      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves.</td>
+      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. Embe's cults are called the Villiglads. They demolish buildings and introduce dangerous animals and aggressively growing plants to urban areas.</td>
     </tr>
   </tbody>
 </table>
@@ -1230,6 +1230,16 @@ Nagas are creatures with the upper body of a human and the lower body of a snake
 *   **Soul color:** Red
 
 Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.
+
+#### Pulsecutters
+
+*   **Robustness:** 5
+*   **Number appearing:** 1-4
+*   **Disposition:** Hostile
+*   **Courage:** Brave
+*   **Soul color:** Red
+
+Pulsecutters are amorphous beings of conjoined knives. They live in Eovumid's sphere, the Apothecary of Knives, which is an endless row of prison cells on either side. The Pulsecutters guard the halls, and visit each of the prisoners one at a time. They gently cut them with their knives, slowly poisoning them to death. Cuts from their knives are not very immediately dangerous, but they inject their victims with a slow-acting poison that kills them. The poison also causes incredible pain to the victim. Each additional cut increases the potency of the poison, which reduces the time until death.
 
 ### Artificial Monsters
 
