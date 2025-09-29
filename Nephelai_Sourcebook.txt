@@ -1365,7 +1365,7 @@ Blood Monstrosity is a disease that spreads through contact with the blood of th
 
 *   **Robustness:** 10
 *   **Number appearing:** 1
-*   **Disposition:** Cautious
+*   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Green core, with floods of red
 
