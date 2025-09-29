@@ -1071,7 +1071,7 @@ These common monsters are former mortals, who were corrupted by Cthonic forces i
 
 *   **Robustness:** 1
 *   **Number appearing:** 2-8
-*   **Disposition:** Cautious
+*   **Disposition:** Hostile
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with traces of red
 
@@ -1111,7 +1111,7 @@ Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with
 
 *   **Robustness:** 1
 *   **Number appearing:** 2-8
-*   **Disposition:** Cautious
+*   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with traces of red
 
@@ -1145,7 +1145,7 @@ Mortals who worship Lozie may be transformed into a Laffid. Their physical form 
 *   **Courage:** Relentless
 *   **Soul color:** Green core, with floods of red
 
-Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinax's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinax into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinax is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful.
+Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinaxe's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinaxe into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinaxe is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful.
 
 ### Cthonians
 
