@@ -1369,7 +1369,7 @@ Blood Monstrosity is a disease that spreads through contact with the blood of th
 *   **Courage:** Brave
 *   **Soul color:** Green core, with floods of red
 
-Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life.
+Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life. Liches no longer suffer to aging, hunger, or thirst. Over time, the flesh rots off their bones and they continue to live as a reanimated skeleton. Liches have incredible magical abilities, and prefer to fight with spells instead of physical combat. Notably, all Liches have the ability to read minds. However, regardless of their original motivations to transform, a Lich's mind is polluted by the insatiable desire to extract enormous volumes of information. They tend to raise undead armies to attack villages, and bring living mortals back to their lairs. The Lich reads their minds, then extracts their bodies and souls as necromantic resources.
 
 #### Corpsals
 
