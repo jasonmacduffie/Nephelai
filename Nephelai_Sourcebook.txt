@@ -687,7 +687,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Queen of Forests</td>
       <td>Female</td>
       <td>Wilderness, Plants</td>
-      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. Embe's cults are called the Villiglads. They demolish buildings and introduce dangerous animals and aggressively growing plants to urban areas.</td>
+      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. Embe's cults are called the Villiglads. They demolish buildings and introduce dangerous animals and aggressively growing plants to urban areas. Those corrupted by Embe become Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. Troggles become very timid, and seek to escape by burrowing underground.</td>
     </tr>
   </tbody>
 </table>
@@ -1033,6 +1033,14 @@ The Brannenlad Conspiracies are a decentralized underground association of noble
 #### The Tofflad Clubs
 
 The Tofflad Clubs are a decentralized underground association of pugilists. They engage in bloodsport as an act of devotion to Dreze. Their cultists gather on a regular schedule to engage in bare-knuckle boxing with strict rules of competition.
+
+#### The Drikenlad Bunches
+
+The Drinkenlad Bunches are a decentralized underground association of party-goers. They organize lavish parties where music is played, excessive amounts of wine are consumed, and excessive amounts of food are eaten. These parties continue until everyone present passes out.
+
+#### The Villiglad Societies
+
+The Villiglad Societies are a decentralized underground association of rewilders. They act in high populated urban areas, and demolish buildings regardless of whether they are in use. The Villiglads capture eggs and live babies of dangerous animals from the wilderness, and introduce them to urban centers where they wreak havoc when they are grown. They also plant weeds that aggressively overtake buildings and destroy their foundations. Furthermore, Villiglads have the magical ability to animate plants into dangerous carnivorous monsters. Some of these animated plants are stationary, and some are mobile.
 
 Monsters
 --------
