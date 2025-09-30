@@ -18,7 +18,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
 
 *   **Where Are You:** You are on the continent of Conliah. Conliah was thought to be the only continent in the world, surrounded by endless ocean, until explorers from a continent to the east called Lodumpis landed on its shores nineteen years ago.
 *   **History:** In ancient times, there was a High Elven empire called the Magellian Empire. They had incredible magical technology which is now lost to time, and they mysteriously collapsed. 188 years ago, the Yargyez Empire was formed which reunited all of Conliah under Human rule.
-*   **Races:** There are eight races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inton, Eastgardia.
+*   **Races:** There are eight major races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inton, Eastgardia.
 *   **Religion:** There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.
 *   **Cosmology:** There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.
 *   **Magic:** Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.
@@ -170,7 +170,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
     <tr>
       <td>Common</td>
       <td>Common</td>
-      <td>Spoken by the Humans of Eastgardia, and most other races.</td>
+      <td>Spoken by the Humans of Eastgardia, and most other Conlian races.</td>
     </tr>
     <tr>
       <td>Dwarvish</td>
@@ -280,7 +280,7 @@ After creation was finished, the Agathoi withdrew from Ksylia. Over time, distin
 
 #### c. 3000 BYE - 1567 BYE
 
-Before any continent-spanning empires, Conliah was politically decentralized. This era is often referred to as the "Age of Might Makes Right". The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - populated the continent in city-states, small kingdoms, and tribes. Borders were constantly shifting, and warfare was a common means of resolving disputes. The Archons were openly worshipped across Conliah. Their cults promised strength to their followers in exchange for submission. The Agathoi were unknown to most of Conliah, and were only a small cult within the Wood Elves in the Kara Ates mountains. Every province was divided into many cultures and political formations. Nonetheless, the kernel of higher political formations were present, and every province was yearning for the rule of law. This paved the way for the fast rise of the Magellian Empire.
+Before any continent-spanning empires, Conliah was politically decentralized. This era is often referred to as the "Age of Might Makes Right". The various races populated the continent in city-states, small kingdoms, and tribes. Borders were constantly shifting, and warfare was a common means of resolving disputes. The Archons were openly worshipped across Conliah. Their cults promised strength to their followers in exchange for submission. The Agathoi were unknown to most of Conliah, and were only a small cult within the Wood Elves in the Kara Ates mountains. Every province was divided into many cultures and political formations. Nonetheless, the kernel of higher political formations were present, and every province was yearning for the rule of law. This paved the way for the fast rise of the Magellian Empire.
 
 Worship of the Agathoi spread across Westerwood, which had a long history of war, conquest, and economic exchange with Fair Island. As a result, the High Elven empires of Fair Island gradually adopted Agathos worship themselves.
 
@@ -300,7 +300,7 @@ During this period, many Magellian structures fell into ruin, or were repurposed
 
 #### 1 YE - 189 YE (present)
 
-Humans conquered Conliah, uniting it once again. 1 YE marks the consolidation of power of the Yargyez Empire. It conceived itself as the successor of the Magellian Empire. The eight races - High Elves, Dark Elves, Wood Elves, Dwarves, Halflings, Humans, Lizardfolk, and Catfolk - were brought under one government, each having partial autonomy in its own province. Agathos worship was standardized under the Imperial Cult, displacing local rites, and Archon worship was banned again.
+Humans conquered Conliah, uniting it once again. 1 YE marks the consolidation of power of the Yargyez Empire. It conceived itself as the successor of the Magellian Empire. The eight major races were brought under one government, each having partial autonomy in its own province. Agathos worship was standardized under the Imperial Cult, displacing local rites, and Archon worship was banned again.
 
 Now, in the past twenty years, the below events happened:
 
@@ -325,6 +325,8 @@ _ASEM THE WOOD ELF: An Agathos, Kaito, but I do not know which one. Among us Woo
 _SITAROPHILUS THE HIGH ELF: You are right we do, Asem, but I also do not really know._
 
 _\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
+
+There are eight major races in Conliah, each hailing from one of the eight provinces. There are also less numerous races across the provinces, who answer to the provincial government they hail from.
 
 ### Humans
 
@@ -479,7 +481,7 @@ _\-- The Fifth Cloudruled Dialogue: The Dysthyphro_
 
 #### Agathos Worship
 
-The pantheon of the Yargyez Empire recognizes six major Agathoi named the Six Guardians. They are worshipped in public temples and holidays recognized by the Empire. Each Agathos has its own clerical hierarchy and rites, and provinces often combine these with syncretic traditions. Besides these Six Guardians there are also many minor Agathoi who are acknowledged by the Empire as having legitimate cults.
+The pantheon of the Yargyez Empire recognizes six major Agathoi named the Six Guardians. They are worshipped in public temples and holidays recognized by the Empire. Each Agathos has its own clerical hierarchy and rites, and provinces often combine these with syncretic traditions. Besides these Six Guardians there are also many minor Agathoi who are acknowledged by the Empire as having legitimate cults. The below list of minor Agathoi is not exhaustive, but includes the better-known ones.
 
 <table>
   <thead>
@@ -587,6 +589,8 @@ Worship of the Archons is forbidden by law. Even so their cults persist, as thei
 
 Many Archon-worshippers are not philosophically inclined, but some cultists do have deeper musings on the nature of religion. The most common theme is that the Archons are the original creators of Ksylia and their rightful gods. The Agathoi do not exist, but are a metaphor for the conquest of natural desires by imperial civilization itself. Worship of the Archons actively reclaims innate impulses which were wrongly suppressed by the empires of old.
 
+The below list of Archons is not exhaustive. There are many lesser-known Archonic cults in Conliah, and Lodumpans know of Archons that Conlians had never heard of.
+
 <table>
   <thead>
     <tr>
@@ -610,7 +614,7 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Strife Maker</td>
       <td>Male</td>
       <td>Chaos, Pranks</td>
-      <td>Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. Mortals corrupted by Lozie become Laffids, granting them the power to shape-shift while making their true physical forms repulsive. His symbol is an apple with a bite taken out of it.</td>
+      <td>Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. The Clashcircus is populated by Fluttermice, enormous flying mice who harass mortals who refuse to fight in the arena. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. Mortals corrupted by Lozie become Laffids, granting them the power to shape-shift while making their true physical forms repulsive. His symbol is an apple with a bite taken out of it.</td>
     </tr>
     <tr>
       <td>Ogzim</td>
@@ -666,28 +670,28 @@ Many Archon-worshippers are not philosophically inclined, but some cultists do h
       <td>Mother of Ills</td>
       <td>Female</td>
       <td>Sickness, Blight</td>
-      <td>Eovumid's sphere is the Apothecary of Knives. The Apothecary of Knives is an endless row of prison cells. The guards of this prison are Pulsecutters, beings made of toxic blades bound together. They walk cell by cell, gently cutting the prisoners with their toxic blades, making them more and more sick. Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood.</td>
+      <td>Eovumid's sphere is the Apothecary of Knives. The Apothecary of Knives is an endless row of prison cells. The guards of this prison are Pulsecutters, beings made of toxic blades bound together. They walk cell by cell, gently cutting the prisoners with their toxic blades, making them more and more sick. Eovumid is the patron of Blood Monsters - undead creatures who spread their illness through contact with their blood. Her symbol is five snakes tied together by their tails.</td>
     </tr>
     <tr>
       <td>Dreze</td>
       <td>World Bearer</td>
       <td>Female</td>
       <td>Endurance, Pain</td>
-      <td>In the Age of Might Makes Right, Dreze was a popular deity of the Dark Elves. Some still worship her in Valorgale. Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. Her power is called upon by those in bondage. Dreze's cults are called the Tofflads. They are pugilists who engage in bloodsport as a form of devotion. Those who seek her blessing of endurance are transformed into Pertinaxes, which grants the petitioner strength to perform a single task.</td>
+      <td>In the Age of Might Makes Right, Dreze was a popular deity of the Dark Elves. Some still worship her in Valorgale. Dreze's sphere is called the Crucible of Tears. It is a land of barren, wind-swept hills dotted with crumbling ruins. Tremendous chains stretch across the land, intended to hold beings of a size beyond mortal comprehension. The Crucible of Tears is populated by Percussors, which are twenty-foot-tall stone statues of a humanoid form that walk in a single direction at a constant pace. They crush anything in their way, and then move on. Her power is called upon by those in bondage. Dreze's cults are called the Tofflads. They are pugilists who engage in bloodsport as a form of devotion. Those who seek her blessing of endurance are transformed into Pertinaxes, which grants the petitioner strength to perform a single task. Her symbol is a solid white circle.</td>
     </tr>
     <tr>
       <td>Omuzast</td>
       <td>Mistress of Revelry</td>
       <td>Female</td>
       <td>Madness, Wine</td>
-      <td>In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone. Omuzast's sphere is the Shining Mansion. It is an ornately decorated mansion full of wine, food, dance halls, and bedrooms. Crawling throughout the Shining Mansion are Fouskalas. These Fouskalas are gelatinous slimes that force themselves into the mouths of mortals who spend too much time in the Shining Mansion, eventually leading to their suffocation. Those corrupted by Omuzast become Sunspawns. Their skin glows radiantly, causing those around them to be instantly attracted them. However, those who walk close to a Sunspawn begin to feel confused. Omuzast's cults are called the Drikenlads. They organize parties where excessive amounts of wine are consumed.</td>
+      <td>In the Age of Might Makes Right, Omuzast was a popular deity of the Halflings. Some still worship her in Middlestone. Omuzast's sphere is the Shining Mansion. It is an ornately decorated mansion full of wine, food, dance halls, and bedrooms. Crawling throughout the Shining Mansion are Fouskalas. These Fouskalas are gelatinous slimes that force themselves into the mouths of mortals who spend too much time in the Shining Mansion, eventually leading to their suffocation. Those corrupted by Omuzast become Sunspawns. Their skin glows radiantly, causing those around them to be instantly attracted them. However, those who walk close to a Sunspawn begin to feel confused. Omuzast's cults are called the Drikenlads. They organize parties where excessive amounts of wine are consumed. Her symbol is a bunch of grapes.</td>
     </tr>
     <tr>
       <td>Embe</td>
       <td>Queen of Forests</td>
       <td>Female</td>
       <td>Wilderness, Plants</td>
-      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. Embe's cults are called the Villiglads. They demolish buildings and introduce dangerous animals and aggressively growing plants to urban areas. Those corrupted by Embe become Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. Troggles become very timid, and seek to escape by burrowing underground.</td>
+      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. It is an inescapable forest with towering trees. Mortals who find themselves in the Whimsical Grove are preyed upon by Angstworms. These are worm-like creatures are twenty feet long and have reptilian hides. Angstworms have no head, face, or eyes, but they have a mouth with razor-sharp teeth. Angstworms are also capable of levitating for short distances. Being in the presence of an Angstworm causes immediate terror. Embe's cults are called the Villiglads. They demolish buildings and introduce dangerous animals and aggressively growing plants to urban areas. Those corrupted by Embe become Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. Troggles become very timid, and seek to escape by burrowing underground. Her symbol is a pan flute.</td>
     </tr>
   </tbody>
 </table>
@@ -1125,6 +1129,16 @@ Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with
 
 Mortals who worship Lize in hopes of conquering Conliah may be gifted with transformation into an Iavol. Their skin turns red, and they grow horns and a barbed tail. They gain the ability to induce unbearable pain in others. Iavols are bent on war and domination. When Iavols invade a region, they establish a lair to launch attacks on the country side. They raid settlements to loot weapons, armor, and rations.
 
+#### Doombinders
+
+*   **Robustness:** 3
+*   **Number appearing:** 1-4
+*   **Disposition:** Hostile
+*   **Courage:** Brave
+*   **Soul color:** Green core, with traces of red
+
+Mortals who worship Uluzing through a long career of assassination may be gifted with transformation into a Doombinder. Their skin turns pitch black, and their bodies emit plumes of smoke. The smoke makes it very difficult to see exactly where Doombinders are, when attacking them. In addition to becoming stronger, they gain the ability to curse a single mortal in their presence: if the Doombinder dies, then the cursed person simultaneously dies. The curse is permanent unless magically lifted, and the Doombinder may transfer the curse to another mortal at will.
+
 #### Lycanthropes
 
 *   **Robustness:** 4
@@ -1154,6 +1168,26 @@ Mortals who worship Lozie may be transformed into a Laffid. Their physical form 
 *   **Soul color:** Green core, with floods of red
 
 Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinaxe's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinaxe into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinaxe is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful. The metabolism and digestion of the Pertinaxe also changes significantly. They move substantially slower, but have greatly reduced food and water requirements. They become capable of extracting nutrition from stones and soil, which their hands are capable of breaking and digging into. They have total disregard for social norms, and will opportunistically engage in cannibalism of sentient mortals. However, they do not rely on hunting to survive as they can exclusively live on stones and soil. Pertinaxes still retain their intelligence and memories. They are capable of holding a conversation, and engaging in long-term planning. However, Pertinaxes will completely ignore what is happening around them until it is either useful to them or an obstacle to achieving their task.
+
+#### Sunspawns
+
+*   **Robustness:** 2
+*   **Number appearing:** 1-4
+*   **Disposition:** Peaceful
+*   **Courage:** Pragmatic
+*   **Soul color:** Green core, with traces of red
+
+Mortals who seek Omuzast's blessing for magnetic beauty may be transformed into Sunspawns. Their skin glows radiantly, causing uncorrupted mortals around them to be instantly attracted them. However, those who are compelled to walk close to a Sunspawn begin to feel confused. This confusion can cause others to feel dizzy, wander around, or attack wildly. Sunspawns tend not to worry about the confusion they cause, and continue to use their power to draw attention to themselves. As a result, the time lapse between becoming a Sunspawn and being killed by inquisitors is uniquely short.
+
+#### Troggles
+
+*   **Robustness:** 5
+*   **Number appearing:** 2-12
+*   **Disposition:** Hostile
+*   **Courage:** Cowardly
+*   **Soul color:** Green core, with floods of red
+
+Mortals who seek Embe's blessing for freedom from obligation may be transformed into Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. The transformation also grants sharp claws and teeth. Troggles become very timid, and seek to escape by burrowing underground. Troggles find each other and establish larger underground burrows. They periodically leave their burrows to hunt animals. They have an incredible sense of smell, which makes them excellent hunters despite their loss of vision. They retain their intelligence and memories, but become uncontrollably terrified of civilized mortals. They are more likely to run away than to fight, but when pressed they will use their claws and teeth in self-defense.
 
 ### Cthonians
 
@@ -1247,7 +1281,47 @@ Arachnaurs are centaur-like creatures with the upper body of a human and the low
 *   **Courage:** Brave
 *   **Soul color:** Red
 
-Pulsecutters are amorphous beings of conjoined knives. They live in Eovumid's sphere, the Apothecary of Knives, which is an endless row of prison cells on either side. The Pulsecutters guard the halls, and visit each of the prisoners one at a time. They gently cut them with their knives, slowly poisoning them to death. Cuts from their knives are not very immediately dangerous, but they inject their victims with a slow-acting poison that kills them. The poison also causes incredible pain to the victim. Each additional cut increases the potency of the poison, which reduces the time until death.
+Pulsecutters are amorphous beings of conjoined knives. They live in Eovumid's sphere, the Apothecary of Knives, which is an endless row of prison cells on either side. The Pulsecutters guard the halls, and visit each of the prisoners one at a time. They gently cut them with their knives, slowly poisoning them to death. Cuts from their knives are not very immediately dangerous, but they inject their victims with a slow-acting poison that kills them. The poison also causes incredible pain to the victim. Each additional cut increases the potency of the poison, which reduces the time until death. Pulsecutter Toxin is different from Blood Monstrosity, but if a Pulsecutter cuts a Blood Monster, then there is a chance it will transmit Blood Monstrosity at the same time.
+
+#### Fluttermice
+
+*   **Robustness:** 2
+*   **Number appearing:** 4-9
+*   **Disposition:** Hostile
+*   **Courage:** Cowardly
+*   **Soul color:** Red
+
+Fluttermice are five-foot-tall mice with leathery bat wings who harass mortals who refuse to fight in Lozie's sphere of Clashcircus. They have sharp teeth and claws. Fluttermice prefer to fly high in the sky, and periodically swoop down to strike.
+
+#### Percussors
+
+*   **Robustness:** 10
+*   **Number appearing:** 1
+*   **Disposition:** Peaceful
+*   **Courage:** Relentless
+*   **Soul color:** Red
+
+A Percussor is a twenty-foot-tall stone statue of a humanoid form that walks in a single direction at a constant pace. It crushes anything in its way, and then moves on. If it can somehow be forcibly rotated, then the Percussor will not actively resist but will continue walking forward in the direction it is turned. The Percussor is generally unintelligent and does not have any self-preservation instinct whatsoever, and will destroy itself by falling off cliffs or walking into the ocean. However, it has some capacity to reason to recognize e.g. that it must use its hands to scale a steep mountain in its way.
+
+#### Fouskalas
+
+*   **Robustness:** 5
+*   **Number appearing:** 2-8
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Red
+
+Fouskalas are gelatinous slimes that crawl throughout Omuzast's Shining Mansion. They force themselves into the mouths of mortals, suffocating them.
+
+#### Angstworms
+
+*   **Robustness:** 8
+*   **Number appearing:** 3-7
+*   **Disposition:** Hostile
+*   **Courage:** Brave
+*   **Soul color:** Red
+
+Angstworms are native to Embe's sphere of the Whimsical Grove. Angstworms are twenty-foot-long worm-like creatures with reptilian hides. Angstworms have no head, face, or eyes, but they have a mouth with razor-sharp teeth. Angstworms are also capable of levitating for short distances. Being in the presence of an Angstworm causes immediate terror. They slither on the ground, striking at their prey with their sharp teeth.
 
 ### Artificial Monsters
 
