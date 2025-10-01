@@ -826,7 +826,7 @@ Cloud Devouts are cloud worshippers in the ranks of the Uzvu Confederation, who 
 
 ### Soul Color
 
-The term "color" in reference to soul material is not literal, but refers to the magically detectable differences in signature based on where the soul material originated from. The color names are ancient conventions which have carried into the present, but it is only a feeling within the one probing magically infused substance. Soul color applies to both ambient soul material and discrete souls, but not all colors exist in both forms.
+The term "color" in reference to soul material is not literal, but refers to the magically detectable differences in signature based on where the soul material originated from. The color names are ancient conventions which have carried into the present, but it is only a feeling within the one probing magically infused substance. Remarkably, the soul color terminology was already used in exactly the same way in Lodumpis at the time contact was made with Conliah. Soul color applies to both ambient soul material and discrete souls, but not all colors exist in both forms.
 
 *   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
 *   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
