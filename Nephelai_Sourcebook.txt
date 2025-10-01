@@ -1046,6 +1046,22 @@ The Drinkenlad Bunches are a decentralized underground association of party-goer
 
 The Villiglad Societies are a decentralized underground association of rewilders. They act in high populated urban areas, and demolish buildings regardless of whether they are in use. The Villiglads capture eggs and live babies of dangerous animals from the wilderness, and introduce them to urban centers where they wreak havoc when they are grown. They also plant weeds that aggressively overtake buildings and destroy their foundations. Furthermore, Villiglads have the magical ability to animate plants into dangerous carnivorous monsters. Some of these animated plants are stationary, and some are mobile.
 
+#### The Gladlad Dens
+
+The Gladlad Dens are a decentralized underground association of drug users who worship Ulviazing. A common drug of choice for Gladlads are haze shrooms, which is a mushroom containing a depressant drug which commonly grows across Conliah.
+
+#### The Grublelad Fellows
+
+The Grublelad Fellows are a decentralized underground association of ruminators. They worship Inizozim, and gather together to dwell on injustices done to them. Grublelads discuss their fantasies of revenge, until they are confident enough to take action.
+
+#### The Jaktlad Packs
+
+The Jaktlad Packs are a decentralized underground association of poachers. They trespass against nobles to hunt game on their lands, out of reverence for Nabazie.
+
+#### The Syklad Clinics
+
+The Syklad Clinics are a decentralized underground association of false healers who worship Eovumid. They travel from town to town, claiming to have remedies for every ailment. In reality, they carry vials of blood infected with Blood Monstrosity. They infect their patients with this blood, which leads them to becoming Blood Monsters.
+
 Monsters
 --------
 
