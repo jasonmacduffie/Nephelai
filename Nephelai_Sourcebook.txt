@@ -587,9 +587,9 @@ Outside of the Imperial Cult, there are religious factions of High Elves and Woo
 
 Worship of the Archons is forbidden by law. Even so their cults persist, as their power is too alluring to resist. Shrines to them can be found in ancient ruins, concealed temples, and the basements of shady nobles.
 
-Many Archon-worshippers are not philosophically inclined, but some cultists do have deeper musings on the nature of religion. The most common theme is that the Archons are the original creators of Ksylia and their rightful gods. The Agathoi do not exist, but are a metaphor for the conquest of natural desires by imperial civilization itself. Worship of the Archons actively reclaims innate impulses which were wrongly suppressed by the empires of old.
+There are many contradictory accounts regarding mythic history and cosmology given by Archonic cultists. They vary between different cults, and even within the same cults. Many Archon-worshippers do not hold any opinion whatsoever on the topic of religion, and relate to the Archons in a purely transactional way. However, for cultists who do give an account, there are several points of agreement which never vary. The Archons themselves attest to these points.
 
-The below list of Archons is not exhaustive. There are many lesser-known Archonic cults in Conliah, and Lodumpans know of Archons that Conlians had never heard of.
+First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were created afterwards. Second, the structure of Ksylia is that of concentric spheres. The outermost sphere separating it from Cthonia is the Hade. Then the Neaths, with its hollow surface of Arbigard. The Skies are at the center. Thus, "up" is at the center of Ksylia, and "down" is away from its center. The third point of agreement is that blue soul material was somehow invented by the weakest mortals of Ksylia, in order to oppose the Archons. The Magellian Empire weaponized blue soul material against the Archons, and taught the false doctrine that weakness is good, and strength is evil. The Agathoi were an invented story to justify this inversion. Of course, the Firmament and Asteria do not exist. Therefore, Archonic cults reclaim the innate laws of nature which were wrongly suppressed by the Magellian and Yargyez Empires.
 
 <table>
   <thead>
