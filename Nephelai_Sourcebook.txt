@@ -288,9 +288,9 @@ Worship of the Agathoi spread across Westerwood, which had a long history of war
 
 A great kingdom consolidated power across Fair Island, and declared itself the Magellian Empire. It rapidly conquered the continent of Conliah with advanced technology powered by unprecedented arcane science. They banned Archon worship and instituted Agathos worship, which was unknown outside of Westerwood and Fair Island at that time. The provinces were united for the first time, and the High Elves imposed their worldview on the other races. This worldview included an emphasis on rationality, control, and introspection. They constructed centers of arcane scientific research across the continent.
 
-After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Archonic threat. They established centers of learning called Phrontisterions, which were enormous floating buildings. At these Phrontisterions they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.
+After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Archonic threat. They established centers of learning called Phrontisteries, which were enormous floating buildings. At these Phrontisteries they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.
 
-In an event later called "The Great Nothing", group of youth educated by the Cloudruled plotted an assassination against the Emperor and his heirs. The result was a succession crisis that could, theoretically, be resolved legally through an election at lower levels of government. However, the assassins made arguments that there could be no rightful successor that were so strong that government was gridlocked. What resulted was a continuation of the imperial bureaucracy that no longer had an emperor. Within a few years, the empire dissolved into rival states ruled by provincial governments. Over time, the magical technology spread by the Magellians was lost and the only remnants are magical, mechanical, and monstrous mysteries of their past. The magical knowledge behind the floating Phrontisterions was lost, and they collapsed into the ground.
+In an event later called "The Great Nothing", group of youth educated by the Cloudruled plotted an assassination against the Emperor and his heirs. The result was a succession crisis that could, theoretically, be resolved legally through an election at lower levels of government. However, the assassins made arguments that there could be no rightful successor that were so strong that government was gridlocked. What resulted was a continuation of the imperial bureaucracy that no longer had an emperor. Within a few years, the empire dissolved into rival states ruled by provincial governments. Over time, the magical technology spread by the Magellians was lost and the only remnants are magical, mechanical, and monstrous mysteries of their past. The magical knowledge behind the floating Phrontisteries was lost, and they collapsed into the ground.
 
 #### 565 BYE - 1 BYE
 
@@ -751,18 +751,18 @@ Soul material flows ambiently throughout all three realms, but it is inaccessibl
 
 ### Spell Categories
 
+*   **Augmentation** spells are aimed at enhancing one's own abilities.
 *   **Cthonic Warding** spells are aimed at warding off Cthonians and the undead.
 *   **Curse** spells are aimed at bringing misfortune to their targets.
 *   **Detection** spells are aimed at perceiving otherwise unseen things.
 *   **Elemental Damage** spells use raw elemental forces to inflict damage. The six categories of elemental damage are sunlight, moonlight, fire, water, air (including lightning), and earth.
-*   **Exorcism** spells are aimed and purifying and banishing evil forces.
+*   **Exorcism** spells are aimed and purifying and banishing Cthonic taint.
 *   **Healing** spells are aimed at restoring the health and wellness of their targets.
 *   **Illusion** spells are aimed at creating false appearances to their targets.
 *   **Mental Influence** spells are aimed at affecting a person's mental state.
 *   **Protection** spells involve warding off physical and magical attacks.
-*   **Self-Buff** spells are aimed at enhancing one's own abilities.
 *   **Soul Binding** spells involve infusing physical things with soul material.
-*   **Summoning** spells call forth Cthonic entities to help the caster.
+*   **Summoning** spells temporarily phase in monsters from Cthonic or Ksylic spheres to help the caster.
 *   **Transmutation** spells manipulate physical substances.
 *   **Utility** spells are a catch-all category for non-combat spells that don't cleanly fit in other categories.
 
@@ -779,7 +779,7 @@ The below list of Magic Wielder Types includes a listing of what Spell Categorie
 Wildmages passively absorb high amounts of soul material from their surroundings, then unleash their built-up soul material in a burst.
 
 *   _Always:_ Elemental Damage, Illusion, Mental Influence, Utility
-*   _Sometimes:_ Curse, Detection, Protection, Self-Buff, Transmutation
+*   _Sometimes:_ Curse, Detection, Protection, Augmentation, Transmutation
 *   _Rarely:_ Cthonic Warding, Healing, Exorcism, Soul Binding, Summoning
 
 #### Schoolmage
@@ -787,7 +787,7 @@ Wildmages passively absorb high amounts of soul material from their surroundings
 Schoolmages are educated by the Academy of Knowledge to understand the physical laws of Ksylia. This enables Schoolmages to cast spells by accessing the ambient soul material that flows through Ksylia. Low-level spells like elemental projectiles and defensive wards are commonplace, but knowledge of even these basic spells implies years of dedicated study at an Academy of Knowledge university. High-level spells like flight, teleportation, and weather manipulation are legendary powers not known to the Academy of Knowledge but learnable through re-discovery of ancient tomes.
 
 *   _Always:_ Detection, Elemental Damage, Illusion, Mental Influence, Soul Binding, Protection, Transmutation, Utility
-*   _Sometimes:_ Curse, Healing, Self-Buff, Summoning
+*   _Sometimes:_ Curse, Healing, Augmentation, Summoning
 *   _Rarely:_ Cthonic Warding, Exorcism
 
 #### Wretch
@@ -795,7 +795,7 @@ Schoolmages are educated by the Academy of Knowledge to understand the physical 
 Wretches are individuals directly touched by Cthonia, without having a deliberate pact with a specific Archon. As a result, Wretches have lingering Cthonic energy coursing through their bodies which they can use to cast powerful spells.
 
 *   _Always:_ Curse, Elemental Damage, Mental Influence
-*   _Sometimes:_ Detection, Illusion, Self-Buff, Soul Binding, Summoning, Utility
+*   _Sometimes:_ Detection, Illusion, Augmentation, Soul Binding, Summoning, Utility
 *   _Rarely:_ Cthonic Warding, Healing, Exorcism, Protection, Transmutation
 
 #### Invoker
@@ -803,7 +803,7 @@ Wretches are individuals directly touched by Cthonia, without having a deliberat
 Invokers are members of Archonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.
 
 *   _Always:_ Curse, Mental Influence, Soul Binding, Summoning
-*   _Sometimes:_ Detection, Elemental Damage, Illusion, Protection, Self-Buff, Utility
+*   _Sometimes:_ Detection, Elemental Damage, Illusion, Protection, Augmentation, Utility
 *   _Rarely:_ Cthonic Warding, Healing, Exorcism, Transmutation
 
 #### Ardent
@@ -811,7 +811,7 @@ Invokers are members of Archonic cults who have directly communed with the Archo
 Ardents are philosophers who have obtained enlightenment, flooding their bodies with Asteric soul material. They may channel this Asteric soul material into magical spells, as long as they remain in their elevated state.
 
 *   _Always:_ Detection, Healing, Exorcism, Protection, Utility
-*   _Sometimes:_ Cthonic Warding, Illusion, Self-Buff, Transmutation
+*   _Sometimes:_ Cthonic Warding, Illusion, Augmentation, Transmutation
 *   _Rarely:_ Curse, Elemental Damage, Mental Influence, Soul Binding, Summoning
 
 #### Devout
@@ -821,7 +821,7 @@ Devouts are generally members of the Imperial Cult who obey the will of a specif
 Cloud Devouts are cloud worshippers in the ranks of the Uzvu Confederation, who apparently draw power from the clouds. However, despite the ostensible difference in source, they function similarly to Imperial Cult Devouts.
 
 *   _Always:_ Cthonic Warding, Detection, Healing, Exorcism, Protection
-*   _Sometimes:_ Elemental Damage, Mental Influence, Self-Buff, Transmutation, Utility
+*   _Sometimes:_ Elemental Damage, Mental Influence, Augmentation, Transmutation, Utility
 *   _Rarely:_ Curse, Illusion, Soul Binding, Summoning
 
 ### Soul Color
@@ -831,7 +831,7 @@ The term "color" in reference to soul material is not literal, but refers to the
 *   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
 *   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
 *   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Agathoi have discrete blue souls, and are presumed to be immortal. Ambient blue soul material flows throughout Asteria.
-*   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and red soul material flows throughout Cthonia. Upon death, Cthonian bodies disintegrate into dust. Their red souls return to their respective sphere of Cthonia, where their physical forms slowly reconstitute.
+*   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and red soul material flows throughout Cthonia. Upon death, Cthonian bodies disintegrate into dust. Their red souls return to their respective sphere of Cthonia, where their physical forms slowly reconstitute. If the specific Cthonian has mortal-like intelligence, it retains all of its memories upon reconstitution.
 
 ### Soul Binding & Enchanting
 
@@ -1209,6 +1209,8 @@ Mortals who seek Embe's blessing for freedom from obligation may be transformed 
 
 These exotic monsters originate in Cthonia, and cannot persist in Ksylia for prolonged periods. Summoners aligned with an Archon may temporarily summon a Cthonian as an ally in battle, without a Cthonic Breach. However, seeing any of these monsters wandering in the open without a summoner is a sure sign of a Cthonic Breach.
 
+Cthonians have three types of intelligence: mortal-like, animal-like, and automaton-like. Mortal-like Cthonians can carry out conversations and recall past experiences. Animal-like Cthonians act according to their raw instincts, which are typically predatory. Automaton-like Cthonians are limited to repeating a small set of behaviors.
+
 #### Lykoids
 
 *   **Robustness:** 2
@@ -1216,6 +1218,7 @@ These exotic monsters originate in Cthonia, and cannot persist in Ksylia for pro
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch.
 
@@ -1226,6 +1229,7 @@ Lykoids are two-legged humanoids with the bodies of ordinary humans without fur,
 *   **Disposition:** Cautious
 *   **Courage:** Cowardly
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights. Proximity to a Nightcreep gradually dulls all of one's senses. After several minutes of exposure, those affected instantly die.
 
@@ -1236,6 +1240,7 @@ Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormall
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Red
+*   **Intelligence:** Animal-like
 
 Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with eight arms, no legs, and no heads. In the absence of eyes or ears, Oktocheirs can detect where mortals are positioned based on the vibration of their footsteps, however subtly their prey attempts to sneak. They can move in different ways, often either by crawling on all eight arms like a spider, or by walking on two arms like humanoid legs. They are native to Uluzing's Quaking Peaks, where they threaten to push or throw travellers onto either side of a narrow cliff.
 
@@ -1246,6 +1251,7 @@ Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with
 *   **Disposition:** Cautious
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods.
 
@@ -1256,6 +1262,7 @@ Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at th
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's Cinderthrone. The largest Dragons may be fifty feet long. They have a well-defined social hierarchy in which the leader of a Dragon kingdom is constantly being overthrown by their subjects. They rule over other lesser Dragon-like beings who populate Cinderthrone who exist at lower strata of this social hierarchy. According to legend, the ancient Dwarves who worshipped Lundazing were granted the power to summon Dragons as flying mounts.
 
@@ -1266,6 +1273,7 @@ Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's 
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
 
@@ -1276,6 +1284,7 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leat
 *   **Disposition:** Cautious
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Nagas are creatures with the upper body of a human and the lower body of a snake. They can hold their breath underwater for hours at a time. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs. They are very fast when slithering or swimming, and they typically wield two longswords to strike their opponents.
 
@@ -1286,6 +1295,7 @@ Nagas are creatures with the upper body of a human and the lower body of a snake
 *   **Disposition:** Peaceful
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
 Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.
 
@@ -1296,8 +1306,9 @@ Arachnaurs are centaur-like creatures with the upper body of a human and the low
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Mortal-like
 
-Pulsecutters are amorphous beings of conjoined knives. They live in Eovumid's sphere, the Apothecary of Knives, which is an endless row of prison cells on either side. The Pulsecutters guard the halls, and visit each of the prisoners one at a time. They gently cut them with their knives, slowly poisoning them to death. Cuts from their knives are not very immediately dangerous, but they inject their victims with a slow-acting poison that kills them. The poison also causes incredible pain to the victim. Each additional cut increases the potency of the poison, which reduces the time until death. Pulsecutter Toxin is different from Blood Monstrosity, but if a Pulsecutter cuts a Blood Monster, then there is a chance it will transmit Blood Monstrosity at the same time.
+Pulsecutters are amorphous beings of conjoined knives standing at three feet tall. Their interior is a tangled web of slimy black cords joining the knives together. The cords are densely packed together such that they form a solid mass. Their exterior is completely covered in sharp knives pointed outwards. There is an opening in the knives and black cords to reveal two glowing red eyes, which are its only facial features. Pulsecutters live in Eovumid's sphere, the Apothecary of Knives, which is an endless row of prison cells on either side. The Pulsecutters guard the halls, and visit each of the prisoners one at a time. Pulsecutters gently extend one of their cords to cut the prisoners with their knives, slowly poisoning them to death. Cuts from their knives are not very immediately dangerous, but they inject their victims with a slow-acting poison that kills them. The poison also causes incredible pain to the victim. Each additional cut increases the potency of the poison, which reduces the time until death. Pulsecutter Toxin is different from Blood Monstrosity, but if a Pulsecutter cuts a Blood Monster, then there is a chance it will transmit Blood Monstrosity at the same time.
 
 #### Fluttermice
 
@@ -1306,6 +1317,7 @@ Pulsecutters are amorphous beings of conjoined knives. They live in Eovumid's sp
 *   **Disposition:** Hostile
 *   **Courage:** Cowardly
 *   **Soul color:** Red
+*   **Intelligence:** Animal-like
 
 Fluttermice are five-foot-tall mice with leathery bat wings who harass mortals who refuse to fight in Lozie's sphere of Clashcircus. They have sharp teeth and claws. Fluttermice prefer to fly high in the sky, and periodically swoop down to strike.
 
@@ -1316,6 +1328,7 @@ Fluttermice are five-foot-tall mice with leathery bat wings who harass mortals w
 *   **Disposition:** Peaceful
 *   **Courage:** Relentless
 *   **Soul color:** Red
+*   **Intelligence:** Automaton-like
 
 A Percussor is a twenty-foot-tall stone statue of a humanoid form that walks in a single direction at a constant pace. It crushes anything in its way, and then moves on. If it can somehow be forcibly rotated, then the Percussor will not actively resist but will continue walking forward in the direction it is turned. The Percussor is generally unintelligent and does not have any self-preservation instinct whatsoever, and will destroy itself by falling off cliffs or walking into the ocean. However, it has some capacity to reason to recognize e.g. that it must use its hands to scale a steep mountain in its way.
 
@@ -1326,6 +1339,7 @@ A Percussor is a twenty-foot-tall stone statue of a humanoid form that walks in 
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Red
+*   **Intelligence:** Animal-like
 
 Fouskalas are gelatinous slimes that crawl throughout Omuzast's Shining Mansion. They force themselves into the mouths of mortals, suffocating them.
 
@@ -1336,6 +1350,7 @@ Fouskalas are gelatinous slimes that crawl throughout Omuzast's Shining Mansion.
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Red
+*   **Intelligence:** Animal-like
 
 Angstworms are native to Embe's sphere of the Whimsical Grove. Angstworms are twenty-foot-long worm-like creatures with reptilian hides. Angstworms have no head, face, or eyes, but they have a mouth with razor-sharp teeth. Angstworms are also capable of levitating for short distances. Being in the presence of an Angstworm causes immediate terror. They slither on the ground, striking at their prey with their sharp teeth.
 
