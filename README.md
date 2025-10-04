@@ -1090,6 +1090,7 @@ The below listing provides several traits, which help to contextualize what an e
 *   **Disposition** may be peaceful, cautious, or hostile. It refers to the default, unprovoked friendliness of the monster.
 *   **Courage** may be relentless, brave, pragmatic, or cowardly. It refers to the willingness of the monster to fight to the death.
 *   **Soul color** describes the magical signature that the monster's presence emits.
+*   **Intelligence** may be mortal-like, animal-like, or automaton-like. It refers to whether the monster is capable of social interaction and improvisation.
 
 ### Corrupted Mortals
 
@@ -1102,6 +1103,7 @@ These common monsters are former mortals, who were corrupted by Cthonic forces i
 *   **Disposition:** Hostile
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. After taking vengeance, Gutterplots often live in fear of retribution towards themselves in turn. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage. They plan surprise attacks on innocent travelers for fear that they are the friends and family of those they wronged.
 
@@ -1112,6 +1114,7 @@ Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterpl
 *   **Disposition:** Cautious
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Husks have faces that look like grasshoppers. Due to their Cthonic corruption, Husks dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.
 
@@ -1122,6 +1125,7 @@ Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a H
 *   **Disposition:** Peaceful
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who serve Ogzim may be transformed into Zoners. The only apparent effect of this transformation is permanent, complete invisibility. This invisibility covers all body parts, but it does not effect clothing, weapons, jewelry, etc. that the Zoner possesses. In general, Zoners are not combatants and they prefer to use their newfound power for personal material gain. However, their invisibility isolates them from living in normal society, often undermining their original motivation to gain social advantage through invisibility.
 
@@ -1132,6 +1136,7 @@ Mortals who serve Ogzim may be transformed into Zoners. The only apparent effect
 *   **Disposition:** Cautious
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with transformation into a Drakling. They grow reptilian scales, tails, and curved horns. They gain the ability to breathe fire or acid. Draklings are cunning, but prefer to avoid direct combat in melee range. Instead, they tend to use ranged weapons, lay traps, and ambush their enemies. Draklings are usually former nobles and their loyal courts. The goal of most Draklings is to usurp their superiors and rule over the land. Even if they successfully kill their superiors, their monstrous transformation undermines their legitimacy and authority.
 
@@ -1142,6 +1147,7 @@ Mortals who seek Lundazing's blessing in a revolutionary plot may be gifted with
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who worship Lize in hopes of conquering Conliah may be gifted with transformation into an Iavol. Their skin turns red, and they grow horns and a barbed tail. They gain the ability to induce unbearable pain in others. Iavols are bent on war and domination. When Iavols invade a region, they establish a lair to launch attacks on the country side. They raid settlements to loot weapons, armor, and rations.
 
@@ -1152,6 +1158,7 @@ Mortals who worship Lize in hopes of conquering Conliah may be gifted with trans
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who worship Uluzing through a long career of assassination may be gifted with transformation into a Doombinder. Their skin turns pitch black, and their bodies emit plumes of smoke. The smoke makes it very difficult to see exactly where Doombinders are, when attacking them. In addition to becoming stronger, they gain the ability to curse a single mortal in their presence: if the Doombinder dies, then the cursed person simultaneously dies. The curse is permanent unless magically lifted, and the Doombinder may transfer the curse to another mortal at will.
 
@@ -1162,6 +1169,7 @@ Mortals who worship Uluzing through a long career of assassination may be gifted
 *   **Disposition:** Cautious
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.
 
@@ -1172,6 +1180,7 @@ Lycanthropy is a disease that spreads through a bite or claw attack from the inf
 *   **Disposition:** Cautious
 *   **Courage:** Brave
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who worship Lozie may be transformed into a Laffid. Their physical form becomes warped and repulsive, as if their skin has melted and boiled, leading them to wear wooden masks to conceal their faces. Their transformation also makes Laffids physically strong and fast. In addition, their transformation allows them to temporarily shape-shift into any humanoid, sentient mortal they choose to resemble. This shape-shifting may be sustained for several hours, but requires an equal amount of time to rest in between impersonations. Laffids tend to use their powers of impersonation to cause social discord. However, while in their true form they live in constant fear of being mocked for their revolting faces.
 
@@ -1182,6 +1191,7 @@ Mortals who worship Lozie may be transformed into a Laffid. Their physical form 
 *   **Disposition:** Peaceful
 *   **Courage:** Relentless
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Dreze's blessing for the endurance to complete a task may be transformed into Pertinaxes. A Pertinaxe's skin turns to stone, and large stone spikes grow out of its back. The transformation changes the mind of the Pertinaxe into a being single-mindedly committed to the completion of a single task. Their specific behavior depends on what the mortal was originally petitioning Dreze for strength with. Once the task is complete, the Pertinaxe is doomed to repeatedly attempt to complete the same task, regardless of whether it is still meaningful. The metabolism and digestion of the Pertinaxe also changes significantly. They move substantially slower, but have greatly reduced food and water requirements. They become capable of extracting nutrition from stones and soil, which their hands are capable of breaking and digging into. They have total disregard for social norms, and will opportunistically engage in cannibalism of sentient mortals. However, they do not rely on hunting to survive as they can exclusively live on stones and soil. Pertinaxes still retain their intelligence and memories. They are capable of holding a conversation, and engaging in long-term planning. However, Pertinaxes will completely ignore what is happening around them until it is either useful to them or an obstacle to achieving their task.
 
@@ -1192,6 +1202,7 @@ Mortals who seek Dreze's blessing for the endurance to complete a task may be tr
 *   **Disposition:** Peaceful
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Omuzast's blessing for magnetic beauty may be transformed into Sunspawns. Their skin glows radiantly, causing uncorrupted mortals around them to be instantly attracted them. However, those who are compelled to walk close to a Sunspawn begin to feel confused. This confusion can cause others to feel dizzy, wander around, or attack wildly. Sunspawns tend not to worry about the confusion they cause, and continue to use their power to draw attention to themselves. As a result, the time lapse between becoming a Sunspawn and being killed by inquisitors is uniquely short.
 
@@ -1202,14 +1213,13 @@ Mortals who seek Omuzast's blessing for magnetic beauty may be transformed into 
 *   **Disposition:** Hostile
 *   **Courage:** Cowardly
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 Mortals who seek Embe's blessing for freedom from obligation may be transformed into Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. The transformation also grants sharp claws and teeth. Troggles become very timid, and seek to escape by burrowing underground. Troggles find each other and establish larger underground burrows. They periodically leave their burrows to hunt animals. They have an incredible sense of smell, which makes them excellent hunters despite their loss of vision. They retain their intelligence and memories, but become uncontrollably terrified of civilized mortals. They are more likely to run away than to fight, but when pressed they will use their claws and teeth in self-defense.
 
 ### Cthonians
 
 These exotic monsters originate in Cthonia, and cannot persist in Ksylia for prolonged periods. Summoners aligned with an Archon may temporarily summon a Cthonian as an ally in battle, without a Cthonic Breach. However, seeing any of these monsters wandering in the open without a summoner is a sure sign of a Cthonic Breach.
-
-Cthonians have three types of intelligence: mortal-like, animal-like, and automaton-like. Mortal-like Cthonians can carry out conversations and recall past experiences. Animal-like Cthonians act according to their raw instincts, which are typically predatory. Automaton-like Cthonians are limited to repeating a small set of behaviors.
 
 #### Lykoids
 
@@ -1365,6 +1375,7 @@ There are some monsters which were magically created by mortals. Some are simple
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 The Magellians attempted to enhance mortal flesh through magical means, but their early attempts backfired. As a result they created deformed humanoids with enormous amorphous growths. The flesh of these mutants is often grafted to metal. Flesh Mutants wander mindlessly in underground ruins unless agitated and ravenous. If they are provoked, they will blast their targets with elemental projectiles. Flesh Mutants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
@@ -1375,6 +1386,7 @@ The Magellians attempted to enhance mortal flesh through magical means, but thei
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 Trolls are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. Trolls are nine feet tall, and walk with a hunch. They also have the ability to regenerate in the midst of combat. In combat, Trolls are very agile and strike with claws and teeth. Trolls often wander in groups outdoors aimlessly searching for sustenance. Trolls do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
@@ -1385,6 +1397,7 @@ Trolls are a successful attempt by the Magellians to enhance mortal flesh throug
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 Giants are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. They were intended as beasts of burden who could perform tasks more suitable for a humanoid form. They stand at eleven feet tall and are capable of fighting with clubs. Giants often wander in groups outdoors aimlessly searching for sustenance. Giants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
@@ -1395,6 +1408,7 @@ Giants are a successful attempt by the Magellians to enhance mortal flesh throug
 *   **Disposition:** Peaceful
 *   **Courage:** Brave
 *   **Soul color:** Green
+*   **Intelligence:** Mortal-like
 
 Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life.
 
@@ -1405,6 +1419,7 @@ Deceased mages attempted to immortalize themselves by encasing their brains in s
 *   **Disposition:** Cautious
 *   **Courage:** Pragmatic
 *   **Soul color:** Yellow and green mixed
+*   **Intelligence:** Mortal-like
 
 Mechanids are humanoid constructs the Magellians used as servants and soldiers. The ancient Magellians knew how to animate this clockwork vessel with a sentient mortal and animal soul combined. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
 
@@ -1415,6 +1430,7 @@ Mechanids are humanoid constructs the Magellians used as servants and soldiers. 
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Faintly yellow
+*   **Intelligence:** Automaton-like
 
 Warpuppets may be made of various materials like clay, wood, iron, or bronze. They are completely unintelligent, and require continuous commands from their creators to be useful in combat. They vary in size and shape, but humanoid forms are most common.
 
@@ -1425,6 +1441,7 @@ Warpuppets may be made of various materials like clay, wood, iron, or bronze. Th
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than Warpuppets, and capable of greater autonomy in following its commands.
 
@@ -1435,6 +1452,7 @@ The ancient Magellians knew how to permanently bind an animal soul to these enor
 *   **Disposition:** Cautious
 *   **Courage:** Pragmatic
 *   **Soul color:** Yellow and green mixed
+*   **Intelligence:** Mortal-like
 
 The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. These beings possess all the intelligence the sentient mortal held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
@@ -1445,6 +1463,7 @@ The ancient Magellians knew how to stitch together the flesh of various animals 
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Multiple green patches
+*   **Intelligence:** Mortal-like
 
 The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with the souls of several sentient mortals. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting memories confused the being regarding its origin. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
 
@@ -1455,6 +1474,7 @@ The ancient Magellians constructed enormous clockwork machines as weapons of war
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 Blobs are amorphous gelatinous creatures who are the creations of the Magellians. They are unintelligent but are very dangerous in their desire to consume. Blobs secrete digestive acids to pre-digest their targets, then consume the liquid. When a Blob grows sufficiently large, it divides into two Blobs.
 
@@ -1466,6 +1486,7 @@ Blobs are amorphous gelatinous creatures who are the creations of the Magellians
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
+*   **Intelligence:** Animal-like
 
 A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.
 
@@ -1481,6 +1502,7 @@ The undead are similar to artificial beings, in that their existence is almost a
 *   **Disposition:** Cautious
 *   **Courage:** Brave
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.
 
@@ -1491,6 +1513,7 @@ Blood Monstrosity is a disease that spreads through contact with the blood of th
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life. Liches no longer suffer to aging, hunger, or thirst. Over time, the flesh rots off their bones and they continue to live as a reanimated skeleton. Liches have incredible magical abilities, and prefer to fight with spells instead of physical combat. Notably, all Liches have the ability to read minds. However, regardless of their original motivations to transform, a Lich's mind is polluted by the insatiable desire to extract enormous volumes of information. They tend to raise undead armies to attack villages, and bring living mortals back to their lairs. The Lich reads their minds, then extracts their bodies and souls as necromantic resources.
 
@@ -1501,6 +1524,7 @@ Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcas
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Green core, with traces of red
+*   **Intelligence:** Mortal-like
 
 Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Even so, Corpsals generally retain all the intelligence and memories they held in life, besides the capacity to perform magic. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
 
@@ -1511,6 +1535,7 @@ Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. Th
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
 
 A green soul bound to a location becomes a Ghost. Most often, this is achieved through powerful ancestor veneration rituals. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound to a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic.
 
@@ -1522,6 +1547,7 @@ A green soul bound to a location becomes a Ghost. Most often, this is achieved t
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Faintly yellow and red mixed
+*   **Intelligence:** Automaton-like
 
 Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
 
@@ -1532,6 +1558,7 @@ Raising reanimated skeletons requires Cthonic magic to animate bone. They are no
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Faintly yellow and red mixed
+*   **Intelligence:** Automaton-like
 
 Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
 
@@ -1542,6 +1569,7 @@ Raising reanimated zombies requires Cthonic magic to animate flesh. They are not
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Yellow core, with floods of red
+*   **Intelligence:** Animal-like
 
 Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
 
