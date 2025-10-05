@@ -1429,14 +1429,14 @@ Mechanids are humanoid constructs the Magellians used as servants and soldiers. 
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
-*   **Soul color:** Faintly yellow
+*   **Soul color:** Yellow
 *   **Intelligence:** Automaton-like
 
 Warpuppets may be made of various materials like clay, wood, iron, or bronze. They are completely unintelligent, and require continuous commands from their creators to be useful in combat. They vary in size and shape, but humanoid forms are most common.
 
 #### Agalmaliths
 
-*   **Robustness:** 5
+*   **Robustness:** 6
 *   **Number appearing:** 1-3
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
@@ -1546,7 +1546,7 @@ A green soul bound to a location becomes a Ghost. Most often, this is achieved t
 *   **Number appearing:** 3-18
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
+*   **Soul color:** Red
 *   **Intelligence:** Automaton-like
 
 Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
@@ -1557,7 +1557,7 @@ Raising reanimated skeletons requires Cthonic magic to animate bone. They are no
 *   **Number appearing:** 2-8
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
-*   **Soul color:** Faintly yellow and red mixed
+*   **Soul color:** Red
 *   **Intelligence:** Automaton-like
 
 Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
