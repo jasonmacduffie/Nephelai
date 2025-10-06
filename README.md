@@ -1044,7 +1044,7 @@ The Drinkenlad Bunches are a decentralized underground association of party-goer
 
 #### The Villiglad Societies
 
-The Villiglad Societies are a decentralized underground association of rewilders. They act in high populated urban areas, and demolish buildings regardless of whether they are in use. The Villiglads capture eggs and live babies of dangerous animals from the wilderness, and introduce them to urban centers where they wreak havoc when they are grown. They also plant weeds that aggressively overtake buildings and destroy their foundations. Furthermore, Villiglads have the magical ability to animate plants into dangerous carnivorous monsters. Some of these animated plants are stationary, and some are mobile.
+The Villiglad Societies are a decentralized underground association of rewilders. Embe grants them domain over plants and animals, in return for the active destruction of civilization. They act in high populated urban areas, and demolish buildings regardless of whether they are in use. The Villiglads capture eggs and live babies of dangerous animals from the wilderness, and introduce them to urban centers where they wreak havoc when they are grown. They also plant weeds that aggressively overtake buildings and destroy their foundations. Furthermore, Villiglads have the magical ability to animate plants into dangerous carnivorous monsters. Some of these animated plants are stationary, and some are mobile.
 
 #### The Gladlad Dens
 
@@ -1060,7 +1060,7 @@ The Jaktlad Packs are a decentralized underground association of poachers. They 
 
 #### The Syklad Clinics
 
-The Syklad Clinics are a decentralized underground association of false healers who worship Eovumid. They travel from town to town, claiming to have remedies for every ailment. In reality, they carry vials of blood infected with Blood Monstrosity. They infect their patients with this blood, which leads them to becoming Blood Monsters.
+The Syklad Clinics are a decentralized underground association of false healers who worship Eovumid. They travel from town to town, claiming to have remedies for every ailment. In reality, they carry vials of blood infected with Blood Monstrosity. Syklad doctors receive payment and infect their patients with this blood, which leads to the patients becoming Blood Monsters. Initially, the patients do not realize the negative effects of their transformation, and feel healthier and stronger than they ever did in life. By the time the patients realize they have been transformed into monsters, the Syklads already moved on to another town with the money.
 
 Monsters
 --------
