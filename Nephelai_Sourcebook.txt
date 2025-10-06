@@ -1060,7 +1060,7 @@ The Jaktlad Packs are a decentralized underground association of poachers. They 
 
 #### The Syklad Clinics
 
-The Syklad Clinics are a decentralized underground association of false healers who worship Eovumid. They travel from town to town, claiming to have remedies for every ailment. In reality, they carry vials of blood infected with Blood Monstrosity. Syklad doctors receive payment and infect their patients with this blood, which leads to the patients becoming Blood Monsters. Initially, the patients do not realize the negative effects of their transformation, and feel healthier and stronger than they ever did in life. By the time the patients realize they have been transformed into monsters, the Syklads already moved on to another town with the money.
+The Syklad Clinics are a decentralized underground association of false healers who worship Eovumid. They travel from town to town, claiming to have remedies for every ailment. In reality, they carry vials of blood infected with Blood Monstrosity. Syklad doctors receive payment and infect their patients with this blood, which leads to the patients becoming dying and becoming Blood Monsters. Initially, the newly undead patients do not realize the negative effects of their transformation, and feel healthier and stronger than they ever did in life. By the time the patients realize they have been transformed into monsters, the Syklads already moved on to another town with the money.
 
 Monsters
 --------
