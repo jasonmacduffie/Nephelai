@@ -225,7 +225,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   </tbody>
 </table>
 
-In addition to the languages spoken by those of a particular race, every Archonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence. However, it is also possible to know an Archonic cult language through ordinary learning.
+In addition to the languages spoken by those of a particular race, every Cthonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence. However, it is also possible to know an Cthonic cult language through ordinary learning.
 
 History
 -------
@@ -288,7 +288,7 @@ Worship of the Agathoi spread across Westerwood, which had a long history of war
 
 A great kingdom consolidated power across Fair Island, and declared itself the Magellian Empire. It rapidly conquered the continent of Conliah with advanced technology powered by unprecedented arcane science. They banned Archon worship and instituted Agathos worship, which was unknown outside of Westerwood and Fair Island at that time. The provinces were united for the first time, and the High Elves imposed their worldview on the other races. This worldview included an emphasis on rationality, control, and introspection. They constructed centers of arcane scientific research across the continent.
 
-After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Archonic threat. They established centers of learning called Phrontisteries, which were enormous floating buildings. At these Phrontisteries they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.
+After a long period of stability and prosperity, unusual ways of thinking emerged. One school of thought referred to themselves as the Cloudruled. They evaded persecution because although they denied the divinity of the Agathoi as mere superstition, they worshipped the clouds instead, and not any Archon. The Cloudruled claimed that lightning comes not from the wrath of Iazus, but the clouds themselves. They questioned why the Archons were able to send their Cthonian minions to Arbigard to corrupt mortals, but even as Agathos worship was dominant in Conliah nobody could observe Asterian minions of the same sort. It seemed to the Cloudruled that if the Agathoi were as described, they could intervene more directly to cleanse the Cthonic threat. They established centers of learning called Phrontisteries, which were enormous floating buildings. At these Phrontisteries they trained the youth to argue against elders, defy norms, and scorn tradition. Their rhetorical methods were so excellent that they could make an unjust position appear just.
 
 In an event later called "The Great Nothing", group of youth educated by the Cloudruled plotted an assassination against the Emperor and his heirs. The result was a succession crisis that could, theoretically, be resolved legally through an election at lower levels of government. However, the assassins made arguments that there could be no rightful successor that were so strong that government was gridlocked. What resulted was a continuation of the imperial bureaucracy that no longer had an emperor. Within a few years, the empire dissolved into rival states ruled by provincial governments. Over time, the magical technology spread by the Magellians was lost and the only remnants are magical, mechanical, and monstrous mysteries of their past. The magical knowledge behind the floating Phrontisteries was lost, and they collapsed into the ground.
 
@@ -587,7 +587,7 @@ Outside of the Imperial Cult, there are religious factions of High Elves and Woo
 
 Worship of the Archons is forbidden by law. Even so their cults persist, as their power is too alluring to resist. Shrines to them can be found in ancient ruins, concealed temples, and the basements of shady nobles.
 
-There are many contradictory accounts regarding mythic history and cosmology given by Archonic cultists. They vary between different cults, and even within the same cults. Many Archon-worshippers do not hold any opinion whatsoever on the topic of religion, and relate to the Archons in a purely transactional way. However, for cultists who do give an account, there are several points of agreement which never vary. The Archons themselves attest to these points.
+There are many contradictory accounts regarding mythic history and cosmology given by Cthonic cultists. They vary between different cults, and even within the same cults. Many Archon-worshippers do not hold any opinion whatsoever on the topic of religion, and relate to the Archons in a purely transactional way. However, for cultists who do give an account, there are several points of agreement which never vary. The Archons themselves attest to these points.
 
 First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were created afterwards. Second, the structure of Ksylia is that of concentric spheres. The outermost sphere separating it from Cthonia is the Hade. Then the Neaths, with its hollow surface of Arbigard. The Skies are at the center. Thus, "up" is at the center of Ksylia, and "down" is away from its center. The third point of agreement is that blue soul material was somehow invented by the weakest mortals of Ksylia, in order to oppose the Archons. The Magellian Empire weaponized blue soul material against the Archons, and taught the false doctrine that weakness is good, and strength is evil. The Agathoi were an invented story to justify this inversion. Of course, the Firmament and Asteria do not exist. The Magellian and Yargyez Empires wrongly suppressed the ultimate law of nature, that justice is the advantage of the stronger.
 
@@ -715,7 +715,7 @@ The practice of worshipping clouds appears several times in the history of Conli
 
 Scholars of the Yargyez Empire have attempted to document the religious beliefs of the Uzvu. Their best understanding is that the Uzvu believe that the creator Demvegaz created one world of Ksylia, and inhabited it with mortal beings in the Skies, the Neaths, and Arbigard between them. However, Demvegaz gave all mortal beings free will. The Archons are mortal beings who originated in the Neaths, and rebelled against Demvegaz. The Archons constructed the Hade to divide the Neaths into the "Near Neaths" and the "Far Neaths", and made the Far Neaths their fortress against the wrath of Demvegaz. They caused suffering to the surface mortals of Arbigard, and Demvegaz pitied the mortals. To help them, Demvegaz sacrificed her body and became the clouds.
 
-In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Archonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. However, they have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament. Instead, they believe that green souls return to the highest stratum of the clouds, disintegrate and reform, then return to Arbigard. Therefore, each new green soul is a completely different person. Furthermore, blue soul material originates in the clouds instead of another realm.
+In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Cthonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. However, they have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament. Instead, they believe that green souls return to the highest stratum of the clouds, disintegrate and reform, then return to Arbigard. Therefore, each new green soul is a completely different person. Furthermore, blue soul material originates in the clouds instead of another realm.
 
 Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.
 
@@ -800,7 +800,7 @@ Wretches are individuals directly touched by Cthonia, without having a deliberat
 
 #### Invoker
 
-Invokers are members of Archonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.
+Invokers are members of Cthonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.
 
 *   _Always:_ Curse, Mental Influence, Soul Binding, Summoning
 *   _Sometimes:_ Detection, Elemental Damage, Illusion, Protection, Augmentation, Utility
@@ -983,7 +983,7 @@ The Imperial Cult is the official religion of the Yargyez Empire. Each Agathos h
 
 #### The Order of Iazus
 
-Imperial Cult Inquisitors are agents of the Order of Iazus, and they are dedicated to actively smiting evil across Conliah. Their mandate is to suppress Archonic cult activity, gather intelligence regarding Cthonic magic and rituals, and to recover and destroy Cthonic artifacts. The local priest of Iazus will observe rumors of Cthonic rites being practiced, and send an Inquisitor cell to investigate the rumor. Then, the Inquisitors will conclude their investigation, take appropriate action, and report their findings back to the priest. The local law enforcers must yield to their Inquisitors during an investigation, backed by imperial law. They have the right to confiscate evidence, detain suspected individuals, and punish proven cultists with lethal force.
+Imperial Cult Inquisitors are agents of the Order of Iazus, and they are dedicated to actively smiting evil across Conliah. Their mandate is to suppress Cthonic cult activity, gather intelligence regarding Cthonic magic and rituals, and to recover and destroy Cthonic artifacts. The local priest of Iazus will observe rumors of Cthonic rites being practiced, and send an Inquisitor cell to investigate the rumor. Then, the Inquisitors will conclude their investigation, take appropriate action, and report their findings back to the priest. The local law enforcers must yield to their Inquisitors during an investigation, backed by imperial law. They have the right to confiscate evidence, detain suspected individuals, and punish proven cultists with lethal force.
 
 A typical Inquisitor cell has three members.
 
@@ -993,7 +993,7 @@ A typical Inquisitor cell has three members.
 
 Examples of contraband which the Inquisitors will seize are:
 
-*   Archonic amulets and tokens
+*   Cthonic amulets and tokens
 *   Cursed scrolls and tomes
 *   Weapons and armor enchanted with Cthonic magic
 *   Various other artifacts with detectable Cthonic energy
@@ -1002,9 +1002,9 @@ Examples of contraband which the Inquisitors will seize are:
 
 The friends of the Hearth Keeper are missionaries who spread orthodox Agathos worship in remote regions of Conliah such as Valorgale. While they are not a militant order, their members equip themselves for self-defense against Cthonic threats.
 
-### Archonic Cults
+### Cthonic Cults
 
-Across Conliah, there are a large number of small Archonic cults. Their specific nature and activities depends on the Archon they serve.
+Across Conliah, there are a large number of small Cthonic cults. Their specific nature and activities depends on the Archon they serve.
 
 #### The Tenkerlad Scholars
 
