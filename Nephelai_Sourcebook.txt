@@ -266,7 +266,7 @@ The third act of the Agathoi was to establish a system of transmigration to puri
 
 The fourth and last act of the Agathoi was to create all other animals using third-rate soul material. These creatures populated Ksylia with simpler beings which would help mortals to sustain themselves.
 
-During the infusion of the elements with soul material, there were highly degraded fragments of soul material which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive and intelligent but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons.
+During the infusion of the elements with soul material, there were highly degraded fragments of soul material which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive with varying intelligence but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons.
 
 The soul material of Cthonians was so degraded that they could not permanently reside in Ksylia, much as mortals could not permanently reside in Asteria.
 
