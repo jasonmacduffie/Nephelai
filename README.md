@@ -717,6 +717,8 @@ Scholars of the Yargyez Empire have attempted to document the religious beliefs 
 
 In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Cthonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. However, they have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm and likewise the existence of the Firmament. Instead, they believe that green souls return to the highest stratum of the clouds, disintegrate and reform, then return to Arbigard. Therefore, each new green soul is a completely different person. Furthermore, blue soul material originates in the clouds instead of another realm.
 
+The Uzvu believe in a different structure of Ksylia than the Imperial Cult. They believe that Ksylia has layers of finite height but infinite breadth, and each layer is stacked flat on top of each other. From top to bottom, the layers are the Skies, Arbigard (not actually one of the layers, but the surface), the Near Neaths (which the Imperial Cult and Cthonic cults call the Neaths), the Hade, and the Far Neaths (which the Imperial Cult and Cthonic cults call Cthonia).
+
 Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.
 
 *   **No Clouds, No Rain:** Their powers resemble devouts of Burrue.
