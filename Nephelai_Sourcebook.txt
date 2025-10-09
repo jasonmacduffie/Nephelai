@@ -73,7 +73,7 @@ According to the doctrine of the Imperial Cult, there are three realms:
 
 *   **Ksylia** has moderation in the quality of soul material and quantity of elemental substance. Arbigard is a flat disc at the center of Ksylia, dividing it into upper and lower hemispheres. This flat disc of unknown size is the surface where mortals dwell. Above Arbigard is a hemisphere called The Skies (the air and the clouds), enclosed by a dome of water called The Firmament. Below Arbigard is a hemisphere called The Neaths (the earth below), enclosed by a dome of magma called The Hade. Ksylia is suspended in a larger cosmos between Asteria and Cthonia.
 *   **Asteria** is a realm composed of fine soul material, and very little elemental substance. It is the residence of the Agathoi (good gods) and where souls rest between transmigratory cycles. It is physically above Ksylia, separated from it by The Firmament.
-*   **Cthonia** is a realm composed of very degraded soul material, and huge amounts of elemental substance. It is the residence of the Archons (evil gods) and their minions. It is physically below Ksylia, separated from it by The Hade.
+*   **Cthonia** is a realm composed of very degraded soul material, and huge amounts of elemental substance. It is the residence of the Archons (evil gods) and lesser Cthonians, their minions. It is physically below Ksylia, separated from it by The Hade.
 
 It is impossible for mortal beings to freely navigate the wide open realms of Asteria and Cthonia. They can only navigate to spherical subrealms which mortals can, under certain circumstances, phase into. Examples of such circumstances are:
 
@@ -225,7 +225,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   </tbody>
 </table>
 
-In addition to the languages spoken by those of a particular race, every Cthonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by minions, corrupted beings, and cultists who are within the Archon's influence. However, it is also possible to know an Cthonic cult language through ordinary learning.
+In addition to the languages spoken by those of a particular race, every Cthonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by intelligent Cthonians, corrupted mortals, and cultists who are within the Archon's influence. However, it is also possible to learn a Cthonic cult language through ordinary means.
 
 History
 -------
@@ -628,7 +628,7 @@ First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were c
       <td>Harvester of Mortals</td>
       <td>Female</td>
       <td>War, Torture</td>
-      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonic minions, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
+      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonians, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
     </tr>
     <tr>
       <td>Uluzing</td>
