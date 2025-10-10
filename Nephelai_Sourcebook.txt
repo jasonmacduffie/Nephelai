@@ -225,7 +225,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   </tbody>
 </table>
 
-In addition to the languages spoken by those of a particular race, every Cthonic cult also has a secret spoken language with its own distinct writing system. In general, these secret languages can be understood by intelligent Cthonians, corrupted mortals, and cultists who are within the Archon's influence. However, it is also possible to learn a Cthonic cult language through ordinary means.
+In addition to the languages spoken by those of a particular race, every Cthonic cult also has a secret spoken language with its own distinct writing system. In general, any and all beings who are influenced by the specific Archon can understand these secret languages. Examples are intelligent Cthonians, corrupted mortals, and cultists. However, it is also possible to learn a Cthonic cult language through ordinary means.
 
 History
 -------
