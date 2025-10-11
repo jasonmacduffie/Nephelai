@@ -231,7 +231,7 @@ In addition to the languages spoken by those of a particular race, there are sev
 
 * **Cthonic cult languages:** Every Cthonic cult has a secret spoken language with its own distinct writing system. In general, any and all beings who are influenced by the specific Archon can understand these secret languages. Examples are intelligent Cthonians, corrupted mortals, and cultists. However, it is also possible to learn a Cthonic cult language through ordinary means.
 * **Spies' cant:** Operatives of the Artisans Guild have a secret code which allows them to insert secret messages into ordinary-sounding conversations, typically in Common.
-* **Ancient Magellian:** The modern language of High Elvish is significantly different from the dialect spoken by the Ancient Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge and members of the Philosophers Guild generally know Ancient Magellian. Intelligent constructs from the Magellian Empire also speak this language.
+* **Classical:** The elite language spoken by the ancient Magellian Empire is known as Classical. The modern language of High Elvish is significantly different from the dialect spoken by the Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge and members of the Philosophers Guild generally know Classical. It is the lingua franca of Schoolmages, such that modern spell books are also written in Classical. Intelligent constructs from the Magellian Empire also speak this language.
 
 History
 -------
