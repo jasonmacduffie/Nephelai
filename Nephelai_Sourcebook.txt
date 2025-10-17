@@ -236,16 +236,16 @@ In addition to the languages spoken by those of a particular race, there are lan
 
 There are many secret ways of communicating which are significant across Conliah. Many of these are derivative of Common or do not meet the criteria of a full language.
 
-* **High Tongue:** Imperial Cult Devouts, Cloud Devouts, and Ardents all have the ability to speak in a language called High Tongue. This language has no written form, and is supernaturally closed off to outsiders who will hear gibberish. Even so, outsiders in earshot will instantly and certainly be aware that this gibberish is High Tongue. Advanced Devouts may commune with their deity (an Agathos or the clouds) in any language, but the deity will only reply with one or two words in High Tongue. High Tongue cannot be used to convey complex concepts, but may be used to impress abstract concepts upon the mind of listeners who share the language. Technically, these individual concepts may be chained together in a sequence to build a rudimentary language. However, under most circumstances outside of religious use this is excruciatingly and impractically slow. Usually its use is restricted to simple, singular or pairs of two messages in the following categories:
+* **High Tongue:** Imperial Cult Devouts, Cloud Devouts, and Ardents all have the ability to speak in a language called High Tongue. This language has no written form, and is supernaturally closed off to outsiders who will hear gibberish. Even so, outsiders in earshot will instantly and certainly be aware that this gibberish is High Tongue. Advanced Devouts may commune with their deity (an Agathos or the clouds) in any language, but the deity will only reply with one or two words in High Tongue. High Tongue cannot be used to convey complex concepts, but may be used to impress abstract concepts upon the mind of listeners who share the language. Technically, these individual concepts may be chained together in a sequence to build a rudimentary language. However, under most circumstances outside of religious use this is excruciatingly and impractically slow. Usually its use is restricted to simple, singular or pairs of two messages in the following categories. The examples are not exhaustive, but the categories themselves are:
     * Broad intentions: "I come in peace", "I am hostile", "I surrender"
     * Simple commands: "Follow me", "wait", "go away"
-    * Affirmative answers: "Yes", "no", "mostly", "maybe"
+    * Affirmative answers: "Yes", "no", "mostly yes", "mostly no", "maybe"
     * Emotional states: "Danger", "hope", "sorrow"
-    * Relative time and place: "Now", "later", "ahead", "where we were"
+    * Relative time and place: "Now", "later", "ahead", "behind"
     * Simple adjectives: "Large", "heavy", "red"
     * Simple nouns: "Friend", "animal", "the moon"
-    * Basic quantities: "None/one/two" (no more than two), "a few", "more"
-    * Philosophical abstractions: "Justice", "truth", "evil"
+    * Basic quantities: "None/one/two" (no specific number more than two), "a few", "many", "more", "less"
+    * Philosophical abstractions: "Justice", "truth", "deception", "good", "evil"
     * Intonation: "!", "?"
 * **Spies' cant:** Operatives of the Artisans Guild have a secret code which allows them to insert secret messages into ordinary-sounding conversations, typically in Common.
 * **Escapist trail codes:** Followers of the Escapist school of thought in the Philosophers Guild leave trail markers which are subtle to the untrained eye, but whose meanings are unmistakable to those trained in it.
@@ -836,7 +836,7 @@ Invokers are members of Cthonic cults who have directly communed with the Archon
 
 #### Ardent
 
-Ardents are philosophers who have obtained enlightenment, flooding their bodies with Asteric soul material. They may channel this Asteric soul material into magical spells, as long as they remain in their elevated state.
+Ardents are philosophers who have obtained enlightenment, flooding their bodies with blue soul material. They may channel this blue soul material into magical spells, as long as they remain in their elevated state.
 
 *   _Always:_ Detection, Healing, Exorcism, Protection, Utility
 *   _Sometimes:_ Cthonic Warding, Illusion, Augmentation, Transmutation
@@ -844,7 +844,7 @@ Ardents are philosophers who have obtained enlightenment, flooding their bodies 
 
 #### Devout
 
-Devouts are generally members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they receive a divine blessing which grants divine magical powers. There are certain spells which devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
+Most Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they apparently receive a divine blessing which grants magical powers. The specific powers Devouts wield vary based on the specific Agathos they serve, but their magical powers are still effective even when they appear misaligned with the will of their deity. The only way a Devout loses their powers is through conscious renunciation of their devotion, not through any other heretical act. As a result there are certain spells which Devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples of such spells are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
 
 Cloud Devouts are cloud worshippers in the ranks of the Uzvu Confederation, who apparently draw power from the clouds. However, despite the ostensible difference in source, they function similarly to Imperial Cult Devouts.
 
@@ -858,7 +858,7 @@ The term "color" in reference to soul material is not literal, but refers to the
 
 *   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
 *   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
-*   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Agathoi have discrete blue souls, and are presumed to be immortal. Ambient blue soul material flows throughout Asteria.
+*   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Imperial Cult claims the Agathoi have discrete blue souls, and are immortal. The Imperial Cult also claims ambient blue soul material flows throughout Asteria.
 *   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and red soul material flows throughout Cthonia. Upon death, Cthonian bodies disintegrate into dust. Their red souls return to their respective sphere of Cthonia, where their physical forms slowly reconstitute. If the specific Cthonian has mortal-like intelligence, it retains all of its memories upon reconstitution.
 
 ### Soul Binding & Enchanting
@@ -1396,6 +1396,8 @@ Angstworms are native to Embe's sphere of the Whimsical Grove. Angstworms are tw
 
 There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Warpuppets, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
 
+One notable category of being the Magellians created are called **Miktons**. Miktons were created by combining a sentient mortal and animal soul, resulting in a hybrid soul that is both yellow and green. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
+
 #### Flesh Mutants
 
 *   **Robustness:** 6
@@ -1449,7 +1451,7 @@ Deceased mages attempted to immortalize themselves by encasing their brains in s
 *   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-Mechanids are humanoid constructs the Magellians used as servants and soldiers. The ancient Magellians knew how to animate this clockwork vessel with a sentient mortal and animal soul combined. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
+Mechanids are humanoid constructs the Magellians used as servants and soldiers. They are a kind of Mikton, inhabiting a clockwork vessel.
 
 #### Warpuppets
 
@@ -1482,7 +1484,7 @@ The ancient Magellians knew how to permanently bind an animal soul to these enor
 *   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. These beings possess all the intelligence the sentient mortal held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. They are a kind of Mikton. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
 #### Arketons
 
@@ -1490,7 +1492,7 @@ The ancient Magellians knew how to stitch together the flesh of various animals 
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
-*   **Soul color:** Multiple green patches
+*   **Soul color:** Green
 *   **Intelligence:** Mortal-like
 
 The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with the souls of several sentient mortals. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting memories confused the being regarding its origin. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
@@ -1518,6 +1520,17 @@ Blobs are amorphous gelatinous creatures who are the creations of the Magellians
 
 A Stoicheios is an artificial being made of a single pure element, one of fire, water, air, earth, sunlight, or moonlight. They are unstable, and prone to rampaging. However, due to their usefulness when tactically deployed in combat, the ancient Magellians sealed away armies of Stoicheioi in Ksylic spheres where they could be summoned at will. It was possible to temporarily phase a single Stoicheios out of its sphere to rampage against enemy armies, then phase it back into its sphere after its utility had run out.
 
+
+Odioktons
+
+*   **Robustness:** 8
+*   **Number appearing:** 1
+*   **Disposition:** Cautious
+*   **Courage:** Relentless
+*   **Soul color:** Yellow and green mixed
+*   **Intelligence:** Mortal-like
+
+The ancient Magellians bound Mikton souls to elemental air for use as covert assassins called Odioktons. They strike with blasts of the surrounding air to eliminate their targets. However, Odioktons are inherently defiant of their masters, and require powerful magic to remain under control. In order to keep these creatures under control, they were sealed away in Ksylic spheres. The summoner would phase the Odiokton out of the sphere, bind the Odiokton to force it to obey, then phase the Odiokton back into its Ksylic sphere upon completion of its task. However, Odioktons bound in this manner still had the ability to maliciously comply with its orders.
 
 ### Undead Monsters
 
