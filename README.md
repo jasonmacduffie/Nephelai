@@ -844,7 +844,9 @@ Ardents are philosophers who have obtained enlightenment, flooding their bodies 
 
 #### Devout
 
-Most Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they apparently receive a divine blessing which grants magical powers. The specific powers Devouts wield vary based on the specific Agathos they serve, but their magical powers are still effective even when they appear misaligned with the will of their deity. The only way a Devout loses their powers is through conscious renunciation of their devotion, not through any other heretical act. As a result there are certain spells which Devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples of such spells are reviving a recently deceased person, or speaking to the soul of a recently deceased person.
+Most Devouts are members of the Imperial Cult who obey the will of a specific Agathos. Through their obedience to the Agathos, they apparently receive a divine blessing which grants magical powers. The specific powers Devouts wield vary based on the specific Agathos they serve.
+
+The relationship between the obedience of Devouts and the blessings they receive is complex. Devouts can behave in ways which appear misaligned with the will of their deities, or use their magical powers in a way that defies religious orthodoxy. As a result there are certain spells which Devouts hypothetically have access to, but which are considered unacceptable by the Imperial Cult authorities. Examples of such spells are reviving a recently deceased person, or speaking to the soul of a recently deceased person. However, a Devout cannot recklessly act in a self-serving way in the long term or carelessly shirk religious rites without cause. Such actions, when persistent, are outward manifestations of a loss of faith which eventually strips Devouts of their powers.
 
 Cloud Devouts are cloud worshippers in the ranks of the Uzvu Confederation, who apparently draw power from the clouds. However, despite the ostensible difference in source, they function similarly to Imperial Cult Devouts.
 
