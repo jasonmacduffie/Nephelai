@@ -830,6 +830,8 @@ Wretches are individuals directly touched by Cthonia, without having a deliberat
 
 Invokers are members of Cthonic cults who have directly communed with the Archon to receive their power. They continue to receive the blessing of the Archon through obedience, enabling them to channel the Archon's power into magical spells.
 
+Archons are generally chatty and generous with bestowing initial gifts. There is a unique ritual required to solicit each particular Archon. Archons do not speak any mortal language, and the first gift the solicitor must consent to is the acquisition of the Archon's Cthonic cult language. Whenever a mortal communes with an Archon, the mortal may communicate through speaking aloud or internally, and the Archon replies in the mind of the mortal.
+
 *   _Always:_ Curse, Mental Influence, Soul Binding, Summoning
 *   _Sometimes:_ Detection, Elemental Damage, Illusion, Protection, Augmentation, Utility
 *   _Rarely:_ Cthonic Warding, Healing, Exorcism, Transmutation
