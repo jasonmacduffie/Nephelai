@@ -1448,7 +1448,7 @@ Giants are a successful attempt by the Magellians to enhance mortal flesh throug
 *   **Soul color:** Green
 *   **Intelligence:** Mortal-like
 
-Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life.
+Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
 
 #### Mechanids
 
