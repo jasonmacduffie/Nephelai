@@ -1448,7 +1448,9 @@ Giants are a successful attempt by the Magellians to enhance mortal flesh throug
 *   **Soul color:** Green
 *   **Intelligence:** Mortal-like
 
-Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers animated by magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
+Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers etched with magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
+
+A Steelskull is fundamentally different from a Lich, as it lacks a phylactery. Its brain is the seat of its soul, and its steel chamber prevents the soul from departing. A Steelskull can survive decapitation, and will only die when its steel chamber or the brain inside are damaged.
 
 #### Mechanids
 
@@ -1564,7 +1566,7 @@ Blood Monstrosity is a disease that spreads through contact with the blood of th
 *   **Soul color:** Green core, with floods of red
 *   **Intelligence:** Mortal-like
 
-Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcaster's own unliving flesh, while retaining the full intelligence and memories held in life. Liches no longer suffer to aging, hunger, or thirst. Over time, the flesh rots off their bones and they continue to live as a reanimated skeleton. Liches have incredible magical abilities, and prefer to fight with spells instead of physical combat. Notably, all Liches have the ability to read minds. However, regardless of their original motivations to transform, a Lich's mind is polluted by the insatiable desire to extract enormous volumes of information. They tend to raise undead armies to attack villages, and bring living mortals back to their lairs. The Lich reads their minds, then extracts their bodies and souls as necromantic resources.
+Cthonic magic from the Archon Igedeng can anchor one's mortal soul to a phylactery, then reanimate the spellcaster's own flesh. Liches no longer suffer to aging, hunger, or thirst. Over time, the flesh rots off their bones and they continue to live as a reanimated skeleton. When the physical body of a Lich is totally destroyed, its soul retreats to its phylactery and its body gradually regenerates from the surrounding elements. Liches have incredible magical abilities, and prefer to fight with spells instead of physical combat. Notably, all Liches have the ability to read minds. However, regardless of their original motivations to transform, a Lich's mind is polluted by the insatiable desire to extract enormous volumes of information. They tend to raise undead armies to attack villages, and bring living mortals back to their lairs. The Lich reads their minds, then extracts their bodies and souls as necromantic resources.
 
 #### Corpsals
 
@@ -1575,7 +1577,15 @@ Cthonic magic from the Archon Igedeng can bind one's mortal soul to the spellcas
 *   **Soul color:** Green core, with traces of red
 *   **Intelligence:** Mortal-like
 
-Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Even so, Corpsals generally retain all the intelligence and memories they held in life, besides the capacity to perform magic. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
+Those who prematurely seek to attain Lichhood are doomed to live as Corpsals. There are three steps which must be performed almost simultaneously to become a successful Lich:
+
+1. The spellcaster's soul is anchored to a phylactery.
+2. The spellcaster's body dies.
+3. The spellcaster's soul re-takes possession of the body, reanimating it.
+
+A slight mistake in any one of these steps easily causes all three to fail. The result is that the soul remains anchored in the spellcaster's flesh, which sits halfway between life and proper reanimation.
+
+The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Even so, Corpsals generally retain all the intelligence and memories they held in life, besides the capacity to perform magic. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
 
 #### Ghosts
 
