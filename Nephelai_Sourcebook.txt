@@ -1406,6 +1406,8 @@ There are some monsters which were magically created by mortals. Some are simple
 
 One notable category of being the Magellians created are called **Miktons**. Miktons were created by combining a sentient mortal and animal soul, resulting in a hybrid soul that is both yellow and green. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
 
+The Magellians were never able to discover a means of binding a green soul to a construct without caveats. Binding yellow souls was perfected by them, and Miktons provided a solution which served them well. Steelskulls were not a result of soul binding at all, and solved the problem by sustaining the still living brain of the subject.
+
 #### Flesh Mutants
 
 *   **Robustness:** 6
@@ -1450,7 +1452,7 @@ Giants are a successful attempt by the Magellians to enhance mortal flesh throug
 
 Deceased mages attempted to immortalize themselves by encasing their brains in steel chambers etched with magical runes. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
 
-A Steelskull is fundamentally different from a Lich, as it lacks a phylactery. Its brain is the seat of its soul, and its steel chamber prevents the soul from departing. A Steelskull can survive decapitation, and will only die when its steel chamber or the brain inside are damaged.
+A Steelskull is fundamentally different from a Lich, as it lacks a phylactery and is not undead. Its still living brain is the seat of its soul, and its steel chamber sustains the living brain beyond what is natural. A Steelskull can survive decapitation, and will only die when its steel chamber or the brain inside are damaged.
 
 #### Mechanids
 
@@ -1502,10 +1504,10 @@ The ancient Magellians knew how to stitch together the flesh of various animals 
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
-*   **Soul color:** Green
+*   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with the souls of several sentient mortals. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting memories confused the being regarding its origin. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
+The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with several Mikton souls. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting minds disoriented the being. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
 
 #### Blobs
 
