@@ -1558,7 +1558,20 @@ The undead are similar to artificial beings, in that their existence is almost a
 *   **Soul color:** Green core, with floods of red
 *   **Intelligence:** Mortal-like
 
-Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Between transmission and death, the infected feels a sense of euphoria but is actually rapidly weakening. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with immense strength and an appetite for blood. While Blood Monsters continue to retain the intelligence and memories they held in life, it is polluted by an insatiable hunger for the blood of mortals. They do not age, and by external appearances look as they did in life with several changes: sharpened carnivorous teeth, pale skin, and red irises. Blood Monsters are able to withstand open sunlight, but it weakens them significantly and they are vulnerable to elemental sunlight damage. The Archon Eovumid is the original source of all Blood Monsters.
+Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Between transmission and death, the infected feels a sense of euphoria but is actually rapidly weakening. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with physical and mental alterations.
+
+* They gain immense strength.
+* If they do not feed on the blood of mortals, they die.
+* They mostly appear as they did in life, but with sharpened carnivorous teeth, sharpened and hardened fingernails, pale skin, and red irises.
+* They do not age.
+* They are able to withstand the sunlight of dawn and dusk, but they are vulnerable to elemental sunlight attacks and quickly die when exposed to the high sun.
+* They can regenerate quickly from superficial wounds, by means of their blood congealing around the wound to form a barrier.
+* They retail the intelligence and memories they held in life.
+* Their minds are polluted by the insatiable hunger for the blood of mortals.
+* They are terrified of garlic, mirrors, and holy symbols of the Agathoi. This is completely psychological, and these objects do not physically harm or weaken them.
+
+Due to their regenerative abilities, the clearest ways to defeat a Blood Monster are to impale them through the heart with a sufficiently large object (such as a wooden stake), decapitating them, or exposing them to the high sun. Blood Monsters are aggressive physical combatants who may wield melee weapons, or otherwise use their teeth, fists, and claws. The Archon Eovumid is the original source of all Blood Monsters.
+
 
 #### Liches
 
