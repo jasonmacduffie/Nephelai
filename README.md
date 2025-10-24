@@ -1260,13 +1260,13 @@ These exotic monsters originate in Cthonia, and cannot persist in Ksylia for pro
 #### Lykoids
 
 *   **Robustness:** 2
-*   **Number appearing:** 4-9
+*   **Number appearing:** 3-18
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch.
+Lykoids are two-legged humanoids with the bodies of ordinary humans without fur, but the faces of wolves. They are native to Nabazie's sphere of Howling Hall, where they endlessly chase prey animals around the halls. Their society is based on packs led by a hierarch. Lykoids fight by grabbing their targets, and using their powerful jaws to bite. They prefer to move in packs, and swarm their enemies.
 
 #### Nightcreeps
 
@@ -1299,7 +1299,7 @@ Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods.
+Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their tentacles.
 
 #### Dragons
 
@@ -1343,7 +1343,7 @@ Nagas are creatures with the upper body of a human and the lower body of a snake
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs.
+Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs. Arachnaurs fight with magical spells, which include a combination of elemental blasts and mental control such as forcing opponents to act aggressively towards their own allies.
 
 #### Pulsecutters
 
