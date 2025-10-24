@@ -1456,6 +1456,8 @@ Powerful mages attempted to immortalize themselves by encasing their brains in s
 
 Steelskulls are not undead. A Steelskull's still living brain is the seat of its soul, and its steel chamber sustains the living brain beyond what is natural. A Steelskull can survive decapitation, and will only die when its steel chamber or the brain inside are damaged. The steel chamber itself is completely non-magical. The Steelskull's brain itself continuously casts a spell that the runes on the steel chamber respond to, which is an incredible feat that demonstrates the Steelskull's magical genius.
 
+The bodies of Steelskulls are quite tough, but in combat they prefer to keep their distance and dominate their enemies with elemental blasts.
+
 #### Mechanids
 
 *   **Robustness:** 2
@@ -1465,7 +1467,7 @@ Steelskulls are not undead. A Steelskull's still living brain is the seat of its
 *   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-Mechanids are humanoid constructs the Magellians used as servants and soldiers. They are a kind of Mikton, inhabiting a clockwork vessel.
+Mechanids are humanoid constructs the Magellians used as servants and soldiers. They are a kind of Mikton, inhabiting a clockwork vessel. Mechanids are often skilled with both melee and ranged weapons, as well as tactically clever.
 
 #### Warpuppets
 
