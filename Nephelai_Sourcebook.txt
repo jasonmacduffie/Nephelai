@@ -27,7 +27,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
     *   **Mundane beasts** may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.
     *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
     *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
-    *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are Warpuppets, Steelskulls and Flesh Mutants.
+    *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are War Puppets, Steelskulls and Flesh Mutants.
     *   **Undead beings** are a special kind of artificial being, whose only universal traits are (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt. Examples are Ghosts, Zombies, and Blood Monsters.
 *   **Factions:** You have heard about several factions with continent-spanning impact:
     *   **The Yargyez Empire:** The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.
@@ -100,11 +100,11 @@ In addition to phasing one's whole being, it is possible to magically communicat
 
 ### Technology
 
-The technology level of Conliah is approximately 1100s medieval Europe. Military technology is still based on melee combat, longbows and crossbows, and basic siege weapons. There is very little innovation in magical technology.
+The technology level of Conliah is approximately 1100s medieval Europe. Military technology is still based on melee combat, longbows and crossbows, and basic siege weapons. There is very little innovation in enchanting, liming itself to simple enhancements to simple weapons and armor. War Puppets are the most advanced constructs which Conliah can produce.
 
-The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. They also possess extensive clockwork machinery appropriate to that era.
+The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. These firearms rely on yellow soul binding enchantments to operate. The enchanters of Conliah have not been able to reverse engineer how firearms are constructed. They also possess extensive clockwork machinery appropriate to that era, which operates according to non-magical principles. Examples include clock towers, orreries, and wind-up toys. The Uzvu Confederation are perfectly capable of producing the same simple enchantments for weapons and armor as Conliah. In terms of constructs, the Uzvu Confederation is limited to War Puppets like Conliah.
 
-The Magellian Empire was technologically advanced, being capable of magical bioengineering and construction of gigantic clockwork guardians. This technology is native to Conliah, but is now lost in ancient ruins.
+The Magellian Empire was technologically advanced, being capable of magical modification of flesh and the construction of gigantic clockwork guardians. This technology is native to Conliah, but is now lost in ancient ruins.
 
 ### Currency
 
@@ -1402,46 +1402,22 @@ Angstworms are native to Embe's sphere of the Whimsical Grove. Angstworms are tw
 
 ### Artificial Monsters
 
-There are some monsters which were magically created by mortals. Some are simple tools of their creators such as Warpuppets, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
+There are some monsters which were magically created by mortals. Some are simple tools of their creators such as War Puppets, and others are fully sentient such as Mechanids and Steelskulls. These sentient beings are often lost, living artifacts of the Magellians who continue to haunt their ancient ruins. These Magellian constructs do not have any connection to the Cthonic, but often pose as dangerous adversaries to intruders.
 
 One notable category of being the Magellians created are called **Miktons**. Miktons were created by combining a sentient mortal and animal soul, resulting in a hybrid soul that is both yellow and green. This combination resulted in a sentient being with all of the intelligence the sentient mortal soul held in life, but without access to any memories of its past life. The memories are still present in the sentient mortal soul, but the presence of the animal soul obscures these memories.
 
 The Magellians were never able to discover a means of binding a green soul to a construct without caveats. Binding yellow souls was perfected by them, and Miktons provided a solution which served them well. Steelskulls were not a result of soul binding at all, and solved the problem by sustaining the still living brain of the subject.
 
-Under this section, any monster described as "clockwork" has a jar affixed which contains its soul. Some monsters explicitly state their soul is contained in a jar. Otherwise, the default assumption for artificial monsters is that they have no jar.
-
 #### Flesh Mutants
 
-*   **Robustness:** 6
+*   **Robustness:** 5
 *   **Number appearing:** 1-8
 *   **Disposition:** Hostile
 *   **Courage:** Brave
 *   **Soul color:** Yellow
 *   **Intelligence:** Animal-like
 
-The Magellians attempted to enhance mortal flesh through magical means, but their early attempts backfired. As a result they created deformed humanoids with enormous amorphous growths. The flesh of these mutants is often grafted to metal. Flesh Mutants wander mindlessly in underground ruins unless agitated and ravenous. If they are provoked, they will blast their targets with elemental projectiles. Flesh Mutants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
-
-#### Trolls
-
-*   **Robustness:** 6
-*   **Number appearing:** 1-8
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Yellow
-*   **Intelligence:** Animal-like
-
-Trolls are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. Trolls are nine feet tall, and walk with a hunch. They also have the ability to regenerate in the midst of combat. In combat, Trolls are very agile and strike with claws and teeth. Trolls often wander in groups outdoors aimlessly searching for sustenance. Trolls do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
-
-#### Giants
-
-*   **Robustness:** 8
-*   **Number appearing:** 1-4
-*   **Disposition:** Hostile
-*   **Courage:** Brave
-*   **Soul color:** Yellow
-*   **Intelligence:** Animal-like
-
-Giants are a successful attempt by the Magellians to enhance mortal flesh through magical means, by infusion with an animal soul. They were intended as beasts of burden who could perform tasks more suitable for a humanoid form. They stand at eleven feet tall and are capable of fighting with clubs. Giants often wander in groups outdoors aimlessly searching for sustenance. Giants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
+The Magellians could harvest a green soul from a living sentient mortal, and sustain the mortal's body by binding an animal's yellow soul to it. The Magellians experimented with enhancing the flesh of these mortal bodies, hoping to develop living weapons. However, their plan backfired. The flesh became covered in deformed growths, and these mutants began rampaging wildly. These monsters became known as Flesh Mutants. Now, Flesh Mutants wander around Magellian ruins in search of food. If they are hungry or provoked, they will blast their targets with elemental projectiles. Flesh Mutants do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
 #### Steelskulls
 
@@ -1460,69 +1436,48 @@ The bodies of Steelskulls are quite tough, but in combat they prefer to keep the
 
 #### Mechanids
 
-*   **Robustness:** 2
+*   **Robustness:** 3
 *   **Number appearing:** 1-8
 *   **Disposition:** Cautious
 *   **Courage:** Pragmatic
 *   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-Mechanids are humanoid constructs the Magellians used as servants and soldiers. They are a kind of Mikton, inhabiting a clockwork vessel. Mechanids are often skilled with both melee and ranged weapons, as well as tactically clever.
+Mechanids are humanoid constructs the Magellians used as servants and soldiers. They are a kind of Mikton, inhabiting a clockwork vessel. Mechanids are often skilled with both melee and ranged weapons, as well as tactically clever. A Mechanid's Mikton soul is stored in a jar, affixed to its head.
 
-#### Warpuppets
+#### War Puppets
 
-*   **Robustness:** 4
-*   **Number appearing:** 1
+*   **Robustness:** 2
+*   **Number appearing:** 1-4
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
 *   **Intelligence:** Automaton-like
 
-Warpuppets may be made of various materials like clay, wood, iron, or bronze. They are completely unintelligent, and require continuous commands from their creators to be useful in combat. They vary in size and shape, but humanoid forms are most common.
+War Puppets are life-sized humanoid wooden dolls, resembling marionette dolls but standing freely. The soul of a War Puppet is in a jar, affixed to its head. War Puppets are not intelligent, and can only follow simple commands without much ability to improvise. They generally wield melee weapons, and strike fiercely at their targets. War Puppets are one of the only constructs which enchanters of the Artisans Guild and the Academy of Knowledge are able to create. War Puppets commonly serve as stationary guards, bodyguards for travellers, and tools for dungeon explorers checking for traps.
 
 #### Agalmaliths
 
-*   **Robustness:** 6
+*   **Robustness:** 7
 *   **Number appearing:** 1-3
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
 *   **Soul color:** Yellow
 *   **Intelligence:** Animal-like
 
-The ancient Magellians knew how to permanently bind an animal soul to these enormous clockwork machines, which remain as guardians in their ruins. Some are constructed as giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are more permanently stable than Warpuppets, and capable of greater autonomy in following its commands.
+The ancient Magellians knew how to construct enormous clockwork machines, which remain as guardians in their ruins. Some are giant humanoid statues, and others are shaped like vehicles of war. Agalmaliths are capable of greater autonomy in following its commands, compared to War Puppets. An Agalmalith's yellow soul is stored in a jar. If the Agalmalith is humanoid, its jar is affixed to its head.
 
-#### Rammenas
-
-*   **Robustness:** 4
-*   **Number appearing:** 2-12
-*   **Disposition:** Cautious
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow and green mixed
-*   **Intelligence:** Mortal-like
-
-The ancient Magellians knew how to stitch together the flesh of various animals with a sentient mortal, creating hybrid beings with a mixture of body parts. The combinations of body parts could be centaur-like (quadruped body with a mortal upper body), minotaur-like (bestial head with a mortal body), as well as various other mixtures of parts. They were intended to fulfill specific roles in combat which took the best advantage of their combinations of body parts. They are a kind of Mikton. Rammenas do not age, as a consequence of the soul binding process. They can survive for as long as they are able to obtain food and water.
 
 #### Arketons
 
-*   **Robustness:** 8
+*   **Robustness:** 9
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Pragmatic
 *   **Soul color:** Yellow and green mixed
 *   **Intelligence:** Mortal-like
 
-The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with several Mikton souls. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting minds disoriented the being. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size.
-
-#### Blobs
-
-*   **Robustness:** 3
-*   **Number appearing:** 1
-*   **Disposition:** Hostile
-*   **Courage:** Relentless
-*   **Soul color:** Yellow
-*   **Intelligence:** Animal-like
-
-Blobs are amorphous gelatinous creatures who are the creations of the Magellians. They are unintelligent but are very dangerous in their desire to consume. Blobs secrete digestive acids to pre-digest their targets, then consume the liquid. When a Blob grows sufficiently large, it divides into two Blobs.
+The ancient Magellians constructed enormous clockwork machines as weapons of war called Arketons. In order to enhance its intelligence and size, they were infused with several Mikton souls. However, the results were not predictable. While the resulting consciousness was more intelligent than the average of the constituent souls, the conflicting minds disoriented the being. Emotionally, Arketons were unpredictable and could lash out without apparent reason. Arketons were ultimately too unstable to be useful as weapons of war. Their physical form was oftentimes a mechanical clockwork dragon which could spew fire or acid, but other forms were constructed of similar size. An Arketon has four to six jars distributed throughout its body. Each jar that is destroyed gradually weakens the Arketon.
 
 #### Stoicheioi
 
@@ -1630,7 +1585,7 @@ Ghosts have the ability to possess the bodies of mortals. The Ghost's spiritual 
 *   **Soul color:** Red
 *   **Intelligence:** Automaton-like
 
-Raising reanimated skeletons requires Cthonic magic to animate bone. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
+Raising reanimated skeletons requires Cthonic magic to animate bones. This requires a skeleton that is more or less whole. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists. Skeletons often appear in large numbers and wield melee or ranged weapons to attack.
 
 #### Zombies
 
@@ -1641,18 +1596,7 @@ Raising reanimated skeletons requires Cthonic magic to animate bone. They are no
 *   **Soul color:** Red
 *   **Intelligence:** Automaton-like
 
-Raising reanimated zombies requires Cthonic magic to animate flesh. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists.
-
-#### Ghouls
-
-*   **Robustness:** 2
-*   **Number appearing:** 1-6
-*   **Disposition:** Hostile
-*   **Courage:** Pragmatic
-*   **Soul color:** Yellow core, with floods of red
-*   **Intelligence:** Animal-like
-
-Ghouls are created by transferring a living animal's soul into a deceased mortal's flesh through Igedeng's Cthonic magic. Ghouls primarily feed on decaying flesh, but they readily attack living creatures as well. While ghouls are not very intelligent and motivated by an impulse to consume, they are still capable of strategic thinking in ambushing their prey.
+Raising reanimated zombies requires Cthonic magic to animate corpses. This requires a corpse with flesh that is more or less whole. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists. Zombies are very slow compared to skeletons, but they move silently. Zombies can scratch and bite to attack, but they are also capable of wielding melee weapons.
 
 
 Provinces
