@@ -1560,19 +1560,19 @@ The undead are similar to artificial beings, in that their existence is almost a
 *   **Soul color:** Green core, with floods of red
 *   **Intelligence:** Mortal-like
 
-Blood Monstrosity is a disease that spreads through contact with the blood of the infected. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Between transmission and death, the infected feels a sense of euphoria but is actually rapidly weakening. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with physical and mental alterations.
+Blood Monstrosity is a disease that spreads through contact with the blood of the infected. It is also possible to acquire Blood Monstrosity through the bite of the infected, but the risk is much lower. The time between contracting the disease and fatality varies between 24 hours and 1 week, but unless it's cured the infected spontaneously dies. Between transmission and death, the infected feels a sense of euphoria but is actually rapidly weakening. Regardless of whether the infected died spontaneously due to the disease, or if their death was externally caused, the infected person rises again as a Blood Monster with physical and mental alterations.
 
 * They gain immense strength.
 * If they do not feed on the blood of mortals, they die.
 * They mostly appear as they did in life, but with sharpened carnivorous teeth, sharpened and hardened fingernails, pale skin, and red irises.
 * They do not age.
-* They are able to withstand the sunlight of dawn and dusk, but they are vulnerable to elemental sunlight attacks and quickly die when exposed to the high sun.
-* They can regenerate quickly from superficial wounds, by means of their blood congealing around the wound to form a barrier.
-* They retail the intelligence and memories they held in life.
+* They are able to withstand the sunlight of dawn and dusk, but they are vulnerable to elemental sunlight attacks and die when exposed to the midday sun for several minutes.
+* They can regenerate quickly from localized wounds, by means of their blood congealing around the wound to form a barrier.</li>
+* They retain the intelligence and memories they held in life.
 * Their minds are polluted by the insatiable hunger for the blood of mortals.
 * They are terrified of garlic, mirrors, and holy symbols of the Agathoi. This is completely psychological, and these objects do not physically harm or weaken them.
 
-Due to their regenerative abilities, the clearest ways to defeat a Blood Monster are to impale them through the heart with a sufficiently large object (such as a wooden stake), decapitating them, or exposing them to the high sun. Blood Monsters are aggressive physical combatants who may wield melee weapons, or otherwise use their teeth, fists, and claws. The Archon Eovumid is the original source of all Blood Monsters.
+Due to its regenerative abilities, the clearest ways to defeat a Blood Monster after subduing it are to impale it through the heart with a sufficiently large object, decapitating it, or exposing it to the midday sun. Blood Monsters are aggressive physical combatants who may wield melee weapons, or otherwise use their teeth, fists, and claws. Blood Monsters grab their enemies in the middle of combat if the opportunity presents itself, and bite on their necks to feed. However, Blood Monsters will wait to feed if doing so exposes them to an attack. The Archon Eovumid is the original source of all Blood Monsters.
 
 
 #### Liches
