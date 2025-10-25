@@ -1598,6 +1598,23 @@ Raising reanimated skeletons requires Cthonic magic to animate bones. This requi
 
 Raising reanimated zombies requires Cthonic magic to animate corpses. This requires a corpse with flesh that is more or less whole. They are not intelligent, and mindlessly obey the commands of their creators. The Archon Igedeng grants this power to his cultists. Zombies are very slow compared to skeletons, but they move silently. Zombies can scratch and bite to attack, but they are also capable of wielding melee weapons.
 
+#### Misozonts
+
+*   **Robustness:** 5
+*   **Number appearing:** 1-4
+*   **Disposition:** Hostile
+*   **Courage:** Brave
+*   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
+
+Misozonts resemble humanoid skeletons made of an alloy of silver and bronze. In the past they were clockwork constructs, but Igedeng's corruption twisted their physical form. Their eyes glow red, and their fingers are elongated into sharp claws. A Misozont has a jar affixed to its metallic skull, containing its soul. If the Misozont's body is physically destroyed but the jar is preserved, its metallic body regenerates its destroyed metallic parts.
+
+Misozonts are the terrible outcome of early experiments by the Magellian Empire, which sought to bind green souls to constructs. There were many iterations attempted, especially based on the theory that incorporating silver would counteract Cthonic corruption, but each attempt consistently resulted in catastrophic failure through Igedeng's corruption. This corruption took hold much more quickly than Ghosts, which appear benign for centuries. Instead, within a matter of weeks, Misozonts consistently broke down and became corrupted by Igedeng.
+
+Misozonts retain all of their intelligence and memories they held in life. However, their minds are polluted by an unrelenting hatred of living, organic beings. Misozonts are not mindless brutes. They are capable of long-term planning in their ultimate goal to exterminate as much life as possible. The vast majority of Misozonts were destroyed by the Magellian Empire and long forgotten. However, some are still imprisoned in ancient Magellian ruins, and would become a tremendous danger if released.
+
+In combat, Misozonts vary in their approach. They may use ranged weapons and set traps. However, most Misozonts prefer the thrill of striking with their claws in melee combat.
+
 
 Provinces
 ---------
