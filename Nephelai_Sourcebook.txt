@@ -615,6 +615,8 @@ There are many contradictory accounts regarding mythic history and cosmology giv
 
 First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were created afterwards. Second, the structure of Ksylia is that of concentric spheres. The outermost sphere separating it from Cthonia is the Hade. Then the Neaths, with its hollow surface of Arbigard. The Skies are at the center. Thus, "up" is at the center of Ksylia, and "down" is away from its center. The third point of agreement is that blue soul material was somehow invented by the weakest mortals of Ksylia, in order to oppose the Archons. The Magellian Empire weaponized blue soul material against the Archons, and taught the false doctrine that weakness is good, and strength is evil. The Agathoi were an invented story to justify this inversion. Of course, the Firmament and Asteria do not exist. The Magellian and Yargyez Empires wrongly suppressed the ultimate law of nature, that justice is the advantage of the stronger.
 
+The below list of Archons is not exhaustive. There are many lesser-known Cthonic cults in Conliah, and Lodumpans know of Archons that Conlians had never heard of. Likewise, only some Archons known in Conliah are also known in Lodumpis, and Archons which are known in both continents are always given different names and interpreted with different emphases.
+
 <table>
   <thead>
     <tr>
@@ -631,7 +633,7 @@ First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were c
       <td>Father of Bones</td>
       <td>Male</td>
       <td>Knowledge, Undead</td>
-      <td>Igedeng's sphere is called the Deadwoods, an endless forest of dead trees partially illuminated by the crescent moon. He is the patron of necromancers. Igedeng's cults are called the Tenkerlads, necromantic researchers who seek his blessings of knowledge of evil magic. His symbol is a crescent moon.</td>
+      <td>Igedeng's sphere is called the Deadwoods, an endless forest of dead trees partially illuminated by the crescent moon. He is the patron of necromancers. Igedeng's cults are called the Tenkerlads, necromantic researchers who seek his blessings of knowledge of evil magic. His symbol is a crescent moon. In Lodumpis, the equivalent of Igedeng is female, and is known as Pestium the Rot Mother.</td>
     </tr>
     <tr>
       <td>Lozie</td>
@@ -645,28 +647,28 @@ First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were c
       <td>Lord of the Void</td>
       <td>Male</td>
       <td>Darkness, Silence</td>
-      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. Mortals corrupted by Ogzim become Zoners, which turns them completely invisible. His symbol is a face with closed eyes.</td>
+      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. Mortals corrupted by Ogzim become Zoners, which turns them completely invisible. His symbol is a face with closed eyes. In Lodumpis, the equivalent of Ogzim is female, and is known as Umbrarum the Lady of Shadows.</td>
     </tr>
     <tr>
       <td>Lize</td>
       <td>Harvester of Mortals</td>
       <td>Female</td>
       <td>War, Torture</td>
-      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonians, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear.</td>
+      <td>Lize's sphere is called the Reaping Grounds. Endless fields of wheat are fed by the blood of mortals who her cultists have tortured and slain. Mortals who are phased into her sphere are subject to eternal torment by her Cthonians, the Tormentors. These Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails. Lize's cults are called the Overvelderlads, aspiring conquerors who summon Cthonian servants to aid in their conquest of all of Conliah. Her symbol is a helmet, shield and spear. In Lodumpis, the equivalent of Lize is male, and is known as Pastorum the Ghost Thief.</td>
     </tr>
     <tr>
       <td>Uluzing</td>
       <td>Mistress of Ends</td>
       <td>Female</td>
       <td>Fate, Death</td>
-      <td>Uluzing's sphere is called the Quaking Peaks. This is a narrow mountain path which leads to an endless abyss on both sides, where mortals must carefully tread without wandering too far in either direction. Furthermore, they are subject to continuous earthquakes that threaten to send them onto one or the other side of the abyss. Uluzing's cults are called the Morderlads, cold-blooded killers who perform assassinations for hire. Her symbol is a knife dripping with blood.</td>
+      <td>Uluzing's sphere is called the Quaking Peaks. This is a narrow mountain path which leads to an endless abyss on both sides, where mortals must carefully tread without wandering too far in either direction. Furthermore, they are subject to continuous earthquakes that threaten to send them onto one or the other side of the abyss. Uluzing's cults are called the Morderlads, cold-blooded killers who perform assassinations for hire. Her symbol is a knife dripping with blood. In Lodumpis, the equivalent of Uluzing is male, and is known as Ultimatum the End Maker.</td>
     </tr>
     <tr>
       <td>Lundazing</td>
       <td>Queen of Destruction</td>
       <td>Female</td>
       <td>Rebellion, Power</td>
-      <td>In the Age of Might Makes Right, Lundazing was a popular deity of the Dwarves. Lundazing's sphere is called Cinderthrone. It is a landscape of obsidian and lava, where the air is thick with smog. Ruins of castles and destroyed statues dot the landscape. Cinderthrone is populated by Dragons, who are powerful flying lizards who breathe elemental attacks. She has the power to corrupt mortals into Draklings, which are Dragon-like humanoids. Lundazing's cults are called the Brannenlads, an association of nobles across Conliah who aspire to usurp the Yargyez Emperor. Her symbol is an upside-down torch.</td>
+      <td>In the Age of Might Makes Right, Lundazing was a popular deity of the Dwarves. Lundazing's sphere is called Cinderthrone. It is a landscape of obsidian and lava, where the air is thick with smog. Ruins of castles and destroyed statues dot the landscape. Cinderthrone is populated by Dragons, who are powerful flying lizards who breathe elemental attacks. She has the power to corrupt mortals into Draklings, which are Dragon-like humanoids. Lundazing's cults are called the Brannenlads, an association of nobles across Conliah who aspire to usurp the Yargyez Emperor. Her symbol is an upside-down torch. In Lodumpis, the equivalent of Lundazing is male, and is known as Primarium the Destroyer.</td>
     </tr>
     <tr>
       <td>Ulviazing</td>
@@ -680,14 +682,14 @@ First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were c
       <td>Prince of Last Strike</td>
       <td>Male</td>
       <td>Retribution, Plots</td>
-      <td>Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterplots. Inizozim's cults are called the Grublelads. His symbol is a measuring rod.</td>
+      <td>Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterplots. Inizozim's cults are called the Grublelads. His symbol is a measuring rod. In Lodumpis, the equivalent of Inizozim is female, and is known as Solum the Punisher.</td>
     </tr>
     <tr>
       <td>Nabazie</td>
       <td>Prince of Beasts</td>
       <td>Male</td>
       <td>Lust, Rage</td>
-      <td>Nabazie's sphere is the Howling Hall. It is a tremendous, ornate castle populated by Lykoids, humanoid creatures with the faces of wolves. These Lykoids endlessly chase prey animals up and down the halls of the castle. Nabazie's cults are called the Jaktlads. His symbol is three red claw marks.</td>
+      <td>Nabazie's sphere is the Howling Hall. It is a tremendous, ornate castle populated by Lykoids, humanoid creatures with the faces of wolves. These Lykoids endlessly chase prey animals up and down the halls of the castle. Nabazie's cults are called the Jaktlads. His symbol is three red claw marks. In Lodumpis, the equivalent of Nabazie is female, and is known as Vitarum the Sanctioner.</td>
     </tr>
     <tr>
       <td>Eovumid</td>
@@ -715,7 +717,7 @@ First, the Archons and Cthonia are primordial. Ksylia and its inhabitants were c
       <td>Queen of Forests</td>
       <td>Female</td>
       <td>Wilderness, Plants</td>
-      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. It is an inescapable forest with towering trees. Mortals who find themselves in the Whimsical Grove are preyed upon by Angstworms. These are worm-like creatures are twenty feet long and have reptilian hides. Angstworms have no head, face, or eyes, but they have a mouth with razor-sharp teeth. Angstworms are also capable of levitating for short distances. Being in the presence of an Angstworm causes immediate terror. Embe's cults are called the Villiglads. They demolish mills and introduce dangerous animals and aggressively growing plants to the surrounding area. Those corrupted by Embe become Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. Troggles become very timid, and seek to escape by burrowing underground. Her symbol is a pan flute.</td>
+      <td>In the Age of Might Makes Right, Embe was a popular deity of the Wood Elves. Some still worship her in Westerwood. Embe's sphere is the Whimsical Grove. It is an inescapable forest with towering trees. Mortals who find themselves in the Whimsical Grove are preyed upon by Angstworms. These are worm-like creatures are twenty feet long and have reptilian hides. Angstworms have no head, face, or eyes, but they have a mouth with razor-sharp teeth. Angstworms are also capable of levitating for short distances. Being in the presence of an Angstworm causes immediate terror. Embe's cults are called the Villiglads. They demolish mills and introduce dangerous animals and aggressively growing plants to the surrounding area. Those corrupted by Embe become Troggles. They begin to walk on all fours, develop a hunched back, and lose their vision. Troggles become very timid, and seek to escape by burrowing underground. Her symbol is a pan flute. In Lodumpis, the equivalent of Embe is male, and is known as Terror the Incomprehensible One.</td>
     </tr>
   </tbody>
 </table>
@@ -1428,13 +1430,13 @@ The Magellians could harvest a green soul from a living sentient mortal, and sus
 *   **Soul color:** Green
 *   **Intelligence:** Mortal-like
 
-Powerful mages attempted to immortalize themselves by encasing their brains in steel, skull-shaped chambers etched with magical runes on the interior. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
+Powerful mages attempted to immortalize themselves by encasing their brains in steel, skull-shaped chambers etched with magical runes on the interior. Their skulls have two crystals for eyes, which glow faintly green. Steelskulls have hinged jaws that move open and closed as they speak. Their bodies vary in shape and size depending on how the vessel was constructed. Some are humanoid, and others resemble spiders or quadrupeds. They retain the full knowledge of their past life. Some Steelskulls haunt underground libraries, often seeking to complete research that was unfinished in life. Other Steelskulls sought to dedicate their immortal existence to the practice of philosophy, and sealed themselves away solitarily in Ksylic spheres.
 
-Steelskulls are neither undead nor true constructs. A Steelskull's still living brain is the seat of its soul, and its brain chamber sustains the living brain beyond what is natural. The brain chamber itself is completely non-magical. The Steelskull's brain casts a spell, called "the Steelskull sustaining spell", which has several properties:
+Steelskulls are neither undead nor true constructs. A Steelskull's still living brain is the seat of its soul, and its brain chamber sustains the living brain beyond what is natural. The brain chamber itself is completely non-magical. A Steelskull's brain casts a spell, called "the Steelskull sustaining spell", which has several properties:
 
-* It is a special, continuous spell which is not disrupted by most counter magic. Therefore, a simple dispel does not instantly kill a Steelskull or interrupt its operation.
+* It is a unique, permanent spell which is not disrupted by most counter magic. Therefore, a simple dispel does not instantly kill a Steelskull or interrupt its operation.
 * The steel brain chamber's runes respond to the spell as long as it is active.
-* The Steelskull is indefinitely preserved, without any need to eat, drink, or breathe.
+* The Steelskull's brain is preserved, without any need to eat, drink, breathe, or sleep. It does not age.
 * The Steelskull is granted a sense of sight, sound, and touch.
 * The Steelskull is granted the power of speech.
 * The Steelskull is granted the ability to telekinetically animate its steel body, which is welded to the brain chamber.
@@ -1447,9 +1449,9 @@ For a Steelskull, decapitation has a specific outcome:
 * The Steelskull is still completely aware of sight, sound, and touch.
 * The Steelskull is still capable of speech.
 * If its brain chamber is welded to a new steel body, the Steelskull may operate its new body just like its original one.
-* The Steelskull is essentially helpless. It cannot cast any spells other than the Steelskull sustaining spell.
+* The Steelskull is essentially helpless. It cannot cast any spells, although the Steelskull sustaining spell is still active.
 
-The Steelskulls's body is not clockwork, but is made of solid steel body parts mechanically fastened by solid steel joints, making its articulation similar to a War Puppet. Because Steelskulls are not truly constructs, they are affected by mental influence spells. However, they are immune to disease and poison. The bodies of Steelskulls are quite tough, but in combat they prefer to keep their distance and dominate their enemies with elemental blasts.
+A Steelskull's body is not clockwork, but is made of solid steel body parts mechanically fastened by solid steel joints, making its articulation similar to a War Puppet. Because Steelskulls are not truly constructs, they are affected by mental influence spells. Steelskull senses are "ordinary" such that illusions and magical sensory impairment work as expected. However, they are immune to disease and poison. The bodies of Steelskulls are quite tough, but in combat they prefer to keep their distance and dominate their enemies with elemental blasts.
 
 #### Mechanids
 
