@@ -1325,7 +1325,7 @@ Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's 
 
 Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
 
-#### Nonces
+#### Holders
 
 *   **Robustness:** 1
 *   **Number appearing:** 1
@@ -1334,11 +1334,13 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leat
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Nonces are native to Lize's sphere of the Reaping Grounds. Nonces are unusual for Cthonians, in that they phase out of Ksylia within one second or so while in their true form. Even in Cthonia, Nonces merely appear as a cloud of smoke, are easily physically destroyed, and have no physical abilities. Instead, the main ability of Nonces is to immediately possess the body of an animal or a sentient mortal upon entry into Ksylia. The exact effect is different depending on whether an animal or sentient mortal is possessed.
+Holders are native to Lize's sphere of the Reaping Grounds. Holders are unusual for Cthonians, in that they phase out of Ksylia within one second or so while in their true form. Even in Cthonia, Holders merely appear as a cloud of smoke, are easily physically destroyed, and have no physical abilities. Instead, the main ability of Holders is to immediately possess the body of an animal or a sentient mortal upon entry into Ksylia. The exact effect is different depending on whether an animal or sentient mortal is possessed.
 
-When a Nonce possesses an animal body, the animal's soul is instantly destroyed and dissapates into Ksylia. The Nonce takes full control of the animal's body. If the animal was quadrupedal, it becomes capable of standing upright bipedally. It also gains the ability to speak in Lize's language. This possession is permanent. The animal still needs to perform all of its ordinary activites like eating, drinking, and sleeping to continue living. If the Nonce is exorcised out of the animal's body, the animal's body simply dies. The most common use of animal possession is for the Nonce to act as a discreet, indefinite servant for the Invoker who summoned it. However, the Nonce is not inherently loyal to the Invoker, and obeys the Invoker based on shared obedience to Lize.
+When a Holder possesses an animal body, the animal's soul is instantly destroyed and dissipates into Ksylia. If the animal was quadrupedal, it may choose to stand bipedally sometimes. If the Holder is exorcised out of the animal's body, the animal's body simply dies. The most common use of animal possession is for the Holder to act as a discreet servant for the Invoker who summoned it. However, the Holder is not inherently loyal to the Invoker, and obeys the Invoker based on shared obedience to Lize.
 
-When a Nonce possesses a sentient mortal's body, the sentient mortal's soul is instantly phased into Lize's sphere of the Reaping Grounds and inhabits a temporary physical body which resembles the sentient mortal's original body. This temporary physical body then becomes subject to torture at the hand of Tormentors. Meanwhile, in Ksylia, the Nonce takes full control of the sentient mortal's body. Detail regarding possession itself are similar between animals and sentient mortals: the mortal speaks exclusively speaks in Lize's language, and still needs to perform ordinary activities like eating, drinking, and sleeping to continue living. If the Nonce is exorcised out of the sentient mortal's body, then the sentient mortal's soul instantly phases out of Lize's sphere back into its original body, alive and well as it was just prior to exorcism. The temporary body in the Reaping Grounds then disintegrates.
+When a Holder possesses a sentient mortal's body, the sentient mortal's soul is instantly phased into Lize's sphere of the Reaping Grounds and inhabits a temporary physical body which resembles the sentient mortal's original body. This temporary physical body then becomes subject to torture at the hand of Tormentors. If the Holder is exorcised out of the sentient mortal's body, then the sentient mortal's soul instantly phases out of Lize's sphere back into its original body, alive and well as it was just prior to exorcism. The temporary body in the Reaping Grounds then disintegrates. If the sentient mortal's body dies while possessed, then its soul remains permanently in the Reaping Grounds.
+
+Other aspects of possession are identical between animals and sentient mortals. The Holder takes full control of the possessed being's body, and the Holder may do so indefinitely without the usual restriction of being forced to phase back into Cthonia. During possession, the possessed being exclusively speaks in Lize's language, and animals gain the ability to do so. The possessed being still needs to perform all of its ordinary activites like eating and drinking to continue living.
 
 #### Nagas
 
