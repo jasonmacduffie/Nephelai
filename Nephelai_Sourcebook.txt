@@ -102,9 +102,11 @@ In addition to phasing one's whole being, it is possible to magically communicat
 
 The technology level of Conliah is approximately 1100s medieval Europe. Military technology is still based on melee combat, longbows and crossbows, and basic siege weapons. There is very little innovation in enchanting, liming itself to simple enhancements to simple weapons and armor. War Puppets are the most advanced constructs which Conliah can produce.
 
-The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. These firearms rely on yellow soul binding enchantments to operate. The enchanters of Conliah have not been able to reverse engineer how firearms are constructed. They also possess extensive clockwork machinery appropriate to that era, which operates according to non-magical principles. Examples include clock towers, orreries, and wind-up toys. The Uzvu Confederation are perfectly capable of producing the same simple enchantments for weapons and armor as Conliah. In terms of constructs, the Uzvu Confederation is limited to War Puppets like Conliah.
+The Uzvu Confederation from Lodumpis has advanced technology of approximately 1500s Europe. They possess magical firearms which work similarly to early muskets, pistols, and cannons. These firearms rely on yellow soul binding enchantments to operate. Instead of gunpowder, their enchantments generate an explosion which propels a bullet. The enchanters of Conliah have not been able to reverse engineer how firearms are constructed. They also possess extensive clockwork machinery appropriate to that era, which operates according to non-magical principles. Examples include clock towers, orreries, and wind-up toys. The Uzvu Confederation are perfectly capable of producing the same simple enchantments for weapons and armor as Conliah. In terms of constructs, the Uzvu Confederation is limited to War Puppets like Conliah.
 
-The Magellian Empire was technologically advanced, being capable of magical modification of flesh and the construction of gigantic clockwork guardians. This technology is native to Conliah, but is now lost in ancient ruins.
+The Magellian Empire was technologically advanced, being capable of magical modification of flesh and the construction of sentient clockwork constructs. This technology is native to Conliah, but is now lost in ancient ruins.
+
+The Magellian Empire built advanced magical firearms called ray guns, which were powered by yellow soul binding enchantments. As with most Magellian technology, knowledge of their construction is lost to time. These weapons projected beams of elemental sunlight and elemental moonlight, concentrated into a single destructive stream. These weapons were built at various scales such that they were wielded by both clockwork foot soldiers called Mechanids and gigantic clockwork guardians called Agalmaliths. These weapons were powerful but self-recharged very slowly, which made their practical use in warfare challenging. To compensate, a large number of ray guns were manufactured then placed into storage for decades between uses. Some constructs in ancient ruins still possess these weapons, but these ray guns quickly become useless once fully discharged. In the case of the rifles used by Mechanids, the magazine capacity is between six and ten rounds. Once finished, those constructs must switch to simple weapons.
 
 ### Currency
 
@@ -1330,17 +1332,21 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leat
 *   **Robustness:** 1
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
-*   **Courage:** Pragmatic
+*   **Courage:** Cowardly
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Holders are native to Lize's sphere of the Reaping Grounds. Holders are unusual for Cthonians, in that they phase out of Ksylia within one second or so while in their true form. Even in Cthonia, Holders merely appear as a cloud of smoke, are easily physically destroyed, and have no physical abilities. Instead, the main ability of Holders is to immediately possess the body of an animal or a sentient mortal upon entry into Ksylia. The exact effect is different depending on whether an animal or sentient mortal is possessed.
+Holders are native to Lize's sphere of the Reaping Grounds. Holders are unusual for Cthonians, in that they phase out of Ksylia within one second or so while in their true form. Even in Cthonia, Holders merely appear as a plume of thick white smoke, are easily physically destroyed, and have no physical abilities. Instead, the main ability of Holders is to immediately possess the body of an animal or a sentient mortal upon entry into Ksylia. Possession is not guaranteed, but depends on the Holder successfully wrestling with the soul of the possessed. Holders are quite fast in their true form, allowing them to move about 30 feet per second. This grants them about a 30 foot radius where they may take possession of someone before phasing out of Ksylia. The exact effect is different depending on whether an animal or sentient mortal is possessed.
 
 When a Holder possesses an animal body, the animal's soul is instantly destroyed and dissipates into Ksylia. If the animal was quadrupedal, it may choose to stand bipedally sometimes. If the Holder is exorcised out of the animal's body, the animal's body simply dies. The most common use of animal possession is for the Holder to act as a discreet servant for the Invoker who summoned it. However, the Holder is not inherently loyal to the Invoker, and obeys the Invoker based on shared obedience to Lize.
 
 When a Holder possesses a sentient mortal's body, the sentient mortal's soul is instantly phased into Lize's sphere of the Reaping Grounds and inhabits a temporary physical body which resembles the sentient mortal's original body. This temporary physical body then becomes subject to torture at the hand of Tormentors. If the Holder is exorcised out of the sentient mortal's body, then the sentient mortal's soul instantly phases out of Lize's sphere back into its original body, alive and well as it was just prior to exorcism. The temporary body in the Reaping Grounds then disintegrates. If the sentient mortal's body dies while possessed, then its soul remains permanently in the Reaping Grounds.
 
-Other aspects of possession are identical between animals and sentient mortals. The Holder takes full control of the possessed being's body, and the Holder may do so indefinitely without the usual restriction of being forced to phase back into Cthonia. During possession, the possessed being exclusively speaks in Lize's language, and animals gain the ability to do so. The possessed being still needs to perform all of its ordinary activites like eating and drinking to continue living. The possessed creature retains its physical strength and speed. The Holder may cast simple offensive magic, but is not especially magically threatening in combat.
+Other aspects of possession are identical between animals and sentient mortals. The Holder takes full control of the possessed being's body, and the Holder may do so indefinitely without the usual restriction of being forced to phase back into Cthonia. During possession, the possessed being exclusively speaks in Lize's language, and animals gain the ability to do so. The possessed being still needs to perform all of its ordinary activites like eating and drinking to continue living. The possessed creature retains its physical strength and speed. The Holder may cast simple offensive magic while possessing a host, but is not extremely magically powerful in combat.
+
+Holders have the ability to abandon a host. This mostly has the same effect as exorcism, in its consequences for the abandoned host. However, exorcism forces the Holder back into Cthonia, whereas abandonment gives the Holder the opportunity to repossess a new host. A Holder cannot use abandonment to dodge a successful exorcism. The exorcism "yanks" the Holder into Cthonia regardless of its immediate host. Abandonment also fails if the current host is already dead before the Holder chooses to flee. Killing the host forces the Holder back into Cthonia. After abandonment, failure to wrestle with the new host's soul also forces the Holder back into Cthonia, without a second chance.
+
+Holders are sadistic and enjoy taunting their enemies from a position of dominance, but feel genuine fear of banishment. They prefer self-preservation of their hosts over being forced back into Cthonia. Holders avoid sacrificing or abandoning their hosts unless backed into a corner, even if it would offer a tactical benefit. A Holder who possesses a sentient mortal's body feels the most confident when it knows its adversaries refuse to kill the host and do not have access to exorcism magic.
 
 #### Nagas
 
@@ -1453,7 +1459,7 @@ Steelskulls are neither undead nor true constructs. A Steelskull's still living 
 
 * It is a unique, permanent spell which is not disrupted by most counter magic. Therefore, a simple dispel does not instantly kill a Steelskull or interrupt its operation.
 * The steel brain chamber's runes respond to the spell as long as it is active.
-* The Steelskull's brain is preserved, without any need to eat, drink, breathe, or sleep. It does not age.
+* The Steelskull's brain is preserved, without any need to eat, drink, or breathe. It does not age. The Steelskull still needs to sleep, as an ordinary living mortal.
 * The Steelskull is granted a sense of sight, sound, and touch.
 * The Steelskull is granted the power of speech.
 * The Steelskull is granted the ability to telekinetically animate its steel body, which is welded to the brain chamber.
@@ -1468,7 +1474,7 @@ For a Steelskull, decapitation has a specific outcome:
 * If its brain chamber is welded to a new steel body, the Steelskull may operate its new body just like its original one.
 * The Steelskull is essentially helpless. It cannot cast any spells, although the Steelskull sustaining spell is still active.
 
-A Steelskull's body is not clockwork, but is made of solid steel body parts mechanically fastened by solid steel joints, making its articulation similar to a War Puppet. Because Steelskulls are not truly constructs, they are affected by mental influence spells. Steelskull senses are "ordinary" such that illusions and magical sensory impairment work as expected. However, they are immune to disease and poison. The bodies of Steelskulls are quite tough, but in combat they prefer to keep their distance and dominate their enemies with elemental blasts.
+A Steelskull's body is not clockwork, but is made of solid steel body parts mechanically fastened by solid steel joints, making its articulation similar to a War Puppet. Because Steelskulls are not truly constructs, they are affected by mental influence spells including charm, sleep, and hold. Steelskull senses are "ordinary" such that illusions and magical sensory impairment work as expected. However, they are immune to disease and poison. The bodies of Steelskulls are quite tough, but in combat they prefer to keep their distance and dominate their enemies with elemental blasts.
 
 #### Mechanids
 
@@ -1598,7 +1604,7 @@ The inferior binding process has several effects. First, they continue to requir
 
 #### Ghosts
 
-*   **Robustness:** 4
+*   **Robustness:** 10
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Relentless
