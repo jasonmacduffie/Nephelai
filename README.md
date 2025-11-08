@@ -1116,6 +1116,7 @@ Note that Conliah lacks two distinct categories of monsters: "always evil humano
 The below listing provides several traits, which help to contextualize what an encounter with the monster is like:
 
 *   **Robustness** refers to the overall resilience of the monster in combat, by analogy with a real-world animal.
+    *   0: Frailer than an untrained, sentient humanoid
     *   1: Baseline for untrained, sentient humanoids
     *   2: Domestic Mule
     *   3: Wild Boar
@@ -1305,6 +1306,50 @@ Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with
 
 Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their tentacles.
 
+#### Microdragons
+
+*   **Robustness:** 0
+*   **Number appearing:** 6-60
+*   **Disposition:** Hostile
+*   **Courage:** Cowardly
+*   **Soul color:** Red
+*   **Intelligence:** Mortal-like
+
+Microdragons are three-foot-long lizards who breathe weak blasts of fire and bite with sharp teeth. They are not very intimidating alone, but when encountered in swarms have the ability to cause enormous destruction. Microdragons lack a fighting spirit, and tend to flee at the first sign of real danger. Microdragons are the lowest caste in Lundazing's sphere of Cinderthrone, and constantly rebel against their superiors the Drakes.
+
+#### Drakes
+
+*   **Robustness:** 3
+*   **Number appearing:** 3-18
+*   **Disposition:** Hostile
+*   **Courage:** Pragmatic
+*   **Soul color:** Red
+*   **Intelligence:** Mortal-like
+
+Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons and javelins, but often switch between these weapons and their natural claws, teeth, and breath weapons. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below Dragonsnakes.
+
+#### Dragonsnakes
+
+*   **Robustness:** 5
+*   **Number appearing:** 2-12
+*   **Disposition:** Hostile
+*   **Courage:** Pragmatic
+*   **Soul color:** Red
+*   **Intelligence:** Mortal-like
+
+Dragonsnakes are limbless ten-foot-long reptiles with powerful jaws, who are capable of breathing fire. They are very good at burrowing underground and ambushing their enemies. Dragonsnakes are patient and calculating in their approach to battle. Dragonsnakes are native to Lundazing's sphere of Cinderthrone, where they rank above Drakes but below Drakotherians.
+
+#### Drakotherians
+
+*   **Robustness:** 8
+*   **Number appearing:** 2-7
+*   **Disposition:** Hostile
+*   **Courage:** Brave
+*   **Soul color:** Red
+*   **Intelligence:** Mortal-like
+
+Drakotherians are fifteen-foot-long lizards who reside in Lundazing's Cinderthrone. They are the second to highest stratum next to Dragons, there. In battle, Drakotherians have two main weapons: a potent fire breath, and club tails covered in spikes. Drakotherians are proud combatants who must demonstrate courage in battle to maintain rank within their own caste.
+
 #### Dragons
 
 *   **Robustness:** 10
@@ -1314,7 +1359,7 @@ Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at th
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's Cinderthrone. The largest Dragons may be fifty feet long. They have a well-defined social hierarchy in which the leader of a Dragon kingdom is constantly being overthrown by their subjects. They rule over other lesser Dragon-like beings who populate Cinderthrone who exist at lower strata of this social hierarchy. According to legend, the ancient Dwarves who worshipped Lundazing were granted the power to summon Dragons as flying mounts.
+Dragons are enormous, fire-breathing, winged reptiles who reside in Lundazing's Cinderthrone. The largest Dragons may be fifty feet long. They have a well-defined social hierarchy in which the leader of a Dragon kingdom is constantly being overthrown by their subject Dragons. They rule over other lesser Dragon-like beings who populate Cinderthrone who exist at lower strata of this social hierarchy. According to legend, the ancient Dwarves who worshipped Lundazing were granted the power to summon Dragons as flying mounts.
 
 #### Tormentors
 
@@ -1329,7 +1374,7 @@ Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leat
 
 #### Holders
 
-*   **Robustness:** 1
+*   **Robustness:** 0
 *   **Number appearing:** 1
 *   **Disposition:** Hostile
 *   **Courage:** Cowardly
