@@ -1326,7 +1326,7 @@ Microdragons are three-foot-long lizards who breathe weak blasts of fire and bit
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons and javelins, but often switch between these weapons and their natural claws, teeth, and breath weapons. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below all other castes.
+Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons and javelins, but often switch between these weapons and their natural claws, teeth, and breath weapons. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below all other castes. Often times, Drakes will band with either Dragonsnakes or Drakotherians to demote the other caste, in order to earn the spoils of siding with the victor.
 
 #### Dragonsnakes
 
