@@ -1313,9 +1313,9 @@ Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at th
 *   **Disposition:** Hostile
 *   **Courage:** Cowardly
 *   **Soul color:** Red
-*   **Intelligence:** Mortal-like
+*   **Intelligence:** Animal-like
 
-Microdragons are three-foot-long lizards who breathe weak blasts of fire and bite with sharp teeth. They are not very intimidating alone, but when encountered in swarms have the ability to cause enormous destruction. Microdragons lack a fighting spirit, and tend to flee at the first sign of real danger. Microdragons are the lowest caste in Lundazing's sphere of Cinderthrone, and constantly rebel against their superiors the Drakes.
+Microdragons are three-foot-long lizards who breathe weak blasts of fire and bite with sharp teeth. Microdragons are also capable of using simple and improvised weapons. They are not very intimidating alone, but when encountered in swarms have the ability to cause enormous destruction. Microdragons lack a fighting spirit, and tend to flee at the first sign of real danger. Microdragons are the lowest caste in Lundazing's sphere of Cinderthrone, and constantly rebel against their superiors the Drakes.
 
 #### Drakes
 
@@ -1326,7 +1326,7 @@ Microdragons are three-foot-long lizards who breathe weak blasts of fire and bit
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons and javelins, but often switch between these weapons and their natural claws, teeth, and breath weapons. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below Dragonsnakes.
+Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons and javelins, but often switch between these weapons and their natural claws, teeth, and breath weapons. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below all other castes.
 
 #### Dragonsnakes
 
@@ -1337,7 +1337,7 @@ Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. Th
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Dragonsnakes are limbless ten-foot-long reptiles with powerful jaws, who are capable of breathing fire. They are very good at burrowing underground and ambushing their enemies. Dragonsnakes are patient and calculating in their approach to battle. Dragonsnakes are native to Lundazing's sphere of Cinderthrone, where they rank above Drakes but below Drakotherians.
+Dragonsnakes are limbless ten-foot-long reptiles with powerful jaws, who are capable of breathing fire. They are very good at burrowing underground and ambushing their enemies. Dragonsnakes are patient and calculating in their approach to battle. Dragonsnakes are native to Lundazing's sphere of Cinderthrone, where they rank above Drakes but below Dragons. Whether Drakotherians rank above or below Dragonsnakes varies between Dragon kingdoms, and their relative positions are constantly switching. When Dragonsnakes rank above Drakotherians, the Dragon kingdom tends to take an underhanded approach to battle.
 
 #### Drakotherians
 
@@ -1348,7 +1348,7 @@ Dragonsnakes are limbless ten-foot-long reptiles with powerful jaws, who are cap
 *   **Soul color:** Red
 *   **Intelligence:** Mortal-like
 
-Drakotherians are fifteen-foot-long lizards who reside in Lundazing's Cinderthrone. They are the second to highest stratum next to Dragons, there. In battle, Drakotherians have two main weapons: a potent fire breath, and club tails covered in spikes. Drakotherians are proud combatants who must demonstrate courage in battle to maintain rank within their own caste.
+Drakotherians are fifteen-foot-long lizards who reside in Lundazing's Cinderthrone. In battle, Drakotherians have two main weapons: a potent fire breath, and club tails covered in spikes. Drakotherians are proud combatants who must demonstrate courage in battle to maintain rank within their own caste. Drakotherians rank above Drakes but below Dragons. Dragon kingdoms vary in whether Drakotherians outrank Dragonsnakes or not. When Drakotherians are the most dominant caste next to Dragons, the Dragon kingdom tends to take a straightforward approach to battle.
 
 #### Dragons
 
