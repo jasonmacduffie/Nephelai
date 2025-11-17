@@ -28,7 +28,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
     *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
     *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
     *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are War Puppets, Steelskulls and Flesh Mutants.
-    *   **Undead beings** are a special kind of artificial being, whose only universal traits are (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt. Examples are Ghosts, Zombies, and Blood Monsters.
+    *   **Undead beings** are a special kind of artificial being, whose only universal traits are (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt. Examples are Haunters, Zombies, and Blood Monsters.
 *   **Factions:** You have heard about several factions with continent-spanning impact:
     *   **The Yargyez Empire:** The Empire was established 188 years ago by Humans from Eastgardia. The Yargyez Emperor is the head of religion through the Imperial Cult, military through the Royal Guard, and law through the Imperial Council.
     *   **The Uzvu Confederation:** A confederation of Orcs, Goblins, and Ogres landed on the shores of Conliah nineteen years ago. They have rapidly started invading the land, declaring their domination of Conliah divinely mandated.
@@ -289,9 +289,9 @@ The first act of the Agathoi used second-rate soul material to create the souls 
 
 The second act of the Agathoi was to establish a system of transmigration to purify mortal souls and eventually reunite them with Asteria. Mortal souls continued through the cycle of life and death over multiple lifetimes according to the morality of their actions during life. The Agathoi did this because Gora did not desire for these mortals to permanently exist in Ksylia. However, the soul adjusted its memory and perception to the realm it occupied. Prolonged exposure to the brilliance of Asteria caused the soul to adjust, and eventually lose its memories of mortal life. Again, when they returned to Ksylia, the soul adjusted to its darkness, and forgot its experience of Asteria. Therefore, mortals did not retain memories across their lives. Yet, by moral conduct through successive lives, it was possible for a mortal soul to be promoted to that of an Agathos by stripping away the soul's impurities which made it second-rate.
 
-The third and last act of the Agathoi was to create all other animals and lesser organisms using third-rate soul material. These creatures populated Ksylia with simpler beings which would help mortals to sustain themselves.
+The third and last act of the Agathoi was to create all other animals and lesser organisms using third-rate soul material. These creatures populated Ksylia with simpler beings which would help mortals to sustain themselves. Instead of transmigrating, the third-rate soul material of these organisms cycled through Ksylia in an orderly fashion. Gora left the ultimate destiny of third-rate soul material to the discretion of the Agathoi, to be addressed in the distant future.
 
-During the creative acts of the Agathoi, there were highly degraded fragments of soul material which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive with varying intelligence but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons. The Archons never knew of Gora and the celestial order, so came to believe they were the primordial beings of the cosmos.
+During the creative acts of the Agathoi, highly degraded fragments of soul material were generated which unintentionally descended into Cthonia and combined with the raw elements. This animated the elements spontaneously, making them alive with varying intelligence but alien to the celestial order established by Gora. These creatures were called Cthonians. Some of these Cthonians were lesser beings, much like typical mortals and animals, but some were incredibly powerful. These powerful Cthonians became known as Archons. The Archons never knew of Gora and the celestial order, so came to believe they were the primordial beings of the cosmos.
 
 The soul material of Cthonians was so degraded that they could not permanently reside in Ksylia, much as mortals could not permanently reside in Asteria. However, the descent of fragmented soul material penetrated the boundary of the Hade. This allowed the Archons to repeatedly extend their reach into Ksylia to influence and harm mortals.
 
@@ -321,7 +321,7 @@ In an event later called "The Great Nothing", group of youth educated by the Clo
 
 After the Magellian Empire collapsed, there was a long dark age. Various successor states claimed legitimacy, but none were able to consolidate power over the whole continent. Agathos worship remained the dominant religion, but each state interpreted the myths differently and combined them with local traditions. Archon worship was taboo, but it gradually gained a minority of practitioners. The teachings of the Cloudruled, in the form of written dialogues, were lost. This period lasted until humans from Eastgardia conquered Conliah and established a second empire.
 
-During this period, many Magellian structures fell into ruin, or were repurposed by the locals of each province. As Agathos worship became blended with syncretic practices, new temples were constructed and old ones were modified. Practices of ancestor veneration became common again, and the rituals involved tended to interfere with transmigration. As a result, ghosts were bound to their resting places. Lastly, the many small kingdoms that arose were constantly at war with each other. Great fortresses were constructed to defend the land, and to prepare attacks on others.
+During this period, many Magellian structures fell into ruin, or were repurposed by the locals of each province. As Agathos worship became blended with syncretic practices, new temples were constructed and old ones were modified. Practices of ancestor veneration became common again, and the rituals involved bound souls to physical objects. As a result, ghosts were bound to their resting places. Lastly, the many small kingdoms that arose were constantly at war with each other. Great fortresses were constructed to defend the land, and to prepare attacks on others.
 
 #### 1 YE - 189 YE (present)
 
@@ -332,7 +332,7 @@ Now, in the past twenty years, the below events happened:
 *   170 YE: Contact was made with peoples from a continent in the east named Lodumpis. They called themselves the Uzvu Confederation, a coalition between Orc warlords, Goblin traders and craftsmen, and Ogre manual laborers and soldiers. They have brought with them arcane technology superior to the Yargyez but inferior to the Magellians, and claim to be on a divine civilization mission to bring the continent under the ruler of the Uzvu Confederation.
 *   172 YE: A group of high ranking Human officials launched a failed coup against the emperor in Inton. It was later uncovered that they were Brannenlads, cultists of Lundazing.
 *   175 YE: In Nightglade, a faction of Lizardfolk launched a rebellion against the Empire. They were suppressed with force, undermining the legitimacy of the Empire.
-*   178 YE: In western Helscar, a coalition of Chieftains have agreed to revive forbidden forms of ancestor worship that interfere with transmigration, which the Imperial Cult considers a heresy.
+*   178 YE: In western Helscar, a coalition of Chieftains have agreed to revive forbidden forms of ancestor worship that bind mortal souls, which the Imperial Cult considers a heresy.
 *   178 YE: Philosophical lodges across the continent have joined forces for mutual protection, calling themselves the Philosophers Guild. While not promoting outright Archon worship, their questioning opens the door to heresy.
 *   180 YE: The Osti Tribe has openly revived worship of Dreze, the Archon of Endurance, against the will of their fellow Ashfallen Tribes and the Empire.
 *   188 YE: In complete secrecy, a faction operating across Valorgale, Westerwood, and Fair Island is conspiring to overthrow the Yargyez Emperor and install an Elven-ruled empire.
@@ -725,7 +725,7 @@ The below list of Archons is not exhaustive. There are many lesser-known Cthonic
 
 #### Ancestor Veneration
 
-While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not interfere with transmigration. Rituals that bind souls to a location are illegal, and inquisitors of the Order of Iazus punish those who practice such ancestor veneration. Ancestor veneration is complicated to regulate, because many of its practitioners either do not understand they are binding souls or do not understand the harm of doing so. These are the major races which practice ancestor veneration:
+While the Imperial Cult does not officially recognize its practice, the veneration of ancestors is widespread across Conliah. It is tolerated as long as it's of a more respectful and sentimental nature, and does not bind souls to objects. Rituals that bind mortal souls to objects are illegal, and inquisitors of the Order of Iazus punish those who practice such ancestor veneration. Ancestor veneration is complicated to regulate, because many of its practitioners either do not understand they are binding souls or do not understand the harm of doing so. These are the major races which practice ancestor veneration:
 
 *   Dwarves believe that their honored dead are granted a unique sphere in Asteria named Erunhall, which is an eternal feast. Their practices include feasts held at burial mounds and burying possessions with the dead.
 *   Halflings believe that spirits linger in Arbigard until they are given proper burial rights, or else they will become restless spirits. Their practices include shrines placed in crypts and annual feasts in rememberance of the dead.
@@ -871,8 +871,8 @@ Advanced Devouts of both the Imperial Cult and cloud worship have the ability to
 
 The term "color" in reference to soul material is not literal, but refers to the magically detectable differences in signature based on where the soul material originated from. The color names are ancient conventions which have carried into the present, but it is only a feeling within the one probing magically infused substance. Remarkably, the soul color terminology was already used in exactly the same way in Lodumpis at the time contact was made with Conliah. Soul color applies to both ambient soul material and discrete souls, but not all colors exist in both forms.
 
-*   **Green Souls:** In the absence of other magical influences, mortals who are sentient have green souls. Green souls transmigrate, and their spirits are also clearly green. Ambient green soul material does not exist whatsoever.
-*   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. They do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
+*   **Green Souls:** In the absence of other magical influences, mortals who are sentient have pure green souls. The Imperial Cult holds that green souls transmigrate to Asteria upon death. Ambient green soul material does not exist whatsoever.
+*   **Yellow Souls:** Wildmages and Schoolmages have green souls, but also have a noticeable aura of concentrated yellow soul material. Animals besides the sentient mortal races have discrete yellow souls. Yellow souls certainly do not transmigrate, and their souls dissipate into Ksylia upon death. Ambient yellow soul material flows throughout Ksylia.
 *   **Blue Souls:** Devouts and Ardents have green souls, but also emit faint traces of blue soul material. The Imperial Cult claims the Agathoi have discrete blue souls, and are immortal. The Imperial Cult also claims ambient blue soul material flows throughout Asteria.
 *   **Red Souls:** Wretches and Invokers have green souls, but also emit faint traces of red soul material. Cthonians have discrete red souls, and red soul material flows throughout Cthonia. Upon death, Cthonian bodies disintegrate into dust. Their red souls return to their respective sphere of Cthonia, where their physical forms slowly reconstitute. If the specific Cthonian has mortal-like intelligence, it retains all of its memories upon reconstitution.
 
@@ -881,7 +881,7 @@ The term "color" in reference to soul material is not literal, but refers to the
 Artifacts, locations, and other physical things may be infused with soul material. The effects of this infusion differ based on the nature of the soul material used and the techniques involved. The below list is not exhaustive, but provides an overview of common forms of soul infusion. Note the frequent use of the term "jar" as a non-living material which is used to house a soul. It can refer to a literal jar, but also frequently refers to other kinds of objects like gems and ornamental boxes. The term jar is used in the same manner in the Artificial Monsters and Undead sections of the sourcebook.
 
 *   **Yellow Soul Bound Artifacts:** _Requires a living creature._ The most common way to enchant artifacts with powerful magical properties is through the sacrifice of a living thing. The Imperial Cult does not forbid the use of animals for this purpose. The process typically involves killing an animal and trapping its soul in a jar, which is affixed to the artifact the enchanter seeks to enhance.
-*   **Green Soul Bound Artifacts:** _Requires a living creature._ Much more powerful enchantments are possible through the use of a green soul, instead of a yellow one. However, the transmigration cycle is sacred, and using green souls for enchanting is strictly forbidden. The act of binding a green soul is considered an offense punishable by death, equal in gravity to Archon worship. By the same process as enchanting with yellow souls, a sentient mortal must typically be killed and the mortal's soul must be trapped in a jar. The Magellian Empire knew of how to harvest a green soul without killing the body, by immediately replacing it with a yellow soul. Either way, the jar then enhances the artifact the enchanter seeks to enhance. Furthermore, the artifact itself obtains the sentience of the green soul, although it may or may not be able to communicate with its wielder. Even if the ritual initially appears free of Cthonic corruption, souls bound in such a manner will inevitably become corrupted by the Archon Igedeng and take on Cthonic influence.
+*   **Green Soul Bound Artifacts:** _Requires a living creature._ Much more powerful enchantments are possible through the use of a green soul, instead of a yellow one. However, the transmigration cycle is sacred to the Imperial Cult, and using green souls for enchanting is strictly forbidden. The act of binding a green soul is considered an offense punishable by death, equal in gravity to Archon worship. By the same process as enchanting with yellow souls, a sentient mortal must typically be killed and the mortal's soul must be trapped in a jar. The Magellian Empire knew of how to harvest a green soul without killing the body, by immediately replacing it with a yellow soul. Either way, the jar then enhances the artifact the enchanter seeks to enhance. Furthermore, the artifact itself obtains the sentience of the green soul, although it may or may not be able to communicate with its wielder. Even if the ritual initially appears free of Cthonic corruption, souls bound in such a manner will inevitably become corrupted by the Archon Igedeng and take on Cthonic influence.
 *   **Yellow Soul Bound Locations:** _Requires a living creature._ A location may be enchanted with various magical properties. Again, the animal is killed and its soul is trapped in a jar. The jar is affixed to the physical location the enchanter seeks to imbue with a magical property.
 *   **Blue Enchanted Artifacts & Locations:** _Does not require a living creature._ Ardents and Devouts can imbue blue soul material into a physical object or location, granting it the power to repel Cthonians. This is a very difficult process for all mediums except silver, which readily absorbs blue soul material. The use of a jar is not required, and instead the silver directly absorbs blue soul material.
 *   **Red Enchanted Artifacts & Location:** _Does not require a living creature._ Various forces of Cthonia can imbue red soul material into a physical object or location, granting it destructive and corrupting powers. The use of a jar is not required, and instead the medium directly absorbs red soul material.
@@ -1600,6 +1600,10 @@ The ancient Magellians bound Mikton souls to elemental air for use as covert ass
 
 The undead are similar to artificial beings, in that their existence is almost always based on soul binding rituals granted by the Archon Igedeng. There are exceptions like Blood Monsters, which are spread by a disease and not soul binding. However, all undead creatures possess two universal traits: (1) their existence perverts the cycle of life and death, either spiritually or physically and (2) they are Cthonically corrupt.
 
+A unique category of Undead are Ghosts. Certain ancestor veneration rituals feature a physical object that anchors the ancestor's soul, which is exactly the same type of object used for trapping souls in jars. Such rituals tend to create Ghosts, although the effect is not always obvious to those performing the ritual. Initially, this soul binding ritual has beneficial effects. Such Ghosts often have subtle presences, such as giving their venerators a feeling of warmth or protection. In such cases that the Ghost was intentionally bound, it may spiritually project a visible form and speak to offer wisdom to its venerator. Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence.
+
+Once corrupted, the Ghost becomes restless and hostile to all surrounding mortals. The spiritual projection of a Ghost, being incorporeal, cannot be harmed by ordinary weapons. However, they may be harmed by enchanted weapons, elemental damage spells, and exorcism magic. When a Ghost's spiritual projection is defeated, it retreats into its jar. Finally releasing the Ghost requires the physical destruction of that same jar. There are several varieties of Ghosts, each with different abilities and appearances. All types of Ghost have a touch-based attack which drains the vitality of those who come into contact with their spiritual projections.
+
 #### Blood Monsters
 
 *   **Robustness:** 7
@@ -1654,7 +1658,51 @@ A slight mistake in any one of these steps easily causes all three to fail. The 
 
 The inferior binding process has several effects. First, they continue to require food and water to survive as they did in life. Second, their mind is damaged, severely stunting their magical power. Even so, Corpsals generally retain all the intelligence and memories they held in life, besides the capacity to perform magic. Third, their entire body is continuously rotting, requiring replacement with body parts from fresh cadavers. As a result, they spend their immortal lives searching for cadavers to sew onto their bodies to replace damaged parts. However, the transformation enhances their physical strength, making them formidable melee combatants.
 
-#### Ghosts
+#### Wraiths
+
+*   **Robustness:** 4
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
+
+Ghosts who died with unresolved intense hatred manifest as Wraiths. Their spiritual projections lack features of the deceased, but take the shape of shadowy humanoids. Sometimes their spiritual projections appear with images of weapons and armor, if the deceased was a warrior. However, these are just appearances and do not change their combat behavior. Wraiths do not have special abilities beyond the touch attack common to Ghosts.
+
+#### Haunters
+
+*   **Robustness:** 5
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
+
+Haunters are very dangerous Ghosts who appear in large catacombs. They view themselves as guardians of the tombs they inhabit, and mortals who enter as intruders. The spiritual projection of a Haunter looks like a faint, flickering sillhouette. As with all Ghosts, Haunters have a touch attack. However, their true danger is the power to reanimate surrounding bodies into Zombies and Skeletons using Igedeng's magic.
+
+#### Specters
+
+*   **Robustness:** 6
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
+
+Specters have one of two origins. The original Specter is most often a victim of murder, who seeks revenge against the killer. When a Specter kills a sentient mortal with its touch attack, the mortal killed may be automatically bound to an empty jar and immediately transformed into a Specter. That is the second origin of Specters.
+
+#### Banshees
+
+*   **Robustness:** 7
+*   **Number appearing:** 1
+*   **Disposition:** Hostile
+*   **Courage:** Relentless
+*   **Soul color:** Green core, with floods of red
+*   **Intelligence:** Mortal-like
+
+When an extremely vain, self-obsessed person becomes a Ghost, it manifests as a Banshee. Banshees appear as they did in life, but pale, translucent, and with horrifyingly twisted visages. Banshees always have an expression of anguish. Banshees can magically detect nearby living things, and harm their enemies with a powerful scream.
+
+#### Dybbuks
 
 *   **Robustness:** 10
 *   **Number appearing:** 1
@@ -1663,12 +1711,9 @@ The inferior binding process has several effects. First, they continue to requir
 *   **Soul color:** Green core, with floods of red
 *   **Intelligence:** Mortal-like
 
-Certain ancestor veneration rituals feature a physical object that anchors the ancestor's soul, which is exactly the same type of object used for trapping souls in jars. Such rituals tend to create Ghosts, although the effect is not always obvious to those performing the ritual. Initially, this soul binding ritual has beneficial effects. Such Ghosts often have subtle presences, such as giving their venerators a feeling of warmth or protection. In such cases that the Ghost was intentionally bound, it may spiritually project a visible form and speak to offer wisdom to its venerator.
+A Dybbuk is a powerful Ghost who is obsessed with obtaining a corporeal form to settle unresolved issues in its past life. Accordingly, Dybbuks have the ability to possess the bodies of mortals. The Dybbuk's spiritual projection wrestles for control of its target, then takes control of the target's body. This displaces the host's soul into the jar. If either the Dybbuk is forced out of the host's body or the jar is destroyed, while the jar is also in proximity to the host's body, then the host's original soul safely returns to its own body unscathed. Otherwise, it is possible that the host's soul departs which kills the host.
 
-Creating Ghosts is forbidden by the Imperial Cult. While Ghosts are benign at first, over the course of centuries Ghosts are corrupted by Igedeng's influence. Ghosts bound inside a catacomb are dangerous adversaries because they can reanimate the surrounding bodies using Igedeng's magic. The spiritual projection of a Ghost, being incorporeal, cannot be harmed by ordinary weapons. However, they may be harmed by enchanted weapons, elemental damage spells, and exorcism magic. When a Ghost's spiritual projection is defeated, it retreats into its jar. Finally releasing the Ghost requires the physical destruction of that same jar.
-
-Ghosts have the ability to possess the bodies of mortals. The Ghost's spiritual projection wrestles for control of its target, then takes control of the target's body. This displaces the host's soul into the jar. If either the Ghost is forced out of the host's body or the jar is destroyed, while the jar is also in proximity to the host's body, then the host's original soul safely returns to its own body unscathed. Otherwise, it is possible that the host's soul departs which kills the host.
-
+Although Dybbuks prefer to immediately take possession of a host, their spiritual projection is not defenseless. Their spiritual projections appear as they did in life, but with a slightly translucent body and glowing red eyes. They have the ability to touch their targets, sapping their life force.
 
 #### Skeletons
 
