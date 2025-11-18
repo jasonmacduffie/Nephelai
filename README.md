@@ -489,7 +489,28 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 
 ### Multiple Race Heritage
 
-Although their exact origins are unknown, most races of Conliah share a common lineage which allows full interbreeding between them. This is true for Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. Catfolk and Lizardfolk are exceptions, as biologically distinct species. The possibility of offspring between the races of Conliah and the races of the Uzvu Confederation are unknown at this point. Sentient beings of Cthonic origin are also incapable of producing offspring with mundane sentient beings.
+Racial identity has three layers in Nephelai: biology, culture, and legal classification. For the majority of sentient mortals, all three layers coincide without complication. However, multiple race heritage and cultural assimilation often results in multiple interpretations of an individual's race. Legal classification often does not resolve the ambiguity, but preserves it due to the small minority of multiple race individuals.
+
+#### Biology
+
+Although their exact origins are unknown, most races of Conliah share a common lineage which allows full interbreeding between them. This is true for Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. Catfolk and Lizardfolk are exceptions, as biologically distinct species. Orcs, Goblins, and Ogres are capable of producing offspring with each other, but not with any native race of Conliah. Cthonians, as beings without a true "biology", are not capable of producing offspring with sentient mortals.
+
+#### Culture
+
+Certain combinations of two races have common names, and based on physical appearance are not socially understood as belonging to a single racial identity. These combinations are often found in border regions between two racial homelands as well as more cosmopolitan cities:
+
+* **Elfmans** are part Elf and part Human.
+* **Dwarfmans** are part Dwarf and part Human.
+* **Elflets** are part Elf and part Halfling.
+* **Dwarflets** are part Dwarf and part Halfling.
+* **Humlets** are part Human and part Halfling.
+* **Dwelves** are part Dwarf and part Elf.
+
+When multiple races of Elves produce offspring, the offspring adopt a single Elf racial identity based on cultural upbringing regardless of physical appearance. The tendency is for mixed race Elves to always culturally identify with the lowest social stratum. High Elves are never recognized as descended from Wood or Dark Elves, and Wood Elves are never recognized as descended from Dark Elves.
+
+#### Legal Classification
+
+Where such definition is unambiguous such as Lizardfolk and Catfolk, the Yargyez Empire defines race in terms of biology regardless of the cultural identity of the individual. Otherwise, the Yargyez Empire categorizes race according to cultural identity and ancestral homeland province regardless of the individual's "look". Multiple race identity is not considered a valid category in the Yargyez Empire's administration. In cases where self-identification and homeland are conflicting, the Empire tolerates the ambiguity without any attempt to resolve it. Both identities are treated as legally valid. Once again, this is because exceptions are fairly uncommon.
 
 Religion
 --------
