@@ -99,8 +99,8 @@ Some legendary individuals are said to have witnessed the Asteric spheres during
 
 Phasing into Cthonic spheres is much more common. The Agathoi have a weaker hold here, so mortals can phase there through magical rituals much more easily. The exact nature of these spheres vary dramatically:
 
-*   Some are formless spheres of raw elements.
-*   Some are domains shaped by Archons reflecting their natures.
+*   Some are formless spheres of raw elements. The sizes of these formless spheres vary greatly. The smallest are several feet in radius, and the largest are tremendous beyond known estimate.
+*   Some are domains shaped by Archons reflecting their natures. Usually, these spheres have navigable environments large enough to hold armies of lesser Cthonians who serve the Archon and reflect its nature.
 
 Archons are not content to reside in their spheres. The desire of all Archons is to breach the boundary with Ksylia and pull mortals into their domains with the ultimate goal of consuming the entire realm of Ksylia. Their capacity to do so is constrained, because Cthonic beings cannot permanently reside in Ksylia. Cthonians who overstay in Ksylia will eventually phase back into their home sphere of Cthonia. However, temporary breaches activated by mortals can create indefinitely durable zones of Cthonic influence. By remaining within these zones, lesser Cthonic beings may reside in Ksylia for prolonged stays. They can even venture for a short time outside of these zones, and safely return to them. Thankfully, these breaches mainly occur in pre-Magellian ruins, from a time when Archon worship was common. However, those who intentionally delve into ancient ruins to banish these threats must exercise great caution against the hordes of Cthonians residing there.
 
