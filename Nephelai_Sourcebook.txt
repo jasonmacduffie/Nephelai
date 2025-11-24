@@ -77,12 +77,12 @@ According to the doctrine of the Imperial Cult, there are three realms:
 
 It is impossible for mortals to freely navigate the wide open realms of Asteria and Cthonia. They can only navigate to spherical subrealms, through an action called phasing which transfers beings between spaces. Without elaborating on what phasing truly means, the apparent physics of phasing are highly regular.
 
-1. Phasing has an origin sphere and a destination sphere, which are different from each other. These spheres are three-dimensional manifolds. These spheres may be Cthonic spheres, Ksylic spheres, Asteric spheres, or "Ksylia proper" (regardless of whether Ksylia is literally spherical, it behaves like a sphere for the purposes of phasing).
-2. Phasing has origin coordinates and destination coordinates, in three dimensions. These coordinates are only local; that is, they are not embedded in any shared Euclidean space. (Again, this is only apparently so, for the purposes of phasing. It does not imply the three realms are not literally contiguous.)
+1. Phasing has an origin sphere and a destination sphere, which are different from each other. These spheres are three-dimensional manifolds. These spheres may be Cthonic spheres, Ksylic spheres, Asteric spheres, or "Ksylia proper". (This is only what is observed by phasing. There could plausibly be non-spherical sources and destinations which follow the same conservation laws. See the inter-sphere medium, below.)
+2. Phasing has origin coordinates and destination coordinates, in three dimensions. These coordinates are only local; that is, they are not embedded in any shared Euclidean space. (Again, this is only what is observed by phasing. See the inter-sphere medium, below.)
 3. Phasing has an object. This object may be one of three types: an inanimate object, an embodied living thing, or a disembodied soul.
 4. Phasing does not create or destroy matter (raw elemental or soul material) across all spheres.
 5. Phasing does not create or destroy mechanical energy across all spheres. When an object phases, ambient matter at both the origin and destination sphere/coordinates absorbs or releases the required energy to balance the total mechanical energy. This can also mean when an embodied living thing snaps back, it does not return to its precise home coordinates. This can also result in a mild but noticeable shockwave or temperature rise or fall across a large radius in both the source and destination. Phasing never causes a violent explosion due to energy differential, unless both the source and destination sphere are exceptionally small or devoid of matter and the mechanical energy released is tremendous.
-6. Inanimate objects may phase between spheres permanently. Their home is wherever they currently reside, and they never snap back.
+6. Inanimate objects may phase between spheres permanently. Inanimate objects may be composed of just raw elements, just soul material, or a combination such as an inanimate enchanted artifact. Their home is wherever they currently reside, and they never snap back.
 7. Embodied living things who phase into another sphere track their home sphere and home coordinates. When the embodied living thing forcibly snaps back, it phases back to its home sphere and home coordinates. Even if the embodied living thing gracefully phases back to its home sphere, it still snaps back to its home coordinates. As mentioned in (5), these coordinates are only approximate and may be adjusted to smooth the energy difference.
 8. Disembodied souls who phase into another sphere track their body identity, regardless of what sphere the body identity is in. When the soul forcibly snaps back, it phases to the immediate sphere and coordinates of its body identity. Even if the disembodied soul gracefully phases back to the immediate sphere of its body identity, it still snaps back to the immediate coordinates of its body identity.
 9. Death of a physical body or the binding of a soul are events which can disrupt (7) and (8), creating many exceptions to snapping back rules. For instance, when a Cthonian dies in Ksylia its body turns to dust which remains in Ksylia, but its soul snaps back to its home Cthonic sphere.
@@ -363,13 +363,14 @@ _SITAROPHILUS THE HIGH ELF: You are right we do, Asem, but I also do not really 
 
 _\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
 
-There are eight major races in Conliah, each hailing from one of the eight provinces. There are also less numerous races across the provinces, who answer to the provincial government they hail from. Note that the majority of mortal races, including Dwarves and Elves, have similar lifespans not far exceeding 100 years.
+There are eight major races in Conliah, each hailing from one of the eight provinces. There are also less numerous races across the provinces, who answer to the provincial government they hail from.
 
 ### Humans
 
 ![Human portrait](HUMAN.png "Human portrait")
 
 *   **Physical Description:** Humans are highly varied in their physical appearance.
+*   **Lifespan:** Humans reach adulthood at 20 years, middle age at 40 years, elderhood at 60 years, and usually die by 80 years. They can live up to 110 years.
 *   **Homeland:** They hail from the temperate coast of Eastgardia, which has a variety of mountains, hills, forests, and wetlands.
 *   **Culture:** Human society is defined by pragmatism, diplomacy, and political aptitude.
 *   **Disposition:** As the ruling race of the Yargyez Empire, Humans seek to maintain its continuity in Conliah, restore its former glory, and broker agreement between the other provinces.
@@ -377,12 +378,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Lale, Kite, Rothik, Barap, Satip, Guthin
     *   **Female:** Giha, Basitra, Resha, Kata, Sapitha, Valeta
+    *   **Second names:** Only the Human aristocracy has true patrilineal surnames of the form [Given Name] of House [Family]. Examples of major families are Yargyez, Gothiko, and Parsha. There is no standard rule for commoner bynames.
 
 ### Dwarves
 
 ![Dwarf portrait](DWARF.png "Dwarf portrait")
 
 *   **Physical Description:** Dwarves are stout, standing at about 4 feet tall. They are generally broad and strong.
+*   **Lifespan:** Dwarves reach adulthood at 24 years, middle age at 48 years, elderhood at 72 years, and usually die by 96 years. They can live up to 132 years.
 *   **Homeland:** Their homeland is the icy mountain province of Helscar.
 *   **Culture:** Dwarven society emphasizes stoicism, artisanry, military reverence.
 *   **Disposition:** The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.
@@ -390,12 +393,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Yurz, Frang, Wolfhan, Horik, Yarel, Karik
     *   **Female:** Heigrid, Inya, Sonti, Elya, Godhi, Bagrid
+    *   **Second names:** Dwarves use patronymic bynames, of the form [Father]son, [Father]daughter, or [Father]kid.
 
 ### Halflings
 
 ![Halfling portrait](HALFLING.png "Halfling portrait")
 
 *   **Physical Description:** Halflings are small, standing between 3 and 4 feet tall. They are skinnier and frailer than Dwarves.
+*   **Lifespan:** Halflings reach adulthood at 24 years, middle age at 48 years, elderhood at 72 years, and usually die by 96 years. They can live up to 132 years.
 *   **Homeland:** They hail from Middlestone, which consists of three regions: rolling hills and valleys to the north, a massive fertile prarie in the center, and forested hills to the south.
 *   **Culture:** Halfling society values chivalry, formal etiquette, humility, and piety.
 *   **Disposition:** As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.
@@ -403,12 +408,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Ashiko, Yokashi, Takira, Kiriko, Shishito, Katako
     *   **Female:** Fuho, Miho, Shiko, Niko, Kiko, Tato
+    *   **Second names:** Halflings have true patrilineal surnames of the form [Given Name] [Family]-zu. Examples of major clans are Teteko, Atana, and Kariko.
 
 ### Dark Elves
 
 ![Dark Elf portrait](DARKELF.png "Dark Elf portrait")
 
 *   **Physical Description:** Dark Elves are of average height, slender, with dark gray to bluish purple skin.
+*   **Lifespan:** Dark Elves reach adulthood at 22 years, middle age at 44 years, elderhood at 66 years, and usually die by 88 years. They can live up to 121 years.
 *   **Homeland:** Their homeland is the volcanic taiga province of Valorgale.
 *   **Culture:** Dark Elven culture is steeped in secrecy and clan loyalty.
 *   **Disposition:** Perspectives on the Yargyez Empire vary widely across clans: some are loyal to the Yargyez, and others are outright Archon worshipping revivalists.
@@ -416,12 +423,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Azong, Taiguda, Tiyun, Gozing, Yongtin, Gaiti
     *   **Female:** Bumjer, Erbutai, Jerdeni, Umbani, Erjer, Jerutai
+    *   **Second names:** Although clan identity is very important in Dark Elf culture, there is no formal system of surnames. The inconsistent use of bynames are common.
 
 ### Wood Elves
 
 ![Wood Elf portrait](WOODELF.png "Wood Elf portrait")
 
 *   **Physical Description:** Wood Elves are short and slender, with olive-toned to brown skin.
+*   **Lifespan:** Wood Elves reach adulthood at 22 years, middle age at 44 years, elderhood at 66 years, and usually die by 88 years. They can live up to 121 years.
 *   **Homeland:** They hail from the mountainous forests of Westerwood.
 *   **Culture:** Wood Elven culture values ecological spirituality, resourcefulness, and a strong hunting tradition.
 *   **Disposition:** Having historically suffered under High Elf domination, Wood Elves see the Empire as a stabilizing buffer preserving their autonomy. However, there are secret factions in Westerwood who side with High Elven revivalists.
@@ -429,12 +438,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Takhildin, Turlandel, Akhsunal, Lursukhil, Tamirnal, Mirlakhil
     *   **Female:** Nazhan, Ainura, Dilima, Gizhan, Zhanura, Linira
+    *   **Second names:** Wood Elves use patronymic bynames, of the form [Given Name] lim [Father].
 
 ### High Elves
 
 ![High Elf portrait](HIGHELF.png "High Elf portrait")
 
 *   **Physical Description:** High Elves are tall and slender, with radiant golden skin.
+*   **Lifespan:** High Elves reach adulthood at 24 years, middle age at 48 years, elderhood at 72 years, and usually die by 96 years. They can live up to 132 years.
 *   **Homeland:** They hail from the arid mountains of Fair Island.
 *   **Culture:** High Elven society upholds religious dogma, the arcane arts, and a hierarchy based on lineage.
 *   **Disposition:** High Elves are nostalgic for the Magellian Empire, which prioritized High Elf superiority. Many High Elves view the Yargyez Empire as having strayed from the original form of Agathos worship practiced in the Magellian Empire.
@@ -442,12 +453,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Achos, Taleas, Diacrates, Lenysis, Goreas, Homias
     *   **Female:** Astera, Zedara, Ozia, Elaria, Dorela, Soria
+    *   **Second names:** High Elves use toponymic bynames, of the form [Given Name] lin [District]. Populous districts in the capital of Thesekira are Apolek, Tarnis, and Maphelius.
 
 ### Catfolk
 
 ![Catfolk portrait](CATFOLK.png "Catfolk portrait")
 
 *   **Physical Description:** Catfolk are feline humanoids with sandy brown fur, upright ears, sharp claws, and long tails.
+*   **Lifespan:** Catfolk reach adulthood at 20 years, middle age at 40 years, elderhood at 60 years, and usually die by 80 years. They can live up to 110 years.
 *   **Homeland:** They hail from Wuthelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.
 *   **Culture:** Catfolk culture centers celestial spirituality, clan loyalty, and libertinism.
 *   **Disposition:** Perspectives on the Yargyez Empire are split geographically between jungle and desert Catfolk. The northern nomads resist the Yargyez Empire's encroachment due to its unwillingness to recognize nomadic land rights.
@@ -455,12 +468,14 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Golni, Pundi, Dadiya, Tunnad, Samuha, Dvariya
     *   **Female:** Bangu, Binan, Enduk, Konis, Kalis, Untam
+    *   **Second names:** Southern Catfolk use toponymic bynames, but these are informal and flexible. They take the form [Given Name] di [Place]. Occasionally, Southern Catfolk use other kinds of bynames too. Northern Catfolk have no consistent system of bynames.
 
 ### Lizardfolk
 
 ![Lizardfolk portrait](LIZARDFOLK.png "Lizardfolk portrait")
 
 *   **Physical Description:** Lizardfolk are reptilian humanoids with red or greenish brown scales and sharp claws.
+*   **Lifespan:** Lizardfolk reach adulthood at 20 years, middle age at 40 years, elderhood at 60 years, and usually die by 80 years. They can live up to 110 years.
 *   **Homeland:** They hail from the marsh province of Nightglade.
 *   **Culture:** Lizardfolk culture emphasizes ecological spirituality, ancestor veneration, and clan loyalty.
 *   **Disposition:** Lizardfolk are, on the whole, enemies of the Yargyez Empire. The Lizardfolk rulers who agreed to peacefully cede their lands to the Yargyez Empire in exchange for continuous rule are viewed as traitors to their own race. Factions of Lizardfolk across Nightglade actively resist Yargyez presence in the province. Many rebels have taken to underground caves across Nightglade and Eastgardia to stage attacks on Imperial outposts.
@@ -468,36 +483,52 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Names:**
     *   **Male:** Yengtan, Hobuing, Dongok, Toavan, Kuyet, Sontan
     *   **Female:** Bithui, Nuwan, Natlan, Thiho, Tangko, Trinku
+    *   **Second names:** Lizardfolk have true patrilineal surnames of the form [Given Name] [Family]. Examples of major clans are Yehok-Tin, Engpan-Yet, and Okyeng-Weng. These patrilineal surnames are somewhat political. Those who are loyal to the Yargyez Empire and the Lizardfolk aristocracy tend to retain traditional surnames. Those who support the Lizardfolk rebellion tend to abandon traditional family names in favor of self-assumed neologized honorifics like Dark-Eyes, Virtue-Speaker, and No-Name. These neologized honorifics are sometimes passed down patrilineally, matrilineally, or sometimes replaced with new honorifics of the same kind.
 
 ### Orcs
 
 ![Orc portrait](ORC.png "Orc portrait")
 
 *   **Physical Description:** Orcs are tall and strong. Their faces are somewhat warthog-like, with straight medium-length tusks, elongated snouts and small lower jaws, pronounced cheekbones, and short pointy ears. Their skin is primarily green with a tinge of gray, and their fur covers their entire body with a mix of black and brown hues.
+*   **Lifespan:** Orcs reach adulthood at 24 years, middle age at 48 years, elderhood at 72 years, and usually die by 96 years. They can live up to 132 years.
 *   **Homeland:** The Orcs are one of the Lodumpan races.
 *   **Culture:** Orcish culture upholds religious dogma, hereditary hierarchy, and reverence for military service.
 *   **Disposition:** They see the Yargyez Empire as decadent and corrupt, and view the incursion of the Uzvu as a divinely sanctioned civilizing mission.
 *   **Language:** Orcs speak Orcish.
+*   **Names:**
+    *   **Male:** Goruk, Gona, Zargan, Estokel, Yabi, Kola, Margozek
+    *   **Female:** Ruwa, Fiyotaz, Bozai, Ledo, Tigo, Rabo, Saka
+    *   **Second names:** Orcs use patronymic bynames, of the form [Given Name] iz-[Father].
 
 ### Goblins
 
 ![Goblin portrait](GOBLIN.png "Goblin portrait")
 
 *   **Physical Description:** Goblins are small humanoids. Their faces are somewhat babirusa-like, with long curved tusks long pointy ears, medium-length snouts and medium-size lower jaws. They are mostly hairless, with a skin tone halfway between green and gray.
+*   **Lifespan:** Goblins reach adulthood at 22 years, middle age at 44 years, elderhood at 66 years, and usually die by 88 years. They can live up to 121 years.
 *   **Homeland:** The Goblins are one of the Lodumpan races.
 *   **Culture:** Goblin culture values commerce, technological inventiveness, and pragmatism.
 *   **Disposition:** Goblins view the Yargyez Empire as a repository of riches, ripe for extraction and development.
 *   **Language:** Goblins speak Goblin and Orcish.
+*   **Names:**
+    *   **Male:** Tims, Tins, Trix, Trops, Pats, Pils, Tox
+    *   **Female:** Marx, Max, Renks, Rinks, Lits, Larts, Mux
+    *   **Second names:** Goblins almost exclusively use profession-based bynames, of the form [Given Name] the [Profession].
 
 ### Ogres
 
 ![Ogre portrait](OGRE.png "Ogre portrait")
 
 *   **Physical Description:** Ogres are large and broad humanoids. Their faces are somewhat boar-like, with flat snouts, heavy jowls, small tusks, and large lower jaws. Their skin is primarily gray with a tinge of green, and their fur covers their entire body with hues of beige and gray.
+*   **Lifespan:** Ogres reach adulthood at 22 years, middle age at 44 years, elderhood at 66 years, and usually die by 88 years. They can live up to 121 years.
 *   **Homeland:** The Ogres are one of the Lodumpan races.
 *   **Culture:** Ogre culture highlights disciplined work ethic, economic individualism, and a desire for recognition.
 *   **Disposition:** They view the Yargyez Empire as an opportunity to raise their social status by acquiring underdeveloped tracts of land in exchange for serving as settler soldiers of the frontier.
 *   **Language:** Ogres speak Ogre and Orcish.
+*   **Names:**
+    *   **Male:** Waraboo, Dalagoo, Monapoo, Bakadoo, Gomaloo, Bameroo, Boraboo
+    *   **Female:** Boyaga, Nabito, Hokaro, Mabano, Dogabo, Tibaro, Wonata
+    *   **Second names:** While it is not universal, many Ogres have patrilineal surnames of the form [Given Name] [Family]. Common surnames are Boogaroo, Banaboo, and Dagaroo. Otherwise, there is no standard form for Ogre bynames.
 
 ### Multiple Race Heritage
 
@@ -655,7 +686,7 @@ After the death of Pirzapap, all of the Elder Ones wanted to conquer Ksylia. The
 
 Once the Elder Ones were overthrown, the Middle Ones proceeded to continue feuding over control of Ksylia. This was the Third Archonic War, which continues into the present. The Middle Ones died, and all living Archons are called the Younger Ones who carry on the same war. There is no single event that divides the Middle Ones from the Younger Ones, except that the Younger Ones were not present for the killing of the Elder Ones. The oldest among the Younger Ones personally fought one or two of the Middle Ones, but only briefly. Most of their experience was fighting their peers among the Younger Ones. Even then, most of the Younger Ones are dead any many of those remaining are relatively young. The Middle Ones exclusively fought each other with armies of Cthonians, head to head. Sometime during the battles between the Younger Ones, their strategy shifted to recruiting mortals as soldier and generals to fight in their wars. Although mortals were physically weaker than most Cthonians, they were much better at battlefield improvisation. The events beyond that diverge among the Younger Ones, who each tell a different story.
 
-The second point of agreement is that the structure of Ksylia is that of concentric spheres. The outermost sphere separating it from Cthonia is the Hade. Then the Neaths, with its hollow surface of Arbigard. The Skies are at the center. Thus, "up" is at the center of Ksylia, and "down" is away from its center.
+The second point of agreement is that the structure of Ksylia is that of concentric spheres. The outermost sphere separating it from the Cthonic inter-sphere medium is the Hade. Then the Neaths, with its hollow surface of Arbigard. The Skies are at the center. The Firmament and Asteria do not exist. Thus, "up" is at the center of Ksylia, and "down" is away from its center.
 
 Third and last, they only respect one moral law: that justice is the advantage of the stronger. The Magellian Empire, Yargyez Empire, and Uzvu Confederation are merely the latest usurpers in a chain of succession of the Archonic Wars. The conclusion of this war will determine who was right.
 
@@ -785,19 +816,19 @@ The practice of worshipping clouds appears several times in the history of Conli
 
 Scholars of the Yargyez Empire have attempted to document the religious beliefs of the Uzvu. Their best understanding is the following:
 
-Before creation, the cosmos was pool of disordered elements called Recetokel. This Recetokel spontaneously generated three sub-soul substances (these substances which the Uzvu collectively refer to as Komais): Kasa, Rabi, and Iyo. Each Komai was internally complex, and composed of some combination of sunlight and moonlight. When Komai combined with raw elements, it gave properties to those elements based on which Komai was added. Kasa granted metabolism and animation, was entirely composed of sunlight, and tended to sink downwards. Rabi granted agency and intention, was composed of both sunlight and moonlight, and tended to sit idle. Iyo granted higher reasoning, was entirely composed of moonlight, and tended to float upwards. Kasa was abundant, but Rabi and Iyo were more scarce. Kasa, in isolation, is recognized as red soul material.
+Before creation, the cosmos was pool of disordered elements called Restokal. This Restokal spontaneously generated three sub-soul substances (these substances which the Uzvu collectively refer to as Komais): Kasa, Rabi, and Iyo. Each Komai was internally complex, and composed of some combination of sunlight and moonlight. When Komai combined with raw elements, it gave properties to those elements based on which Komai was added. Kasa granted metabolism and animation, was entirely composed of sunlight, and tended to sink downwards. Rabi granted agency and intention, was composed of both sunlight and moonlight, and tended to sit idle. Iyo granted higher reasoning, was entirely composed of moonlight, and tended to float upwards. Kasa was abundant, but Rabi and Iyo were more scarce. Kasa, in isolation, is recognized as red soul material.
 
-The three Komais congealed and became Demvegaz. Then Demvegaz separated the cosmos into the Neaths and Skies, with Arbigard between them. Demvegaz granted part of her Kasa and Rabi to populate the cosmos with plants and animals. This combination of Komais is recognized as yellow soul material. Finally, she granted part of her Kasa, Rabi, and Iyo to populate the cosmos with sentient mortals. This combination of Komais is recognized as green soul material.
+The three Komais congealed and became Demvegaz. She was self-aware and said, "I will to become many. I will to become born." Then Demvegaz separated the cosmos into the Neaths and Skies, with Arbigard between them. Demvegaz granted part of her Kasa and Rabi to populate the cosmos with plants and animals. This combination of Komais is recognized as yellow soul material. Finally, she granted part of her Kasa, Rabi, and Iyo to populate the cosmos with sentient mortals. This combination of Komais is recognized as green soul material.
 
 In the end, Demvegaz spent all of her Kasa in the act of creation. Her only remaining Komais were Rabi and Iyo. These drifted upwards, and became the clouds. This combination of Komais is recognized as blue soul material. Demvegaz no longer acts in the world, except by interactions with stray Kasa which reaches the skies. Therefore, all common meteorological phenomena are acts of Demvegaz. For the same reason, Cloud Devouts who commune with the clouds know her true will.
 
-However, echoes of Recetokel permeated the cosmos after creation. Nothing was perfectly ordered, so all beings had the potential to defy Demvegaz. A group of mortals, now known as Archons, constructed the Hade to divide the Neaths into the "Near Neaths" and the "Far Neaths", and made the Far Neaths their fortress. They preferred red soul material magic for its destructive power, and delighted in harassing the mortals of Arbigard. The Archons pretended to be gods, and created Cthonian armies with red soul material. They did not possess true intellect, but appeared so due to impressions left by their Archon masters. These impressions allowed the Cthonians to autonomously mimic the speech and strategy patterns of their masters. Over many generations, foolish mortals on Arbigard accepted the Archons as gods and sought to appease them.
+However, echoes of Restokal permeated the cosmos after creation. Nothing was perfectly ordered, so all beings had the potential to defy Demvegaz. Continuous sacrifice and discipline was required to uphold order, or else the cosmos would revert to Restokal. It was easy to fall off the path of Demvegaz, and many strayed from her will. A group of magically powerful mortals, now known as Archons, constructed the Hade to divide the Neaths into the "Near Neaths" and the "Far Neaths", and made the Far Neaths their fortress. They preferred red soul material magic for its destructive power, and delighted in harassing the mortals of Arbigard. The Archons pretended to be gods, and created Cthonian armies with red soul material. They did not possess true intellect, but appeared so due to impressions left by their Archon masters. These impressions allowed the Cthonians to autonomously mimic the speech and strategy patterns of their masters. Over many generations, foolish mortals on Arbigard accepted the Archons as gods and sought to appease them.
 
 In Lodumpis, the Uzvu already have extensive experience in rooting out Archon worship. They view Cthonic cults as utterly foolish, but they also openly study red soul material with less stigma than in Conliah's history. Red soul material is acknowledged as dangerous, but not ontologically corrupt. Rather, it is viewed as a component of nature. Due to its destructive power, the Archons favored magic based on red soul material. Also, Archons who physically manifest appear to have red souls because their manifestations are magical projections. The green souls of the Archons exist elsewhere in Cthonia, hidden away. Being unaffiliated with the Archons except by sharing a power source, Wretches are viewed as a legitimate magical practice alongside Devouts and Schoolmages which the Uzvu field in their armies.
 
 However, Lodumpans have never heard of the Agathoi or any similar concept. The Uzvu speculate that the Agathoi are a misinterpretation of Demvegaz's power by false equivalence to the Archons. They deny the existence of Asteria as a separate realm for transmigrating souls. Instead, they believe that green souls dissipate upon death, just like the yellow souls of animals. The green soul splits into parts: the Kasa cycles to the neaths, the Rabi remains in Arbigard, and the Iyo cycles to the skies. They do not believe personhood progresses across lives, but that each individual is destroyed upon death.
 
-The Uzvu believe in a different structure of the cosmos than the Imperial Cult. They agree that Ksylia is a sphere, but the Firmament is simply an impenetrable dome that does not phase anywhere. The hemisphere above are the Skies, above the disc of Arbigard, with the Neaths below. The Neaths are divided into the Near Neaths, the Hade, and the Far Neaths. Again, the dome boundary at the bottom of the sphere is not a phasing membrane but an impenetrable boundary which has no special name. The Far Neaths across the Hade is not a separate realm from Ksylia, but a region containing many individual portals to Cthonic spheres. The Uzvu reject that Cthonia exists as a separate realm embedded in shared space, but believe Cthonic spheres are remote bubbles of space connected only by phasing. These bubbles hold the primordial Recetokel, which the Archons shaped according to their own desires.
+The Uzvu believe in a different structure of the cosmos than the Imperial Cult. They agree that Ksylia is a sphere, but the Firmament is simply an impenetrable dome that does not phase anywhere. The hemisphere above are the Skies, above the disc of Arbigard, with the Neaths below. The Neaths are divided into the Near Neaths, the Hade, and the Far Neaths. Again, the dome boundary at the bottom of the sphere is not a phasing membrane but an impenetrable boundary which has no special name. The Far Neaths across the Hade is not a separate realm from Ksylia, but a region containing many individual portals to Cthonic spheres. The Uzvu reject that Cthonia exists as a separate realm embedded in shared space, but believe Cthonic spheres are remote bubbles of space connected only by phasing. These bubbles hold the primordial Restokal, which the Archons shaped according to their own desires.
 
 Devouts of cloud worship have powers identical to devouts of the Six Guardians, but which Guardian their powers resemble changes depending on the formation of clouds and precipitation.
 
@@ -985,7 +1016,7 @@ They seek the dissolution of the Imperial Cult, and its replacement with Burruei
 
 They seek to dissolve the Imperial Cult pantheon and establish their own Burrueist Cult. The title "first among equals" is to be stripped from Iazus. Then Burrue will become the head of the pantheon - "first" but not "among equals" - with the other five being subordinated to Burrue.
 
-Their signal to launch their secession is the first full moon of 190 YE, a year from now. This will be the 26th of Askonos, 190 YE. The King Typhen Maphelius of Fair Island is already part of the Synomachos. Khagan Anim Beldek of Westerwood will be usurped by Chieftain Tosir Arakzan, and the council of Ashfallen Tribes in Valorgale will be overthrown by the Pataf Tribe. Once power has been consolidated in these three provinces, the next phase of the plan is to invade the rest of Conliah.
+Their signal to launch their secession is the first full moon of 190 YE, a year from now. This will be the 26th of Askonos, 190 YE. The King Typhen lin Maphelius of Fair Island is already part of the Synomachos. Khagan Anim lim Beldek of Westerwood will be usurped by Chieftain Tosir lim Arakzan, and the council of Ashfallen Tribes in Valorgale will be overthrown by the Pataf Tribe. Once power has been consolidated in these three provinces, the next phase of the plan is to invade the rest of Conliah.
 
 The secret symbol of the Synomachos is a twelve-pointed sun.
 
@@ -1826,10 +1857,10 @@ Provinces
 *   **Resources:** grain, timber, livestock, fish
 *   **Area:** 720 thousand square miles
 *   **Important NPCs:**
-    *   **Emperor Ezgar Yargyez (Human)** is the head of the Yargyez Empire. He rules from the Royal Palace, in Inton.
+    *   **Emperor Ezgar of House Yargyez (Human)** is the head of the Yargyez Empire. He rules from the Royal Palace, in Inton.
     *   **Archmage General Gopa (Human)** is the head of the Academy of Knowledge, and resides in Inton. He does not have any personal loyalty to the Yargyez Empire, but cooperates with it in order to continue his research.
     *   **Archbishop Ushra (Human)** is the head of the Order of Iazus. She is incredibly dedicated to rooting out Archon worship across Conliah, but worries that her inquisitors are stretched thin.
-    *   **Bandit King Lo Vicious (Human)** is the head of a province-spanning Tyvenlad syndicate. He operates out of Bridgeport, where he controls the government.
+    *   **Bandit King Lo the Vicious (Human)** is the head of a province-spanning Tyvenlad syndicate. He operates out of Bridgeport, where he controls the government.
 
 Eastgardia is a temperate region with fertile soil, and numerous lakes and rivers. The heart of the Yargyez Empire is in the Royal Palace, located in the mountain city of Inton. In the Jang River region, there is the city of Bridgeport, which has a corrupt government loyal to the local Bandit King. The Karlsvale region to the south borders Nightglade, and faces constant attacks from Lizardfolk rebels. To the north are the Chainledges region, home to Portborough University, the largest school of the Academy of Knowledge.
 
@@ -1848,7 +1879,7 @@ Eastgardia is a temperate region with fertile soil, and numerous lakes and river
 *   **Resources:** ore, fish
 *   **Area:** 2.9 million square miles
 *   **Important NPCs:**
-    *   **Chieftain Asbirn (Dwarf)** resides in the Highchill Mountains city of Hrafnagil. He is a firebrand who supports soul-binding ancestral veneration.
+    *   **Chieftain Asbirn Hamarson (Dwarf)** resides in the Highchill Mountains city of Hrafnagil. He is a firebrand who supports soul-binding ancestral veneration.
     *   **Manufacturer Supreme Vasa (Human)** is the head of the Artisans Guild. She resides in Eithar.
 
 Helscar is a massive tundra region, which mainly exports ore and requires agricultural exports from Middlestone and Eastgardia for survival. The local chieftains have no formal authority, but are respected by the Imperial provincial governor as representatives of their clans. The region is divided between the western chieftains of the Highchill Mountains who demand greater autonomy, and the eastern chieftains of the Shifting Foothills who willingly submit to Imperial oversight.
@@ -1868,8 +1899,8 @@ Helscar is a massive tundra region, which mainly exports ore and requires agricu
 *   **Resources:** grain, wine, livestock
 *   **Area:** 1.4 million square miles
 *   **Important NPCs:**
-    *   **Supreme Commander Taeko (Halfling)** is the head of the Belligerantes. She resides in Omugi.
-    *   **Lord Kobuno (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
+    *   **Supreme Commander Taeko Kariko-zu (Halfling)** is the head of the Belligerantes. She resides in Omugi.
+    *   **Lord Kobuno Atana-zu (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
 
 Middlestone is divided into three regions. First are the massive Uzu Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.
 
@@ -1905,10 +1936,10 @@ Valorgale is divided into three regions. First is the southern Zama Valley, whic
 *   **Resources:** timber, livestock, hunted meat
 *   **Area:** 720 thousand square miles
 *   **Important NPCs:**
-    *   **Khagan Anim Beldek (Wood Elf)** is the ruling Khagan of Westerwood. He is fervently loyal to the Yargyez Empire.
-    *   **Chieftain Tosir Arakzan (Wood Elf)** is a member of the Synomachos conspiracy. He seeks to overthrow Anim Beldek and replace him.
+    *   **Khagan Anim lim Beldek (Wood Elf)** is the ruling Khagan of Westerwood. He is fervently loyal to the Yargyez Empire.
+    *   **Chieftain Tosir lim Arakzan (Wood Elf)** is a member of the Synomachos conspiracy. He seeks to overthrow Anim lim Beldek and replace him.
 
-Westerwood is divided into three regions. First is the densely forested Teren Basin at the center, which holds the capital of Kabat and is the political center of Westerwood. Second are the rugged and forested Kara Ates Mountains to the north, which is home to the Wood Elves' ancient capital of Koknar which is long ruined. Last are the semi-arid grasslands of the Ak Ates Mountains to the south, which are occupied by pastoral nomads. Westerwood is ruled chieftains who ultimately answer to the Khagan Anim Beldek of Westerwood, who jointly rules with the Imperial governor. The current Khagan is loyal to the Yargyez Empire, but the Wood Elf Chieftain Tosir Arakzan is planning to overthrow him in the Synomachos conspiracy.
+Westerwood is divided into three regions. First is the densely forested Teren Basin at the center, which holds the capital of Kabat and is the political center of Westerwood. Second are the rugged and forested Kara Ates Mountains to the north, which is home to the Wood Elves' ancient capital of Koknar which is long ruined. Last are the semi-arid grasslands of the Ak Ates Mountains to the south, which are occupied by pastoral nomads. Westerwood is ruled chieftains who ultimately answer to the Khagan Anim lim Beldek of Westerwood, who jointly rules with the Imperial governor. The current Khagan is loyal to the Yargyez Empire, but the Wood Elf Chieftain Tosir lim Arakzan is planning to overthrow him in the Synomachos conspiracy.
 
 ### Fair Island
 
@@ -1925,7 +1956,7 @@ Westerwood is divided into three regions. First is the densely forested Teren Ba
 *   **Resources:** fruit, wine
 *   **Area:** 720 thousand square miles
 *   **Important NPCs:**
-    *   **King Typhen Maphelius (High Elf)** is the ruling king of Fair Island. He is a member of the Synomachos conspiracy, and is planning an invasion on the rest of Conliah.
+    *   **King Typhen lin Maphelius (High Elf)** is the ruling king of Fair Island. He is a member of the Synomachos conspiracy, and is planning an invasion on the rest of Conliah.
 
 Fair Island is a massive arid island divided into three regions. The Tispus Coast to the west receives winter rainfall which allows for massive orchards. The Tipsus Coast is home to the capital of Thesekira, as well as the ancient Magellian capital of Atherita which is still inhabited. The Taknis Mountains at the center are sparsely populated grasslands, and the Gastus Coast to the east is a barren, uninhabited desert. The High Elf King Typhen resides in Thesekira, and jointly rules Fair Island with the Imperial governor. However, he is not loyal to the Yargyez Empire and is part of the Synomachos conspiracy.
 
@@ -1946,9 +1977,8 @@ Fair Island is a massive arid island divided into three regions. The Tispus Coas
 *   **Resources:** fruit, ore
 *   **Area:** 1.8 million square miles
 *   **Important NPCs:**
-    *   **Willis the Watcher (Catfolk)**
-    is the founder of the Quietest Master Lodge in Wuthelark. He trains new members in the art of silent contemplation.*   **Pip the Crier (Catfolk)**
-    is a legendary prankster who seeks a revival of Lozie worship.
+    *   **Willis the Watcher (Catfolk)** is the founder of the Quietest Master Lodge in Wuthelark. He trains new members in the art of silent contemplation.
+    *   **Pip the Crier (Catfolk)** is a legendary prankster who seeks a revival of Lozie worship.
 
 Wuthelark is divided into three regions. First is the southern Tamain Jungle, which is an untamed wilderness ruled by land-owning Catfolk nobles who ultimately answer to the Imperial governor. Second are the Karamain Highlands, which are a semi-arid region dividing the southern jungle and the northern desert, which is hardly inhabited. Last is the Namara Desert to the north, which is home to nomadic tribes who resist Imperial rule. They have not formed an active resistance, but essentially do not respect the laws of the Yargyez Empire and view it as an illegitimate occupier of their nomadic lands.
 
