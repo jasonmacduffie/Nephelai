@@ -522,7 +522,9 @@ Racial identity has three layers in Nephelai: biology, culture, and legal classi
 
 #### Biology
 
-Although their exact origins are unknown, most races of Conliah share a common lineage which allows full interbreeding between them. This is true for Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. Catfolk and Lizardfolk are exceptions, as biologically distinct species. Orcs, Goblins, and Ogres are capable of producing offspring with each other, but not with any native race of Conliah. Cthonians, as beings without a true "biology", are not capable of producing offspring with sentient mortals.
+Although their exact origins are unknown, six major races of Conliah share a common lineage which allows full interbreeding between them. These are called the "Dimo races" and include Humans, Dwarves, Halflings, High Elves, Dark Elves, and Wood Elves. Their offspring have traits which are the average of the multiple racial backgrounds. It is commonly believed that three major pre-historic events shaped the history of the Dimo races. First, the Old Elves became isolated from the rest of Conliah, perhaps on Fair Island. Second, the races of Conliah became very diverse, including Humans, Dwarves, and Halflings but also many other less numerous races which are no longer distinctive. Third, the Old Elves migrated back to the Conlian mainland and intermarried with different mainland races. These mainland races were not Humans, Dwarves, or Halflings, but from the less numerous races no longer known. After this intermarriage, each population of hybrid Elves remained insular within its own group. These events resulted in the unique traits of High Elves, Wood Elves, and Dark Elves yet also retained their common ancestral traits of the Old Elves.
+
+Catfolk and Lizardfolk are not Dimo races. Each of them are biologically distinct, reproductively incompatible species. Orcs, Goblins, and Ogres are capable of producing offspring with each other, but not with any native race of Conliah. Again, their offspring have traits which are the average of the multiple racial backgrounds. These three races are called "Porcine races". Cthonians, as beings without a true "biology", are not capable of producing offspring with sentient mortals.
 
 #### Culture
 
@@ -535,7 +537,7 @@ Certain combinations of two races have common names, and based on physical appea
 * **Humlets** are part Human and part Halfling.
 * **Dwelves** are part Dwarf and part Elf.
 
-When multiple races of Elves produce offspring, the offspring adopt a single Elf racial identity based on cultural upbringing regardless of physical appearance. The tendency is for mixed race Elves to always culturally identify with the lowest social stratum. High Elves are never recognized as descended from Wood or Dark Elves, and Wood Elves are never recognized as descended from Dark Elves.
+When multiple races of Elves produce offspring, the offspring adopt a single Elf racial identity based on social perception regardless of physical appearance. The tendency is for mixed race Elves to always culturally identify with the lowest social stratum. High Elves are never recognized as descended from Wood or Dark Elves, and Wood Elves are never recognized as descended from Dark Elves. This means that, for instance, the child of a High Elf and Wood Elf having a High Elf "look" who is born on Fair Island and participates in High Elf society may still be considered a Woof Elf.
 
 #### Legal Classification
 
