@@ -2072,6 +2072,8 @@
 
 <p>Once corrupted, the Ghost becomes restless and hostile to all surrounding mortals. The soul projection of a Ghost, being incorporeal, cannot be harmed by ordinary weapons. However, they may be harmed by enchanted weapons, elemental damage spells, and exorcism magic. When a Ghost's soul projection is defeated, it retreats into its jar. Finally releasing the Ghost requires the physical destruction of that same jar. There are several varieties of Ghosts, each with different abilities and appearances. All types of Ghost have a touch-based attack which drains the vitality of those who come into contact with their soul projections.</p>
 
+<p>It is possible to release a Ghost without defeating its projection, if its jar is destroyed. However, it is much more difficult to destroy the jar while the Ghost is projecting. The jar is magically resilient and may reactively damage the one attempting to damage the jar. It is typically more practical to destroy the Ghost's projection before destroying the jar, which suppresses its magical power and renders it destructible by ordinary means.</p>
+
 <h4>Blood Monsters</h4>
 
 <ul>
