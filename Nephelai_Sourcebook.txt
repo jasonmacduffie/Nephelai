@@ -705,14 +705,14 @@ The below list of Archons is not exhaustive. There are many lesser-known Cthonic
       <td>Strife Maker</td>
       <td>Male</td>
       <td>Chaos, Pranks</td>
-      <td>Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. The Clashcircus is populated by Fluttermice, enormous flying mice who harass mortals who refuse to fight in the arena. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. Mortals corrupted by Lozie become Laffids, granting them the power to shape-shift while making their true physical forms repulsive. His symbol is an apple with a bite taken out of it.</td>
+      <td>Lozie's sphere is called the Clashcircus, an enormous circus tent where mortals dress as jesters endlessly battle each other with ridiculous weapons like food and children's toys. The Clashcircus is populated by Fluttermice, enormous flying mice who harass mortals who refuse to fight in the arena. Lozie's cults are called the Spokefuglads, bands of pranksters who wander between towns creating unnecessary strife between townfolk. Mortals corrupted by Lozie become Laffetids, granting them the power to shape-shift while making their true physical forms repulsive. His symbol is an apple with a bite taken out of it.</td>
     </tr>
     <tr>
       <td>Ogzim</td>
       <td>Lord of the Void</td>
       <td>Male</td>
       <td>Darkness, Silence</td>
-      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. Mortals corrupted by Ogzim become Zoners, which turns them completely invisible. His symbol is a face with closed eyes. In Lodumpis, the equivalent of Ogzim is female, and is known as Umbrarum the Lady of Shadows.</td>
+      <td>Ogzim's sphere is called the Starless Abyss. There is no land there, only an immense ocean covering the entire sphere. The sky is pitch black, and even the light of fire seems to be absorbed into the void. Nightcreeps inhabit the Starless Abyss on permanent wooden rafts. Ogzim's cults are called the Tyvenlads, criminal syndicates who steal in his name. Mortals corrupted by Ogzim become Invisible Ones, which turns them completely invisible. His symbol is a face with closed eyes. In Lodumpis, the equivalent of Ogzim is female, and is known as Umbrarum the Lady of Shadows.</td>
     </tr>
     <tr>
       <td>Lize</td>
@@ -747,7 +747,7 @@ The below list of Archons is not exhaustive. There are many lesser-known Cthonic
       <td>Prince of Last Strike</td>
       <td>Male</td>
       <td>Retribution, Plots</td>
-      <td>Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterplots. Inizozim's cults are called the Grublelads. His symbol is a measuring rod. In Lodumpis, the equivalent of Inizozim is female, and is known as Solum the Punisher.</td>
+      <td>Inizozim's sphere is the Mirror Marshes. The Mirror Marshes are a wetland filled with perfectly balanced logs on top of stones. Nagas wander around, ensuring that the weight of each logs is perfectly distributed. Those corrupted by Inizozim become fish-like Gutterfolk. Inizozim's cults are called the Grublelads. His symbol is a measuring rod. In Lodumpis, the equivalent of Inizozim is female, and is known as Solum the Punisher.</td>
     </tr>
     <tr>
       <td>Nabazie</td>
@@ -1246,7 +1246,7 @@ The below listing provides several traits, which help to contextualize what an e
 
 These common monsters are former mortals, who were corrupted by Cthonic forces in life, or in death. Corrupted mortals enact the will of the Archons, whether they want to or not. For their common fear of being persecuted by the sentient mortal races on the surface, these corrupted mortals will often settle in the same underground complexes such as Magellian ruins and caves. The different groups of corrupted mortals do not necessarily trust each other, but avoid conflict with one another in order to survive.
 
-#### Gutterplots
+#### Gutterfolk
 
 *   **Robustness:** 1
 *   **Number appearing:** 2-8
@@ -1255,7 +1255,7 @@ These common monsters are former mortals, who were corrupted by Cthonic forces i
 *   **Soul color:** Green core, with traces of red
 *   **Intelligence:** Mortal-like
 
-Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterplot. Gutterplots grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. After taking vengeance, Gutterplots often live in fear of retribution towards themselves in turn. Gutterplots are afraid of melee combat, preferring to use cunning tricks to gain an advantage. They plan surprise attacks on innocent travelers for fear that they are the friends and family of those they wronged.
+Mortals who seek Inizozim's blessing for vengeance may be turned into a gutterfolk. Gutterfolk grow fish scales all over their body, and gain the ability to breathe underwater, in addition to being able to breathe air. Their faces widen and their eyes begin to drift apart. After taking vengeance, Gutterfolk often live in fear of retribution towards themselves in turn. Gutterfolk are afraid of melee combat, preferring to use cunning tricks to gain an advantage. They plan surprise attacks on innocent travelers for fear that they are the friends and family of those they wronged.
 
 #### Husks
 
@@ -1268,7 +1268,7 @@ Mortals who seek Inizozim's blessing for vengeance may be turned into a Gutterpl
 
 Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a Husk. Husks grow to seven feet tall, and they grow an insect carapace all over their torso. Their arms and legs remain as they were, without insect features. Husks have faces that look like grasshoppers. Due to their Cthonic corruption, Husks dream even when they are awake. Oftentimes they do not intend to initiate combat, but due to their confusion feel they are under attack. Nonetheless, Husks retain their intelligence and strategic capabilities after transformation. Groups of Husks roam the wilderness wielding weapons for use in self-defense.
 
-#### Zoners
+#### Invisible Ones
 
 *   **Robustness:** 1
 *   **Number appearing:** 1-3
@@ -1277,7 +1277,7 @@ Mortals who seek Ulviazing's blessing for blissful dreams may be turned into a H
 *   **Soul color:** Green core, with traces of red
 *   **Intelligence:** Mortal-like
 
-Mortals who serve Ogzim may be transformed into Zoners. The only apparent effect of this transformation is permanent, complete invisibility. This invisibility covers all body parts, but it does not effect clothing, weapons, jewelry, etc. that the Zoner possesses. In general, Zoners are not combatants and they prefer to use their newfound power for personal material gain. However, their invisibility isolates them from living in normal society, often undermining their original motivation to gain social advantage through invisibility.
+Mortals who serve Ogzim may be transformed into Invisible Ones. The only apparent effect of this transformation is permanent, complete invisibility. This invisibility covers all body parts, but it does not effect clothing, weapons, jewelry, etc. that the Invisible Ones possesses. In general, Invisible Ones are not combatants and they prefer to use their newfound power for personal material gain. However, their invisibility isolates them from living in normal society, often undermining their original motivation to gain social advantage through invisibility.
 
 #### Draklings
 
@@ -1323,7 +1323,7 @@ Mortals who worship Uluzing through a long career of assassination may be gifted
 
 Lycanthropy is a disease that spreads through a bite or claw attack from the infected. Unless cured, the infected becomes a Lycanthrope within 3-18 days. By contracting the disease, Lycanthropes gain the power to transform themselves at-will into an animal-human hybrid form. In addition, they are involuntarily transformed into their animal-human hybrid form upon the waxing gibbous moon, and revert back to their mortal form upon the waning gibbous moon. Which animal the Lycanthrope resembles upon transformation is based on the form of Lycanthrope who caused the infection. Lycanthropes fully retain their intelligence and memories upon infection. While transformed into their animal form, their minds are polluted by an insatiable hunger for the flesh of mortals. Contracting Lycanthropy has no effect on the infected mortal's outward appearance when untransformed. The Archon Nabazie is the original source of all Lycanthropes.
 
-#### Laffids
+#### Laffetids
 
 *   **Robustness:** 4
 *   **Number appearing:** 1-6
@@ -1332,7 +1332,7 @@ Lycanthropy is a disease that spreads through a bite or claw attack from the inf
 *   **Soul color:** Green core, with traces of red
 *   **Intelligence:** Mortal-like
 
-Mortals who worship Lozie may be transformed into a Laffid. Their physical form becomes warped and repulsive, as if their skin has melted and boiled, leading them to wear wooden masks to conceal their faces. Their transformation also makes Laffids physically strong and fast. In addition, their transformation allows them to temporarily shape-shift into any humanoid, sentient mortal they choose to resemble. This shape-shifting may be sustained for several hours, but requires an equal amount of time to rest in between impersonations. Laffids tend to use their powers of impersonation to cause social discord. However, while in their true form they live in constant fear of being mocked for their revolting faces.
+Mortals who worship Lozie may be transformed into a Laffetid. Their physical form becomes warped and repulsive, as if their skin has melted and boiled, leading them to wear wooden masks to conceal their faces. Their transformation also makes Laffetids physically strong and fast. In addition, their transformation allows them to temporarily shape-shift into any humanoid, sentient mortal they choose to resemble. This shape-shifting may be sustained for several hours, but requires an equal amount of time to rest in between impersonations. Laffetids tend to use their powers of impersonation to cause social discord. However, while in their true form they live in constant fear of being mocked for their revolting faces.
 
 #### Pertinaxes
 
