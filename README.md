@@ -576,84 +576,84 @@ The pantheon of the Yargyez Empire recognizes six major Agathoi named the Six Gu
       <td>Sky Mother</td>
       <td>Female</td>
       <td>Storms, Law</td>
-      <td>Iazus is one of the Six Guardians. She is called the "first among equals" in the Imperial Cult pantheon, and is revered by emperors and inquisitors. The Order of Iazus sanctions Imperial Cult Inquisitors to hunt down Cthonic threats of various kinds. Her symbol is a thunderbolt and stormcloud, and her elemental domains are wind and lightning.</td>
+      <td>Iazus is one of the Six Guardians. She is called the "first among equals" in the Imperial Cult pantheon, and is revered by emperors and inquisitors. The Order of Iazus sanctions Imperial Cult Inquisitors to hunt down Cthonic threats of various kinds. Her symbol is a thunderbolt and stormcloud, and her elemental domains are wind and lightning. Iazus is often depicted as a queen holding a thunderbolt.</td>
     </tr>
     <tr>
       <td>Inidilt</td>
       <td>Mountain King</td>
       <td>Male</td>
       <td>Agriculture, Seasons</td>
-      <td>Inidilt is one of the Six Guardians. He is revered by soldiers and farmers. His symbol is a scythe. His elemental domain is earth.</td>
+      <td>Inidilt is one of the Six Guardians. He is revered by soldiers and farmers. His symbol is a scythe. His elemental domain is earth. Inidilt is often depicted as an elderly man carrying grain.</td>
     </tr>
     <tr>
       <td>Burrue</td>
       <td>Sun Sister</td>
       <td>Female</td>
       <td>Beauty, Philosophy</td>
-      <td>Burrue is one of the Six Guardians. She is revered by bards and philosophers. Her symbol is a lyre. Her elemental domain is sunlight.</td>
+      <td>Burrue is one of the Six Guardians. She is revered by bards and philosophers. Her symbol is a lyre. Her elemental domain is sunlight. Burrue is often depicted as a young woman crowned with laurel leaves.</td>
     </tr>
     <tr>
       <td>Lidnozie</td>
       <td>Moon Brother</td>
       <td>Male</td>
       <td>Wilderness, Full Moon</td>
-      <td>Lidnozie is one of the Six Guardians. He is revered by lumberers and hunters. His symbol is a bow and arrow. His elemental domain is moonlight.</td>
+      <td>Lidnozie is one of the Six Guardians. He is revered by lumberers and hunters. His symbol is a bow and arrow. His elemental domain is moonlight. Lidnozie is often depicted as a young hunter holding a bow and arrow.</td>
     </tr>
     <tr>
       <td>Ereng</td>
       <td>Great Presider</td>
       <td>Male</td>
       <td>Marriage, Family</td>
-      <td>Ereng is one of the Six Guardians. He is revered by widows and healers. His symbol is an ox. His elemental domain is water.</td>
+      <td>Ereng is one of the Six Guardians. He is revered by widows and healers. His symbol is an ox. His elemental domain is water. Ereng is often depicted as a man bearing a pot of water.</td>
     </tr>
     <tr>
       <td>Izdoeng</td>
       <td>Hearth Keeper</td>
       <td>Male</td>
       <td>Peace, Fraternal Love</td>
-      <td>Izdoeng is one of the Six Guardians. He is revered by embassadors and second sons. Izdoeng's symbol is a hearth flame, and Izdoeng has a cult of missionaries called Friends of the Hearth Keeper. His elemental domain is fire.</td>
+      <td>Izdoeng is one of the Six Guardians. He is revered by embassadors and second sons. Izdoeng's symbol is a hearth flame, and Izdoeng has a cult of missionaries called Friends of the Hearth Keeper. His elemental domain is fire. Izdoeng is often depicted as a man bearing tinder wood.</td>
     </tr>
     <tr>
       <td>Dimie</td>
       <td>Clever Agathos</td>
       <td>Male</td>
-      <td>Magic, Artisanship, War</td>
-      <td>Minor cult is popular in Fair Island</td>
+      <td>Magic, War</td>
+      <td>Dimie's minor cult is popular in Fair Island. He is considered the patron of mages in military service. Dimie's symbol is an owl. Dimie is often depicted as a man wearing steel plate armor and a wizard's hat.</td>
     </tr>
     <tr>
       <td>Ivezdazing</td>
       <td>Forge Master</td>
       <td>Female</td>
-      <td>Forge, Fire, Craft</td>
-      <td>Minor cult is popular in Helscar</td>
+      <td>Forge, Fire</td>
+      <td>Ivezdazing's minor cult is popular in Helscar. She is considered the patron of artisans. Ivezdazing's symbol is a hammer and anvil. Ivezdazing is often depicted as a woman holding a hammer.</td>
     </tr>
     <tr>
       <td>Vlutodie</td>
       <td>Prince of Joy</td>
       <td>Male</td>
-      <td>Beauty, Infatuation, Hedonism</td>
-      <td>Minor cult is popular in Middlestone</td>
+      <td>Revelry, Love</td>
+      <td>Vlutodie's minor cult is popular in Middlestone. He is often honored during celebrations, and he is also regarded as the protector of passionate love. Vlutodie's symbol is a rose. Vlutodie is often depicted as a handsome man wearing ostentatious clothes.</td>
     </tr>
     <tr>
       <td>Uzioting</td>
       <td>Lady of the Seas</td>
       <td>Female</td>
       <td>Oceans, Navigation</td>
-      <td>Minor cult is popular among fishers</td>
+      <td>Uzioting has a minor cult. She is often honored by fishing villages, and her protection is sought by sailors before a long journey. Uzioting's symbol is a trident. Uzioting is often depicted as a woman riding a dolphin.</td>
     </tr>
     <tr>
       <td>Ilnizing</td>
       <td>Swift Agathos</td>
       <td>Female</td>
       <td>Travel, Trade</td>
-      <td>Minor cult is popular among merchants</td>
+      <td>Ilnizing's minor cult is popular among traveling merchants. Her symbol is a pair of sandals, each with two wings. She is often depicted as a woman wearing these sandals.</td>
     </tr>
     <tr>
       <td>Etizing</td>
       <td>Lady Necessity</td>
       <td>Female</td>
       <td>Life, Death</td>
-      <td>Minor cult is popular among undertakers</td>
+      <td>Etizing's minor cult is popular among undertakers. According to her cult, she is the Agathos who guides souls through the transmigration cycle in both directions from and to Asteria. Her symbol is a spindle. She is often depicted as a woman holding this spindle.</td>
     </tr>
   </tbody>
 </table>
