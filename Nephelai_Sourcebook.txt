@@ -653,7 +653,7 @@ The pantheon of the Yargyez Empire recognizes six major Agathoi named the Six Gu
       <td>Lady Necessity</td>
       <td>Female</td>
       <td>Life, Death</td>
-      <td>Etizing's minor cult is popular among undertakers. According to her cult, she is the Agathos who guides souls through the transmigration cycle in both directions from and to Asteria. Her symbol is a spindle. She is often depicted as a woman holding this spindle.</td>
+      <td>Etizing's minor cult is popular among workers who handle death and the dead. According to her cult, she is the Agathos who guides souls through the transmigration cycle in both directions from and to Asteria. Her symbol is a spindle. She is often depicted as a woman holding this spindle.</td>
     </tr>
   </tbody>
 </table>
