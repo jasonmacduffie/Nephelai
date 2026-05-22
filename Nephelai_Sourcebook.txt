@@ -22,9 +22,9 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
 *   **Religion:** There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.
 *   **Cosmology:** There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.
 *   **Magic:** Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.
-*   **Threat Ecology:** Conliah has a distinct threat ecology which is different from other classic fantasy settings. Two classic categories of "always evil humanoids" and "magical beasts" are absent, and must be reimagined as belonging to one of the below categories.
+*   **Threat Ecology:** Conliah has a distinct threat ecology which is different from other classic fantasy settings. Two classic categories of "always evil humanoids" and "natural monsters" are absent, and must be reimagined as belonging to one of the below categories.
     *   **Sentient mortals** are creatures capable of forming their own societies and politics. Examples are Humans, Elves, Dwarves, Halflings, and Orcs.
-    *   **Mundane beasts** may be majestic, strange, or dangerous, but they are essentially mundane. Examples are pterodactyls, giant ants and carnivorous apes.
+    *   **Flora and fauna** may be majestic, strange, or dangerous. Some may have limited magical abilities. However, they are biologically ordinary, belong to an ecosystem, and never have intelligence exceeding ordinary animals. Examples are pterodactyls, giant ants and carnivorous apes.
     *   **Cthonically corrupt mortals** are members of the sentient mortal races, but who have changed their physical form through interaction with Cthonic magic. Examples are Iavols and Draklings.
     *   **Cthonian invaders** are aberrations from Cthonia itself, temporarily present in Ksylia itself as an army of destruction. Examples are Nightcreeps and Tormentors.
     *   **Artificial beings** are products of arcane manipulation, which has transformed life or granted life to an inanimate vessel. Examples are War Puppets, Steelskulls and Flesh Mutants.
@@ -1226,7 +1226,7 @@ _\-- The Inquisitorial Field Manual of Iazus_
 
 ![Henry V Discovering the Conspirators by Henry Fuseli](Henry_V_Discovering_the_Conspirators_Henry_Fuseli.jpeg "Henry V Discovering the Conspirators by Henry Fuseli")
 
-Note that Conliah lacks two distinct categories of monsters: "always evil humanoids" and "magical beasts". While classic mythological creatures may be present in Conliah in some form, they must be reimagined as belonging to one of the below categories outlined.
+Note that Conliah lacks two distinct categories of monsters: "always evil humanoids" and "natural monsters". While classic mythological creatures may be present in Conliah in some form, they must be reimagined as belonging to one of the below categories outlined.
 
 The below listing provides several traits, which help to contextualize what an encounter with the monster is like:
 
