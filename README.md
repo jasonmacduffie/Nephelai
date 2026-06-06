@@ -1920,7 +1920,7 @@ Helscar is a massive tundra region, which mainly exports ore and requires agricu
 ![The First Harvest in the Wilderness Asher B Durand](The_First_Harvest_in_the_Wilderness_Asher_B_Durand.jpeg "Middlestone is a vast fertile plain.")
 
 *   **Capital:** Omugi (pop. 40,000)
-*   **Population:** 12 million
+*   **Population:** 24 million
 *   **Majority Race:** Halfling
 *   **Wild Beasts:** Giant Ants, Giant Badgers, Giant Bees
 *   **Uzvu Presence:** None
