@@ -898,7 +898,7 @@ Schoolmages in Conliah are educated by the Academy of Knowledge to understand th
 
 Schoolmage spells are written in the Classical language. A single spell is so complicated that it may require several thick volumes just to convey one spell, when written in long-form Classical. Instead, each Schoolmage carries a personal spellbook which is written in Arcane Shorthand. This is a personalized script which is much denser than long-form Classical, and is illegible to anyone other than the owner of the spellbook.
 
-Schoolmage spells require a great deal of precision to cast, and the experience is so mentally taxing that the spell is forgotten once performed. Consequently, Schoolmages must frequently re-read their personal notes when fully rested in order to continue casting the same spell.
+Schoolmage spells require extreme precision to cast. A spell cannot simply be known as a fact, but requires a strong mental model of its formula. Schoolmages must frequently re-read their personal notes after sufficient rest in order to recover this mental model.
 
 *   _Always:_ Detection, Elemental Damage, Illusion, Mental Influence, Soul Binding, Protection, Transmutation, Utility
 *   _Sometimes:_ Curse, Healing, Augmentation, Summoning
