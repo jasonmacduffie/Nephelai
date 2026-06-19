@@ -862,3 +862,64 @@ Crafting standard equipment requires one week of downtime. At the beginning of t
 * **Great:** The newly crafted item gives a +2 bonus to the standard effect.
 * **Superb or better:** The newly crafted item gives a +3 bonus to the standard effect.
 
+Combat Threats
+---
+GMs should not stat every enemy combatant as a full player character, with EP spend. Instead, follow this toolkit to design balanced combat encounters. These rules are flexible enough to handle NPCs, animals, and more monstrous enemies.
+
+### Durability
+
+Most enemies do not have the full PC injury track. There are three tiers of enemy durability: Light, Heavy, and Elite. All three tiers follow the exact same rules as player characters in the Taking Damage section, under Combat. The only difference is that Lights and Heavies do not roll for injury location.
+
+* **Light:** Three scratch bubbles, one wound bubble. If one wound bubble is filled, the enemy is incapacitated.
+* **Heavy:** Three scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
+* **Elite:** Elites have the same injury tracker as player characters.
+
+For larger, more monstrous enemies, GMs may create custom injury trackers with even more wound bubbles than player characters.
+
+### Combat Style and Standard Modifier
+
+Enemies do not need detailed skill lists. They only need a combat style (melee, ranged, spells, etc.) and a standard modifier for all rolls. Use this modifier for all attack, defense, and initiative rolls.
+
+For magical attacks, do not track Soul Burn. Instead, use the same rules as Ranged Weapons to decide whether the attack lands.
+
+* **Fair (0):** Ordinary civilians.
+* **Good (+1):** Low-ranking soldiers.
+* **Great (+2):** Mid-ranking soldiers.
+* **Superb (+3):** Elite soldiers.
+
+Standard modifiers for monstrous enemies may extend far beyond Superb.
+
+### Attack and Defense
+
+Establish what tier of weapons and armors are in use. If heavy weapons and armor are used, then apply the appropriate penalty to initiative. Beasts and monsters also apply their natural weapons and armor.
+
+#### Weapons
+
+* **0:** Fists, weak tackles.
+* **+1:** Daggers, small claws.
+* **+2:** Longswords, wolf bite.
+* **+3:** Greatswords, bear claws.
+
+#### Armor
+
+* **0:** No armor.
+* **+1:** Leather armor, thick fur.
+* **+2:** Chainmail, strong hide.
+* **+3:** Plate armor, bony shell.
+
+Monstrous enemies may have higher attack and defense than what is provided here.
+
+### Gifts and Flaws
+
+GMs should be generous with enemy gifts and flaws. These are the main lever to make fights more interesting than a brute dice-rolling contest. The below are just examples for GMs to invent custom gifts and flaws.
+
+#### Gifts
+
+* **Multiple Hits:** This animal may attack once with claws and once with fangs on the same turn.
+* **Terrifying Presence:** Player characters must make a contested Personality roll against this monster's standard modifier. If the player character's roll is strictly less than the monster's, then that character is forced to flee.
+
+#### Flaws
+
+* **Phobia: Fire:** This animal will refuse to attack a character swinging a torch.
+* **Greedy:** This grunt will readily give up a fight, in exchange for a bribe.
+
