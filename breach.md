@@ -129,15 +129,24 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
+* **Aura Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those detecting soul material know the aura is suppressed, but cannot discern its true nature.
+* **Hold Breath:** The character can stop breathing for five minutes, without any negative effects.
+* **Provincial Friend:** The character has widespread support from the residents of a specific province.
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
+* **Wastrel Heir:** The character is from an aristocratic background, and receives a weekly allowance of 50 Drachma (ud).
 
 #### Faults
 
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
-* **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms.
+* **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachma (ud) every week, to feed this addiction.
+* **Conspicuous Aura:** The character is uniquely exposed by spells which detect the character's soul material.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
 * **Doctrinaire:** The character is deeply committed to a dogmatic worldview, and refuses to act in a way that compromises its principles.
+* **Greedy:** The character searches for wealth, and hoards it. The character is not cooperative in situations requiring sharing resources.
+* **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
+* **Provincial Enemy:** The character has widespread hatred from the residents of a specific province.
+* **Watched By Authority:** The character is being personally followed by operatives of another major faction.
 
 Character Advancement
 ---
