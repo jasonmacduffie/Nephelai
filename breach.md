@@ -225,7 +225,7 @@ Shooting or throwing weapons are static checks.
 
 The Concealed Weapons skill may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
-When the character is preparing to strike, the attacker must take an opposed action between the attacker's Concealed Weapons skill and the defender's Intellect. The attacker's roll must be strictly greater, or else the defender wins the roll.
+When the character is preparing to strike, the attacker must take an opposed action using the Concealed Weapons skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
 
 * **If the defender wins the roll:** Then the target is aware of the concealed weapon. The GM should call for initiative.
 * **If the attacker wins the roll:** Then the target is unaware of the concealed weapon. The attacker may wait for an opportune moment to attack.
