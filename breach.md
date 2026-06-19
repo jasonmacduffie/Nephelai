@@ -367,7 +367,7 @@ The caster drains the vitality of any living thing they touch with their finger.
 ### Blur
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Ardent, Schoolmage, Invoker
 * Skill: Physical
 
 The caster's body appears to rapidly flicker before their enemies, making the caster difficult to hit.
@@ -538,7 +538,7 @@ Sentient mortals and animals light up in the vision of the caster. Sentient mort
 ### Dispel Magic
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Devout
+* Cast by: Ardent, Schoolmage, Devout
 * Skill: Spiritual
 
 The caster removes ongoing magical effects imposed on itself or a target.
@@ -570,7 +570,7 @@ The caster projects a streak of fire towards a target.
 ### Flare
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage
+* Cast by: Ardent, Schoolmage
 * Skill: Elemental
 
 A ball of light flies from the caster's fingertip, in a straight line, then disappears.
@@ -624,7 +624,7 @@ The caster projects an icy gust full of icicle spears at a target.
 ### Invisibility
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Ardent, Schoolmage, Invoker
 * Skill: Physical
 
 The caster or target's appearance vanishes entirely, while remaining fully present and able to interact.
@@ -632,7 +632,7 @@ The caster or target's appearance vanishes entirely, while remaining fully prese
 ### Jump
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage
+* Cast by: Ardent, Schoolmage
 * Skill: Physical
 
 The caster or target becomes capable of leaping multiple times higher and farther than before.
@@ -672,7 +672,7 @@ The caster conjures a ghostly hand that can perform simple tasks from a distance
 ### Mending
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout
+* Cast by: Ardent, Schoolmage, Devout
 * Skill: Physical
 
 The caster draws their finger across a single crack of a broken object, which heals the damage as if it never happened.
@@ -688,7 +688,7 @@ The caster calls forth an elemental blast from the skies which lands on a target
 ### Preserve
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Devout
+* Cast by: Ardent, Schoolmage, Devout
 * Skill: Physical
 
 The caster or target creature or object becomes more resilient against decay, rot, and rust. This grants resistance to spells which deal damage through decay.
@@ -720,7 +720,7 @@ The caster raises a wall of solid light that blocks various physical danger.
 ### Silence
 
 * Difficulty: Good (+1)
-* Cast by: Devout, Invoker
+* Cast by: Ardent, Devout, Invoker
 * Skill: Physical
 
 An area the caster targets becomes devoid of all sound.
@@ -768,7 +768,7 @@ Heavy strands of spiderwebs emerge from the caster's hands, falling on the groun
 ### Whisper
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout, Invoker
+* Cast by: Ardent, Schoolmage, Devout, Invoker
 * Skill: Mental
 
 The target hears a short message whispered by the caster.
