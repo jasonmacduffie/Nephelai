@@ -83,42 +83,42 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 #### Physique Skills
 
-* **Acrobatics**
-* **Athletics**
-* **Brawling**
-* **Concealed Weapons**
-* **Melee Weapons**
-* **Ranged Weapons**
-* **Riding & Driving**
-* **Sleight of Hand**
-* **Sneaking**
-* **Survival**
+* **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
+* **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
+* **Brawling:** Punching, kicking, and grappling. Brawling may be used for attack and defense rolls.
+* **Concealed Weapons:** Hiding small weapons, and using them to strike outside of combat. Concealed Weapons is used for attack rolls, in such cases.
+* **Melee Weapons:** Fighting in close quarters with swords, maces, spears, and clubs. Melee Weapons is used for attack and defense rolls.
+* **Ranged Weapons:** Shooting projectile weapons, and throwing thrown weapons. Ranged Weapons is used for attack rolls.
+* **Riding & Driving:** Riding animals and driving vehicles.
+* **Sleight of Hand:** Palming, planting, and picking pockets.
+* **Sneaking:** Hiding and moving silently.
+* **Survival:** Tracking and foraging in the wilderness.
 
 #### Intellect Skills
 
-* **Crafting**
-* **Languages**
-* **Investigation**
-* **Lore: History**
-* **Lore: Magic & Cosmology**
-* **Lore: Religion**
-* **Medicine**
-* **Spells: Elemental**
-* **Spells: Enchanting**
-* **Spells: Physical**
+* **Crafting:** Fashioning and repairing weapons and armor.
+* **Languages:** Reading, writing, and speaking multiple languages.
+* **Investigation:** Searching scenes for clues.
+* **Lore: History:** Knowledge of the deep past.
+* **Lore: Magic & Cosmology:** Knowledge of magic, the soul, and cosmic spheres.
+* **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
+* **Medicine:** Treating wounds and diagnosing illnesses.
+* **Spells: Elemental:** Casting magic that manipulates the elements.
+* **Spells: Enchanting:** Imbuing objects and places with magic.
+* **Spells: Physical:** Casting magic that bends the laws of physics.
 
 #### Personality Skills
 
-* **Bartering**
-* **Bluffing**
-* **Bureaucracy**
-* **Intimidation**
-* **Performance**
-* **Persuasion**
-* **Philosophy**
-* **Spells: Mental**
-* **Spells: Spiritual**
-* **Streetwise**
+* **Bartering:** Negotiating prices.
+* **Bluffing:** Lying convincingly.
+* **Bureaucracy:** Navigating large, complex, formal institutions.
+* **Intimidation:** Coercing others by threat.
+* **Performance:** Singing and storytelling.
+* **Persuasion:** Convincing others.
+* **Philosophy:** Understanding ethical and metaphysical debates.
+* **Spells: Mental:** Casting magic that influences the minds of others.
+* **Spells: Spiritual:** Casting magic that interacts with souls.
+* **Streetwise:** Navigating the criminal underworld.
 
 ### Gifts and Faults
 
