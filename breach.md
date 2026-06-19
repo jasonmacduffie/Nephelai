@@ -9,11 +9,11 @@ BREACH is designed to capture a world where combat is dangerous for the strong a
 
 One player must be the game master, to run the story. One or more players control player characters. Players are expected to maintain a roster of player characters, because there are long periods of downtime where characters must remain benched to recover from their adventures. Think of BREACH as a TV series with a large ensemble cast. You may care about individual characters, and their personal stories matter, but the deeper story is larger than any one of them. Each session, the adventure follows several characters into the field while the rest of the player characters continue their lives off-screen. The drama hinges on whether the group, as a whole, advances its goals.
 
-BREACH is an acronym for "Bench Rotates, Evolves, And Campaign Happens".
+BREACH is an acronym for "Be Restrained, Endeavor, And Change History".
 
 The Core Mechanic
 ---
-Fudge RPG is a universal role playing system. Players can usually just say what they do, and consequences evolve without dice. Sometimes the outcome is unclear, and failure is interesting. Then, the Game Master requires a roll.
+BREACH follows Fudge's core mechanic. Players can usually simply say what their characters do, and consequences evolve without dice. Sometimes the outcome is unclear, and failure implies consequences for the character and the world. Then, the Game Master requires a roll.
 
 Fudge uses a ladder of descriptive terms for character traits, instead of just numbers.
 
