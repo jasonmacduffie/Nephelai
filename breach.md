@@ -152,6 +152,41 @@ Character Advancement
 ---
 Characters gain 2 EP per game session. Only characters who participated in the session are rewarded EP. EP may be spent freely on a skill if that skill was reasonably used in the field since the last advancement. It is also possible for characters to train unused skills through downtime.
 
+There may be several game sessions over the course of a single in-game week. Characters gain 2 EP for each real life game session, regardless of the in-game time that passes. If a player switches between characters within a single session, then the last character in the field is awarded the 2 EP.
+
+Equipment
+---
+Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in drachma (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
+
+At the end of every week, characters earn 10 Drachma (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
+
+#### Weapons & Armor
+
+Cost is given in drachma (ud).
+
+*Note: If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.*
+
+* Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+1).
+* Club - 2 ud. One-handed melee weapon (+1).
+* Shortsword - 30 ud. One-handed melee weapon (+2).
+* Longsword - 50 ud. One-handed melee weapon (+2).
+* Mace - 25 ud. One-handed melee weapon (+2).
+* Spear - 10 ud. One-handed melee weapon (+2).
+* Greatsword - 80 ud. Two-handed melee weapon (+3). -1 to initiative.
+* Sling - 1 ud. Projectile ranged weapon (+1).
+* Shortbow - 15 ud. Projectile ranged weapon (+1).
+* Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+1).
+* Longbow - 40 ud. Projectile ranged weapon (+2).
+* Crossbow - 60 ud. Projectile ranged weapon (+2).
+* Throwing axe - 8 ud. Thrown ranged weapon (+2).
+* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+2).
+* Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+2).
+* Leather armor - 50 ud. Set of armor (+1).
+* Chainmail - 150 ud. Set of armor (+2). -1 to initiative. You may not use Acrobatics to defend.
+* Plate armor - 800 ud. Set of armor (+3). -2 to initiative. You may not use Acrobatics to defend.
+* Small shield - 15 ud. Shield (+1). You may not use Acrobatics to defend.
+* Tower shield - 40 ud. Shield (+2). -1 to initiative. You may not use Acrobatics to defend.
+
 Combat
 ---
 Combat is divided into *rounds* and *turns*. Every combatant takes a turn every round. A round represents about 6 seconds, taken near-simultaneously between combatants.
@@ -810,39 +845,6 @@ If a character is benched, there are standard activities they may perform for th
 ### Interrupting Downtime
 A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
 
-Equipment
----
-Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in drachma (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
-
-At the end of every week, characters earn 10 Drachma (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
-
-#### Weapons & Armor
-
-Cost is given in drachma (ud).
-
-*Note: If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.*
-
-* Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+1).
-* Club - 2 ud. One-handed melee weapon (+1).
-* Shortsword - 30 ud. One-handed melee weapon (+2).
-* Longsword - 50 ud. One-handed melee weapon (+2).
-* Mace - 25 ud. One-handed melee weapon (+2).
-* Spear - 10 ud. One-handed melee weapon (+2).
-* Greatsword - 80 ud. Two-handed melee weapon (+3). -1 to initiative.
-* Sling - 1 ud. Projectile ranged weapon (+1).
-* Shortbow - 15 ud. Projectile ranged weapon (+1).
-* Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+1).
-* Longbow - 40 ud. Projectile ranged weapon (+2).
-* Crossbow - 60 ud. Projectile ranged weapon (+2).
-* Throwing axe - 8 ud. Thrown ranged weapon (+2).
-* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+2).
-* Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+2).
-* Leather armor - 50 ud. Set of armor (+1).
-* Chainmail - 150 ud. Set of armor (+2). -1 to initiative. You may not use Acrobatics to defend.
-* Plate armor - 800 ud. Set of armor (+3). -2 to initiative. You may not use Acrobatics to defend.
-* Small shield - 15 ud. Shield (+1). You may not use Acrobatics to defend.
-* Tower shield - 40 ud. Shield (+2). -1 to initiative. You may not use Acrobatics to defend.
-
 Crafting
 ---
 Crafting during downtime allows the creation of items which are superior to standard options. See the below difficulty rules.
@@ -851,10 +853,10 @@ Crafting during downtime allows the creation of items which are superior to stan
 2. If the item is a weapon, armor, or shield, add +1 to the difficulty.
 3. If the item is a concealed weapon, add +1 to the difficulty.
 
-Crafting standard equipment requires one week of downtime. At the end of the week, roll a Crafting check versus the craft difficulty.
+Crafting standard equipment requires one week of downtime. At the beginning of the week, spend money equal to the value of the standard item. At the end of the week, roll a Crafting check versus the craft difficulty.
 
-* **Fair or worse:** The attempt fails.
-* **Good:** The item gives a +1 bonus to the standard effect.
-* **Great:** The item gives a +2 bonus to the standard effect.
-* **Superb or better:** The item gives a +3 bonus to the standard effect.
+* **Fair or worse:** The attempt fails. The spent money is lost, and no item is created.
+* **Good:** The newly crafted item gives a +1 bonus to the standard effect.
+* **Great:** The newly crafted item gives a +2 bonus to the standard effect.
+* **Superb or better:** The newly crafted item gives a +3 bonus to the standard effect.
 
