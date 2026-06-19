@@ -129,23 +129,23 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
-* **Aura Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the aura is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul is not visible at all.
+* **Aura Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the aura is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul is not visible at all. The character may not take the Conspicuous Aura fault.
 * **Hold Breath:** The character can stop breathing for five minutes, without any negative effects.
-* **Provincial Friend:** The character has widespread support from the residents of a specific province.
+* **Provincial Friend:** The character has widespread support from the residents of a specific province. The character may not take the Provincial Enemy fault for the same province.
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
-* **Wastrel Heir:** The character is from an aristocratic background, and receives a weekly allowance of 50 Drachma (ud).
+* **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachma (ud).
 
 #### Faults
 
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
 * **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachma (ud) every week, to feed this addiction.
-* **Conspicuous Aura:** The character is uniquely exposed by spells which detect the character's soul material.
+* **Conspicuous Aura:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Aura Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
 * **Doctrinaire:** The character is deeply committed to a dogmatic worldview, and refuses to act in a way that compromises its principles.
 * **Greedy:** The character searches for wealth, and hoards it. The character is not cooperative in situations requiring sharing resources.
 * **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
-* **Provincial Enemy:** The character has widespread hatred from the residents of a specific province.
+* **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
 * **Watched By Authority:** The character is being personally followed by operatives of another major faction.
 
 Character Advancement
@@ -813,6 +813,8 @@ A player's main character may die or be forced to stay benched in the middle of 
 Equipment
 ---
 Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in drachma (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
+
+At the end of every week, characters earn 10 Drachma (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
 
 #### Weapons & Armor
 
