@@ -95,7 +95,6 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 #### Intellect Skills
 
 * **Crafting**
-* **Enchanting**
 * **Languages**
 * **Investigation**
 * **Lore: History**
@@ -103,6 +102,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Lore: Religion**
 * **Medicine**
 * **Spells: Elemental**
+* **Spells: Enchanting**
 * **Spells: Physical**
 
 #### Personality Skills
@@ -124,9 +124,10 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
-* **Schoolmage Spell Caster:** The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn.
-* **Devout Spell Caster:** The character has training as a Devout. The character may be a Devout of an Agathos, or of the clouds. The character may cast spells from the Devout list aligned with the character's deity. Devouts spend one hour worshipping their deity, after waking up. If they skip this step, they do not recover from Soul Burn.
-* **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual.
+* **Schoolmage Spell Caster:** The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Devout Spell Caster:** The character has training as a Devout. The character may be a Devout of an Agathos, or of the clouds. The character may cast spells from the Devout list aligned with the character's deity. Devouts spend one hour worshipping their deity, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
+* **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
 
@@ -428,7 +429,7 @@ The caster becomes surrounded by an aura of truth, discouraging those nearby fro
 
 * Difficulty: Good (+1)
 * Cast by: Devout
-* Skill: Spiritual
+* Skill: Enchanting
 
 The caster either (A) transforms an area into holy ground or (B) seals a Cthonic breach. This spell has no field effect; it may only be taken as a downtime activity.
 
@@ -481,7 +482,7 @@ Unnatural darkness spreads from a point near the caster, swallowing the nearby l
 
 * Difficulty: Good (+1)
 * Cast by: Invoker
-* Skill: Spiritual
+* Skill: Enchanting
 
 The caster either (A) removes the effect of holy ground or (B) opens a Cthonic breach, where Cthonians may overstay in Ksylia. This spell has no field effect; it may only be taken as a downtime activity.
 
@@ -806,7 +807,8 @@ If a character is benched, there are standard activities they may perform for th
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
 * Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
 * Buy and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
-* Craft and Enchant: The character may work on creating new items with the crafting and enchanting skills. The downtime requirements are defined by the target item.
+* Craft: The character may work on creating new items. See Crafting.
+* Downtime spells: Some spells have options for use during downtime. See Magic.
 * Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier.
 
 ### Interrupting Downtime
