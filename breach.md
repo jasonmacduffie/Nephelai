@@ -125,7 +125,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
 * **Schoolmage Spell Caster:** The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
-* **Devout Spell Caster:** The character has training as a Devout. The character may be a Devout of an Agathos, or of the clouds. The character may cast spells from the Devout list aligned with the character's deity. Devouts spend one hour worshipping their deity, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Devout Spell Caster:** The character has training as a Devout, who relies on support from a Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
@@ -299,13 +299,16 @@ Soul Burn represents strain between the character and the magical source of powe
 
 #### Magical Gifts
 
-Characters do not know how to cast spells, without a corresponding Gift. The three Gifts that control access to magic are below:
+Characters do not know how to cast spells, without a corresponding Gift. The four Gifts that control access to magic are below:
 
 * **Schoolmage Spell Caster**
 * **Devout Spell Caster**
 * **Invoker Spell Caster**
+* **Ardent Spell Caster**
 
 Devouts and Invokers do not learn spells. However, their powers come from a relationship to an external deity, so they are limited to that deity's portfolio.
+
+Ardents are similar to Devouts and Invokers, but learn spells through a specific eccentric lifestyle. They are limited to spells compatible with their lifestyle.
 
 Schoolmages cast spells through knowledge of specific formulae. While they are not restricted by divine portfolio, they must research spells to cast them.
 
@@ -352,14 +355,6 @@ The caster's enemies feel a powerful aura of discouragement, dampening their mor
 * Skill: Spiritual
 
 The caster forces a target summoned creature to phase back into its home sphere.
-
-### Bless
-
-* Difficulty: Good (+1)
-* Cast by: Devout
-* Skill: Mental
-
-The caster becomes surrounded by an aura of support, raising the morale of their allies.
 
 ### Blight
 
@@ -548,14 +543,6 @@ Sentient mortals and animals light up in the vision of the caster. Sentient mort
 
 The caster removes ongoing magical effects imposed on itself or a target.
 
-### Divine Favor
-
-* Difficulty: Fair (0)
-* Cast by: Devout
-* Skill: Mental
-
-The caster becomes slightly more lucky in all things.
-
 ### Doom
 
 * Difficulty: Fair (0)
@@ -614,17 +601,17 @@ The caster touches a creature with healing energy that stabilizes injuries.
 
 Select a target character. If the target is Near Death, then the target is no longer Near Death.
 
+### Hope
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Mental
+
+The caster becomes surrounded by an aura of support, raising the morale of their allies.
+
 #### Downtime Activity
 
 Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
-
-### Hex
-
-* Difficulty: Fair (0)
-* Cast by: Invoker
-* Skill: Mental
-
-The caster's target becomes slightly less lucky in all things.
 
 ### Ice Bolt
 
