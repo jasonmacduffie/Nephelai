@@ -329,6 +329,14 @@ The moment a character is Near Death, the same character will die in one hour wi
 
 Wounds require a full week of downtime to heal. After a week of rest, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, the same character cannot roll Medicine for the same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
 
+Social Conflict
+---
+Characters do not resolve every conflict through violence. Many situations call for diplomacy, negotiation, and social awareness. These may test the characters' skill, and carry significant consequences for failure.
+
+Before calling for a social skill check, a GM must clarify two things: leverage of the attempt, and stakes of the outcome. The player should clearly communicate any leverage the character should have in this situation. It does not make sense to call for an Intimidation check, without clearly describing the threat being made. The GM should modify the difficulty level according to the actual leverage.
+
+A social skill check usually does not carry a binary result. The stakes may contains partial failure, partial success, and neutral outcomes. GMs should interpret the outcome of the roll according to this spectrum.
+
 Magic
 ---
 The world is full of magic, but that does not make it easy to wield. Even simple magic requires years of training to master, and even masters fail sometimes.
