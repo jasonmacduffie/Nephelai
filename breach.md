@@ -43,12 +43,14 @@ Race, background, and faction allegiance are all important to a character concep
 
 To create a character:
 
-1. All attributes start at Terrible.
-2. All skills start at Poor.
-3. Characters have 60 EP which may be spent to raise skills or attributes, according to the below table.
-4. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
+1. All attributes and skills start at Poor.
+2. Characters have 60 EP which may be spent to raise skills or attributes.
+3. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
 
-* From **Terrible** to **Poor** costs 3 EP for attributes.
+### EP Spend Table
+
+The below table is used for both character creation and advancement.
+
 * From **Poor** to **Mediocre** costs 1 EP for skills, and 3 EP for attributes.
 * From **Mediocre** to **Fair** costs 1 EP for skills, and 3 EP for attributes.
 * From **Fair** to **Good** costs 2 EP for skills, and 6 EP for attributes.
@@ -152,7 +154,7 @@ Character Advancement
 ---
 Characters gain 2 EP per game session. Only characters who participated in the session are rewarded EP. EP may be spent freely on a skill if that skill was reasonably used in the field since the last advancement. It is also possible for characters to train unused skills through downtime.
 
-There may be several game sessions over the course of a single in-game week. Characters gain 2 EP for each real life game session, regardless of the in-game time that passes. If a player switches between characters within a single session, then the last character in the field is awarded the 2 EP.
+There may be several game sessions over the course of a single in-game week. Characters gain 2 EP for each real life game session, regardless of the in-game time that passes. If a player switches between characters within a single session, then the last character in the field is rewarded the 2 EP.
 
 Equipment
 ---
