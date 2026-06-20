@@ -627,6 +627,23 @@ The caster removes ongoing magical effects imposed on itself or a target.
 
 A single target the caster chooses becomes overwhelmed by dread.
 
+### Enchant With Flames
+
+* Difficulty: Great (+2)
+* Cast by: Schoolmage
+* Skill: Enchanting
+
+The caster fastens a bound soul to a melee weapon, to add a fire based attack. This spell has no field effect; it may only be taken as a downtime activity.
+
+#### Downtime Activity
+
+This spell requires a target melee weapon and a target gem containing a trapped soul. At the end of the week, roll a Spells: Enchanting skill check.
+
+* **Fair or worse:** The melee weapon and gem are both destroyed.
+* **Good:** The weapon is successfully enchanted with a fire attack, adding +1 damage.
+* **Great:** The weapon is successfully enchanted with a fire attack, adding +2 damage.
+* **Superb or better:** The weapon is successfully enchanted with a fire attack, adding +3 damage.
+
 ### Enthrall
 
 * Difficulty: Good (+1)
@@ -816,6 +833,14 @@ The caster targets one or more creatures to fall asleep.
 * Skill: Spiritual
 
 The caster calls forth a creature from another sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the allegiance of the caster.
+
+### Trap Soul
+
+* Difficulty: Great (+2)
+* Cast by: Schoolmage, Invoker
+* Skill: Spiritual
+
+The caster transfers the soul of a creature into a gem. To cast this spell, the caster must have a gem worth 500 Drachma (ud) or more. Select a target creature that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
 
 ### Turn Undead
 
