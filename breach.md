@@ -850,6 +850,24 @@ The caster transfers the soul of a creature into a gem. To cast this spell, the 
 
 The caster compels nearby undead creatures to flee.
 
+### War Puppet
+
+* Difficulty: Good (+1)
+* Cast by: Schoolmage
+* Skill: Enchanting
+
+The caster fastens a bound soul to a wooden mannequin, to construct an unintelligent automaton. This spell has no field effect; it may only be taken as a downtime activity.
+
+#### Downtime Activity
+
+This spell requires a wooden mannequin costing 1000 Drachma (ud) and a target gem containing a trapped soul. At the end of the week, roll a Spells: Enchanting skill check.
+
+* **Fair or worse:** The gem is destroyed. The mannequin is not harmed.
+* **Good:** The gem and mannequin are not harmed, but the attempt is not successful.
+* **Great or better:** The mannequin is brought to life successfully.
+
+War Puppets can only follow simple commands like "go there", "attack him", and "stay put". War Puppets can only attack with melee weapons.
+
 ### Water Breathing
 
 * Difficulty: Good (+1)
