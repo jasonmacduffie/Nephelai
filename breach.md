@@ -491,7 +491,7 @@ The caster either (A) transforms an area into holy ground or (B) seals a Cthonic
 
 ##### Sanctify Ground
 
-Select a target area measuring 1000 square feet or less. Roll a Spells: Spiritual skill check.
+Select a target area measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The area becomes holy ground for one month.
@@ -500,12 +500,29 @@ Select a target area measuring 1000 square feet or less. Roll a Spells: Spiritua
 
 ##### Seal Breach
 
-Select a target Cthonic breach measuring 1000 square feet or less. Roll a Spells: Spiritual skill check.
+Select a target Cthonic breach measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The Cthonic breach is suppressed for one month.
 * **Great:** The Cthonic breach is suppressed for one year.
 * **Superb or better:** The Cthonic breach is permanently removed.
+
+### Cthonic Ward
+
+* Difficulty: Good (+1)
+* Cast by: Ardent
+* Skill: Enchanting
+
+The caster crafts paper talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
+
+#### Downtime Activity
+
+At the beginning of the week, spend 5 Drachma (ud). At the end of the week, roll a Spells: Enchanting skill check.
+
+* **Fair or worse:** Nothing happens.
+* **Good:** One talisman is successfully crafted.
+* **Great:** Two talismans are successfully crafted.
+* **Superb or better:** Three talismans are successfully crafted.
 
 ### Cure Wounds
 
@@ -542,7 +559,7 @@ The caster either (A) removes the effect of holy ground or (B) opens a Cthonic b
 
 ##### Remove Holy Ground
 
-Select a target holy ground measuring 1000 square feet or less. Roll a Spells: Spiritual skill check.
+Select a target holy ground measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The holy ground is suppressed for one month.
@@ -551,7 +568,7 @@ Select a target holy ground measuring 1000 square feet or less. Roll a Spells: S
 
 ##### Open Breach
 
-Select a target area measuring 1000 square feet or less. Roll a Spells: Spiritual skill check.
+Select a target area measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The area becomes a Cthonic breach for one month.
