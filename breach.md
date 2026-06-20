@@ -513,11 +513,11 @@ Select a target Cthonic breach measuring 1000 square feet or less. Roll a Spells
 * Cast by: Ardent
 * Skill: Enchanting
 
-The caster crafts paper talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
+The caster crafts talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
 
 #### Downtime Activity
 
-At the beginning of the week, spend 5 Drachma (ud). At the end of the week, roll a Spells: Enchanting skill check.
+At the beginning of the week, spend 30 Drachma (ud). At the end of the week, roll a Spells: Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** One talisman is successfully crafted.
