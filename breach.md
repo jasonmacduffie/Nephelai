@@ -132,7 +132,9 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
 * **Aura Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the aura is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul is not visible at all. The character may not take the Conspicuous Aura fault.
+* **Hardy Constitution:** The character can shrug off disease and poison more easily than others. The character may not take the Frail Constitution fault.
 * **Hold Breath:** The character can stop breathing for five minutes, without any negative effects.
+* **Night Vision:** The character can see in total darkness as if it were low light, and can see in low light as if it were daylight.
 * **Provincial Friend:** The character has widespread support from the residents of a specific province. The character may not take the Provincial Enemy fault for the same province.
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
 * **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachma (ud).
@@ -145,6 +147,7 @@ Faults are unranked traits that make life difficult for a character. Faults may 
 * **Conspicuous Aura:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Aura Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
 * **Doctrinaire:** The character is deeply committed to a dogmatic worldview, and refuses to act in a way that compromises its principles.
+* **Frail Constitution:** The character is more vulnerable to disease and poison than otheres. The character may not take the Hardy Constitution gift.
 * **Greedy:** The character searches for wealth, and hoards it. The character is not cooperative in situations requiring sharing resources.
 * **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
 * **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
