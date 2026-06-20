@@ -98,7 +98,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 * **Crafting:** Fashioning and repairing weapons and armor.
 * **Languages:** Reading, writing, and speaking multiple languages.
-* **Investigation:** Searching scenes for clues.
+* **Investigation:** Searching for clues, detecting intentions, and probing for deception.
 * **Lore: History:** Knowledge of the deep past.
 * **Lore: Magic & Cosmology:** Knowledge of magic, the soul, and cosmic spheres.
 * **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
