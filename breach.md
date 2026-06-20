@@ -200,6 +200,8 @@ Combat is divided into *rounds* and *turns*. Every combatant takes a turn every 
 
 Once it is clear combat is starting, all combatants roll a Physique check. This is called rolling for initiative. The turn order begins with the one whose Physique check was the greatest, descending. Once all combatants have taken their turn for the round, the next round begins. Initiative is only rolled once at the beginning of combat, not every round.
 
+If a player character is tied with an enemy for initiative, then the player character wins the tie. If two or more characters from the same team are adjacent or tied in initiative, then the characters may freely exchange turn orders.
+
 #### Actions
 
 Every turn consists of movement, and a major action. Examples of major actions are attacking, using an item, or casting a spell. Examples of movement are running up to an enemy, running away to escape, or changing position. Characters are always allowed to skip movement, skip major action, or skip both.
