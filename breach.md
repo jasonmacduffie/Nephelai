@@ -856,7 +856,7 @@ The caster compels nearby undead creatures to flee.
 * Cast by: Schoolmage
 * Skill: Enchanting
 
-The caster fastens a bound soul to a wooden mannequin, to construct an unintelligent automaton. This spell has no field effect; it may only be taken as a downtime activity.
+The caster fastens a bound soul to a wooden mannequin, to construct an mindless automaton. This spell has no field effect; it may only be taken as a downtime activity.
 
 #### Downtime Activity
 
