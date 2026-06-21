@@ -47,7 +47,7 @@ To create a character:
 
 ### EP Spend Table
 
-The below table is used for both character creation and advancement.
+The below table is used for both character creation and advancement. For player characters, attributes and skills stay within the range of Poor to Superb.
 
 * From **Poor** to **Mediocre** costs 1 EP for skills, and 3 EP for attributes.
 * From **Mediocre** to **Fair** costs 1 EP for skills, and 3 EP for attributes.
