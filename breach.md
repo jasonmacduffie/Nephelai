@@ -35,7 +35,7 @@ Character creation
 ---
 Characters have four kinds of traits: Attributes, Skills, Gifts, and Faults. Attributes and Skills are ranked according to the Fudge ladder. Gifts and Faults are either present or not present, and do not have a rank on the Fudge ladder.
 
-Race, background, and faction allegiance are all important to a character concept. The world will react to characters differently based on these details, but they are not tracked as game mechanics. Instead, character capabilities are fully expressed by their traits.
+Race, background, and faction allegiance are all important to a character concept. The world will react to characters differently based on these details. Regardless of these details, character capabilities are fully expressed by their traits. Whether to handle player character race mechanically is addressed in Appendix B: Races.
 
 ### Assigning Traits
 
