@@ -84,13 +84,13 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
 * **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
 * **Brawling:** Punching, kicking, and grappling. Brawling may be used for attack and defense rolls.
-* **Concealed Weapons:** Hiding small weapons, and using them to strike outside of combat. Concealed Weapons is used for attack rolls, in such cases. Outside of combat, the Concealed Weapons skill is used for smuggling small items on one's person.
-* **Melee Weapons:** Fighting in close quarters with swords, maces, spears, and clubs. Melee Weapons is used for attack and defense rolls. Outside of combat, the Melee Weapons skill is used for striking objects with actual or improvised blades and clubs.
-* **Ranged Weapons:** Shooting projectile weapons, and throwing thrown weapons. Ranged Weapons is used for attack rolls. Outside of combat, the Ranged Weapons skill is used for throwing various objects.
 * **Riding & Driving:** Riding animals and driving vehicles.
 * **Sleight of Hand:** Palming, planting, and picking pockets.
 * **Sneaking:** Hiding and moving silently.
 * **Survival:** Tracking and foraging in the wilderness.
+* **Weapons: Concealed:** Hiding small weapons, and using them to strike outside of combat. Weapons: Concealed is used for attack rolls, in such cases. Outside of combat, the Weapons: Concealed skill is used for smuggling small items on one's person.
+* **Weapons: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Weapons: Melee is used for attack and defense rolls. Outside of combat, the Weapons: Melee skill is used for striking objects with actual or improvised blades and clubs.
+* **Weapons: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Weapons: Ranged is used for attack rolls. Outside of combat, the Weapons: Ranged skill is used for throwing various objects.
 
 #### Intellect Skills
 
@@ -221,21 +221,21 @@ Close-quarters combat is an opposed check. Defensive rolls are automatic and do 
 
 Shooting or throwing weapons are static checks.
 
-* **The Roll:** Attacker makes an unopposed 4dF + Ranged Weapons skill check.
+* **The Roll:** Attacker makes an unopposed 4dF + Weapons: Ranged skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**.
 
 ##### Concealed Weapons
 
-The Concealed Weapons skill may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
+Concealed attacks may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
-When the character is preparing to strike, the attacker must take an opposed action using the Concealed Weapons skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
+When the character is preparing to strike, the attacker must take an opposed action using the Weapons: Concealed skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
 
 * **If the defender wins the roll:** Then the target is aware of the concealed weapon. The GM should call for initiative.
 * **If the attacker wins the roll:** Then the target is unaware of the concealed weapon. The attacker may wait for an opportune moment to attack.
 
 Even if the weapon is indeed concealed, the strike is not guaranteed to land. A final roll must be made to resolve the attack.
 
-* **The Roll:** Attacker makes an unopposed 4dF + Concealed Weapons skill check.
+* **The Roll:** Attacker makes an unopposed 4dF + Weapons: Concealed skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**. If the blow does not land, the GM should call for initiative.
 
 #### Calculating Damage
