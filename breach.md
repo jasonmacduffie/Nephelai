@@ -1037,10 +1037,10 @@ Do not give Humans any mandatory gift or fault. Humans are the baseline.
 ### Dwarves
 
 * **Gift: Environmental Training:** The character resists harm from extreme heat and cold.
-* **Fault: Cave Dweller:** The character sees better in darkness, than in daylight. While in daylight, give the character a penalty equal to low light for a Human.
+* **Fault: Cave Dweller:** The character sees better in darkness, than in daylight. While in daylight, the character suffers the same penalty a Human would suffer in low light.
 
 ### Halflings
 
-* **Gift: Etiquette Training:** The character gets +1 on social rolls in formal situations.
-* **Fault: Small Stature:** The character cannot wield greatswords, and needs two hands to wield longswords.
+* **Gift: Etiquette Training:** Halflings are obsessed with etiquette. The character gets +1 on social rolls in formal situations.
+* **Fault: Small Stature:** The character cannot wield greatswords, and must use two hands to wield longswords.
 
