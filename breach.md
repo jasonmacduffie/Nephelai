@@ -1021,3 +1021,26 @@ The Academy of Knowledge is granted special license by the Empire to study dange
 * **What They Want:** Total freedom in conducting dangerous experiments.
 * **What They Hate:** Suppression of research breakthroughs in the name of social order.
 
+Appendix B: Races
+---
+The GM may choose whether to represent player character race mechanically, or not. The simplest way to represent player character race is by giving each race one mandatory Gift and one mandatory Fault, during character creation. Regardless of whether race is represented mechanically, the GM should also think about how the player character's race fits into the broader world. NPCs should treat the characters differently, based on character race.
+
+### Humans
+
+Do not give Humans any mandatory gift or fault. Humans are the baseline.
+
+### Elves
+
+* **Gift: Keen Senses:** The character cannot be surprised by mundane means.
+* **Fault: Elvish Aloofness:** The character suffers -1 on initiative rolls.
+
+### Dwarves
+
+* **Gift: Environmental Training:** The character resists harm from extreme heat and cold.
+* **Fault: Cave Dweller:** The character sees better in darkness, than in daylight. While in daylight, give the character a penalty equal to low light for a Human.
+
+### Halflings
+
+* **Gift: Etiquette Training:** The character gets +1 on social rolls in formal situations.
+* **Fault: Small Stature:** The character cannot wield greatswords, and needs two hands to wield longswords.
+
