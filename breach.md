@@ -996,20 +996,20 @@ GMs should be generous with enemy gifts and flaws. These are the main lever to m
 
 Appendix A: Factions
 ---
-Every campaign revolves around interacting factions. Players may belong to a single faction, or they may represent several factions who have combined forces to achieve a common goal. If players belong to several factions, then conflicts of interest will naturally arise, creating friction between player characters. This may be interesting, or a nuisance. Players and GMs are encouraged to tailor faction lists to each campaign.
+Every campaign revolves around interacting factions. Players may belong to a single faction, or the party may represent several factions working uneasily towards a common goal. If players belong to several factions, then conflicts of interest will naturally arise, creating friction between player characters. This may be a source of compelling drama, if that is the table's goal. Players and GMs are encouraged to tailor faction lists to each campaign.
 
-The factions provided below are fundamentally interdependent and publicly cooperative. They all want the Empire to thrive, because they all depend on the Empire's legitimacy to support their wealth and power. Even so, the Empire contains many contradictions. Each faction necessarily protects its own monopoly and jurisdictional boundaries, in order to safeguard its own share of the Empire's wealth.
+The factions provided below are publicly cooperative but privately territorial. They all want the Empire to thrive, because they all depend on the Empire's legitimacy to support their wealth and power. Even so, the Empire contains many contradictions. Each faction necessarily protects its own monopoly and jurisdictional boundaries, in order to safeguard its own share of the Empire's wealth.
 
 ### The Royal Guard
 
-The Royal Guard are the Empire's elite police. Filling the Royal Guard's ranks are legions of soldiers, spies, battlemages, and inquisitors. They are a disciplined force that patrols trade roads and city streets. While the Royal Guard is formally the highest law in the land, the Guard aggressively monitors rival factions to ensure their power does not grow out of hand.
+The Royal Guard are the Empire's elite police. The Guard fields soldiers, spies, battlemages, and inquisitors. They are a disciplined force that patrols trade roads and city streets. While the Royal Guard is formally the highest law in the land, the Guard aggressively monitors rival factions to ensure their power does not grow out of hand.
 
 * **What They Want:** Total jurisdiction to monitor other factions and check their power.
 * **What They Hate:** Independent power centers, and public incidents that would undermine the Empire's legitimacy.
 
 ### The Artisans Guild
 
-The Artisans Guild holds a legal monopoly over the Empire's military equipment and urban infrastructure. While the Guild depends on the Empire for security, it is wary of regulation of its affairs. The Guild has no loyalty to the Empire, and would trade the Empire's legitimacy for any other faction capable of upholding contracts and protecting merchants. The Artisans Guild is also wary of technological breakthroughs the Academy of Knowledge may advance, which would break the Artisans Guild monopoly. The Artisans Guild has an operative wing of field agents trained in combat, stealth, and magic. The Artisans Guild also maintains a stockpile of advanced magical technology, hoarded from ancient ruins.
+The Artisans Guild holds a legal monopoly over the Empire's military equipment and urban infrastructure. While the Guild depends on the Empire for security, it resents regulation of its affairs. The Guild has no ideological loyalty to the Empire, and would trade the Empire's legitimacy for any other faction capable of upholding contracts and protecting merchants. The Guild maintains an operative wing of field agents trained in combat, stealth, and magic.
 
 * **What They Want:** Total monopoly over all crafts, with zero oversight.
 * **What They Hate:** Regulation, oversight, and technological breakthroughs from the Academy.
