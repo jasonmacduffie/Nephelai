@@ -94,13 +94,13 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 #### Intellect Skills
 
-* **Crafting:** Fashioning and repairing weapons and armor.
+* **Alchemy:** Mixing potions and poisons.
 * **Languages:** Reading, writing, and speaking multiple languages.
 * **Investigation:** Searching for clues, detecting intentions, and probing for deception.
 * **Lore: History:** Knowledge of the deep past.
-* **Lore: Magic & Cosmology:** Knowledge of magic, the soul, and cosmic spheres.
 * **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
 * **Medicine:** Treating wounds and diagnosing illnesses.
+* **Smithing:** Fashioning and repairing weapons and armor.
 * **Spells: Elemental:** Casting magic that manipulates the elements.
 * **Spells: Enchanting:** Imbuing objects and places with magic.
 * **Spells: Physical:** Casting magic that bends the laws of physics.
@@ -115,7 +115,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Persuasion:** Convincing others.
 * **Philosophy:** Understanding ethical and metaphysical debates.
 * **Spells: Mental:** Casting magic that influences the minds of others.
-* **Spells: Spiritual:** Casting magic that interacts with souls.
+* **Spells: Spiritual:** Casting magic that interacts with souls. The Spells: Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
 * **Streetwise:** Navigating the criminal underworld.
 
 ### Gifts and Faults
@@ -911,22 +911,22 @@ If a character is benched, there are standard activities they may perform for th
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
 * Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
 * Buy and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
-* Craft: The character may work on creating new items. See Crafting.
+* Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
 * Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier.
 
 ### Interrupting Downtime
 A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
 
-Crafting
+Smithing
 ---
-Crafting during downtime allows the creation of items which are superior to standard options. See the below difficulty rules.
+Smithing during downtime allows the creation of items which are superior to standard options. See the below difficulty rules.
 
 1. Start at Fair (0).
 2. If the item is a weapon, armor, or shield, add +1 to the difficulty.
 3. If the item is a concealed weapon, add +1 to the difficulty.
 
-Crafting standard equipment requires one week of downtime. At the beginning of the week, spend money equal to the value of the standard item. At the end of the week, roll a Crafting check versus the craft difficulty.
+Smithing standard equipment requires one week of downtime. At the beginning of the week, spend money equal to the value of the standard item. At the end of the week, roll a Smithing check versus the craft difficulty.
 
 * **Fair or worse:** The attempt fails. The spent money is lost, and no item is created.
 * **Good:** The newly crafted item gives a +1 bonus to the standard effect.
