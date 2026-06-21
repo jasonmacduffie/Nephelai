@@ -42,7 +42,7 @@ Race, background, and faction allegiance are all important to a character concep
 To create a character:
 
 1. All attributes and skills start at Poor.
-2. Characters have 65 EP which may be spent to raise skills or attributes.
+2. Characters have 60 EP which may be spent to raise skills or attributes.
 3. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
 
 ### EP Spend Table
