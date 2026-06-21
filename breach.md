@@ -84,9 +84,9 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
 * **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
 * **Brawling:** Punching, kicking, and grappling. Brawling may be used for attack and defense rolls.
-* **Concealed Weapons:** Hiding small weapons, and using them to strike outside of combat. Concealed Weapons is used for attack rolls, in such cases.
-* **Melee Weapons:** Fighting in close quarters with swords, maces, spears, and clubs. Melee Weapons is used for attack and defense rolls.
-* **Ranged Weapons:** Shooting projectile weapons, and throwing thrown weapons. Ranged Weapons is used for attack rolls.
+* **Concealed Weapons:** Hiding small weapons, and using them to strike outside of combat. Concealed Weapons is used for attack rolls, in such cases. Outside of combat, the Concealed Weapons skill is used for smuggling small items on one's person.
+* **Melee Weapons:** Fighting in close quarters with swords, maces, spears, and clubs. Melee Weapons is used for attack and defense rolls. Outside of combat, the Melee Weapons skill is used for striking objects with actual or improvised blades and clubs.
+* **Ranged Weapons:** Shooting projectile weapons, and throwing thrown weapons. Ranged Weapons is used for attack rolls. Outside of combat, the Ranged Weapons skill is used for throwing various objects.
 * **Riding & Driving:** Riding animals and driving vehicles.
 * **Sleight of Hand:** Palming, planting, and picking pockets.
 * **Sneaking:** Hiding and moving silently.
