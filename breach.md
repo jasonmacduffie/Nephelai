@@ -5,7 +5,7 @@ Introduction
 ---
 Breach is a build of the Fudge RPG engine designed to work with the Nephelai campaign setting.
 
-Breach is designed to capture a world where combat is dangerous for the strong and magic is challenging for the wise. Player characters are competent, but vulnerable, and depend on factions for support. Player characters are agents of influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. While individual characters may die, the mission continues through the rest of the group.
+Breach is designed to capture a world where combat is dangerous for the strong and magic is challenging for the wise. Player characters are competent, but vulnerable, and depend on factions for support. Player characters are agents of influential factions like temples, guilds, academies, temples, military regiments, philosophic lodges, and mercenary companies. While individual characters may die, the mission continues through the rest of the group.
 
 One player must be the game master, to run the story. One or more players control player characters. Players are expected to maintain a roster of player characters, because there are long periods of downtime where characters must remain benched to recover from their adventures. Think of Breach as a TV series with a large ensemble cast. You may care about individual characters, and their personal stories matter, but the deeper story is larger than any one of them. Each session, the adventure follows several characters into the field while the rest of the player characters continue their lives off-screen. The drama hinges on whether the group, as a whole, advances its goals.
 
