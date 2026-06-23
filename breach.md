@@ -1017,11 +1017,14 @@ Every campaign revolves around interacting factions. Players may belong to a sin
 
 The factions provided below are publicly cooperative but privately territorial. They all want the Empire to thrive, because they all depend on the Empire's legitimacy to support their wealth and power. Even so, the Empire contains many contradictions. Each faction necessarily protects its own monopoly and jurisdictional boundaries, in order to safeguard its own share of the Empire's wealth.
 
-### The Royal Guard and The Imperial Cult
+### The Yargyez Empire
 
-The Royal Guard are the Empire's elite police. The Guard fields soldiers, spies, and battlemages. They are a disciplined force that patrols trade roads and city streets. While the Royal Guard is formally the highest law in the land, the Guard aggressively monitors rival factions to ensure their power does not grow out of hand.
+The Yargyez Empire is the highest law of the land. Power is brokered between four groups: House Yargyez, the Imperial Council, the Royal Guard, and the Imperial Cult. In order to maintain its hegemony, the Empire strongly forbids internal factionalism between these four branches.
 
-The Empire is a hereditary dynasty, but the legitimacy of the Emperor depends on his election by the six Archbishops of the Imperial Cult. In practice, the Royal Guard and the Imperial Cult are closely aligned, and fully cooperate at the highest levels. Even so, the six Archbishops have the right to declare the Emperor unfit for his divinely appointed office.
+* **House Yargyez** is the Human dynasty that founded the Yargyez Empire, which reunited the continent of Conliah. House Yargyez actively cultivates heirs who are both shrewd politicans and demonstrably pious. House Yargyez views itself as the rightful successor to the ancient Magellian Empire.
+* **The Imperial Council** handles day-to-day administration of the Empire. They decide the laws and unilaterally appoint provincial governors at-will.
+* **The Royal Guard** are the Empire's elite police. The Guard fields soldiers, spies, and battlemages. They are a disciplined force that patrols trade roads and city streets.
+* **The Imperial Cult** is the state religion of the Yargyez Empire. The Empire is a hereditary dynasty, but the legitimacy of the Emperor depends on his election by the six Archbishops of the Imperial Cult. The six Archbishops have the right to declare the Emperor unfit for his divinely appointed office.
 
 * **What They Want:** Total jurisdiction to monitor other factions and check their power.
 * **What They Hate:** Independent power centers, and public incidents that would undermine the Empire's legitimacy.
