@@ -1014,9 +1014,11 @@ Every campaign revolves around interacting factions. Players may belong to a sin
 
 The factions provided below are publicly cooperative but privately territorial. They all want the Empire to thrive, because they all depend on the Empire's legitimacy to support their wealth and power. Even so, the Empire contains many contradictions. Each faction necessarily protects its own monopoly and jurisdictional boundaries, in order to safeguard its own share of the Empire's wealth.
 
-### The Royal Guard
+### The Royal Guard and The Imperial Cult
 
-The Royal Guard are the Empire's elite police. The Guard fields soldiers, spies, battlemages, and inquisitors. They are a disciplined force that patrols trade roads and city streets. While the Royal Guard is formally the highest law in the land, the Guard aggressively monitors rival factions to ensure their power does not grow out of hand.
+The Royal Guard are the Empire's elite police. The Guard fields soldiers, spies, and battlemages. They are a disciplined force that patrols trade roads and city streets. While the Royal Guard is formally the highest law in the land, the Guard aggressively monitors rival factions to ensure their power does not grow out of hand.
+
+In addition to being the head of state, the Emperor is also the head of the Imperial Cult. While the Imperial Cult has its own clerical hierarchy separate from the Royal Guard, the two organizations work closely together at the highest levels. The Imperial Cult deploys inquisitors who hunt heretics and Archon worshippers.
 
 * **What They Want:** Total jurisdiction to monitor other factions and check their power.
 * **What They Hate:** Independent power centers, and public incidents that would undermine the Empire's legitimacy.
