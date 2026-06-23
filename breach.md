@@ -1051,3 +1051,40 @@ Below are examples, given for inspiration.
 * **Dwarves:** *Tundra Hardened* and *Cave Dweller*.
 * **Halflings:** *Light Footed* and *Small Stature*.
 
+Appendix C: Religion and Philosophy
+---
+
+### Religion
+
+In Nephelai, religion is divided between the benevolent but distant Agathoi, and the communicative but corrupting Archons.
+
+Archon worship is illegal and socially unacceptable. The Imperial Cult deploys inquisitors who hunt down Archon worshippers.
+
+#### Agathoi
+
+Devouts of the Agathoi are not inherently loyal to the Imperial Cult. The Imperial Cult, as an organization, has no power to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
+
+* **Iazus** of storms and law.
+* **Inidilt** of agriculture and seasons.
+* **Burrue** of beauty and philosophy.
+* **Lidnozie** of wilderness and the full moon.
+* **Ereng** of marriage and family.
+* **Izdoeng** of peace and fraternal love.
+
+#### Archons
+
+* **Ulviazing** of dreams and illusions.
+* **Ogzim** of darkness and silence.
+* **Igedeng** of knowledge and necromancy.
+* **Lize** of war and torture.
+* **Lundazing** of rebellion and power.
+* **Inizozim** of retribution and plots.
+
+### Philosophy
+
+There are many different schools of thought that Ardents belong to.
+
+* **Symphonists** believe in beauty.
+* **Destructivists** believe in moral outrage.
+* **Freneticists** believe in frenzy.
+
