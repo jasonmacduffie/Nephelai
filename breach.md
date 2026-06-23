@@ -997,16 +997,16 @@ Establish what tier of weapons and armors are in use. If heavy weapons and armor
 
 Monstrous enemies may have higher attack and defense than what is provided here.
 
-### Gifts and Flaws
+### Gifts and Faults
 
-GMs should be generous with enemy gifts and flaws. These are the main lever to make fights more interesting than a brute dice-rolling contest. The below are just examples for GMs to invent custom gifts and flaws.
+GMs should be generous with enemy Gifts and Faults. These are the main lever to make fights more interesting than a brute dice-rolling contest. The below are just examples for GMs to invent custom Gifts and Faults.
 
 #### Gifts
 
 * **Multiple Hits:** This animal may attack once with claws and once with fangs on the same turn.
 * **Terrifying Presence:** Player characters must make a contested Personality roll against this monster's standard modifier. If the player character's roll is strictly less than the monster's, then that character is forced to flee.
 
-#### Flaws
+#### Faults
 
 * **Phobia: Fire:** This animal will refuse to attack a character swinging a torch.
 * **Greedy:** This grunt will readily give up a fight, in exchange for a bribe.
