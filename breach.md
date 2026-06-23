@@ -146,7 +146,6 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
 * **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachma (ud) every week, to feed this addiction.
-* **Aloof:** The character suffers -1 on initiative rolls.
 * **Cave Dweller:** While in daylight, the character sees as well in daylight as the average person may see in low light.
 * **Conspicuous Soul:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Soul Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
@@ -156,6 +155,7 @@ Faults are unranked traits that make life difficult for a character. Faults may 
 * **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
 * **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
 * **Small Stature:** The character is exceptionally short. The character cannot wield two-handed weapons, and must use two hands to large one-handed weapons.
+* **Tuned Out:** The character is a bit spacey, and is slow to react to the beginning of combat. The character suffers -1 on initiative rolls.
 * **Watched By Authority:** The character is being personally followed by operatives of another major faction.
 
 Character Advancement
