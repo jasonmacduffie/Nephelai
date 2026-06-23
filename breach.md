@@ -128,7 +128,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Devout Spell Caster:** The character has training as a Devout, who relies on support from a Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
-* **Ambidextrous:** The character is competent with both arms. Even if the character's dominant arm is crippled, the character takes only a -1 penalty.
+* **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
 * **Etiquette Training:** The character gets +1 on social rolls in formal situations.
 * **Hardy Constitution:** The character can shrug off disease and poison more easily than others. The character may not take the Frail Constitution fault.
 * **Hold Breath:** The character can stop breathing for five minutes, without any negative effects.
@@ -318,13 +318,12 @@ When a rule says to roll for a wound, roll 3dF and consult the below table to se
 
 One wound bubble on any body part has no mechanical penalty. However, wounds do not heal outside of a fight without medical attention.
 
-If two wound bubbles are filled on a body part, there is a mechanical penalty. The effect depends on the body part.
+If two wound bubbles are filled on a body part, there is a mechanical penalty. The body part is said to be Crippled. The effect depends on the body part.
 
 * **One leg:** The character moves at half speed.
 * **Two legs:** The character cannot move, and is Incapacitated.
-* **One arm (dominant):** The character takes a -2 penalty to attacks.
-* **One arm (non-dominant):** The character takes a -1 penalty to attacks.
-* **Two arms:** The character cannot attack, and is Incapacitated.
+* **One arm:** The character loses use of the Crippled arm, and may not use shields or two-handed weapons. If the Crippled arm is dominant, then the character takes a -2 penalty to attack and defense rolls.
+* **Two arms:** The character cannot attack or defend, and is Incapacitated.
 * **Head, Abdomen, or Chest:** The character is Incapacitated.
 
 If two wound bubbles on a body part are ever full, and another wound bubble would need to be filled out, then the character is Near Death.
