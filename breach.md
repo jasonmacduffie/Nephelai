@@ -35,7 +35,7 @@ Character creation
 ---
 Characters have four kinds of traits: Attributes, Skills, Gifts, and Faults. Attributes and Skills are ranked according to the Fudge ladder. Gifts and Faults are either present or not present, and do not have a rank on the Fudge ladder.
 
-Race, background, and faction allegiance are all important to a character concept. The world will react to characters differently based on these details. Regardless of these details, character capabilities are fully expressed by their traits. Whether to handle player character race mechanically is addressed in Appendix B: Races.
+Race, background, and faction allegiance are all important to a character concept. The world will react to characters differently based on these details. Regardless of these details, character capabilities are fully expressed by their traits. There are optional rules to handle assumptions about strong biological differences in Appendix B: Fantasy Species.
 
 ### Assigning Traits
 
@@ -1021,9 +1021,9 @@ The Academy of Knowledge is granted special license by the Empire to study dange
 * **What They Want:** Total freedom in conducting dangerous experiments.
 * **What They Hate:** Suppression of research breakthroughs in the name of social order.
 
-Appendix B: Races
+Appendix B: Fantasy Species
 ---
-The GM may choose whether to represent player character race mechanically, or not. The simplest way to represent player character race is by giving each race one mandatory Gift and one mandatory Fault, during character creation. Regardless of whether race is represented mechanically, the GM should also think about how the player character's race fits into the broader world. NPCs should treat the characters differently, based on character race.
+In the default setting of Nephelai, the practical impact of player character ancestry is minimized in favor of maximum flexibility in EP point spending. Player race matters only as a fact of how the world responds to the player. However, some tables may prefer to enforce stronger biological boundaries between fantasy species. The simplest way to represent player character species is by giving each species on mandatory Gift and one mandatory Fault, during character creation. Unlike chosen Faults, the mandatory Fault can never be bought off for EP.
 
 ### Humans
 
