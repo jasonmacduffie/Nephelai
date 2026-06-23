@@ -178,7 +178,10 @@ At the end of every week, characters earn 10 Drachma (ud) as income from their s
 
 Cost is given in drachma (ud).
 
-*Note: If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.*
+##### Key Words
+
+* **Concealable:** If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.
+* **Heavy:** If an equipped item is Heavy, then Brawling may not be used to attack, nor may Acrobatics or Brawling be used to defend. Also, apply the listed penalty to initiative rolls.
 
 * Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+1).
 * Club - 2 ud. One-handed melee weapon (+1).
@@ -186,7 +189,7 @@ Cost is given in drachma (ud).
 * Longsword - 50 ud. One-handed melee weapon (+2).
 * Mace - 25 ud. One-handed melee weapon (+2).
 * Spear - 10 ud. One-handed melee weapon (+2).
-* Greatsword - 80 ud. Two-handed melee weapon (+3). -1 to initiative.
+* Greatsword - 80 ud. Two-handed melee weapon (+3). Heavy (-1).
 * Sling - 1 ud. Projectile ranged weapon (+1).
 * Shortbow - 15 ud. Projectile ranged weapon (+1).
 * Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+1).
@@ -196,10 +199,10 @@ Cost is given in drachma (ud).
 * Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+2).
 * Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+2).
 * Leather armor - 50 ud. Set of armor (+1).
-* Chainmail - 150 ud. Set of armor (+2). -1 to initiative. You may not use Acrobatics to defend.
-* Plate armor - 800 ud. Set of armor (+3). -2 to initiative. You may not use Acrobatics to defend.
-* Small shield - 15 ud. Shield (+1). You may not use Acrobatics to defend.
-* Tower shield - 40 ud. Shield (+2). -1 to initiative. You may not use Acrobatics to defend.
+* Chainmail - 150 ud. Set of armor (+2). Heavy (-1).
+* Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
+* Small shield - 15 ud. Shield (+1). Heavy (0).
+* Tower shield - 40 ud. Shield (+2). Heavy (-1).
 
 Combat
 ---
