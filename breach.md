@@ -326,6 +326,8 @@ If two wound bubbles are filled on a body part, there is a mechanical penalty. T
 * **Two arms:** The character cannot attack or defend, and is Incapacitated.
 * **Head, Abdomen, or Chest:** The character is Incapacitated.
 
+Casting spells has a somatic component. Each Crippled limb gives a -2 penalty to all spell casting rolls.
+
 If two wound bubbles on a body part are ever full, and another wound bubble would need to be filled out, then the character is Near Death.
 
 If a character is Near Death, and receives another wound, then the character dies.
@@ -359,6 +361,8 @@ To cast a spell, the player first performs a skill check. The magic skill used a
 * If the result of the check is negative, then the negative value gives that many **Soul Burns** to the character.
 
 Soul Burn represents strain between the character and the magical source of power. One or two Soul Burns have no mechanical impact. However, once the third Soul Burn is received, the character is Burned Out. Do not track Soul Burns above three. Being Burned Out means the character cannot cast any more spells. Characters must take eight hours of sleep to recover from Soul Burn. Some magical gifts impose additional requirements beyond sleep. Once the requirements are met, all Soul Burns are removed and the character is no longer Burned Out.
+
+Spells always have verbal and somatic components. A character who is unable to both speak and move cannot cast spells.
 
 #### Magical Gifts
 
