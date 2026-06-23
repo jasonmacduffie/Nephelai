@@ -37,6 +37,8 @@ Characters have four kinds of traits: Attributes, Skills, Gifts, and Faults. Att
 
 Race, background, and faction allegiance are all important to a character concept. The world will react to characters differently based on these details. Regardless of these details, character capabilities are fully expressed by their traits. There are optional rules to handle assumptions about strong biological differences in Appendix B: Fantasy Species.
 
+While traits often provide mechanical advantages, GMs should also interpret traits holistically and narratively. Each trait communicates something about the character's history and how others perceive the character. Certain Gifts and Faults do not convey specific mechanical advantages and disadvantages, but GMs are expected to work these traits into the game.
+
 ### Assigning Traits
 
 To create a character:
