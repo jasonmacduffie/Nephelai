@@ -476,7 +476,7 @@ The caster's voice projects authority that is difficult for nearby listeners to 
 * Cast by: Devout
 * Skill: Spiritual
 
-The caster asks a simple question to an Agathos, and receives a reply in High Tongue.
+The caster asks a simple question to an Agathos, and receives a reply in one or two words of High Tongue. High Tongue is very limited language which can only transmit abstract replies like "Yes", "No", "Justice", and "Danger".
 
 ### Commune With Archon
 
@@ -484,7 +484,7 @@ The caster asks a simple question to an Agathos, and receives a reply in High To
 * Cast by: Invoker
 * Skill: Spiritual
 
-The caster speaks to an Archon through the Archon's cult language.
+The caster may have a two-way conversation with an Archon for one minute.
 
 ### Confession
 
