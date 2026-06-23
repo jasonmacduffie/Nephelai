@@ -43,7 +43,9 @@ To create a character:
 
 1. All attributes and skills start at Poor.
 2. Characters have 60 EP which may be spent to raise skills or attributes.
-3. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
+3. Characters may also spend EP on Gifts and receive bonus EP from taking Faults. No more than 2 Gifts and 2 Faults may be taken during character creation.
+4. Any leftover EP is kept. Players may spend this EP during later character advancement.
+5. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
 
 ### EP Spend Table
 
