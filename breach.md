@@ -3,11 +3,7 @@ Breach RPG
 
 Introduction
 ---
-Breach is a build of the Fudge RPG engine designed to work with the Nephelai campaign setting.
-
-Breach is designed to capture a world where combat is dangerous for the strong and magic is challenging for the wise. Player characters are competent, but vulnerable, and depend on factions for support. Player characters are agents of influential factions like temples, guilds, academies, temples, military regiments, philosophic lodges, and mercenary companies. While individual characters may die, the mission continues through the rest of the group.
-
-One player must be the game master, to run the story. One or more players control player characters. Players are expected to maintain a roster of player characters, because there are long periods of downtime where characters must remain benched to recover from their adventures. Think of Breach as a TV series with a large ensemble cast. You may care about individual characters, and their personal stories matter, but the deeper story is larger than any one of them. Each session, the adventure follows several characters into the field while the rest of the player characters continue their lives off-screen. The drama hinges on whether the group, as a whole, advances its goals.
+Breach is a build of Fudge RPG designed to work with the Nephelai campaign setting.
 
 The Core Mechanic
 ---
@@ -44,10 +40,10 @@ While traits often provide mechanical advantages, GMs should also interpret trai
 To create a character:
 
 1. All attributes and skills start at Poor.
-2. Characters have 60 EP which may be spent to raise skills or attributes.
-3. Characters may also spend EP on Gifts and receive bonus EP from taking Faults. No more than 2 Gifts and 2 Faults may be taken during character creation.
-4. Any leftover EP is kept. Players may spend this EP during later character advancement.
-5. Characters start with 200 Drachma (ud). They may spend this money on starting equipment.
+2. Characters have 60 EP which may be spent to raise skills or attributes. Characters may also spend EP on Gifts and receive bonus EP from taking Faults. No more than 2 Gifts and 2 Faults may be taken during character creation.
+3. Any leftover EP is kept. Players may spend this EP during later character advancement.
+4. Characters start with 200 Drachmas (ud). They may spend this money on starting equipment. See Equipment.
+5. Choose bonus languages, if the character has a Fair or better Languages skill. See Languages.
 
 ### EP Spend Table
 
@@ -63,7 +59,7 @@ The below table is used for both character creation and advancement. For player 
 
 ### Benched Characters
 
-Players may, and are encouraged to, make several player characters. Death is common for adventurers, and even the victors of difficult battles need time to recover. The character creation rules for benched characters are identical to the primary character. See additional rules regarding benched characters in the Downtime section.
+Players may, and are encouraged to, make several player characters. Player characters can die, and even the victors of difficult battles need time to recover. The character creation rules for benched characters are identical to the primary character. See additional rules regarding benched characters in the Downtime section.
 
 Traits
 ---
@@ -77,9 +73,9 @@ There are three attributes. The GM calls for an attribute check in situations wh
 
 ### Skills
 
-There are thirty skills. The GM calls for a skill check in situations where the character is actively using a trained skill.
+There are twenty-seven skills. The GM calls for a skill check in situations where the character is actively using a trained skill.
 
-The thirty skills are grouped by parent attribute, with ten under each attribute. The relationship between skills and attributes is thematic, and usually does not impact gameplay. Specifically, when rolling for a skill check, do not add the parent attribute. Only add the skill.
+The twenty-seven skills are grouped by parent attribute, with ten under each attribute. The relationship between skills and attributes is thematic, and usually does not impact gameplay. Specifically, when rolling for a skill check, do not add the parent attribute. Only add the skill.
 
 GMs may optionally allow for improvised checks. If a character does not have a high enough skill for an action being attempted, and where the situation is broad enough that the parent attribute could plausibly apply, the player may roll for the parent attribute check with a -2 penalty instead. GMs are advised to allow improvised checks sparingly, as they may discourage players from buying secondary skills.
 
@@ -87,20 +83,18 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
 * **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
-* **Brawling:** Punching, kicking, and grappling. Brawling may be used for attack and defense rolls.
 * **Riding & Driving:** Riding animals and driving vehicles.
-* **Sleight of Hand:** Palming, planting, and picking pockets.
 * **Sneaking:** Hiding and moving silently.
-* **Survival:** Tracking and foraging in the wilderness.
-* **Weapons: Concealed:** Hiding small weapons, and using them to strike outside of combat. Weapons: Concealed is used for attack rolls, in such cases. Outside of combat, the Weapons: Concealed skill is used for smuggling small items on one's person.
-* **Weapons: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Weapons: Melee is used for attack and defense rolls. Outside of combat, the Weapons: Melee skill is used for striking objects with actual or improvised blades and clubs.
-* **Weapons: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Weapons: Ranged is used for attack rolls. Outside of combat, the Weapons: Ranged skill is used for throwing various objects.
+* **Survival:** Fortifying camps, trailblazing, salvaging, and laying traps.
+* **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls.
+* **Fighting: Concealed:** Hiding small weapons, and using them to strike outside of combat. Weapons: Concealed is used for attack rolls, in such cases. Outside of combat, the Weapons: Concealed skill is used for smuggling small items on one's person.
+* **Fighting: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Weapons: Melee is used for attack and defense rolls. Outside of combat, the Weapons: Melee skill is used for striking objects with actual or improvised blades and clubs.
+* **Fighting: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Weapons: Ranged is used for attack rolls. Outside of combat, the Weapons: Ranged skill is used for throwing various objects.
 
 #### Intellect Skills
 
-* **Alchemy:** Mixing potions and poisons.
+* **Brewing:** Mixing potions and poisons.
 * **Languages:** Reading, writing, and speaking multiple languages.
-* **Investigation:** Searching for clues, detecting intentions, and probing for deception.
 * **Lore: History:** Knowledge of the deep past.
 * **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
 * **Medicine:** Treating wounds and diagnosing illnesses.
@@ -112,14 +106,13 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 #### Personality Skills
 
 * **Bartering:** Negotiating prices.
-* **Bluffing:** Lying convincingly.
-* **Bureaucracy:** Navigating large, complex, formal institutions.
+* **Bluffing:** Telling lies about specific facts.
 * **Intimidation:** Coercing others by threat.
-* **Performance:** Singing and storytelling.
+* **Investigation:** Detecting intentions and probing for deception.
+* **Performance:** Staging distractions, adopting false personas, and rallying crowds.
 * **Persuasion:** Convincing others.
-* **Philosophy:** Understanding ethical and metaphysical debates.
 * **Spells: Mental:** Casting magic that influences the minds of others.
-* **Spells: Spiritual:** Casting magic that interacts with souls. The Spells: Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
+* **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
 * **Streetwise:** Navigating the criminal underworld.
 
 ### Gifts and Faults
@@ -128,7 +121,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
-* **Schoolmage Spell Caster:** The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Devout Spell Caster:** The character has training as a Devout, who relies on support from a Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
@@ -143,13 +136,13 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
 * **Soul Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the soul material is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul material is not visible at all. The character may not take the Conspicuous Soul fault.
 * **Tundra Hardened:** The character is physically adapted to harsh winters. The character resists harm from extreme cold.
-* **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachma (ud).
+* **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachmas (ud).
 
 #### Faults
 
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
-* **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachma (ud) every week, to feed this addiction.
+* **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachmas (ud) every week, to feed this addiction.
 * **Cave Dweller:** The character is physically adapted to living underground. While in daylight, the character sees as well in daylight as the average person may see in low light.
 * **Conspicuous Soul:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Soul Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
@@ -160,7 +153,7 @@ Faults are unranked traits that make life difficult for a character. Faults may 
 * **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
 * **Small Stature:** The character is exceptionally short. The character cannot wield two-handed weapons, and must use two hands to large one-handed weapons.
 * **Tuned Out:** The character is a bit spacey, and is slow to react to the beginning of combat. The character suffers -1 on initiative rolls.
-* **Watched By Authority:** The character is personally marked by operatives of another major faction. Elite operatives from rival factions are monitoring this character's movements.
+* **Watched By Authority:** The character is personally marked by a person of authority in the Empire. Operatives from one of the Empire's ruling factions is monitoring this character's movements.
 
 Character Advancement
 ---
@@ -168,22 +161,57 @@ Characters gain 2 EP per game session. Only characters who participated in the s
 
 There may be several game sessions over the course of a single in-game week. Characters gain 2 EP for each real life game session, regardless of the in-game time that passes. If a player switches between characters within a single session, then the last character in the field is rewarded the 2 EP.
 
+Languages
+---
+All characters know the language Imperial. If a starting player character's Languages skill is Fair or better, then more languages may be learned. If a character raises the Languages skill during character advancement, then that character may learn new languages accordingly.
+
+The Languages skill is not only for knowing bonus languages. Players may use the Languages skill to attempt partial understanding of writing or speech from an unfamiliar language.
+
+* **Mediocre (-1) or worse:** The character only knows Imperial.
+* **Fair (0):** 1 bonus language, but not fluent. The character can communicate basic concepts, ask for directions, and trade. Any social checks get a -1 penalty in this language.
+* **Good (+1):** 1 bonus language, fluent.
+* **Great (+2):** 2 bonus languages, fluent.
+* **Superb (+3):** 3 bonus languages, fluent.
+
+Characters may pick a language from the below list, or any others the GM allows.
+
+* **Imperial:** Imperial is the official language of politics and trade in the Yargyez Empire. It is the dominant language in Eastgardia province, which is the seat of power in the Yargyez Empire.
+* **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books.
+* **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire.
+* **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire.
+* **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire.
+
 Equipment
 ---
-Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in drachma (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
+Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in Drachmas (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
 
-At the end of every week, characters earn 10 Drachma (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
+At the end of every week, characters earn 10 Drachmas (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
 
-#### Weapons & Armor
+### Currency
 
-Cost is given in drachma (ud).
+The unit of currency is the Drachma, which is abbreviated as "ud" for "unit of Drachma". One Drachma is fixed to one day's wages for an ordinary soldier. There are other denominations used in the Empire.
 
-##### Key Words
+* The Hemiobol (ho) is worth one-tenth of one Drachma.
+* The Dekadrachma (dd) is worth ten Drachmas.
+* The Hekatodrachma (hd) is worth one-hundred Drachmas.
+
+### Bartering
+
+The Bartering skill may be used to negotiate prices, when purchasing standard equipment. The exact same player character may not attempt to negotiate with the exact same vendor in a single week.
+
+Make an opposed check between both characters' Bartering. Ties go to the vendor. If the player character wins the opposed check, then standard equipment is sold at a 10% discount for each margin of success. This may not reduce prices below a 30% discount.
+
+### Weapons & Armor
+
+#### Key Words
 
 * **Concealable:** If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.
-* **Heavy:** If an equipped item is Heavy, then Brawling may not be used to attack, nor may Acrobatics or Brawling be used to defend. Also, apply the listed penalty to initiative rolls.
+* **Heavy:** If an equipped item is Heavy, then Brawling may not be used to attack, nor may Acrobatics be used to defend. Also, apply the listed penalty to initiative rolls.
 
-* Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+1).
+#### Equipment List
+
+* Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+2).
+* Knuckledusters - 12 ud. Brawling weapon (+1). Concealable (+2).
 * Club - 2 ud. One-handed melee weapon (+1).
 * Shortsword - 30 ud. One-handed melee weapon (+2).
 * Longsword - 50 ud. One-handed melee weapon (+2).
@@ -192,16 +220,16 @@ Cost is given in drachma (ud).
 * Greatsword - 80 ud. Two-handed melee weapon (+3). Heavy (-1).
 * Sling - 1 ud. Projectile ranged weapon (+1).
 * Shortbow - 15 ud. Projectile ranged weapon (+1).
-* Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+1).
+* Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+2).
 * Longbow - 40 ud. Projectile ranged weapon (+2).
 * Crossbow - 60 ud. Projectile ranged weapon (+2).
 * Throwing axe - 8 ud. Thrown ranged weapon (+2).
-* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+2).
-* Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+2).
+* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+3).
+* Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+3).
 * Leather armor - 50 ud. Set of armor (+1).
 * Chainmail - 150 ud. Set of armor (+2). Heavy (-1).
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
-* Small shield - 15 ud. Shield (+1). Heavy (0).
+* Small shield - 15 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
 
 Combat
@@ -222,11 +250,11 @@ Ordinary characters may run 30 feet in a single turn.
 
 #### Resolving The Attack
 
-Whether a character's blow lands, and how it lands, depends entirely on the nature of the attack.
+Whether a character's blow lands, and how it lands, depends entirely on the nature of the attack. If the attacker has no weapon equipped, then the attacker is using Brawling. Otherwise, the attack skill used is determined by the weapon used.
 
 ##### Melee Weapons & Brawling
 
-Close-quarters combat is an opposed check. Defensive rolls are automatic and do not consume an action on the defender's turn.
+Close-quarters combat is an opposed check. Defensive rolls are automatic and do not consume an action on the defender's turn. Shield Bonuses only apply if the defender is using the Melee skill to defend.
 
 * **The Roll:** Attacker (4dF + Attack Skill) vs. Defender (4dF + Defense Skill + Shield Bonus).
 * **The Result:** If the attacker's roll is strictly higher than the defender's, then the blow lands. On a tie or loss, the attack misses. *If the attacker is using Brawling, then the attacker wins ties.*
@@ -235,38 +263,30 @@ Close-quarters combat is an opposed check. Defensive rolls are automatic and do 
 
 Shooting or throwing weapons are static checks.
 
-* **The Roll:** Attacker makes an unopposed 4dF + Weapons: Ranged skill check.
+* **The Roll:** Attacker makes an unopposed 4dF + Ranged skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**.
 
 ##### Concealed Weapons
 
 Concealed attacks may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
-When the character is preparing to strike, the attacker must take an opposed action using the Weapons: Concealed skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
+When the character is preparing to strike, the attacker must take an opposed action using the Concealed skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
 
 * **If the defender wins the roll:** Then the target is aware of the concealed weapon. The GM should call for initiative.
 * **If the attacker wins the roll:** Then the target is unaware of the concealed weapon. The attacker may wait for an opportune moment to attack.
 
 Even if the weapon is indeed concealed, the strike is not guaranteed to land. A final roll must be made to resolve the attack.
 
-* **The Roll:** Attacker makes an unopposed 4dF + Weapons: Concealed skill check.
+* **The Roll:** Attacker makes an unopposed 4dF + Concealed skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**. If the blow does not land, the GM should call for initiative.
 
 #### Calculating Damage
 
-##### Standard Combat (Melee, Brawling, & Ranged)
-
-In standard combat, skill does not alter the force of an attack. Do not include either combatant's skill ranks, or the defender's dice, in the calculation.
+Regardless of the type of strike, skill does not alter the force of an attack. Do not include either combatant's skill ranks, or the defender's dice, in the calculation.
 
 * **Damage:** Attacker's Dice + Weapon Damage - Armor
 
-##### Concealed Weapons
-
-Concealed weapons consider the skill of the attacker in the force of the attack.
-
-* **Damage:** Attacker's Total Roll (Dice + Skill) + Weapon Damage - Armor.
-
-If the target is not instantly incapacitated or killed by this attack, then the GM should call for initiative.
+If the target is not instantly incapacitated or killed by a concealed strike, then the GM should call for initiative.
 
 ##### Other Sources of Damage
 
@@ -280,7 +300,7 @@ First, calculate damage with *all formulas and modifiers*. If the final result i
 
 Typical player characters have the following injury trackers:
 
-* 3 scratch bubbles
+* 2 scratch bubbles
 * 14 wound bubbles
 
 The 14 wounds are divided into 7 wound trackers of 2 bubbles each.
@@ -305,11 +325,10 @@ After calculating damage, apply the following table to determine the injury.
 
 * **1:** One scratch
 * **2:** Two scratches
-* **3:** Three scratches
-* **4:** Roll for one wound
-* **5:** Roll for two wounds to one body part
-* **6:** Near Death; out of the fight. Roll for two wounds to one body part, to see why the character is near death.
-* **7+:** Death; out of the fight. Roll for two wounds to one body part, to see why the character is dead.
+* **3:** Roll for one wound
+* **4:** Roll for two wounds to one body part
+* **5:** Near Death; out of the fight. Roll for two wounds to one body part, to see why the character is near death.
+* **6+:** Death; out of the fight. Roll for two wounds to one body part, to see why the character is dead.
 
 Scratches are minor harm that heals quickly outside of a fight without special attention. They do not have any mechanical penalty. However, they add up in a fight. If scratch bubbles are ever full, and another scratch bubble would need to be filled out, then erase all scratches and roll for one wound.
 
@@ -339,13 +358,24 @@ If two wound bubbles on a body part are ever full, and another wound bubble woul
 
 If a character is Near Death, and receives another wound, then the character dies.
 
+#### Called Shots
+
+Attacks made with Brawling, Melee, Ranged, and Concealed, may always be modified as called shots. A called shot is a precision strike against a specific body part.
+
+1. The attacker must pick a body part before rolling to attack. This may be the head, chest, abdomen, left arm, right arm, left leg, or right leg.
+2. During the attack roll, the attacker takes a -2 penalty to hit. This penalty reflects that the attacker may lose the opportunity for a precision strike.
+3. If the attack hits, there is no penalty to damage. Calculate damage without the -2 penalty to hit.
+4. If the attack causes a wound, then the wound is on the body part the attacker called.
+
 #### Stabilization & Healing
 
 Scratches heal quickly outside of a fight, without any special medical attention. Wounds do not heal naturally without a Medicine check from a character or medical attention from an NPC. Being Near Death is even more serious.
 
-The moment a character is Near Death, the same character will die in one hour without medical attention. If a player character treats the injury, then a Medicine check must be at least Good (+1) to stabilize the injury. The same character cannot roll Medicine for the same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character is no longer Near Death.
+The moment a character is Near Death, that character will die in one hour without medical attention. If a player character treats the injury, then a Medicine check must be at least Good (+1) to stabilize the injury. A character who failed at the same Medicine check cannot attempt to stabilize same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character is no longer Near Death.
 
 Wounds require a full week of downtime to heal. After a week of rest, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, the same character cannot roll Medicine for the same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
+
+If a character is Incapacitated, and wounds are healed, then check for any remaining wounds. If all wounds on the head, abdomen, and chest are below two filled bubbles, then the character is no longer Incapacitated.
 
 Social Conflict
 ---
@@ -506,7 +536,7 @@ The caster either (A) transforms an area into holy ground or (B) seals a Cthonic
 
 ##### Sanctify Ground
 
-Select a target area measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
+Select a target area measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The area becomes holy ground for one month.
@@ -515,7 +545,7 @@ Select a target area measuring 1000 square feet or less. Roll a Spells: Enchanti
 
 ##### Seal Breach
 
-Select a target Cthonic breach measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
+Select a target Cthonic breach measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The Cthonic breach is suppressed for one month.
@@ -532,7 +562,7 @@ The caster crafts talismans to ward Cthonians. This spell has no field effect; i
 
 #### Downtime Activity
 
-At the beginning of the week, spend 30 Drachma (ud). At the end of the week, roll a Spells: Enchanting skill check.
+At the beginning of the week, spend 30 Drachmas (ud). At the end of the week, roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** One talisman is successfully crafted.
@@ -570,11 +600,11 @@ Unnatural darkness spreads from a point near the caster, swallowing the nearby l
 * Cast by: Invoker
 * Skill: Enchanting
 
-The caster either (A) removes the effect of holy ground or (B) opens a Cthonic breach, where Cthonians may overstay in Ksylia. This spell has no field effect; it may only be taken as a downtime activity.
+The caster either (A) removes the effect of holy ground or (B) opens a Cthonic breach, where Cthonians may overstay in the mortal realm. This spell has no field effect; it may only be taken as a downtime activity.
 
 ##### Remove Holy Ground
 
-Select a target holy ground measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
+Select a target holy ground measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The holy ground is suppressed for one month.
@@ -583,7 +613,7 @@ Select a target holy ground measuring 1000 square feet or less. Roll a Spells: E
 
 ##### Open Breach
 
-Select a target area measuring 1000 square feet or less. Roll a Spells: Enchanting skill check.
+Select a target area measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
 * **Good:** The area becomes a Cthonic breach for one month.
@@ -602,29 +632,23 @@ A text written in another Schoolmage's Arcane Shorthand becomes expanded into fu
 
 If the caster has another Schoolmage's spell book, then the caster may try to learn a single spell from the book. This is easier than research, but not as reliable as being taught. Roll a respective skill check against the difficulty of the target spell, as one would for research. However, only a Good (+1) result is required to obtain the spell.
 
-### Detect Blue Versus Red
-
-* Difficulty: Fair (0)
-* Cast by: Devout, Invoker
-* Skill: Spiritual
-
-Creatures and items imbued with red or blue soul material light up in the vision of the caster. The caster is able to discern red versus blue soul material.
-
-### Detect Magic
-
-* Difficulty: Fair (0)
-* Cast by: Schoolmage, Devout, Invoker
-* Skill: Spiritual
-
-Magical items and creatures light up in the vision of the caster.
-
-### Detect Life
+### Detect Souls
 
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Devout, Invoker
 * Skill: Spiritual
 
-Sentient mortals and animals light up in the vision of the caster. Sentient mortals and animals look different, through this spell. Cthonians, undead, and constructs are not affected.
+The souls of nearby creatures light up in the vision of the caster. Creatures can be detected through solid objects, but their exact locations are obscured. The caster can discern different colors of souls:
+
+* **Blue:** Devouts and Ardents have green souls, but upon careful inspection have traces of blue. No creature has a purely blue soul.
+* **Green:** All sentient mortals have green souls.
+* **Yellow:** Animals have yellow souls. Schoolmages have green souls, but upon careful inspection have traces of yellow.
+* **Red:** Cthonians and undead have red souls. Invokers have green souls, but upon careful inspection have traces of red.
+
+If a creature that would be detected has the Soul Suppression gift, then Detect Souls does not have the same effect on that creature.
+
+* **Upon close inspection:** The creature is obviously suppressing its soul. The caster does not obtain any other information.
+* **While hiding:** The creature is undetectable, through solid objects.
 
 ### Dispel Magic
 
@@ -652,7 +676,7 @@ The caster fastens a bound soul to a melee weapon, to add a fire based attack. T
 
 #### Downtime Activity
 
-This spell requires a target melee weapon and a target gem containing a trapped soul. At the end of the week, roll a Spells: Enchanting skill check.
+This spell requires a target melee weapon and a target gem containing a trapped soul. At the end of the week, roll an Enchanting skill check.
 
 * **Fair or worse:** The melee weapon and gem are both destroyed.
 * **Good:** The weapon is successfully enchanted with a fire attack, adding +1 damage.
@@ -841,13 +865,13 @@ An area the caster targets becomes devoid of all sound.
 
 The caster targets one or more creatures to fall asleep.
 
-### Summon
+### Summon Cthonian
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Invoker
 * Skill: Spiritual
 
-The caster calls forth a creature from another sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the allegiance of the caster.
+The caster calls forth a creature from a Cthonic sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the Archon the caster serves.
 
 ### Trap Soul
 
@@ -855,7 +879,7 @@ The caster calls forth a creature from another sphere, to temporarily serve the 
 * Cast by: Schoolmage, Invoker
 * Skill: Spiritual
 
-The caster transfers the soul of a creature into a gem. To cast this spell, the caster must have a gem worth 500 Drachma (ud) or more. Select a target creature that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
+The caster transfers the soul of a creature into a gem. To cast this spell, the caster must have a gem worth 500 Drachmas (ud) or more. Select a target creature that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
 
 ### Turn Undead
 
@@ -875,7 +899,7 @@ The caster fastens a bound soul to a wooden mannequin, to construct an mindless 
 
 #### Downtime Activity
 
-This spell requires a wooden mannequin costing 1000 Drachma (ud) and a target gem containing a trapped soul. At the end of the week, roll a Spells: Enchanting skill check.
+This spell requires a wooden mannequin costing 1000 Drachmas (ud) and a target gem containing a trapped soul. At the end of the week, roll an Enchanting skill check.
 
 * **Fair or worse:** The gem is destroyed. The mannequin is not harmed.
 * **Good:** The gem and mannequin are not harmed, but the attempt is not successful.
@@ -928,6 +952,7 @@ If a character is benched, there are standard activities they may perform for th
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
 * Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
 * Buy and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
+* Brew: The character may work on creating poitons and poisons. See Brewing.
 * Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
 * Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier.
@@ -943,12 +968,19 @@ Smithing during downtime allows the creation of items which are superior to stan
 2. If the item is a weapon, armor, or shield, add +1 to the difficulty.
 3. If the item is a concealed weapon, add +1 to the difficulty.
 
-Smithing standard equipment requires one week of downtime. At the beginning of the week, spend money equal to the value of the standard item. At the end of the week, roll a Smithing check versus the craft difficulty.
+Smithing standard equipment requires one week of downtime. At the beginning of the week, spend money equal to the value of the standard item. At the end of the week, roll a Smithing check versus the smithing difficulty.
 
 * **Fair or worse:** The attempt fails. The spent money is lost, and no item is created.
 * **Good:** The newly crafted item gives a +1 bonus to the standard effect.
 * **Great:** The newly crafted item gives a +2 bonus to the standard effect.
 * **Superb or better:** The newly crafted item gives a +3 bonus to the standard effect.
+
+Brewing
+---
+Brewing during downtime mixes ingredients to create medicinal and toxic products. At the beginning of the week, spend money according to the brewing cost. At the end of the week, roll a Brewing check versus the brewing difficulty. If the check is Fair or better, then brewing is successful. The item lists how many of the item is produced per week, if successful.
+
+* **Medicinal Salve:** Cost: 30 ud. Difficulty: Fair (0). Produces: 3. +1 to a Medicine check to remove Near Death status.
+* **Sleep Poison:** Cost: 30 ud. Difficulty: Fair (0). Produces: 3. Apply to a weapon. If the weapon successfully strikes the enemy, then the enemy falls asleep.
 
 Combat Threats
 ---
@@ -958,8 +990,8 @@ GMs should not stat every enemy combatant as a full player character, with EP sp
 
 Most enemies do not have the full PC injury track. There are three tiers of enemy durability: Light, Heavy, and Elite. All three tiers follow the exact same rules as player characters in the Taking Damage section, under Combat. The only difference is that Lights and Heavies do not roll for injury location.
 
-* **Light:** Three scratch bubbles, one wound bubble. If one wound bubble is filled, the enemy is incapacitated.
-* **Heavy:** Three scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
+* **Light:** Two scratch bubbles, one wound bubble. If one wound bubble is filled, the enemy is incapacitated.
+* **Heavy:** Two scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
 * **Elite:** Elites have the same injury tracker as player characters.
 
 For larger, more monstrous enemies, GMs may create custom injury trackers with even more wound bubbles than player characters.
@@ -1047,10 +1079,12 @@ Appendix B: Fantasy Species
 ---
 In the default setting of Nephelai, the practical impact of player character ancestry is minimized in favor of maximum flexibility in EP point spending. Player race matters only as a fact of how the world responds to the player. However, some tables may prefer to enforce stronger biological boundaries between fantasy species. The simplest way to represent player character species is by giving each species on mandatory Gift and one mandatory Fault, during character creation. Unlike chosen Faults, the mandatory Fault can never be bought off for EP.
 
+If the GM assigns mandatory gifts and faults, then player characters outside of that race are also forbidden from taking those gifts and faults.
+
 Below are examples, given for inspiration.
 
 * **Humans:** Do not give Humans any mandatory Gift or Fault. Humans are the baseline.
-* **Elves:** *Keen Ears* and *Frail Constitution*.
+* **High Elves:** *Keen Ears* and *Frail Constitution*.
 * **Dwarves:** *Tundra Hardened* and *Cave Dweller*.
 * **Halflings:** *Light Footed* and *Small Stature*.
 
@@ -1090,4 +1124,12 @@ There are many different schools of thought that Ardents belong to.
 * **Symphonists** believe in beauty.
 * **Destructivists** believe in moral outrage.
 * **Freneticists** believe in frenzy.
+
+Appendix D: Cosmology
+---
+The cosmos is divided into three realms:
+
+* **Asteria:** The divine realm, where the Agathoi reside.
+* **Ksylia:** The mortal realm.
+* **Cthonia:** The infernal realm, where the Archons and their Cthonian minions reside.
 
