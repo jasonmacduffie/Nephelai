@@ -985,17 +985,25 @@ At the start of every week, every character in the group must decide between (a)
 It is possible that no characters are in the field for this week, if the players want to advance time immediately. The same downtime rules apply, except no adventures occur for that week.
 
 #### Downtime Activities
+
 If a character is benched, there are standard activities they may perform for the week. These are called downtime activities. The downtime activity is chosen at the beginning of the week, and benefits are collected at the end of the week.
 
 * Heal wounds: The character may perform a Medicine check, or receive medical attention from another character. See Stabilization & Healing, under Combat.
 * Train skills: The character may train an unused skill. This allows 2 EP to be spent on an unused skill. Multiple weeks allow cumulative EP to be spent.
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
 * Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
-* Buy and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
+* Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
 * Brew: The character may work on creating poitons and poisons. See Brewing.
 * Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
 * Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier.
+
+#### Downtime Services
+
+There are common NPCs who can perform paid services, instead of player characters rolling for skill checks. Even so, these are still ordinary characters who can fail to achieve results. If the service fails, the money spent at the beginning of the week is still lost.
+
+* Doctors: A doctors who is Great (+2) at Medicine may treat a character for 10 ud per week.
+* Spell Tutors: A Schoolmage who is Great (+2) at all kinds of spells may tutor a character for 20 ud per week. As with player characters, the tutor can only teach known spells.
 
 ### Interrupting Downtime
 A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
