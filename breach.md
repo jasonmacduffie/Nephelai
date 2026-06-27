@@ -5,6 +5,8 @@ Introduction
 ---
 Breach is a build of Fudge RPG designed to work with the Nephelai campaign setting.
 
+Think of Breach as a TV series with a large ensemble cast. Players guide a roster of agents working for influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. These agents are competent, but far from invincible. Violence can cause injuries that sideline characters for weeks. While a party of operatives take on field assignments, their benched teammates spend the week doing useful activities behind the scenes. The game's drama hinges on whether the roster can advance the faction's agenda.
+
 The Core Mechanic
 ---
 Breach follows Fudge's core mechanic. Players can usually simply say what their characters do, and consequences evolve without dice. Sometimes the outcome is unclear, and failure implies consequences for the character and the world. Then, the Game Master requires a roll.
@@ -75,7 +77,7 @@ There are three attributes. The GM calls for an attribute check in situations wh
 
 There are twenty-seven skills. The GM calls for a skill check in situations where the character is actively using a trained skill.
 
-The twenty-seven skills are grouped by parent attribute, with ten under each attribute. The relationship between skills and attributes is thematic, and usually does not impact gameplay. Specifically, when rolling for a skill check, do not add the parent attribute. Only add the skill.
+The twenty-seven skills are grouped by parent attribute, with nine under each attribute. The relationship between skills and attributes is thematic, and usually does not impact gameplay. Specifically, when rolling for a skill check, do not add the parent attribute. Only add the skill.
 
 GMs may optionally allow for improvised checks. If a character does not have a high enough skill for an action being attempted, and where the situation is broad enough that the parent attribute could plausibly apply, the player may roll for the parent attribute check with a -2 penalty instead. GMs are advised to allow improvised checks sparingly, as they may discourage players from buying secondary skills.
 
@@ -87,9 +89,9 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Sneaking:** Hiding and moving silently.
 * **Survival:** Fortifying camps, trailblazing, salvaging, and laying traps.
 * **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls.
-* **Fighting: Concealed:** Hiding small weapons, and using them to strike outside of combat. Weapons: Concealed is used for attack rolls, in such cases. Outside of combat, the Weapons: Concealed skill is used for smuggling small items on one's person.
-* **Fighting: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Weapons: Melee is used for attack and defense rolls. Outside of combat, the Weapons: Melee skill is used for striking objects with actual or improvised blades and clubs.
-* **Fighting: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Weapons: Ranged is used for attack rolls. Outside of combat, the Weapons: Ranged skill is used for throwing various objects.
+* **Fighting: Concealed:** Hiding small weapons, and using them to strike outside of combat. Concealed is used for attack rolls, in such cases. Outside of combat, the Concealed skill is used for smuggling small items on one's person.
+* **Fighting: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Melee is used for attack and defense rolls. Outside of combat, the Melee skill is used for striking objects with actual or improvised blades and clubs.
+* **Fighting: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Ranged is used for attack rolls. Outside of combat, the Ranged skill is used for throwing various objects.
 
 #### Intellect Skills
 
@@ -290,7 +292,14 @@ If the target is not instantly incapacitated or killed by a concealed strike, th
 
 ##### Other Sources of Damage
 
-Damage may also be taken from various other sources, such as natural hazards. In such cases, the GM should decide whether armor may reduce the damage taken based on the nature of the hazard. In either case, the defender typically does not reduce the damage taken with an attribute or skill. Attribute or skill rolls should only be used to avoid the damage entirely.
+Damage may also be taken from various other sources, such as natural hazards. As a general rule, the defender does not reduce the damage taken with an attribute or skill. Attribute or skill rolls should only be used to avoid the damage entirely.
+
+#### Armor Penetrating Damage
+
+Sometimes, a source of damage is said to be Armor Penetrating. There are two kinds:
+
+1. Armor Penetrating, without qualification. In this case, the armor is completely ignored in the damage calculation.
+2. Armor Penetrating (N). In this case, the effect of armor is reduced by N. If N is greater than the armor's effect, then the armor has no effect.
 
 ##### The Golden Rule of Damage
 
@@ -373,7 +382,7 @@ Scratches heal quickly outside of a fight, without any special medical attention
 
 The moment a character is Near Death, that character will die in one hour without medical attention. If a player character treats the injury, then a Medicine check must be at least Good (+1) to stabilize the injury. A character who failed at the same Medicine check cannot attempt to stabilize same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character is no longer Near Death.
 
-Wounds require a full week of downtime to heal. After a week of rest, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, the same character cannot roll Medicine for the same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
+Wounds require a full week of downtime to heal. After a week of rest, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, a character who failed at the same Medicine check cannot attempt to heal the same injury in the same week, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
 
 If a character is Incapacitated, and wounds are healed, then check for any remaining wounds. If all wounds on the head, abdomen, and chest are below two filled bubbles, then the character is no longer Incapacitated.
 
@@ -434,7 +443,7 @@ Spells
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
 
-A glob of corrosive liquid is hurled from the caster's hands.
+A glob of corrosive liquid is hurled from the caster's hands. Attack target creature for `MoS Armor Penetrating (1)` damage.
 
 ### Animate Dead
 
@@ -451,6 +460,8 @@ The caster targets a corpse to rise up, and act as the caster's undead servant.
 * Skill: Mental
 
 The caster's enemies feel a powerful aura of discouragement, dampening their morale.
+
+All enemies within 30 feet make a Personality check, reduced by the MoS. Each enemy who rolls Fair (0) or worse takes a -1 penalty to attack and defense rolls for the next two rounds.
 
 ### Banish
 
@@ -676,7 +687,16 @@ The caster fastens a bound soul to a melee weapon, to add a fire based attack. T
 
 #### Downtime Activity
 
-This spell requires a target melee weapon and a target gem containing a trapped soul. At the end of the week, roll an Enchanting skill check.
+This spell requires a target melee weapon and a target yellow beryl gemstone containing a trapped yellow soul.
+
+The quality of the enchantment is capped by the size of the soul in the gem. If the strength of the enchantment would exceed the cap given by the soul's size, then use the capped number.
+
+* **Fair or worse:** The soul is not large enough for this enchantment.
+* **Good:** The enchantment can only add +1 damage.
+* **Great:** The enchantment can only add +2 damage.
+* **Superb or better:** There is no cap given by the soul's size.
+
+At the end of the week, roll an Enchanting skill check.
 
 * **Fair or worse:** The melee weapon and gem are both destroyed.
 * **Good:** The weapon is successfully enchanted with a fire attack, adding +1 damage.
@@ -873,13 +893,21 @@ The caster targets one or more creatures to fall asleep.
 
 The caster calls forth a creature from a Cthonic sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the Archon the caster serves.
 
-### Trap Soul
+### Trap Yellow Soul
 
 * Difficulty: Great (+2)
 * Cast by: Schoolmage, Invoker
 * Skill: Spiritual
 
-The caster transfers the soul of a creature into a gem. To cast this spell, the caster must have a gem worth 500 Drachmas (ud) or more. Select a target creature that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
+The caster transfers the soul of a creature into an empty yellow beryl gemstone. To cast this spell, the caster must have an appropriately sized and cut stone. Select a target creature that possesses a yellow soul (an animal) that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
+
+The value of the yellow beryl gemstone used limits the strength of animal that may by trapped. The strength of the animal trapped determines the strength of the enchantment.
+
+* **750 Drachmas (ud):** The gem may hold the soul of an animal with Good (+1) Physique or less.
+* **1500 Drachmas (ud):** The gem may hold the soul of an animal with Great (+2) Physique or less.
+* **3000 Drachmas (ud):** The gem may hold the soul of an animal with Superb (+3) Physique or less.
+
+Note the Physique of the soul captured. That ladder step is the size of the soul in the gem, which may be referenced during enchantment.
 
 ### Turn Undead
 
@@ -891,7 +919,7 @@ The caster compels nearby undead creatures to flee.
 
 ### War Puppet
 
-* Difficulty: Good (+1)
+* Difficulty: Great (+2)
 * Cast by: Schoolmage
 * Skill: Enchanting
 
@@ -899,13 +927,21 @@ The caster fastens a bound soul to a wooden mannequin, to construct an mindless 
 
 #### Downtime Activity
 
-This spell requires a wooden mannequin costing 1000 Drachmas (ud) and a target gem containing a trapped soul. At the end of the week, roll an Enchanting skill check.
+This spell requires a wooden mannequin costing 1000 Drachmas (ud) and a target yellow beryl gemstone containing a trapped yellow soul. The trapped soul's size must be Great or better.
+
+At the end of the week, roll an Enchanting skill check.
 
 * **Fair or worse:** The gem is destroyed. The mannequin is not harmed.
 * **Good:** The gem and mannequin are not harmed, but the attempt is not successful.
 * **Great or better:** The mannequin is brought to life successfully.
 
 War Puppets can only follow simple commands like "go there", "attack him", and "stay put". War Puppets can only attack with melee weapons.
+
+War Puppets do not have a full injury tracker. They only have two scratch bubbles and two wound bubbles. If both wound bubbles are filled, the War Puppet is incapacitated.
+
+War Puppets do not heal naturally. Their scratches and wounds persist, indefinitely. However, even after animation, their bodies are simply wooden mannequins. As a downtime activity, any character may attempt to repair a wooden mannequin with a Smithing roll. At the beginning of the week, spend 50 ud on supplies to repair the mannequin. At the end of the week, roll a Smithing check. If the Smithing check is Good (+1) or better, then the wooden mannequin has one wound or scratch bubble removed. Otherwise, the money is lost and the mannequin is not repaired.
+
+The Mending spell may be used to remove one scratch bubble per cast, but not wound bubbles.
 
 ### Water Breathing
 
@@ -1132,4 +1168,26 @@ The cosmos is divided into three realms:
 * **Asteria:** The divine realm, where the Agathoi reside.
 * **Ksylia:** The mortal realm.
 * **Cthonia:** The infernal realm, where the Archons and their Cthonian minions reside.
+
+Appendix E: Campaign Tempo
+---
+A GM can run a campaign with two modes of tempo: session time, and real-time. This choice has a dramatic effect on pacing.
+
+### Mode 1: Session Time Campaigns
+
+In a session time campaign, in-game time freezes when the table is not active. In this case, the GM keeps track of how much time has passed in-game during the adventure. Once a full seven days of in-game time has passed, then the GM calls to resolve downtime and plan the next week.
+
+Session time ensures that players never miss major world events, but also make downtime activities feel slow.
+
+### Mode 2: Real-Time Campaigns
+
+In a real-time campaign, a week of real world time correspond to a week of in-game time. Suppose a group meets to play once every week. In that case, a typical table session follows the below script:
+
+1. Resolve last week's downtime.
+2. Assign this week's downtime.
+3. Run a field adventure from start to finish, corresponding to a single day or so.
+
+If the table does not meet for more than one week, then multiple weeks of downtime may be planned.
+
+Real-time makes downtime activities pass quickly, but also rapidly accelerates the progression of major world events.
 
