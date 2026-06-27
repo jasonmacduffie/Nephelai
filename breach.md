@@ -386,7 +386,7 @@ Attacks made with Brawling, Melee, Ranged, and Concealed, may always be modified
 
 #### Stabilization & Healing
 
-Scratches heal quickly outside of a fight, without any special medical attention. Wounds do not heal naturally without a Medicine check from a character or medical attention from an NPC. Being Near Death is even more serious.
+Scratches heal quickly outside of a fight, without any special medical attention. Wounds do not heal naturally without a Medicine check. Being Near Death is even more serious.
 
 The moment a character is Near Death, that character will die in one hour without medical attention. If a player character treats the injury, then a Medicine check must be at least Good (+1) to stabilize the injury. A character who failed at the same Medicine check cannot attempt to stabilize same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character is no longer Near Death.
 
