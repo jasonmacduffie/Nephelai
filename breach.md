@@ -126,7 +126,6 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Devout Spell Caster:** The character has training as a Devout, who relies on support from a Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
-* **Ardent Spell Caster:** The character has achieved enlightenment, sustained by a specific eccentric lifestyle. The character may cast spells from the Ardent list aligned with the philosophical school the character identifies with. Ardents recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
 * **Etiquette Training:** The character has deeply ingrained standards of etiquette, from an early age. The character gets +1 on social rolls in formal situations.
 * **Hardy Constitution:** The character can shrug off disease and poison more easily than others. The character may not take the Frail Constitution fault.
@@ -412,16 +411,13 @@ Spells always have verbal and somatic components. A character who is unable to b
 
 #### Magical Gifts
 
-Characters do not know how to cast spells, without a corresponding Gift. The four Gifts that control access to magic are below:
+Characters do not know how to cast spells, without a corresponding Gift. The Gifts that control access to magic are below:
 
 * **Schoolmage Spell Caster**
 * **Devout Spell Caster**
 * **Invoker Spell Caster**
-* **Ardent Spell Caster**
 
 Devouts and Invokers do not learn spells. However, their powers come from a relationship to an external deity, so they are limited to that deity's portfolio.
-
-Ardents are similar to Devouts and Invokers, but learn spells through a specific eccentric lifestyle. They are limited to spells compatible with their lifestyle.
 
 Schoolmages cast spells through knowledge of specific formulae. While they are not restricted by divine portfolio, they must research spells to cast them.
 
@@ -486,7 +482,7 @@ Select target creature. The target rolls for defense, reduced by the MoS. If the
 ### Blur
 
 * Difficulty: Good (+1)
-* Cast by: Ardent, Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker
 * Skill: Physical
 
 The caster's body appears to rapidly flicker before their enemies, making the caster difficult to hit.
@@ -570,7 +566,7 @@ Select a target Cthonic breach measuring 1000 square feet or less. Roll an Encha
 ### Cthonic Ward
 
 * Difficulty: Good (+1)
-* Cast by: Ardent
+* Cast by: Devout
 * Skill: Enchanting
 
 The caster crafts talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
@@ -655,7 +651,7 @@ If the caster has another Schoolmage's spell book, then the caster may try to le
 
 The souls of nearby creatures light up in the vision of the caster. Creatures can be detected through solid objects, but their exact locations are obscured. The caster can discern different colors of souls:
 
-* **Blue:** Devouts and Ardents have green souls, but upon careful inspection have traces of blue. No creature has a purely blue soul.
+* **Blue:** Devouts have green souls, but upon careful inspection have traces of blue. No creature has a purely blue soul.
 * **Green:** All sentient mortals have green souls.
 * **Yellow:** Animals have yellow souls. Schoolmages have green souls, but upon careful inspection have traces of yellow.
 * **Red:** Cthonians and undead have red souls. Invokers have green souls, but upon careful inspection have traces of red.
@@ -668,7 +664,7 @@ If a creature that would be detected has the Soul Suppression gift, then Detect 
 ### Dispel Magic
 
 * Difficulty: Great (+2)
-* Cast by: Ardent, Schoolmage, Devout
+* Cast by: Schoolmage, Devout
 * Skill: Spiritual
 
 The caster removes ongoing magical effects imposed on itself or a target.
@@ -726,7 +722,7 @@ The caster projects a streak of fire towards a target.
 ### Flare
 
 * Difficulty: Mediocre (-1)
-* Cast by: Ardent, Schoolmage
+* Cast by: Schoolmage
 * Skill: Elemental
 
 A ball of light flies from the caster's fingertip, in a straight line, then disappears.
@@ -780,7 +776,7 @@ The caster projects an icy gust full of icicle spears at a target.
 ### Invisibility
 
 * Difficulty: Great (+2)
-* Cast by: Ardent, Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker
 * Skill: Physical
 
 The caster or target's appearance vanishes entirely, while remaining fully present and able to interact.
@@ -788,7 +784,7 @@ The caster or target's appearance vanishes entirely, while remaining fully prese
 ### Jump
 
 * Difficulty: Fair (0)
-* Cast by: Ardent, Schoolmage
+* Cast by: Schoolmage
 * Skill: Physical
 
 The caster or target becomes capable of leaping multiple times higher and farther than before.
@@ -828,7 +824,7 @@ The caster conjures a ghostly hand that can perform simple tasks from a distance
 ### Mending
 
 * Difficulty: Mediocre (-1)
-* Cast by: Ardent, Schoolmage, Devout
+* Cast by: Schoolmage, Devout
 * Skill: Physical
 
 The caster draws their finger across a single crack of a broken object, which heals the damage as if it never happened.
@@ -844,7 +840,7 @@ The caster calls forth an elemental blast from the skies which lands on a target
 ### Preserve
 
 * Difficulty: Fair (0)
-* Cast by: Ardent, Schoolmage, Devout
+* Cast by: Schoolmage, Devout
 * Skill: Physical
 
 The caster or target creature or object becomes more resilient against decay, rot, and rust. This grants resistance to spells which deal damage through decay.
@@ -876,7 +872,7 @@ The caster raises a wall of solid light that blocks various physical danger.
 ### Silence
 
 * Difficulty: Good (+1)
-* Cast by: Ardent, Devout, Invoker
+* Cast by: Devout, Invoker
 * Skill: Physical
 
 An area the caster targets becomes devoid of all sound.
@@ -966,7 +962,7 @@ Heavy strands of spiderwebs emerge from the caster's hands, falling on the groun
 ### Whisper
 
 * Difficulty: Mediocre (-1)
-* Cast by: Ardent, Schoolmage, Devout, Invoker
+* Cast by: Schoolmage, Devout, Invoker
 * Skill: Mental
 
 The target hears a short message whispered by the caster.
@@ -1136,7 +1132,7 @@ Below are examples, given for inspiration.
 * **Dwarves:** *Tundra Hardened* and *Cave Dweller*.
 * **Halflings:** *Light Footed* and *Small Stature*.
 
-Appendix C: Religion and Philosophy
+Appendix C: Religion
 ---
 
 ### Religion
@@ -1164,14 +1160,6 @@ Devouts of the Agathoi are not inherently loyal to the Imperial Cult. The Imperi
 * **Lize** of war and torture.
 * **Lundazing** of rebellion and power.
 * **Inizozim** of retribution and plots.
-
-### Philosophy
-
-There are many different schools of thought that Ardents belong to.
-
-* **Symphonists** believe in beauty.
-* **Destructivists** believe in moral outrage.
-* **Freneticists** believe in frenzy.
 
 Appendix D: Cosmology
 ---
