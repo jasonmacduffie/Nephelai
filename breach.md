@@ -110,9 +110,9 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Bartering:** Negotiating prices.
 * **Bluffing:** Telling lies about specific facts.
 * **Intimidation:** Coercing others by threat.
-* **Investigation:** Detecting intentions and probing for deception.
 * **Performance:** Staging distractions, adopting false personas, and rallying crowds.
 * **Persuasion:** Convincing others.
+* **Reading People:** Detecting intentions and probing for deception.
 * **Spells: Mental:** Casting magic that influences the minds of others.
 * **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
 * **Streetwise:** Navigating the criminal underworld.
@@ -271,7 +271,7 @@ Shooting or throwing weapons are static checks.
 
 Concealed attacks may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
-When the character is preparing to strike, the attacker must take an opposed action using the Concealed skill. If the defender is actively searching for a weapon, then the defender uses the Investigation skill. If the defender is passively noticing, then the defender uses the Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
+When the character is preparing to strike, the attacker must take an opposed action using the Concealed skill versus the defender's Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
 
 * **If the defender wins the roll:** Then the target is aware of the concealed weapon. The GM should call for initiative.
 * **If the attacker wins the roll:** Then the target is unaware of the concealed weapon. The attacker may wait for an opportune moment to attack.
