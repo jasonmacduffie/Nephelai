@@ -176,11 +176,20 @@ The Languages skill is not only for knowing bonus languages. Players may use the
 
 Characters may pick a language from the below list, or any others the GM allows.
 
-* **Imperial:** Imperial is the official language of politics and trade in the Yargyez Empire. It is the dominant language in Eastgardia province, which is the seat of power in the Yargyez Empire.
-* **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books.
-* **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire.
-* **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire.
-* **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire.
+* **Imperial:** Imperial is the official language of politics and trade in the Yargyez Empire. It is the dominant language in Eastgardia province, which is the seat of power in the Yargyez Empire. Imperial uses Nordic Script for its writing system.
+* **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books. Classical uses Sudic Script for its writing system.
+* **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire. Dwarvish uses Nordic Script for its writing system.
+* **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire. Halfling uses Nordic Script for its writing system.
+* **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire. High Elvish uses Sudic Script for its writing system.
+
+### Special Languages
+
+Characters may know other special languages and codes, besides those given by the Languages skill.
+
+* **High Tongue:** If the character is a Devout, then the character knowns High Tongue. This is a supernaturally closed languages known only by Devouts. High Tongue sounds like gibberish to non-Devouts, yet all listening know instantly and certainly that the language being spoken is indeed High Tongue. High Tongue cannot be used to convey complete sentences. It takes five seconds to convey a single concept like "Yes", "No", "Danger", or "Now". High Tongue has no written language.
+* **Cthonic Cult Languages:** If the character is an Invoker, then the character knows their own Archon's Cthonic Cult Language. Note this with the Archon's name, e.g. "Lize's Language". Cthonic Cult Languages are languages with full grammar and writing systems. An Archon's Cthonic Cult Language is known by that Archon, Cthonians who serve that Archon, and mortals who form pacts with that Archon. Cthonic Cult Languages are uncommon, but not supernaturally closed off; anybody can learn a Cthonic Cult Language by ordinary means. Each Cthonic Cult Language has a unique script.
+* **Oundar Edturn:** If the character has Good (+1) or better Streetwise, then the character knows Oundar Edturn. Oundar Edturn is an informal variant of Imperial that involves swapping the syllables within each word. Oundar Edturn is the standard language of the criminal underworld. Because of the simplicity of the code, outsiders listening to Oundar Edturn have a +1 Languages bonus to decipher it. Oundar Edturn has no written language.
+* **Arcane Shorthand:** Arcane Shorthand is a compressed form of Classical, used by Schoolmages to write spell books and personal notes. Schoolmages can only read their own shorthand, unless the Decipher Magic spell is used.
 
 Equipment
 ---
