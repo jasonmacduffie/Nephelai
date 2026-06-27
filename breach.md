@@ -443,7 +443,7 @@ Spells
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
 
-A glob of corrosive liquid is hurled from the caster's hands. Attack target creature for `MoS Armor Penetrating (1)` damage.
+A glob of corrosive liquid is hurled from the caster's hands. Deal `MoS Armor Penetrating (1)` damage to a target creature.
 
 ### Animate Dead
 
@@ -471,6 +471,8 @@ All enemies within 30 feet make a Personality check, reduced by the MoS. Each en
 
 The caster forces a target summoned creature to phase back into its home sphere.
 
+Select target summoned creature. The target creature is instantely removed from the mortal realm and sent to its native sphere.
+
 ### Blight
 
 * Difficulty: Good (+1)
@@ -478,6 +480,8 @@ The caster forces a target summoned creature to phase back into its home sphere.
 * Skill: Spiritual
 
 The caster drains the vitality of any living thing they touch with their finger.
+
+Select target creature. The target rolls for defense, reduced by the MoS. If the target rolls Fair (0) or worse, then it instantly suffers 1 Wound to the touched body part. Roll 3dF for location.
 
 ### Blur
 
