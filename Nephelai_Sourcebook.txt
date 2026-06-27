@@ -166,43 +166,43 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   </thead>
   <tbody>
     <tr>
-      <td>Common</td>
-      <td>Common</td>
+      <td>Imperial</td>
+      <td>Nordic</td>
       <td>Spoken by the Humans of Eastgardia, and most other Conlian races.</td>
     </tr>
     <tr>
       <td>Dwarvish</td>
-      <td>Common</td>
+      <td>Nordic</td>
       <td>Spoken by the Dwarves of Helscar.</td>
     </tr>
     <tr>
       <td>Halfling</td>
-      <td>Common</td>
+      <td>Nordic</td>
       <td>Spoken by the Halflings of Middlestone.</td>
     </tr>
     <tr>
       <td>Dark Elvish</td>
-      <td>Elvish</td>
+      <td>Sudic</td>
       <td>Spoken by the Dark Elves of Valorgale.</td>
     </tr>
     <tr>
       <td>Wood Elvish</td>
-      <td>Elvish</td>
+      <td>Sudic</td>
       <td>Spoken by the Wood Elves of Westerwood.</td>
     </tr>
     <tr>
       <td>High Elvish</td>
-      <td>Elvish</td>
+      <td>Sudic</td>
       <td>Spoken by the High Elves of Fair Island.</td>
     </tr>
     <tr>
       <td>Catfolk</td>
-      <td>Elvish</td>
+      <td>Sudic</td>
       <td>Spoken by the Catfolk of Wuthelark.</td>
     </tr>
     <tr>
       <td>Lizardfolk</td>
-      <td>Common</td>
+      <td>Nordic</td>
       <td>Spoken by the Lizardfolk of Nightglade.</td>
     </tr>
     <tr>
@@ -228,11 +228,11 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
 In addition to the languages spoken by those of a particular race, there are languages which are important for other reasons. While they may be obscure, they still have a writing system and structure of a full language.
 
 * **Cthonic cult languages:** Every Cthonic cult has a secret spoken language with its own distinct writing system. The names of the languages are simply given the name of the associated Archon (e.g. "Igedeng's language", "Lize's language") and this is the language cultists use to commune with their deity. In general, any and all beings who are influenced by the specific Archon can understand these secret languages. Examples are intelligent Cthonians, corrupted mortals, and cultists. However, it is also possible to learn a Cthonic cult language through ordinary means.
-* **Classical:** The elite language spoken by the ancient Magellian Empire is known as Classical. It is written in Elvish script, and superficially sounds like modern High Elvish to those unfamiliar with both languages. However, the modern language of High Elvish is significantly different from the dialect spoken by the Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge generally know Classical, and it is widely known by scholars of the Imperial Cult and the Philosophers Guild. It is the lingua franca of Schoolmages, such that modern spell books are also written in Classical. Intelligent constructs from the Magellian Empire also speak this language. Bizarrely, Schoolmages of the Uzvu Confederation also use Classical as their lingua franca, yet they are completely ignorant of the Magellian Empire. Uzvu Schoolmages have completely different legends regarding the origin of the Classical language which have no obvious relation to the Magellian Empire.
+* **Classical:** The elite language spoken by the ancient Magellian Empire is known as Classical. It is written in Elvish script, and superficially sounds like modern High Elvish to those unfamiliar with both languages. However, the modern language of High Elvish is significantly different from the dialect spoken by the Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge generally know Classical, and it is widely known by scholars of the Imperial Cult and the Philosophers Guild. It is the lingua franca of Schoolmages, such that modern spell books are also written in Classical. Intelligent constructs from the Magellian Empire also speak this language. Bizarrely, Schoolmages of the Uzvu Confederation also use Classical (written in Sudic) as their lingua franca, yet they are completely ignorant of the Magellian Empire. Uzvu Schoolmages have completely different legends regarding the origin of the Classical language which have no obvious relation to the Magellian Empire.
 
 #### Slang, Codes, and Signs
 
-There are many secret ways of communicating which are significant across Conliah. Many of these are derivative of Common or do not meet the criteria of a full language.
+There are many secret ways of communicating which are significant across Conliah. Many of these are derivative of Imperial or do not meet the criteria of a full language.
 
 * **High Tongue:** Imperial Cult Devouts, Cloud Devouts, and Ardents all have the ability to speak in a language called High Tongue. This language has no written form, and is supernaturally closed off to outsiders who will hear gibberish. Even so, outsiders in earshot will instantly and certainly be aware that this gibberish is High Tongue. High Tongue cannot be used to convey complex concepts, but may be used to impress abstract concepts upon the mind of listeners who share the language. Technically, these individual concepts may be chained together in a sequence to build a rudimentary language. However, under most circumstances outside of religious use this is excruciatingly and impractically slow. Usually its use is restricted to simple, singular or pairs of two messages in the following categories. The examples are not exhaustive, but the categories themselves are:
     * Broad intentions: "I come in peace", "I am hostile", "I surrender"
@@ -245,10 +245,10 @@ There are many secret ways of communicating which are significant across Conliah
     * Basic quantities: "None/one/two" (no specific number more than two), "a few", "many", "more", "less"
     * Philosophical abstractions: "Justice", "truth", "deception", "good", "evil"
     * Intonation: "!", "?"
-* **Spies' cant:** Operatives of the Artisans Guild have a secret code which allows them to insert secret messages into ordinary-sounding conversations, typically in Common.
+* **Spies' cant:** Operatives of the Artisans Guild have a secret code which allows them to insert secret messages into ordinary-sounding conversations, typically in Imperial.
 * **Escapist trail codes:** Followers of the Escapist school of thought in the Philosophers Guild leave trail markers which are subtle to the untrained eye, but whose meanings are unmistakable to those trained in it.
-* **Rhyming slang:** The lowest ranking soldiers of all martial factions native to Conliah are familiar with rhyming slang. This type of slang involves replacing a word with a rhyming phrase, then dropping the portion of the phrase which rhymes, which prevents analysis by outsiders. Examples of factions where this slang is widespread are the Belligerantes, the Royal Guard, the Artisans Guild, Tyvenlads, and Lizardfolk rebels. This informal variant of Common exists to obscure messages between *ranks within a faction* rather than *between factions*. For instance, a soldier can discreetly fraternize with a prisoner of an opposing faction if they both know rhyming slang. Attentive outsiders may catch on that rhyming slang is being used, but they will not have the slightest clue what is actually being said. When a low ranking soldier is promoted to the role of an officer, knowledge of rhyming slang is quickly lost. That is because the upkeep of knowledge of rhyming slang requires mnemonics embedded in the day-to-day life of a low ranking soldier, which an officer is required to alienate from. If someone retires at a low rank without being promoted to an officer, knowledge of rhyming slang is retained because this self-imposed alienation does not occur.
-* **Oundar Edturn:** The name Oundar Edturn is derived from the phrase "Turned Around". Beggars, prisoners, thieves, and criminals of all kinds across Conliah are familiar with Oundar Edturn. This type of slang is an informal variant of Common that involves swapping the syllables within each word. It is at risk of being analyzed if someone is aware that Oundar Edturn is being used, but it takes great practice to speak and hear fluently. Due to its simplicity to learn and practice, it has become the standard language of the criminal underworld.
+* **Rhyming slang:** The lowest ranking soldiers of all martial factions native to Conliah are familiar with rhyming slang. This type of slang involves replacing a word with a rhyming phrase, then dropping the portion of the phrase which rhymes, which prevents analysis by outsiders. Examples of factions where this slang is widespread are the Belligerantes, the Royal Guard, the Artisans Guild, Tyvenlads, and Lizardfolk rebels. This informal variant of Imperial exists to obscure messages between *ranks within a faction* rather than *between factions*. For instance, a soldier can discreetly fraternize with a prisoner of an opposing faction if they both know rhyming slang. Attentive outsiders may catch on that rhyming slang is being used, but they will not have the slightest clue what is actually being said. When a low ranking soldier is promoted to the role of an officer, knowledge of rhyming slang is quickly lost. That is because the upkeep of knowledge of rhyming slang requires mnemonics embedded in the day-to-day life of a low ranking soldier, which an officer is required to alienate from. If someone retires at a low rank without being promoted to an officer, knowledge of rhyming slang is retained because this self-imposed alienation does not occur.
+* **Oundar Edturn:** The name Oundar Edturn is derived from the phrase "Turned Around". Beggars, prisoners, thieves, and criminals of all kinds across Conliah are familiar with Oundar Edturn. This type of slang is an informal variant of Imperial that involves swapping the syllables within each word. It is at risk of being analyzed if someone is aware that Oundar Edturn is being used, but it takes great practice to speak and hear fluently. Due to its simplicity to learn and practice, it has become the standard language of the criminal underworld.
 * **Arcane shorthand:** While Schoolmages write in Classical in a structured setting, it is very common in the field to use shorthand, a practice dating back to the Magellian Empire. By means of this shorthand, it is possible to convey several words of Classical in a few brief strokes. While it is designed for speed and space efficiency rather than security, this shorthand is totally illegible except to the one who wrote it. It is necessary to cast a spell for one Schoolmage to decipher another's shorthand, which converts it to the full Classical in the caster's vision.
 
 History
