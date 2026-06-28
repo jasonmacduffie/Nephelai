@@ -124,7 +124,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
 * **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
-* **Devout Spell Caster:** The character has training as a Devout, who relies on support from a Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Devout Spell Caster:** The character has training as a Devout, whose powers ostensibly come from a relationship to an Agathos. The character may cast spells from the Devout list aligned with the character's Agathos. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
 * **Etiquette Training:** The character has deeply ingrained standards of etiquette, from an early age. The character gets +1 on social rolls in formal situations.
@@ -1155,7 +1155,11 @@ Archon worship is illegal and socially unacceptable. The Imperial Cult deploys i
 
 #### Agathoi
 
-Devouts of the Agathoi are not inherently loyal to the Imperial Cult. The Imperial Cult, as an organization, has no power to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
+It is intentionally ambiguous whether the Agathoi exist, or not. The Archons deny the existence of the Agathoi.
+
+Devouts of the Agathoi are not inherently loyal to the Imperial Cult. The Imperial Cult, as an organization, has no power to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies.
+
+The relationship between a Devout and the Agathos served is direct. The only way for a Devout to lose access to divine magic is by a total loss of faith, which breaks the relationship. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
 
 * **Iazus** of storms and law.
 * **Inidilt** of agriculture and seasons.
@@ -1177,7 +1181,7 @@ Appendix D: Cosmology
 ---
 The cosmos is divided into three realms:
 
-* **Asteria:** The divine realm, where the Agathoi reside.
+* **Asteria:** The divine realm, where the Agathoi reside. The Archons deny the existence of the Agathoi and the realm of Asteria.
 * **Ksylia:** The mortal realm.
 * **Cthonia:** The infernal realm, where the Archons and their Cthonian minions reside.
 
