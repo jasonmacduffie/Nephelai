@@ -1155,11 +1155,11 @@ Archon worship is illegal and socially unacceptable. The Imperial Cult deploys i
 
 #### Agathoi
 
-It is intentionally ambiguous whether the Agathoi exist, or not. The Archons deny the existence of the Agathoi.
+The true nature of the Agathoi is intentionally ambiguous in the setting. Different religious traditions interpret the Agathoi differently, and the Archons deny the existence of the Agathoi entirely.
 
-Devouts of the Agathoi are not inherently loyal to the Imperial Cult. The Imperial Cult, as an organization, has no power to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies.
+Because the Agathoi do not actively intervene in the mortal realm, the Imperial Cult has no ability to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies.
 
-The relationship between a Devout and the Agathos served is direct. The only way for a Devout to lose access to divine magic is by a total loss of faith, which breaks the relationship. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
+A Devout's power relies on the Devout's own internal devotion to the ideals of their Agathos. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
 
 * **Iazus** of storms and law.
 * **Inidilt** of agriculture and seasons.
