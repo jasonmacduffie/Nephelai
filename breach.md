@@ -529,7 +529,7 @@ The caster's voice projects authority that is difficult for nearby listeners to 
 * Cast by: Devout
 * Skill: Spiritual
 
-The caster asks a simple question to an Agathos, and receives a reply in one or two words of High Tongue. High Tongue is very limited language which can only transmit abstract replies like "Yes", "No", "Justice", and "Danger".
+The caster asks a simple question to an Agathos, and receives a reply in one or two words of High Tongue.
 
 ### Commune With Archon
 
