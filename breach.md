@@ -95,25 +95,25 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 #### Intellect Skills
 
-* **Brewing:** Mixing potions and poisons.
+* **Brewing:** Mixing potions and poisons. The Brewing skill is also used to identify unknown potions and poisons.
 * **Languages:** Reading, writing, and speaking multiple languages.
 * **Lore: History:** Knowledge of the deep past.
 * **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
 * **Medicine:** Treating wounds and diagnosing illnesses.
-* **Smithing:** Fashioning and repairing weapons and armor.
-* **Spells: Elemental:** Casting magic that manipulates the elements.
-* **Spells: Enchanting:** Imbuing objects and places with magic.
-* **Spells: Physical:** Casting magic that bends the laws of physics.
+* **Smithing:** Fashioning and repairing weapons and armor. The Smithing skill is also used for general knowledge about non-magical craftsmanship.
+* **Spells: Elemental:** Casting magic that manipulates the elements. The Elemental skill is also used for general knowledge about elemental phenomena.
+* **Spells: Enchanting:** Imbuing objects and places with magic. The Enchanting skill is also used to identify unknown magical objects, besides potions and poisons.
+* **Spells: Physical:** Casting magic that bends the laws of physics. The Physical skill is also used to identify whether physical manipulation magic is in effect.
 
 #### Personality Skills
 
 * **Bartering:** Negotiating prices.
 * **Bluffing:** Telling lies about specific facts.
+* **Cold-Reading:** Guessing strangers' backgrounds, detecting intentions, and probing for deception.
 * **Intimidation:** Coercing others by threat.
 * **Performance:** Staging distractions, adopting false personas, and rallying crowds.
 * **Persuasion:** Convincing others.
-* **Reading People:** Detecting intentions and probing for deception.
-* **Spells: Mental:** Casting magic that influences the minds of others.
+* **Spells: Mental:** Casting magic that influences the minds of others. The Mental skill is also used to identify whether mental manipulation magic is affecting someone.
 * **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
 * **Streetwise:** Navigating the criminal underworld.
 
@@ -188,8 +188,8 @@ Characters may know other special languages and codes, besides those given by th
 
 * **High Tongue:** If the character is a Devout, then the character knowns High Tongue. This is a supernaturally closed languages known only by Devouts. High Tongue sounds like gibberish to non-Devouts, yet all listening know instantly and certainly that the language being spoken is indeed High Tongue. High Tongue cannot be used to convey complete sentences. It takes five seconds to convey a single concept like "Yes", "No", "Danger", or "Now". High Tongue has no written language.
 * **Cthonic Cult Languages:** If the character is an Invoker, then the character knows their own Archon's Cthonic Cult Language. Note this with the Archon's name, e.g. "Lize's Language". Cthonic Cult Languages are languages with full grammar and writing systems. An Archon's Cthonic Cult Language is known by that Archon, Cthonians who serve that Archon, and mortals who form pacts with that Archon. Cthonic Cult Languages are uncommon, but not supernaturally closed off; anybody can learn a Cthonic Cult Language by ordinary means. Each Cthonic Cult Language has a unique script.
-* **Oundar Edturn:** If the character has Good (+1) or better Streetwise, then the character knows Oundar Edturn. Oundar Edturn is an informal variant of Imperial that involves swapping the syllables within each word. Oundar Edturn is the standard language of the criminal underworld. Oundar Edturn has no written language. Even those who cannot speak and listen to Oundar Edturn fluently may be aware of the concept. Because of the simplicity of the code, there are rules for eavesdroppers to decode Oundar Edturn.
-    * *Real-time decoding:* If the character is attempting to hear a conversation in real time, the listener makes a Languages check. If the result is Great (+2) or better, then the listener fully understands the conversation. Fair (0) or Good (+1) results may give partial understanding.
+* **Oundar Edturn:** If the character has Good (+1) or better Streetwise, then the character knows Oundar Edturn. Oundar Edturn is a slang form of Imperial that involves swapping syllables within words. The ability to speak and listen to Oundar Edturn fluently and quickly marks one as an insider to the criminal underworld. Oundar Edturn has no written language. Even those who cannot speak and listen to Oundar Edturn fluently may be aware that it exists. Because of the simplicity of the transformation, there are rules for non-fluent eavesdroppers to comprehend Oundar Edturn.
+    * *Real-time comprehension:* If the character is attempting to hear a conversation in real time, the listener makes a Languages check. If the result is Great (+2) or better, then the listener fully understands the conversation. Fair (0) or Good (+1) results may give partial understanding.
     * *Record phonetics by memory:* If the character gives up listening in real time and tries to memorize exact phonetics, then the listener makes an Intellect check. If the result is Great (+2) or better, then the listener fully memorizes the phonetics. Fair (0) or Good (+1) results may give partial recollection of phonetics. At a later point, the character needs to spend twice as much time as the conversation took to decode it.
     * *Record phonetics by writing:* If the character has the ability to write down phonetics, then the listener may write them down exactly without any roll. At a later point, the character needs to spend twice as much time as the conversation took to decode it.
 * **Arcane Shorthand:** Arcane Shorthand is a compressed form of Classical, used by Schoolmages to write spell books and personal notes. Schoolmages can only read their own shorthand, unless the Decipher Magic spell is used.
@@ -320,7 +320,7 @@ First, calculate damage with *all formulas and modifiers*. If the final result i
 
 Typical player characters have the following injury trackers:
 
-* 2 scratch bubbles
+* 3 scratch bubbles
 * 14 wound bubbles
 
 The 14 wounds are divided into 7 wound trackers of 2 bubbles each.
@@ -949,7 +949,7 @@ At the end of the week, roll an Enchanting skill check.
 
 War Puppets can only follow simple commands like "go there", "attack him", and "stay put". War Puppets can only attack with melee weapons.
 
-War Puppets do not have a full injury tracker. They only have two scratch bubbles and two wound bubbles. If both wound bubbles are filled, the War Puppet is incapacitated.
+War Puppets do not have a full injury tracker. They only have three scratch bubbles and two wound bubbles. If both wound bubbles are filled, the War Puppet is incapacitated.
 
 War Puppets do not heal naturally. Their scratches and wounds persist, indefinitely. However, even after animation, their bodies are simply wooden mannequins. As a downtime activity, any character may attempt to repair a wooden mannequin with a Smithing roll. At the beginning of the week, spend 50 ud on supplies to repair the mannequin. At the end of the week, roll a Smithing check. If the Smithing check is Good (+1) or better, then the wooden mannequin has one wound or scratch bubble removed. Otherwise, the money is lost and the mannequin is not repaired.
 
@@ -1046,8 +1046,8 @@ GMs should not stat every enemy combatant as a full player character, with EP sp
 
 Most enemies do not have the full PC injury track. There are three tiers of enemy durability: Light, Heavy, and Elite. All three tiers follow the exact same rules as player characters in the Taking Damage section, under Combat. The only difference is that Lights and Heavies do not roll for injury location.
 
-* **Light:** Two scratch bubbles, one wound bubble. If one wound bubble is filled, the enemy is incapacitated.
-* **Heavy:** Two scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
+* **Light:** Three scratch bubbles, one wound bubble. If one wound bubble is filled, the enemy is incapacitated.
+* **Heavy:** Three scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
 * **Elite:** Elites have the same injury tracker as player characters.
 
 For larger, more monstrous enemies, GMs may create custom injury trackers with even more wound bubbles than player characters.
