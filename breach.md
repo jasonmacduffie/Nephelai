@@ -113,8 +113,8 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Intimidation:** Coercing others by threat.
 * **Performance:** Staging distractions, adopting false personas, and rallying crowds.
 * **Persuasion:** Convincing others.
-* **Spells: Mental:** Casting magic that influences the minds of others. The Mental skill is also used to identify whether mental manipulation magic is affecting someone.
-* **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used for general knowledge about the soul and cosmic spheres.
+* **Spells: Mental:** Casting magic that influences the minds of others. The Mental skill is also used to sense whether mental manipulation magic is affecting someone.
+* **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used to sense spiritually and cosmically significant phenomena.
 * **Streetwise:** Navigating the criminal underworld.
 
 ### Gifts and Faults
