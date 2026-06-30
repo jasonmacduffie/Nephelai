@@ -44,7 +44,7 @@ To create a character:
 1. All attributes and skills start at Poor.
 2. Characters have 60 EP which may be spent to raise skills or attributes. Characters may also spend EP on Gifts and receive bonus EP from taking Faults. No more than 2 Gifts and 2 Faults may be taken during character creation.
 3. Any leftover EP is kept. Players may spend this EP during later character advancement.
-4. Characters start with 200 Drachmas (ud). They may spend this money on starting equipment. See Equipment.
+4. Characters start with 200 Drachmas (ud). They may spend this money on starting equipment. Some characters possess equipment automatically. See Equipment.
 5. Choose bonus languages, if the character has a Fair or better Languages skill. See Languages.
 
 ### EP Spend Table
@@ -85,7 +85,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
 * **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
-* **Riding & Driving:** Riding animals and driving vehicles.
+* **Security:** Avoiding and disabling traps, picking pockets, and picking locks.
 * **Sneaking:** Hiding and moving silently.
 * **Survival:** Fortifying camps, trailblazing, salvaging, and laying traps.
 * **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls.
@@ -108,13 +108,13 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 #### Personality Skills
 
 * **Bartering:** Negotiating prices.
-* **Bluffing:** Telling lies about specific facts.
+* **Bluffing:** Telling confident lies about specific facts.
 * **Cold-Reading:** Guessing strangers' backgrounds, detecting intentions, and probing for deception.
 * **Intimidation:** Coercing others by threat.
-* **Performance:** Staging distractions, adopting false personas, and rallying crowds.
 * **Persuasion:** Convincing others.
 * **Spells: Mental:** Casting magic that influences the minds of others. The Mental skill is also used to sense whether mental manipulation magic is affecting someone.
 * **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used to sense spiritually and cosmically significant phenomena.
+* **Stagecraft:** Staging distractions, adopting personas, and rallying crowds.
 * **Streetwise:** Navigating the criminal underworld.
 
 ### Gifts and Faults
@@ -123,8 +123,8 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
-* **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying their personal notes, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
-* **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. Devouts spend one hour worshipping their Agathos, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying personal notes from their spellbooks, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. Devouts spend one hour worshipping their Agathos, with their holy symbols, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
 * **Etiquette Training:** The character has deeply ingrained standards of etiquette, from an early age. The character gets +1 on social rolls in formal situations.
@@ -143,7 +143,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
-* **Addiction:** The character is physically and emotionally dependent on a physical substance like Mola Dust or Haze Shrooms. The character spends 20 Drachmas (ud) every week, to feed this addiction.
+* **Addiction:** The character is physically and emotionally dependent on a physical substance. The character spends 15 Drachmas (ud) every week, to feed this addiction.
 * **Cave Dweller:** The character is physically adapted to living underground. While in daylight, the character sees as well in daylight as the average person may see in low light.
 * **Conspicuous Soul:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Soul Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
@@ -196,8 +196,6 @@ Characters may know other special languages and codes, besides those given by th
 
 Equipment
 ---
-Players are not expected to keep track of torches, rations, rope, lockpicks, and ammunition. Such resources and gear are resupplied by the character on a periodic basis, as needed. Players should keep track of (1) wealth in Drachmas (ud), (2) weapons and armor, (3) narratively important items, and (4) other special items which give stat bonuses.
-
 At the end of every week, characters earn 10 Drachmas (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
 
 ### Currency
@@ -214,14 +212,21 @@ The Bartering skill may be used to negotiate prices, when purchasing standard eq
 
 Make an opposed check between both characters' Bartering. Ties go to the vendor. If the player character wins the opposed check, then standard equipment is sold at a 10% discount for each margin of success. This may not reduce prices below a 30% discount.
 
-### Weapons & Armor
-
-#### Key Words
+### Key Words
 
 * **Concealable:** If a weapon is used with Concealable Weapons skill, then use the Concealable damage bonus instead.
 * **Heavy:** If an equipped item is Heavy, then Brawling may not be used to attack, nor may Acrobatics be used to defend. Also, apply the listed penalty to initiative rolls.
+* **Projectile:** Projectile ranged weapons are listed in the format (damage bonus; range; ammunition). Each attack spends one ammunition. The weapon may not be used without ammunition. The GM may decide to allow retrieving ammunition.
+* **Thrown:** Thrown ranged weapons are listed in the format (damage bonus; range). The weapon is lost, once thrown. The GM may decide to allow retrieving thrown weapons.
+* **Energy-beam:** Energy-beam ranged weapons are listed in the format (damage bonus; range; charges). Each attack spends one charge. Once the charges are spent, the weapon is permanently useless.
+* **Armor Penetrating:** Armor Penetrating weapons reduce the enemy's armor by the listed amount. If no amount is listed, then the weapon ignores armor entirely.
+* **Anti-Cthonic:** Anti-Cthonic weapons deal +1 damage to Cthonians.
+* **Addictive:** Addictive substances may be picked for characters with the Addiction Fault.
+* **Illegal and Highly Illegal:** Illegal items carry a 10-30 ud fine if caught with possession, and minor legal consequences. Highly illegal items carry a 100-300 ud fine if caught with possession, and major legal consequences.
 
-#### Equipment List
+### Standard Items
+
+Standard items are easily purchased in major cities. Not every vendor may stock every kind of ware, but finding a vendor who sells the below is not difficult.
 
 * Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+2).
 * Knuckledusters - 12 ud. Brawling weapon (+1). Concealable (+2).
@@ -231,12 +236,14 @@ Make an opposed check between both characters' Bartering. Ties go to the vendor.
 * Mace - 25 ud. One-handed melee weapon (+2).
 * Spear - 10 ud. One-handed melee weapon (+2).
 * Greatsword - 80 ud. Two-handed melee weapon (+3). Heavy (-1).
-* Sling - 1 ud. Projectile ranged weapon (+1).
-* Shortbow - 15 ud. Projectile ranged weapon (+1).
-* Throwing knife - 12 ud. Thrown ranged weapon (+1). Concealable (+2).
-* Longbow - 40 ud. Projectile ranged weapon (+2).
-* Crossbow - 60 ud. Projectile ranged weapon (+2).
-* Throwing axe - 8 ud. Thrown ranged weapon (+2).
+* Sling - 1 ud. Projectile ranged weapon (+1; 60 ft; stones).
+* Shortbow - 15 ud. Projectile ranged weapon (+1; 80 ft; arrows).
+* Longbow - 40 ud. Projectile ranged weapon (+2; 120 ft; arrows).
+* Crossbow - 60 ud. Projectile ranged weapon (+2; 100 ft; bolts).
+* Arrows - 1 ud for 20. Ammunition.
+* Bolts - 2 ud for 20. Ammunition.
+* Throwing knife - 12 ud. Thrown ranged weapon (+1; 20 ft). Concealable (+2).
+* Throwing axe - 8 ud. Thrown ranged weapon (+2; 30 ft).
 * Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+3).
 * Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+3).
 * Leather armor - 50 ud. Set of armor (+1).
@@ -244,6 +251,56 @@ Make an opposed check between both characters' Bartering. Ties go to the vendor.
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
 * Small shield - 15 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
+* Blank spellbook - 5 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. If that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
+* Holy symbol - 10 ud. If the character is a Devout Spell Caster, then that character possesses a holy symbol. If that character loses their Holy Symbol, then that character may not recover from Soul Burn. The holy symbol is specific to a particular Agathos, matching the Devout's patron. Note that the holy symbol is not inherently magical.
+* Alcohol - 0.1 ud per drink. Addictive.
+* Tobacco - 0.2 ud per dose. Addictive.
+
+### Exceptional Items
+
+There are items which exist in the world, but are non-trivial to obtain. GMs may plant these items as treasure, tie them into the campaign story, or present them for sale by rare vendors.
+
+* Uzvu-make pistol - 160 ud. Projectile ranged weapon (+2; 100 ft; shots). Armor Penetrating (1).
+* Uzvu-make rifle - 300 ud. Projectile ranged weapon (+3; 120 ft; shots). Armor Penetrating (2).
+* Magellian ray gun - 1200 ud. Energy-beam ranged weapon (+4; 90 ft; 12). Armor Penetrating.
+* Shots - 3 ud for 20. Ammunition.
+* Yellow beryl gemstone (Good) - 750 ud.
+* Yellow beryl gemstone (Great) - 1500 ud.
+* Yellow beryl gemstone (Superb) - 3000 ud.
+* Wooden mannequin - 1000 ud. For the War Puppet enchantment.
+* Silver dagger - 24 ud. One-handed melee weapon (+1). Concealable (+2). Anti-Cthonic.
+* Silver shortsword - 90 ud. One-handed melee weapon (+2). Anti-Cthonic.
+* Silver longsword - 150 ud. One-handed melee weapon (+2). Anti-Cthonic.
+* Silver arrows - 3 ud for 20. Ammunition. Anti-Cthonic.
+* Silver bolts - 6 ud for 20. Ammunition. Anti-Cthonic.
+* Mola tea - 0.5 ud per drink. Addictive. Illegal. Stimulant tea brewed from dry leaves of the mola tree, which is more weakly addictive than mola dust.
+* Mola dust - 5 ud per dose. Addictive. Highly Illegal. Stimulant powder snorted from roasted mola nuts.
+* Haze shrooms - 5 ud per dose. Addictive. Highly Illegal. Brown mushrooms with pink spots, eaten or smoked for a calming effect.
+
+### Day Kits
+
+When a character is in the field, that character always brings a day kit. Any unused items are returned to the faction after returning from the field. These items may not be purchased or sold. If these items are fully consumed or lost, they may no longer be used during the mission.
+
+* 1 Pack
+* 1 Flint & Steel
+* 1 Coil of Rope, 50 ft.
+* 1 Medicine Kit. Required for treating injuries.
+* 1 Small Knife
+* 1 Map
+* 1 Cloak
+* Food Provisions (3 meals per day anticipated)
+* Water Bag (1 per day anticipated)
+* Torches (3 per day anticipated). 1 hour of light, each.
+
+### Overnight Kits
+
+When a character is expected to be in the field for more than one day, that character always brings an overnight kit (in addition to all items listed under day kits). Any unused items are returned to the faction after returning from the field. These items may not be purchased or sold. If these items are fully consumed or lost, they may no longer be used during the mission.
+
+* 1 Bedding
+* 1 Tarp
+* 1 Food Equipment (Cooking Pot, Dishes, Cutlery)
+* 1 Needle & Thread
+* Spare Clothing (1 set per day anticipated, beyond the first)
 
 Combat
 ---
@@ -913,11 +970,11 @@ The caster calls forth a creature from a Cthonic sphere, to temporarily serve th
 
 The caster transfers the soul of a creature into an empty yellow beryl gemstone. To cast this spell, the caster must have an appropriately sized and cut stone. Select a target creature that possesses a yellow soul (an animal) that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
 
-The value of the yellow beryl gemstone used limits the strength of animal that may by trapped. The strength of the animal trapped determines the strength of the enchantment.
+The quality of the yellow beryl gemstone used limits the strength of animal that may by trapped. The strength of the animal trapped determines the strength of the enchantment.
 
-* **750 Drachmas (ud):** The gem may hold the soul of an animal with Good (+1) Physique or less.
-* **1500 Drachmas (ud):** The gem may hold the soul of an animal with Great (+2) Physique or less.
-* **3000 Drachmas (ud):** The gem may hold the soul of an animal with Superb (+3) Physique or less.
+* **Good:** The gem may hold the soul of an animal with Good (+1) Physique or less.
+* **Great:** The gem may hold the soul of an animal with Great (+2) Physique or less.
+* **Superb:** The gem may hold the soul of an animal with Superb (+3) Physique or less.
 
 Note the Physique of the soul captured. That ladder step is the size of the soul in the gem, which may be referenced during enchantment.
 
@@ -939,7 +996,7 @@ The caster fastens a bound soul to a wooden mannequin, to construct an mindless 
 
 #### Downtime Activity
 
-This spell requires a wooden mannequin costing 1000 Drachmas (ud) and a target yellow beryl gemstone containing a trapped yellow soul. The trapped soul's size must be Great or better.
+This spell requires a properly crafted wooden mannequin and a target yellow beryl gemstone containing a trapped yellow soul. The trapped soul's size must be Great or better.
 
 At the end of the week, roll an Enchanting skill check.
 
