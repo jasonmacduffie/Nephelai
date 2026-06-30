@@ -282,10 +282,12 @@ There are items which exist in the world, but are non-trivial to obtain. GMs may
 When a character is in the field, that character always brings a day kit. Any unused items are returned to the faction after returning from the field. These items may not be purchased or sold. If these items are fully consumed or lost, they may no longer be used during the mission.
 
 * 1 Pack
-* 1 Flint & Steel
-* 1 Coil of Rope, 50 ft.
-* 1 Medicine Kit. Required for treating injuries.
-* 1 Small Knife
+* 1 Flint & steel
+* 1 Coil of rope, 50 ft.
+* 1 Medicine kit. Required for treating injuries.
+* 1 Lockpick. Required for picking locks and disabling traps.
+* 1 Writing kit (sheets of paper, charcoal)
+* 1 Small knife
 * 1 Map
 * 1 Cloak
 * Food Provisions (3 meals per day anticipated)
@@ -298,9 +300,10 @@ When a character is expected to be in the field for more than one day, that char
 
 * 1 Bedding
 * 1 Tarp
-* 1 Food Equipment (Cooking Pot, Dishes, Cutlery)
+* 1 Food equipment (cooking pot, dishes, cutlery)
 * 1 Needle & Thread
-* Spare Clothing (1 set per day anticipated, beyond the first)
+* 1 Small shovel
+* Spare clothing (1 set per day anticipated, beyond the first)
 
 Combat
 ---
