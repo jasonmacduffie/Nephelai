@@ -291,8 +291,8 @@ When a character is in the field, that character always brings a day kit. Any un
 * Map - 4 ud.
 * Cloak - 6 ud.
 * Water Bag - 2 ud.
-* Food Provisions - 0.5 ud / meal. (3 meals per day anticipated)
-* Torches - 0.3 ud / torch. 1 hour of light, each. (3 torches per day anticipated)
+* Food Provisions - 0.1 ud / meal. (3 meals per day anticipated)
+* Torches - 0.2 ud / torch. 1 hour of light, each. (3 torches per day anticipated)
 
 ### Overnight Kits
 
