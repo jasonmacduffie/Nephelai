@@ -234,24 +234,24 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Shortsword - 30 ud. One-handed melee weapon (+2).
 * Longsword - 50 ud. One-handed melee weapon (+2).
 * Mace - 25 ud. One-handed melee weapon (+2).
-* Spear - 10 ud. One-handed melee weapon (+2).
+* Spear - 5 ud. One-handed melee weapon (+2).
 * Greatsword - 80 ud. Two-handed melee weapon (+3). Heavy (-1).
 * Sling - 1 ud. Projectile ranged weapon (+1; 60 ft; stones).
 * Shortbow - 15 ud. Projectile ranged weapon (+1; 80 ft; arrows).
 * Longbow - 40 ud. Projectile ranged weapon (+2; 120 ft; arrows).
 * Crossbow - 60 ud. Projectile ranged weapon (+2; 100 ft; bolts).
-* Arrows - 1 ud for 20. Ammunition.
-* Bolts - 2 ud for 20. Ammunition.
-* Throwing knife - 12 ud. Thrown ranged weapon (+1; 20 ft). Concealable (+2).
-* Throwing axe - 8 ud. Thrown ranged weapon (+2; 30 ft).
+* Arrows - 2 ud for 20. Ammunition.
+* Bolts - 3 ud for 20. Ammunition.
+* Throwing knife - 8 ud. Thrown ranged weapon (+1; 20 ft). Concealable (+2).
+* Throwing axe - 12 ud. Thrown ranged weapon (+2; 30 ft).
 * Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+3).
 * Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+3).
 * Leather armor - 50 ud. Set of armor (+1).
-* Chainmail - 150 ud. Set of armor (+2). Heavy (-1).
+* Chainmail - 200 ud. Set of armor (+2). Heavy (-1).
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
-* Small shield - 15 ud. Shield (+1).
+* Small shield - 20 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
-* Blank spellbook - 5 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. If that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
+* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. If that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
 * Holy symbol - 10 ud. If the character is a Devout Spell Caster, then that character possesses a holy symbol. If that character loses their Holy Symbol, then that character may not recover from Soul Burn. The holy symbol is specific to a particular Agathos, matching the Devout's patron. Note that the holy symbol is not inherently magical.
 * Alcohol - 0.1 ud per drink. Addictive.
 * Tobacco - 0.2 ud per dose. Addictive.
@@ -279,31 +279,31 @@ There are items which exist in the world, but are non-trivial to obtain. GMs may
 
 ### Day Kits
 
-When a character is in the field, that character always brings a day kit. Any unused items are returned to the faction after returning from the field. These items may not be purchased or sold. If these items are fully consumed or lost, they may no longer be used during the mission.
+When a character is in the field, that character always brings a day kit. Any unused items are returned to the faction after returning from the field. These items usually may not be purchased or sold, but standard prices are listed for reference. If these items are fully consumed or lost, they may no longer be used during the mission.
 
-* 1 Pack
-* 1 Flint & steel
-* 1 Coil of rope, 50 ft.
-* 1 Medicine kit. Required for treating injuries.
-* 1 Lockpick. Required for picking locks and disabling traps.
-* 1 Writing kit (sheets of paper, charcoal)
-* 1 Small knife
-* 1 Map
-* 1 Cloak
-* Food Provisions (3 meals per day anticipated)
-* Water Bag (1 per day anticipated)
-* Torches (3 per day anticipated). 1 hour of light, each.
+* Pack - 6 ud.
+* Flint & steel - 1 ud.
+* Coil of rope, 50 ft. - 4 ud.
+* Medicine kit - 6 ud. Required for treating injuries.
+* Lockpick - 5 ud. Required for picking locks and disabling traps.
+* Writing kit - 2 ud. Ten sheets of paper, and charcoal.
+* Small knife - 2 ud.
+* Map - 4 ud.
+* Cloak - 6 ud.
+* Water Bag - 2 ud.
+* Food Provisions - 0.5 ud / meal. (3 meals per day anticipated)
+* Torches - 0.3 ud / torch. 1 hour of light, each. (3 torches per day anticipated)
 
 ### Overnight Kits
 
-When a character is expected to be in the field for more than one day, that character always brings an overnight kit (in addition to all items listed under day kits). Any unused items are returned to the faction after returning from the field. These items may not be purchased or sold. If these items are fully consumed or lost, they may no longer be used during the mission.
+When a character is expected to be in the field for more than one day, that character always brings an overnight kit (in addition to all items listed under day kits). Any unused items are returned to the faction after returning from the field. These items usually may not be purchased or sold, but standard prices are listed for reference. If these items are fully consumed or lost, they may no longer be used during the mission.
 
-* 1 Bedding
-* 1 Tarp
-* 1 Food equipment (cooking pot, dishes, cutlery)
-* 1 Needle & Thread
-* 1 Small shovel
-* Spare clothing (1 set per day anticipated, beyond the first)
+* Bedding - 8 ud.
+* Tarp - 3 ud.
+* Food equipment - 4 ud. A cooking pot, spoon, plate, bowl, and cup.
+* Needle & Thread - 1 ud.
+* Small shovel - 4 ud.
+* Spare clothing - 6 ud / set. (1 set per day anticipated, beyond the first)
 
 Combat
 ---
