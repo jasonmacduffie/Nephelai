@@ -84,11 +84,11 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 #### Physique Skills
 
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
-* **Athletics:** Running, swimming, and lifting. Athletics is the default skill for any task involving physical exertion.
+* **Athletics:** Running, swimming, lifting, and various other forms of physical exertion.
 * **Security:** Avoiding and disabling traps, picking pockets, and picking locks.
 * **Sneaking:** Hiding and moving silently.
 * **Survival:** Fortifying camps, trailblazing, salvaging, and laying traps.
-* **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls.
+* **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls. Brawling is used for attack and defense rolls.
 * **Fighting: Concealed:** Hiding small weapons, and using them to strike outside of combat. Concealed is used for attack rolls, in such cases. Outside of combat, the Concealed skill is used for smuggling small items on one's person.
 * **Fighting: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Melee is used for attack and defense rolls. Outside of combat, the Melee skill is used for striking objects with actual or improvised blades and clubs.
 * **Fighting: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Ranged is used for attack rolls. Outside of combat, the Ranged skill is used for throwing various objects.
@@ -143,7 +143,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
-* **Addiction:** The character is physically and emotionally dependent on a physical substance. The character spends 15 Drachmas (ud) every week, to feed this addiction.
+* **Addiction:** The character is physically and emotionally dependent on a physical substance. The character spends 15 Drachmas (ud) at the start of every week, to feed this addiction.
 * **Cave Dweller:** The character is physically adapted to living underground. While in daylight, the character sees as well in daylight as the average person may see in low light.
 * **Conspicuous Soul:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Soul Suppression gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
@@ -180,7 +180,14 @@ Characters may pick a language from the below list, or any others the GM allows.
 * **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books. Classical uses Sudic Script for its writing system.
 * **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire. Dwarvish uses Nordic Script for its writing system.
 * **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire. Halfling uses Nordic Script for its writing system.
+* **Dark Elvish:** Dark Elvish is the local language of Valorgale province. It is also widely spoken by Dark Elves across the Empire. Dark Elvish uses Sudic Script for its writing system.
+* **Wood Elvish:** Wood Elvish is the local language of Westerwood province. It is also widely spoken by Wood Elves across the Empire. Wood Elvish uses Sudic Script for its writing system.
 * **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire. High Elvish uses Sudic Script for its writing system.
+* **Catfolk:** Catfolk is the local language of Wuthelark province. It is also widely spoken by Catfolk across the Empire. Catfolk uses Sudic Script for its writing system.
+* **Lizardfolk:** Lizardfolk is the local language of Nightglade province. It is also widely spoken by Lizardfolk across the Empire. Lizardfolk uses Nordic Script for its writing system.
+* **Orcish:** Orcish is the native language of Orcs, and the common language of the Uzvu Confederation.
+* **Goblin:** Goblin is spoken by Goblins of the Uzvu Confederation.
+* **Ogre:** Ogre is spoken by Ogres of the Uzvu Confederation.
 
 ### Special Languages
 
@@ -223,12 +230,14 @@ Make an opposed check between both characters' Bartering. Ties go to the vendor.
 * **Anti-Cthonic:** Anti-Cthonic weapons deal +1 damage to Cthonians.
 * **Addictive:** Addictive substances may be picked for characters with the Addiction Fault.
 * **Illegal and Highly Illegal:** Illegal items carry a 10-30 ud fine if caught with possession, and minor legal consequences. Highly illegal items carry a 100-300 ud fine if caught with possession, and major legal consequences.
+* **One-handed:** If a weapon is one-handed, then it may be used with one crippled arm.
+* **Two-handed:** If a weapon is two-handed, then it may not be used with one crippled arm.
 
 ### Standard Items
 
 Standard items are easily purchased in major cities. Not every vendor may stock every kind of ware, but finding a vendor who sells the below is not difficult.
 
-* Dagger - 8 ud. One-handed melee weapon (+1). Concealable (+2).
+* Dagger - 6 ud. One-handed melee weapon (+1). One-handed, thrown ranged weapon (+1; 20 ft). Concealable (+3).
 * Knuckledusters - 12 ud. Brawling weapon (+1). Concealable (+2).
 * Club - 2 ud. One-handed melee weapon (+1).
 * Shortsword - 30 ud. One-handed melee weapon (+2).
@@ -236,16 +245,14 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Mace - 25 ud. One-handed melee weapon (+2).
 * Spear - 5 ud. One-handed melee weapon (+2).
 * Greatsword - 80 ud. Two-handed melee weapon (+3). Heavy (-1).
-* Sling - 1 ud. Projectile ranged weapon (+1; 60 ft; stones).
-* Shortbow - 15 ud. Projectile ranged weapon (+1; 80 ft; arrows).
-* Longbow - 40 ud. Projectile ranged weapon (+2; 120 ft; arrows).
-* Crossbow - 60 ud. Projectile ranged weapon (+2; 100 ft; bolts).
+* Sling - 1 ud. Two-handed, projectile ranged weapon (+1; 60 ft; stones).
+* Shortbow - 15 ud. Two-handed, projectile ranged weapon (+1; 80 ft; arrows).
+* Longbow - 40 ud. Two-handed, projectile ranged weapon (+2; 120 ft; arrows).
+* Crossbow - 60 ud. Two-handed, projectile ranged weapon (+2; 100 ft; bolts).
 * Arrows - 2 ud for 20. Ammunition.
 * Bolts - 3 ud for 20. Ammunition.
-* Throwing knife - 8 ud. Thrown ranged weapon (+1; 20 ft). Concealable (+2).
-* Throwing axe - 12 ud. Thrown ranged weapon (+2; 30 ft).
+* Throwing axe - 12 ud. One-handed, thrown ranged weapon (+2; 30 ft).
 * Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+3).
-* Boot knife - 6 ud. One-handed melee weapon (+1). Concealable (+3).
 * Leather armor - 50 ud. Set of armor (+1).
 * Chainmail - 200 ud. Set of armor (+2). Heavy (-1).
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
@@ -260,9 +267,9 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 
 There are items which exist in the world, but are non-trivial to obtain. GMs may plant these items as treasure, tie them into the campaign story, or present them for sale by rare vendors.
 
-* Uzvu-make pistol - 160 ud. Projectile ranged weapon (+2; 100 ft; shots). Armor Penetrating (1).
-* Uzvu-make rifle - 300 ud. Projectile ranged weapon (+3; 120 ft; shots). Armor Penetrating (2).
-* Magellian ray gun - 1200 ud. Energy-beam ranged weapon (+4; 90 ft; 12). Armor Penetrating.
+* Uzvu-make pistol - 160 ud. Two-handed, projectile ranged weapon (+2; 100 ft; shots). Armor Penetrating (1).
+* Uzvu-make rifle - 300 ud. Two-handed, projectile ranged weapon (+3; 120 ft; shots). Armor Penetrating (2).
+* Magellian ray gun - 1200 ud. Two-handed, energy-beam ranged weapon (+4; 90 ft; 12). Armor Penetrating.
 * Shots - 3 ud for 20. Ammunition.
 * Yellow beryl gemstone (Good) - 750 ud.
 * Yellow beryl gemstone (Great) - 1500 ud.
@@ -283,16 +290,17 @@ When a character is in the field, that character always brings a day kit. Any un
 
 * Pack - 6 ud.
 * Flint & steel - 1 ud.
-* Coil of rope, 50 ft. - 4 ud.
-* Medicine kit - 6 ud. Required for treating injuries.
-* Lockpick - 5 ud. Required for picking locks and disabling traps.
 * Writing kit - 2 ud. Ten sheets of paper, and charcoal.
 * Small knife - 2 ud.
-* Map - 4 ud.
 * Cloak - 6 ud.
 * Water Bag - 2 ud.
 * Food Provisions - 0.1 ud / meal. (3 meals per day anticipated)
 * Torches - 0.2 ud / torch. 1 hour of light, each. (3 torches per day anticipated)
+* Hatchet - 4 ud. *One per party.*
+* Medicine kit - 6 ud. Required for treating injuries. *One per party.*
+* Lockpick - 5 ud. Required for picking locks and disabling traps. *One per party.*
+* Map - 4 ud. *One per party.*
+* Coil of rope, 50 ft. - 4 ud. *One per party.*
 
 ### Overnight Kits
 
@@ -300,10 +308,11 @@ When a character is expected to be in the field for more than one day, that char
 
 * Bedding - 8 ud.
 * Tarp - 3 ud.
-* Food equipment - 4 ud. A cooking pot, spoon, plate, bowl, and cup.
+* Dining kit - 1 ud. A spoon, plate, bowl, and cup.
 * Needle & Thread - 1 ud.
-* Small shovel - 4 ud.
 * Spare clothing - 6 ud / set. (1 set per day anticipated, beyond the first)
+* Small shovel - 4 ud. *One par party.*
+* Cooking pot - 4 ud. *One per party.*
 
 Combat
 ---
@@ -319,7 +328,18 @@ If a player character is tied with an enemy for initiative, then the player char
 
 Every turn consists of movement, and a major action. Examples of major actions are attacking, using an item, or casting a spell. Examples of movement are running up to an enemy, running away to escape, or changing position. Characters are always allowed to skip movement, skip major action, or skip both.
 
-Ordinary characters may run 30 feet in a single turn.
+#### Movement
+
+The maximum distance a character may sprint per turn of combat is based on the Athletics skill.
+
+* **Poor (-2) or worse:** 50 feet
+* **Mediocre (-1):** 70 feet
+* **Fair (0):** 90 feet
+* **Good (+1):** 110 feet
+* **Great (+2):** 130 feet
+* **Superb (+3) or better:** 150 feet
+
+When one character is pursuing another, the character with higher speed succeeds. If the characters have equal speed, then roll an opposed Physique check between pursuer and pursued. Each margin of success represents a 5 foot increase or decrease in distance.
 
 #### Resolving The Attack
 
@@ -327,10 +347,14 @@ Whether a character's blow lands, and how it lands, depends entirely on the natu
 
 ##### Melee Weapons & Brawling
 
-Close-quarters combat is an opposed check. Defensive rolls are automatic and do not consume an action on the defender's turn. Shield Bonuses only apply if the defender is using the Melee skill to defend.
+Close-quarters combat is an opposed check. Defense rolls are automatic and do not consume an action on the defender's turn. Apply the following adjustments to the defender's roll:
 
-* **The Roll:** Attacker (4dF + Attack Skill) vs. Defender (4dF + Defense Skill + Shield Bonus).
-* **The Result:** If the attacker's roll is strictly higher than the defender's, then the blow lands. On a tie or loss, the attack misses. *If the attacker is using Brawling, then the attacker wins ties.*
+* If the attacker is using Brawling, then subtract 1.
+* If the attacker is using Melee and the defender is using Brawling, then subtract 1.
+* If the defender is using Melee and has a shield equipped, then add the shield bonus.
+
+* **The Roll:** Attacker (4dF + Attack Skill) vs. Defender (4dF + Defense Skill + Defense Adjustment).
+* **The Result:** If the attacker's roll is strictly higher than the defender's, then the blow lands. On a tie or loss, the attack misses.
 
 ##### Ranged Weapons
 
@@ -407,8 +431,9 @@ After calculating damage, apply the following table to determine the injury.
 * **2:** Two scratches
 * **3:** Roll for one wound
 * **4:** Roll for two wounds to one body part
-* **5:** Near Death; out of the fight. Roll for two wounds to one body part, to see why the character is near death.
-* **6+:** Death; out of the fight. Roll for two wounds to one body part, to see why the character is dead.
+* **5:** Roll for three wounds to one body part. (This usually causes Near Death or Death.)
+* **6:** Roll for four wounds to one body part. (This usually causes Death.)
+* **7+:** Continue the same pattern of applying N-2 wounds
 
 Scratches are minor harm that heals quickly outside of a fight without special attention. They do not have any mechanical penalty. However, they add up in a fight. If scratch bubbles are ever full, and another scratch bubble would need to be filled out, then erase all scratches and roll for one wound.
 
@@ -426,9 +451,9 @@ One wound bubble on any body part has no mechanical penalty. However, wounds do 
 
 If two wound bubbles are filled on a body part, there is a mechanical penalty. The body part is said to be Crippled. The effect depends on the body part.
 
-* **One leg:** The character moves at half speed.
+* **One leg:** The character moves at half speed or 60 feet per turn, whichever is less. The character takes a -2 penalty to Acrobatics defense rolls.
 * **Two legs:** The character cannot move, and is Incapacitated.
-* **One arm:** The character loses use of the Crippled arm, and may not use shields or two-handed weapons. If the Crippled arm is dominant, then the character takes a -2 penalty to attack and defense rolls.
+* **One arm:** The character loses use of the Crippled arm, and may not use shields or two-handed weapons. If the Crippled arm is dominant, then the character takes a -2 penalty to attack and Melee and Brawling defense rolls.
 * **Two arms:** The character cannot attack or defend, and is Incapacitated.
 * **Head, Abdomen, or Chest:** The character is Incapacitated.
 
@@ -453,7 +478,7 @@ Scratches heal quickly outside of a fight, without any special medical attention
 
 The moment a character is Near Death, that character will die in one hour without medical attention. If a player character treats the injury, then a Medicine check must be at least Good (+1) to stabilize the injury. A character who failed at the same Medicine check cannot attempt to stabilize same injury, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character is no longer Near Death.
 
-Wounds require a full week of downtime to heal. After a week of rest, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, a character who failed at the same Medicine check cannot attempt to heal the same injury in the same week, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
+Wounds require downtime to naturally heal. After resting for a week of downtime, a player character may treat the injury once. The Medicine check must be at least Fair (0) to succeed. As with stabilization, a character who failed at the same Medicine check cannot attempt to heal the same injury in the same week, but multiple player characters may repeat the attempt. If the attempt is successful, then the treated character may choose a single wound bubble to remove.
 
 If a character is Incapacitated, and wounds are healed, then check for any remaining wounds. If all wounds on the head, abdomen, and chest are below two filled bubbles, then the character is no longer Incapacitated.
 
@@ -1043,9 +1068,11 @@ Downtime
 ---
 Players are expected to maintain a roster of benched characters, in addition to characters in the field. Downtime rules provide a structured way to handle benched characters. Downtime cycles are measured in weeks. The general cycle of the week is:
 
-1. Plan The Week
-2. Adventure In The Field
-3. Conclude The Week
+1. Resolve the previous week
+2. Plan the next week
+3. Adventure in the field
+
+Downtime operates in strict blocks, from the start to the end of the calendar week. If a character spent even one day in the field, the rest of the week is forfeit. The remaining days are spent planning for and recovering from the mission.
 
 ### Planning The Week
 At the start of every week, every character in the group must decide between (a) adventuring in the field and (b) staying on the bench. Characters who go on adventures earn EP, but benched characters are not simply waiting for a turn. Instead, they continue doing other beneficial activities outside the frame of the adventure.
@@ -1072,6 +1099,7 @@ There are common NPCs who can perform paid services, instead of player character
 
 * Doctors: A doctors who is Great (+2) at Medicine may treat a character for 10 ud per week.
 * Spell Tutors: A Schoolmage who is Great (+2) at all kinds of spells may tutor a character for 20 ud per week. As with player characters, the tutor can only teach known spells.
+* Devout Healers: A Devout who is Great (+2) at all kinds of spells may heal a character for 20 ud per week.
 
 ### Interrupting Downtime
 A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
@@ -1163,8 +1191,6 @@ Appendix A: Factions
 ---
 Every campaign revolves around interacting factions. Players may belong to a single faction, or the party may represent several factions working uneasily towards a common goal. If players belong to several factions, then conflicts of interest will naturally arise, creating friction between player characters. This may be a source of compelling drama, if that is the table's goal. Players and GMs are encouraged to tailor faction lists to each campaign.
 
-The factions provided below are publicly cooperative but privately territorial. They all want the Empire to thrive, because they all depend on the Empire's legitimacy to support their wealth and power. Even so, the Empire contains many contradictions. Each faction necessarily protects its own monopoly and jurisdictional boundaries, in order to safeguard its own share of the Empire's wealth.
-
 ### The Yargyez Empire
 
 The Yargyez Empire is the highest law of the land. Power is brokered between four groups: House Yargyez, the Imperial Council, the Royal Guard, and the Imperial Cult. In order to maintain its hegemony, the Empire strongly forbids internal factionalism between these four branches.
@@ -1179,7 +1205,7 @@ The Yargyez Empire is the highest law of the land. Power is brokered between fou
 
 ### The Artisans Guild
 
-The Artisans Guild holds a legal monopoly over the Empire's military equipment and urban infrastructure. While the Guild depends on the Empire for security, it resents regulation of its affairs. The Guild has no ideological loyalty to the Empire, and would trade the Empire's legitimacy for any other faction capable of upholding contracts and protecting merchants. The Guild maintains an operative wing of field agents trained in combat, stealth, and magic.
+The Artisans Guild holds a legal monopoly over the Empire's military equipment and urban infrastructure. While the Artisans Guild depends on the Empire for security, it resents regulation of its affairs. The Artisans Guild has no ideological loyalty to the Empire, and would trade the Empire's legitimacy for any other faction capable of upholding contracts and protecting merchants. The Artisans Guild maintains an operative wing of field agents trained in combat, stealth, and magic.
 
 * **What They Want:** Total monopoly over all crafts, with zero oversight.
 * **What They Hate:** Regulation, oversight, and technological breakthroughs from the Academy.
@@ -1190,6 +1216,34 @@ The Academy of Knowledge is granted special license by the Empire to study dange
 
 * **What They Want:** Total freedom in conducting dangerous experiments.
 * **What They Hate:** Suppression of research breakthroughs in the name of social order.
+
+### The Belligerantes
+
+The Belligerantes are a continent-spanning mercenary organization, whose membership descends from noble families who held power during the interregnum between the Magellian and Yargyez Empires. The Yargyez Empire stripped these families of their hereditary right to work as professional warriors in service of the state. Rather than assimilate into civilian life, the noble houses of the Belligerantes maintained their warrior identity. They became mercenaries for hire in rural districts the Empire fails to govern. The Belligerantes are required to wear plate armor into combat. They refuse to use magic and stealth, which are dishonorable to them. However, when protecting their interests against other factions, the Belligerantes make an exception to employ specialists in these methods.
+
+* **What They Want:** To defend rural districts through honorable combat.
+* **What They Hate:** Other factions who systematically rely on stealth and magic.
+
+### The Philosophers Guild
+
+The Philosophers Guild is a federation of lodges who preserve heterodox religious texts, live ascetically, and perform esoteric rituals. The Philosophers Guild actively hires mercenaries to recover texts from three former eras: the pre-Magellian Era, the Magellian Empire's reign, and the interregnum between the Magellian and Yargyez Empires. Their lodges are often isolated from civilization and require economic support from aristocratic patrons. Many members of the Philosophers Guild are also descended from aristocratic families. The Philosophers Guild views the Yargyez Empire as spiritually and politically decadent, due to its leadership by the corrupt Imperial Cult. Despite criticizing the Empire and the Imperial Cult, the Philosophers Guild is tolerated for being small and politically weak. In the shadows, the Philosophers Guild hires agents to undermine the Imperial Cult's authority.
+
+* **What They Want:** To recover spiritual practice which has been forgotten under the Yargyez Empire.
+* **What They Hate:** The Imperial Cult's monopoly over state religion.
+
+### Cthonic Cults
+
+Cthonic cults are secretive religious organizations dedicated to Archon worship. Many cultists have purely transactional relationships with the Archons. However, a minority of cultists see the Archons as rightful gods suppressed by the Imperial Cult. Cthonic cults vary widely by doctrine, and many Cthonic cults are enemies to one another. Despite being highly illegal, Cthonic cults have managed to infiltrate all levels of society in the Yargyez Empire. Cthonic cults often rely on hired outsiders for tasks that must avoid Imperial scrutiny.
+
+* **What They Want:** To open Cthonic breaches and expand their cults.
+* **What They Hate:** Inquisitors of the Imperial Cult who hunt them down and destroy their artifacts.
+
+### The Uzvu Confederation
+
+The Uzvu Confederation is a technologically advanced coalition of Orcs, Goblins, and Ogres from the continent of Lodumpis. The continent of Lodumpis only made contact with Conliah nineteen years ago. Uzvu Confederation fleets harass ports in eastern Conliah, seeking ports and fortresses to stage further expansion. The Uzvu Confederation also engages in diplomacy and trade with disaffected factions in Conliah, such as defiant Lizardfolk nobles in Nightglade province. The Confederation is dominated by fanatical Cloud Worship, and its religious intolerance makes diplomacy with the Yargyez Empire difficult. Uzvu commanders often destroy artifacts and temples dedicated to the Agathoi. The Uzvu Confederation gladly employs outlaws from the Yargyez Empire, so long as they abandon reverence to the Agathoi and Archons alike.
+
+* **What They Want:** To conquer Conliah, extract its wealth, and establish their own rule.
+* **What They Hate:** The Yargyez Empire, and all native Conlian religious cults (both Agathos and Archon) which they view as equally heretical and foolish.
 
 Appendix B: Fantasy Species
 ---
@@ -1209,13 +1263,13 @@ Appendix C: Religion
 
 ### Religion
 
-In Nephelai, religion is divided between the benevolent but distant Agathoi, and the communicative but corrupting Archons.
+In Nephelai, religion is largely divided between the benevolent but distant Agathoi, and the communicative but corrupting Archons.
 
 Archon worship is illegal and socially unacceptable. The Imperial Cult deploys inquisitors who hunt down Archon worshippers.
 
 #### Agathoi
 
-The true nature of the Agathoi is intentionally ambiguous in the setting. Different religious traditions interpret the Agathoi differently, and the Archons deny the existence of the Agathoi entirely.
+The true nature of the Agathoi is intentionally ambiguous in the setting. Different religious traditions interpret the Agathoi differently. The Archons and the Uzvu Confederation deny the existence of the Agathoi entirely.
 
 Because the Agathoi do not actively intervene in the mortal realm, the Imperial Cult has no ability to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies.
 
@@ -1230,6 +1284,8 @@ A Devout's power relies on the Devout's own internal devotion to the ideals of t
 
 #### Archons
 
+Archon worship used to be widespread in Conliah, and Agathos worship was little known. The Magellian Empire nearly eliminated Archon Worship for a millenium. However, it is still possible to contact the Archons through breaches in ancient pre-Magellian ruins, and some dare to do so.
+
 * **Ulviazing** of dreams and illusions.
 * **Ogzim** of darkness and silence.
 * **Igedeng** of knowledge and necromancy.
@@ -1241,7 +1297,7 @@ Appendix D: Cosmology
 ---
 The cosmos is divided into three realms:
 
-* **Asteria:** The divine realm, where the Agathoi reside. The Archons deny the existence of the Agathoi and the realm of Asteria.
+* **Asteria:** The divine realm, where the Agathoi reside. The Archons and the Uzvu Confederation deny the existence of the Agathoi and the realm of Asteria.
 * **Ksylia:** The mortal realm.
 * **Cthonia:** The infernal realm, where the Archons and their Cthonian minions reside.
 
@@ -1251,19 +1307,13 @@ A GM can run a campaign with two modes of tempo: session time, and real-time. Th
 
 ### Mode 1: Session Time Campaigns
 
-In a session time campaign, in-game time freezes when the table is not active. In this case, the GM keeps track of how much time has passed in-game during the adventure. Once a full seven days of in-game time has passed, then the GM calls to resolve downtime and plan the next week.
+In a session time campaign, in-game time freezes when the table is not active. In this case, the GM keeps track of how much time has passed in-game during the adventure. Once a full seven days of in-game time has passed, then the GM calls to resolve and plan the week. Once resolving and planning is finished, the adventure proceeds continuously.
 
 Session time ensures that players never miss major world events, but also make downtime activities feel slow.
 
 ### Mode 2: Real-Time Campaigns
 
-In a real-time campaign, a week of real world time correspond to a week of in-game time. Suppose a group meets to play once every week. In that case, a typical table session follows the below script:
-
-1. Resolve last week's downtime.
-2. Assign this week's downtime.
-3. Run a field adventure from start to finish, corresponding to a single day or so.
-
-If the table does not meet for more than one week, then multiple weeks of downtime may be planned.
+In a real-time campaign, a week of real world time corresponds to a week of in-game time. Suppose a group meets to play once every week. In that case, a typical table session resolves and plans the week, then conducts a single adventure from start to finish. If the table does not meet for more than one week, then multiple weeks of downtime may be planned.
 
 Real-time makes downtime activities pass quickly, but also rapidly accelerates the progression of major world events.
 
