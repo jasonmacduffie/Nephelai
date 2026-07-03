@@ -367,15 +367,17 @@ Shooting or throwing weapons are static checks.
 
 Concealed attacks may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
-When the character is preparing to strike, the attacker must take an opposed action using the Concealed skill versus the defender's Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
+When the character is preparing to strike, the attacker must take an opposed action using the Concealment skill versus the defender's Intellect attribute. The attacker's roll must be strictly greater, or else the defender wins the roll.
 
 * **If the defender wins the roll:** Then the target is aware of the concealed weapon. The GM should call for initiative.
 * **If the attacker wins the roll:** Then the target is unaware of the concealed weapon. The attacker may wait for an opportune moment to attack.
 
 Even if the weapon is indeed concealed, the strike is not guaranteed to land. A final roll must be made to resolve the attack.
 
-* **The Roll:** Attacker makes an unopposed 4dF + Concealed skill check.
+* **The Roll:** Attacker makes an unopposed 4dF + Concealment skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**. If the blow does not land, the GM should call for initiative.
+
+Even if the target is incapacitated, the GM should consider whether anyone is present to witness the attack. If the attack instantly killed the target with a head wound, then the target dies instantly. However, other types of injuries may give the target time to scream for help. If there are witnesses who will intervene, then the GM should call for initiative.
 
 #### Calculating Damage
 
