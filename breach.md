@@ -252,7 +252,7 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Arrows - 2 ud for 20. Ammunition.
 * Bolts - 3 ud for 20. Ammunition.
 * Throwing axe - 12 ud. One-handed, thrown ranged weapon (+2; 30 ft).
-* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+3).
+* Stiletto - 12 ud. One-handed melee weapon (+1). Concealable (+4).
 * Leather armor - 50 ud. Set of armor (+1).
 * Chainmail - 200 ud. Set of armor (+2). Heavy (-1).
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
