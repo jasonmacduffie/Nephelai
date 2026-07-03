@@ -98,11 +98,11 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Brewing:** Mixing potions and poisons. The Brewing skill is also used to identify unknown potions and poisons.
 * **Elemental:** Casting magic that manipulates the elements. The Elemental skill is also used for general knowledge about elemental phenomena.
 * **Enchanting:** Imbuing objects and places with magic. The Enchanting skill is also used to identify unknown magical objects, besides potions and poisons.
+* **History:** Knowledge of the deep past.
 * **Languages:** Reading, writing, and speaking multiple languages.
-* **Lore: History:** Knowledge of the deep past.
-* **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
 * **Medicine:** Treating wounds and diagnosing illnesses.
 * **Physical:** Casting magic that bends the laws of physics. The Physical skill is also used to identify whether physical manipulation magic is in effect.
+* **Religion:** Knowledge of the cults of the Agathoi, Archons, and stranger religions.
 * **Smithing:** Fashioning and repairing weapons and armor. The Smithing skill is also used for general knowledge about non-magical craftsmanship.
 
 #### Personality Skills
