@@ -85,25 +85,25 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 * **Acrobatics:** Jumping, tumbling, and dodging. Acrobatics may be used for defense rolls.
 * **Athletics:** Running, swimming, lifting, and various other forms of physical exertion.
+* **Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls. Brawling is used for attack and defense rolls.
+* **Concealment:** Hiding small weapons, and using them to strike outside of combat. Concealed is used for attack rolls, in such cases. Outside of combat, the Concealed skill is used for smuggling small items on one's person.
+* **Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Melee is used for attack and defense rolls. Outside of combat, the Melee skill is used for striking objects with actual or improvised blades and clubs.
+* **Ranged:** Shooting projectile weapons, and throwing thrown weapons. Ranged is used for attack rolls. Outside of combat, the Ranged skill is used for throwing various objects.
 * **Security:** Avoiding and disabling traps, picking pockets, and picking locks.
 * **Sneaking:** Hiding and moving silently.
 * **Survival:** Fortifying camps, trailblazing, salvaging, and laying traps.
-* **Fighting: Brawling:** Punching, kicking, and grappling. Brawling may be used for attack rolls. Brawling is used for attack and defense rolls.
-* **Fighting: Concealed:** Hiding small weapons, and using them to strike outside of combat. Concealed is used for attack rolls, in such cases. Outside of combat, the Concealed skill is used for smuggling small items on one's person.
-* **Fighting: Melee:** Fighting in close quarters with swords, maces, spears, and clubs. Melee is used for attack and defense rolls. Outside of combat, the Melee skill is used for striking objects with actual or improvised blades and clubs.
-* **Fighting: Ranged:** Shooting projectile weapons, and throwing thrown weapons. Ranged is used for attack rolls. Outside of combat, the Ranged skill is used for throwing various objects.
 
 #### Intellect Skills
 
 * **Brewing:** Mixing potions and poisons. The Brewing skill is also used to identify unknown potions and poisons.
+* **Elemental:** Casting magic that manipulates the elements. The Elemental skill is also used for general knowledge about elemental phenomena.
+* **Enchanting:** Imbuing objects and places with magic. The Enchanting skill is also used to identify unknown magical objects, besides potions and poisons.
 * **Languages:** Reading, writing, and speaking multiple languages.
 * **Lore: History:** Knowledge of the deep past.
 * **Lore: Religion:** Knowledge of the cults of the Agathoi and Archons.
 * **Medicine:** Treating wounds and diagnosing illnesses.
+* **Physical:** Casting magic that bends the laws of physics. The Physical skill is also used to identify whether physical manipulation magic is in effect.
 * **Smithing:** Fashioning and repairing weapons and armor. The Smithing skill is also used for general knowledge about non-magical craftsmanship.
-* **Spells: Elemental:** Casting magic that manipulates the elements. The Elemental skill is also used for general knowledge about elemental phenomena.
-* **Spells: Enchanting:** Imbuing objects and places with magic. The Enchanting skill is also used to identify unknown magical objects, besides potions and poisons.
-* **Spells: Physical:** Casting magic that bends the laws of physics. The Physical skill is also used to identify whether physical manipulation magic is in effect.
 
 #### Personality Skills
 
@@ -111,9 +111,9 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 * **Bluffing:** Telling confident lies about specific facts.
 * **Cold-Reading:** Guessing strangers' backgrounds, detecting intentions, and probing for deception.
 * **Intimidation:** Coercing others by threat.
+* **Mental:** Casting magic that influences the minds of others. The Mental skill is also used to sense whether mental manipulation magic is affecting someone.
 * **Persuasion:** Convincing others.
-* **Spells: Mental:** Casting magic that influences the minds of others. The Mental skill is also used to sense whether mental manipulation magic is affecting someone.
-* **Spells: Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used to sense spiritually and cosmically significant phenomena.
+* **Spiritual:** Casting magic that interacts with souls. The Spiritual skill is also used to sense spiritually and cosmically significant phenomena.
 * **Stagecraft:** Staging distractions, adopting personas, and rallying crowds.
 * **Streetwise:** Navigating the criminal underworld.
 
