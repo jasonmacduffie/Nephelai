@@ -258,7 +258,7 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
 * Small shield - 20 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
-* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. If that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
+* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Therefore, if that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
 * Holy symbol - 10 ud. If the character is a Devout Spell Caster, then that character possesses a holy symbol. If that character loses their Holy Symbol, then that character may not recover from Soul Burn. The holy symbol is specific to a particular Agathos, matching the Devout's patron. Note that the holy symbol is not inherently magical.
 * Alcohol - 0.1 ud per drink. Addictive.
 * Tobacco - 0.2 ud per dose. Addictive.
