@@ -1112,12 +1112,14 @@ A player's main character may die or be forced to stay benched in the middle of 
 
 Stranding
 ---
-Usually, a party brings just enough provisions to survive in the field for an anticipated number of days. However, circumstances may strand the party. Once the party is stranded for weeks, there is an additional stranding check made at the beginning of the week, after resolving downtime. Each character must roll a Survival check, versus difficulty based on the environment in which they are stranded. The highest Survival rolled determines whether the party successfully acquired sufficient food, water, and shelter to last the week without harm. If no party member can clear the Survival check, then the entire party begins to take wounds.
+Usually, a party brings just enough provisions to survive in the field for an anticipated number of days. However, circumstances may strand the party. Once the party is stranded for weeks, there is an additional stranding check made at the beginning of the week. Check for stranded characters after resolving the previous week of downtime but before planning the next week of downtime. Each character in a party must roll a Survival check, versus difficulty based on the environment in which they are stranded. The highest Survival rolled determines whether the party successfully acquired sufficient food, water, and shelter to last the week without harm. If no party member can clear the Survival check, then the entire party begins to take wounds.
 
 * **Terrible (-3) or worse:** Each party member rolls for wounds, three separate times.
 * **Poor (-2):** Each party member rolls for wounds, two separate times.
 * **Mediocre (-1):** Each party member rolls for wounds, once.
 * **Fair (0) or better:** The party has sufficient provisions for the week.
+
+Most downtime activities are not allowed for stranded characters. If the party has a Medicine Kit, then the Heal Wounds activity may be taken. Stranded characters may choose to adventure into the field, presumably to find their way home.
 
 Smithing
 ---
