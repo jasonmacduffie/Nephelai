@@ -301,6 +301,8 @@ When a character is in the field, that character always brings a day kit. Any un
 * Lockpick - 5 ud. Required for picking locks and disabling traps. *One per party.*
 * Map - 4 ud. *One per party.*
 * Coil of rope, 50 ft. - 4 ud. *One per party.*
+* Grappling hook - 20 ud. *One per party.*
+* Crowbar - 10 ud. *One per party.*
 
 ### Overnight Kits
 
@@ -311,7 +313,9 @@ When a character is expected to be in the field for more than one day, that char
 * Dining kit - 1 ud. A spoon, plate, bowl, and cup.
 * Needle & Thread - 1 ud.
 * Spare clothing - 6 ud / set. (1 set per day anticipated, beyond the first)
-* Small shovel - 4 ud. *One par party.*
+* Iron spikes - 0.5 ud / 5 spikes.
+* Small hammer - 2 ud. *One per party.*
+* Small shovel - 4 ud. *One per party.*
 * Cooking pot - 4 ud. *One per party.*
 
 Combat
