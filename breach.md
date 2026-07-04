@@ -1106,6 +1106,15 @@ There are common NPCs who can perform paid services, instead of player character
 ### Interrupting Downtime
 A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
 
+Stranding
+---
+Usually, a party brings just enough provisions to survive in the field for an anticipated number of days. However, circumstances may strand the party. Once the party is stranded for weeks, there is an additional stranding check made at the beginning of the week, after resolving downtime. Each character must roll a Survival check, versus difficulty based on the environment in which they are stranded. The highest Survival rolled determines whether the party successfully acquired sufficient food, water, and shelter to last the week without harm. If no party member can clear the Survival check, then the entire party begins to take wounds.
+
+* **Terrible (-3) or worse:** Each party member rolls for wounds, three separate times.
+* **Poor (-2):** Each party member rolls for wounds, two separate times.
+* **Mediocre (-1):** Each party member rolls for wounds, once.
+* **Fair (0) or better:** The party has sufficient provisions for the week.
+
 Smithing
 ---
 Smithing during downtime allows the creation of items which are superior to standard options. See the below difficulty rules.
