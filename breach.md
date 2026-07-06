@@ -284,9 +284,13 @@ There are items which exist in the world, but are non-trivial to obtain. GMs may
 * Mola dust - 5 ud per dose. Addictive. Highly Illegal. Stimulant powder snorted from roasted mola nuts.
 * Haze shrooms - 5 ud per dose. Addictive. Highly Illegal. Brown mushrooms with pink spots, eaten or smoked for a calming effect.
 
-### Day Kits
+### Field Kits
 
-When a character is in the field, that character always brings a day kit. Any unused items are returned to the faction after returning from the field. These items usually may not be purchased or sold, but standard prices are listed for reference. If these items are fully consumed or lost, they may no longer be used during the mission.
+When a player character is in the field, that character always brings a faction-supplied field kit. Any unused items are returned to the faction after returning from the field. Any items supplied by the faction may not be sold. However, standard prices are listed for reference in case player characters must reprovision at a settlement. If these items are fully consumed or lost, they may no longer be used during the field assignment.
+
+Field kits are provisioned for between one and four anticipated days. If the field assignment is expected to begin and end the same day, then only a day kit is provided. Otherwise, a day kit and an overnight kit are provided.
+
+#### Day Kits
 
 * Pack - 6 ud.
 * Flint & steel - 1 ud.
@@ -304,9 +308,7 @@ When a character is in the field, that character always brings a day kit. Any un
 * Grappling hook - 20 ud. *One per party.*
 * Crowbar - 10 ud. *One per party.*
 
-### Overnight Kits
-
-When a character is expected to be in the field for more than one day, that character always brings an overnight kit (in addition to all items listed under day kits). Any unused items are returned to the faction after returning from the field. These items usually may not be purchased or sold, but standard prices are listed for reference. If these items are fully consumed or lost, they may no longer be used during the mission.
+#### Overnight Kits
 
 * Bedding - 8 ud.
 * Tarp - 3 ud.
@@ -1112,7 +1114,11 @@ A player's main character may die or be forced to stay benched in the middle of 
 
 Stranding
 ---
-Usually, a party brings just enough provisions to survive in the field for an anticipated number of days. However, circumstances may strand the party. Once the party is stranded for weeks, there is an additional stranding check made at the beginning of the week. Check for stranded characters after resolving the previous week of downtime but before planning the next week of downtime. Each character in a party must roll a Survival check, versus difficulty based on the environment in which they are stranded. The highest Survival rolled determines whether the party successfully acquired sufficient food, water, and shelter to last the week without harm. If no party member can clear the Survival check, then the entire party begins to take wounds.
+Usually, characters bring just enough provisions to survive in the field for between one and four anticipated days. However, characters may become stranded by circumstances. In that case, they are forced to rely on the Survival skill to acquire food, water, and shelter in the wilderness. To account for these challenges, there is an additional Stranding phase every week. This phase takes place after resolving the previous week of downtime, but before planning the next week of downtime.
+
+First, check if the character is stranded. If the character started the past week on a field assignment, ended the past week on a field assignment, and never received new provisions from a settlement or faction last week, then the character is stranded.
+
+Next, group the characters by party and roll for Survival versus the difficulty of the environment. The highest Survival rolled in a party determines whether the entire party successfully acquired sufficient food, water, and shelter to last the week without harm. If the highest rolling party member does not succeed, then the entire party suffers wounds.
 
 * **Terrible (-3) or worse:** Each party member rolls for wounds, three separate times.
 * **Poor (-2):** Each party member rolls for wounds, two separate times.
