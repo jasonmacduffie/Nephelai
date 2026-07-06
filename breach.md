@@ -297,7 +297,7 @@ Field kits are provisioned for between one and four anticipated days. If the fie
 * Writing kit - 2 ud. Ten sheets of paper, and charcoal.
 * Small knife - 2 ud.
 * Cloak - 6 ud.
-* Water Bag - 2 ud.
+* Water Bag - 2 ud. (1 per day anticipated)
 * Food Provisions - 0.1 ud / meal. (3 meals per day anticipated)
 * Torches - 0.2 ud / torch. 1 hour of light, each. (3 torches per day anticipated)
 * Hatchet - 4 ud. *One per party.*
@@ -1116,9 +1116,9 @@ Stranding
 ---
 Usually, characters bring just enough provisions to survive in the field for between one and four anticipated days. However, characters may become stranded by circumstances. In that case, they are forced to rely on the Survival skill to acquire food, water, and shelter in the wilderness. To account for these challenges, there is an additional Stranding phase every week. This phase takes place after resolving the previous week of downtime, but before planning the next week of downtime.
 
-First, check if the character is stranded. If the character started the past week on a field assignment, ended the past week on a field assignment, and never received new provisions from a settlement or faction last week, then the character is stranded.
+First, check if the character is stranded. If the character started the past week outside of a settlement, ended the past week outside of a settlement, and never received new provisions from a settlement or passing faction last week, then the character is stranded.
 
-Next, group the characters by party and roll for Survival versus the difficulty of the environment. The highest Survival rolled in a party determines whether the entire party successfully acquired sufficient food, water, and shelter to last the week without harm. If the highest rolling party member does not succeed, then the entire party suffers wounds.
+Next, group the characters by party and roll for Survival versus the difficulty of the environment. The highest Survival rolled in a party determines whether the entire party successfully acquired sufficient food, water, and shelter to last the week without harm. If the highest rolling party member does not succeed, then the entire party suffers wounds based on the margin of failure.
 
 * **Terrible (-3) or worse:** Each party member rolls for wounds, three separate times.
 * **Poor (-2):** Each party member rolls for wounds, two separate times.
@@ -1126,6 +1126,34 @@ Next, group the characters by party and roll for Survival versus the difficulty 
 * **Fair (0) or better:** The party has sufficient provisions for the week.
 
 Most downtime activities are not allowed for stranded characters. If the party has a Medicine Kit, then the Heal Wounds activity may be taken. Stranded characters may choose to adventure into the field, presumably to find their way home.
+
+Stranded characters do not receive income. Their income is held in escrow, and paid in full once contact is made with a passing faction or settlement.
+
+### Stranding Difficulty
+
+The GM should adjust the difficulty of the Survival check based on the party's environment. There are standard adjustments for biome, season, and weeks stranded. All formulas assume the party still possesses the entire non-consumable portion of the Day Kit and Overnight Kit. If non-consumable items have been lost, then the GM should raise the difficulty accordingly. On the other hand, if the party started the week with some faction-provisioned food and water, then the GM should lower the difficulty.
+
+Start with Mediocre (-1) difficulty first, then apply modifiers for biome, season, and weeks stranded.
+
+#### Biomes
+
+* 0: Forest, Grasslands, Coastline
+* +1: Swamp, Jungle, Hills
+* +2: Mountains, Taiga
+* +3: Desert, Tundra, Underground
+* +4: Open Ocean
+
+#### Seasons
+
+Ignore seasons if the characters are underground or in open ocean.
+
+* 0: Spring and Summer (except Desert), Winter (Desert)
+* +1: Fall
+* +2: Winter (except Desert), Spring and Summer (Desert)
+
+#### Weeks Stranded
+
+If the party has been stranded for over three weeks, add +1 starting with the fourth week.
 
 Smithing
 ---
