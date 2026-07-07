@@ -587,7 +587,7 @@ Animated dead can only follow simple commands like "go there", "attack him", and
 
 Animated dead have a full injury tracker. If the animated dead is a skeleton, use the exact same number of wound bubbles as the original being held in life. If the animated dead is a zombie, then add one wound bubble to each body part.
 
-Animated dead magically repair themselves. They recover from scratches immediately outside of combat, and fully recover all wounds after 24 hours outside of combat.
+Animated dead magically repair themselves. They recover from scratches immediately outside of combat, and fully recover all wounds after 24 hours outside of combat. This regenerative ability requires the animated dead to survive the encounter, otherwise it is permanently destroyed.
 
 ### Bane
 
