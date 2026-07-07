@@ -41,11 +41,13 @@ While traits often provide mechanical advantages, GMs should also interpret trai
 
 To create a character:
 
-1. All attributes and skills start at Poor.
-2. Characters have 60 EP which may be spent to raise skills or attributes. Characters may also spend EP on Gifts and receive bonus EP from taking Faults. No more than 2 Gifts and 2 Faults may be taken during character creation.
-3. Any leftover EP is kept. Players may spend this EP during later character advancement.
-4. Characters start with 200 Drachmas (ud). They may spend this money on starting equipment. Some characters possess equipment automatically. See Equipment.
-5. Choose bonus languages, if the character has a Fair or better Languages skill. See Languages.
+1. All attributes and skills start at Poor, by default.
+2. Pick 1 attribute to start at Fair.
+3. Pick 9 skills to start at Fair.
+4. Characters have an additional 30 EP which may be spent freely to raise skills or attributes. This EP may be spent on Gifts, and taking Faults grants bonus EP. No more than 2 Gifts and 2 Faults may be taken during character creation.
+5. Any leftover EP is kept. Players may spend this EP during later character advancement.
+6. Characters start with 200 Drachmas (ud). They may spend this money on starting equipment. Some characters possess equipment automatically. See Equipment.
+7. Choose bonus languages, if the character has a Fair or better Languages skill. See Languages.
 
 ### EP Spend Table
 
@@ -67,7 +69,7 @@ Traits
 ---
 ### Attributes
 
-There are three attributes. The GM calls for an attribute check in situations where the character is being passively tested. For example, an Intellect roll may be required to overcome an illusion.
+There are three attributes. The GM calls for an attribute check in situations where the character's raw capabilities are tested.
 
 * **Physique** represents a character's physical strength, endurance, speed, and balance.
 * **Intellect** represents a character's knowledge, perception, and comprehension.
@@ -136,7 +138,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Provincial Friend:** The character has widespread support from the residents of a specific province. The character may not take the Provincial Enemy fault for the same province.
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
 * **Soul Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the soul material is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul material is not visible at all. The character may not take the Conspicuous Soul fault.
-* **Tundra Hardened:** The character is physically adapted to harsh winters. The character resists harm from extreme cold.
+* **Tundra Hardened:** The character is physically adapted to climates with harsh winters. The character gets a +1 bonus to stranding rolls in tundras and winter weather, and also takes 1 fewer wound from failed stranding rolls in that environment.
 * **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachmas (ud).
 
 #### Faults
@@ -319,6 +321,17 @@ Field kits are provisioned for between one and four anticipated days. If the fie
 * Small hammer - 2 ud. *One per party.*
 * Small shovel - 4 ud. *One per party.*
 * Cooking pot - 4 ud. *One per party.*
+
+### Mounts and Vehicles
+
+* Riding Tack - 200 ud. The full bundle of gear required to ride and control a horse.
+* Mule - 750 ud. Used for carrying heavy loads.
+* Horse - 2500 ud. Used for riding and carrying light loads.
+* Cart - 250 ud. Two-wheel vehicle with a harness for one animal.
+* Wagon - 750 ud. Four-wheel vehicle with a a harness for two animals.
+* Rowboat - 500 ud. Small river craft.
+* Sailing ship - 10000 ud. Merchant vessel.
+* War ship - 250000 ud. Military vessel with an armament.
 
 Combat
 ---
@@ -535,6 +548,12 @@ Some spells have the option to be used as a downtime activity. If so, the follow
 
 Furthermore, some spells do not have an in-the-field effect at all, and are always used during downtime. These are complex rituals which require time to take effect.
 
+#### Attack Spells
+
+Even when a spell which targets an unwilling creature is cast successfully, the target has an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
+
+If an attack deals damage, then the same rules for damage reduction apply as other sources of combat damage.
+
 Spells
 ---
 
@@ -543,8 +562,9 @@ Spells
 * Difficulty: Fair (0)
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
+* Range: Touch
 
-A glob of corrosive liquid is hurled from the caster's hands. Deal `MoS Armor Penetrating (1)` damage to a target creature.
+A glob of corrosive liquid is hurled from the caster's hands. Deal MoS Armor Penetrating (1) damage to a target creature.
 
 ### Animate Dead
 
@@ -552,69 +572,102 @@ A glob of corrosive liquid is hurled from the caster's hands. Deal `MoS Armor Pe
 * Cast by: Invoker
 * Skill: Spiritual
 
-The caster targets a corpse to rise up, and act as the caster's undead servant.
+The caster targets a corpse or skeleton to rise up, and act as the caster's undead servant. This spell has no field effect; it may only be taken as a downtime activity.
+
+#### Downtime Activity
+
+This spell requires the complete corpse or complete skeleton of an animal or person. If a corpse is used, the creation is called a zombie. If a skeleton is used, the creation is simply called a skeleton. Either way, they are collectively called animated dead.
+
+At the end of the week, roll an Enchanting skill check.
+
+* **Good or worse:** The attempt is not successful.
+* **Great or better:** The corpse or skeleton is brought to life successfully.
+
+Animated dead can only follow simple commands like "go there", "attack him", and "stay put". Animated dead may use melee and ranged weapons. Animated dead are mindless, and do not possess any abilities the original being held in life except raw Physique.
+
+Animated dead have a full injury tracker. If the animated dead is a skeleton, use the exact same number of wound bubbles as the original being held in life. If the animated dead is a zombie, then add one wound bubble to each body part.
+
+Animated dead magically repair themselves. They recover from scratches immediately outside of combat, and fully recover all wounds after 24 hours outside of combat.
 
 ### Bane
 
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Mental
+* Range: 30 ft. around the caster
+* Duration: 1 minute
 
 The caster's enemies feel a powerful aura of discouragement, dampening their morale.
 
-All enemies within 30 feet make a Personality check, reduced by the MoS. Each enemy who rolls Fair (0) or worse takes a -1 penalty to attack and defense rolls for the next two rounds.
+All enemies within 30 feet must resist with Personality. Each enemy who fails takes a -1 penalty to attack and defense rolls for the next two rounds.
 
 ### Banish
 
 * Difficulty: Great (+2)
 * Cast by: Schoolmage, Devout
 * Skill: Spiritual
+* Range: 40 ft.
 
 The caster forces a target summoned creature to phase back into its home sphere.
 
-Select target summoned creature. The target creature is instantely removed from the mortal realm and sent to its native sphere.
+Select target summoned creature. The target creature must resist with Personality. If it fails, then it is instantly removed from the mortal realm and sent to its native sphere.
 
 ### Blight
 
 * Difficulty: Good (+1)
 * Cast by: Invoker
 * Skill: Spiritual
+* Range: Touch
 
 The caster drains the vitality of any living thing they touch with their finger.
 
-Select target creature. The target rolls for defense, reduced by the MoS. If the target rolls Fair (0) or worse, then it instantly suffers 1 Wound to the touched body part. Roll 3dF for location.
+Select target creature. The target must resist with standard defense. If the target fails, then it instantly suffers 1 Wound to the touched body part. Roll 3dF for location.
 
 ### Blur
 
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Invoker
 * Skill: Physical
+* Duration: 1 minute
 
 The caster's body appears to rapidly flicker before their enemies, making the caster difficult to hit.
+
+Any attack rolls against the caster suffer a -1 penalty. If MoS is 2 or higher, then the penalty increases to -2.
 
 ### Burning Hands
 
 * Difficulty: Fair (0)
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
+* Range: 15 ft. cone
 
 A cone of flames erupt from the caster's hands.
+
+Target all creatures in a 15-foot cone. Each target must resist with standard defense. Every target who fails takes MoS damage.
 
 ### Charm
 
 * Difficulty: Good (+1)
 * Cast by: Invoker
 * Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
 
 The caster influences the target into ceasing hostility, and perceiving the caster as a friend.
+
+Select target creature. The target must resist with Personality. If the target fails, then it will no longer attack the caster or the caster's companions.
 
 ### Command
 
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
 
 The caster's voice projects authority that is difficult for nearby listeners to disobey.
+
+Select target creature. The target must resist with Personality. If the target fails, then it must obey a single command spoken by the caster. The command must be simple, like "go there", "attack him", and "stay put".
 
 ### Commune With Agathos
 
@@ -637,14 +690,19 @@ The caster may have a two-way conversation with an Archon for one minute.
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Mental
+* Range: 30 ft. around the caster
+* Duration: 15 minutes
 
 The caster becomes surrounded by an aura of truth, discouraging those nearby from lying.
+
+All creatures within 30 feet must resist with Personality. Those who fail are incapable of telling an outright lie. Affected creatures are aware of being magically influenced, and so may simply choose to stay silent.
 
 ### Consecrate
 
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Enchanting
+* Range: Touch
 
 The caster either (A) transforms an area into holy ground or (B) seals a Cthonic breach. This spell has no field effect; it may only be taken as a downtime activity.
 
@@ -690,6 +748,7 @@ At the beginning of the week, spend 30 Drachmas (ud). At the end of the week, ro
 * Difficulty: Great (+2)
 * Cast by: Devout
 * Skill: Spiritual
+* Range: Touch
 
 The caster rapidly mends an injured creature's wounds.
 
@@ -707,8 +766,12 @@ Select a target benched character, who has taken heal wounds as a downtime activ
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
+* Range/Area: 40 ft./10 ft.
+* Duration: 1 minute
 
 Unnatural darkness spreads from a point near the caster, swallowing the nearby light.
+
+A 10-foot-radius sphere centered at a target point becomes shrouded in absolute inky darkness.
 
 ### Desecrate
 
@@ -753,6 +816,8 @@ If the caster has another Schoolmage's spell book, then the caster may try to le
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Devout, Invoker
 * Skill: Spiritual
+* Range: 30 ft. around the caster
+* Duration: 1 minute
 
 The souls of nearby creatures light up in the vision of the caster. Creatures can be detected through solid objects, but their exact locations are obscured. The caster can discern different colors of souls:
 
@@ -768,19 +833,14 @@ If a creature that would be detected has the Soul Suppression gift, then Detect 
 
 ### Dispel Magic
 
-* Difficulty: Great (+2)
+* Difficulty: Fair (0)
 * Cast by: Schoolmage, Devout
 * Skill: Spiritual
+* Range: 40 ft.
 
 The caster removes ongoing magical effects imposed on itself or a target.
 
-### Doom
-
-* Difficulty: Fair (0)
-* Cast by: Devout, Invoker
-* Skill: Mental
-
-A single target the caster chooses becomes overwhelmed by dread.
+Select a target creature, object, or place under the influence of a magical effect. If the caster's MoS equals or exceeds the difficulty of the spell that caused the magical effect, then the magical effect ends.
 
 ### Enchant With Flames
 
@@ -955,40 +1015,60 @@ The caster or target creature or object becomes more resilient against decay, ro
 * Difficulty: Great (+2)
 * Cast by: Schoolmage, Invoker
 * Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
 
 The caster's target becomes aggressive and may wildly attack friend and foe alike.
+
+Select target creature. The target must resist with Personality. If the target fails, then the target becomes enraged. For each round the target takes, the target must attack the nearest creature.
 
 ### Sanctuary
 
 * Difficulty: Fair (0)
 * Cast by: Devout
 * Skill: Spiritual
+* Range: 30 ft. around the caster
+* Duration: 1 minute
 
 The caster becomes surrounded by an aura of peace, discouraging their enemies from fighting.
+
+All enemies within 30 feet must resist with Personality. Each enemy who fails becomes incapable of attacking. If anyone affected by this spell is attacked, the entire spell ends.
 
 ### Shield
 
 * Difficulty: Good (+1)
 * Cast by: Schoolmage
 * Skill: Physical
+* Range: 40 ft.
+* Duration: MoS rounds
 
 The caster raises a wall of solid light that blocks various physical danger.
+
+Select a target creature, or oneself. The target becomes surrounded by a barrier of light for MoS rounds. Add a +2 armor bonus to any damage dealt to the target creature.
 
 ### Silence
 
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Physical
+* Range/Area: 40 ft./10 ft.
+* Duration: 1 minute
 
 An area the caster targets becomes devoid of all sound.
+
+A 10-foot-radius sphere centered at a target point becomes silent. Because casting spells always requires the ability to speak, no creature within the sphere may cast spells.
 
 ### Sleep
 
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Invoker
 * Skill: Mental
+* Range/Area: 40 ft.
+* Duration: 1 minute
 
 The caster targets one or more creatures to fall asleep.
+
+This spell may target up to MoS number of creatures. Each target must resist with Physique. Every target who fails falls asleep for the next minute. Any amount of damage will cause the target to wake up.
 
 ### Summon Cthonian
 
@@ -1019,8 +1099,12 @@ Note the Physique of the soul captured. That ladder step is the size of the soul
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Spiritual
+* Range: 30 ft. around the caster
+* Duration: 1 minute
 
 The caster compels nearby undead creatures to flee.
+
+All undead creatures within 30 feet must resist with Personality. Each undead creature who fails becomes incapable of attacking, and runs directly away from the caster.
 
 ### War Puppet
 
@@ -1040,7 +1124,7 @@ At the end of the week, roll an Enchanting skill check.
 * **Good:** The gem and mannequin are not harmed, but the attempt is not successful.
 * **Great or better:** The mannequin is brought to life successfully.
 
-War Puppets can only follow simple commands like "go there", "attack him", and "stay put". War Puppets can only attack with melee weapons.
+War Puppets can only follow simple commands like "go there", "attack him", and "stay put". War Puppets may use melee and ranged weapons.
 
 War Puppets do not have a full injury tracker. They only have three scratch bubbles and two wound bubbles. If both wound bubbles are filled, the War Puppet is incapacitated.
 
@@ -1053,6 +1137,8 @@ The Mending spell may be used to remove one scratch bubble per cast, but not wou
 * Difficulty: Good (+1)
 * Cast by: Schoolmage
 * Skill: Physical
+* Range: 40 ft.
+* Duration: 10 minutes
 
 The caster or target becomes capable of breathing underwater as easily as air.
 
@@ -1061,16 +1147,22 @@ The caster or target becomes capable of breathing underwater as easily as air.
 * Difficulty: Good (+1)
 * Cast by: Schoolmage
 * Skill: Elemental
+* Range: 15 ft. cone
+* Duration: 3 rounds
 
-Heavy strands of spiderwebs emerge from the caster's hands, falling on the ground. Movement across these webs is challenging.
+Heavy strands of spiderwebs emerge from the caster's hands, falling onto enemies in range and trapping them in place.
+
+Target all creatures in a 15-foot cone. Each target must resist with Physique. Every target who fails may not move more than 5 feet per round for the next 3 rounds.
 
 ### Whisper
 
 * Difficulty: Mediocre (-1)
 * Cast by: Schoolmage, Devout, Invoker
 * Skill: Mental
+* Range: 40 ft.
+* Duration: 10 seconds
 
-The target hears a short message whispered by the caster.
+The target hears a short message whispered by the caster, lasting no more than 10 seconds. Nobody nearby except the target can hear the message.
 
 Downtime
 ---
@@ -1153,7 +1245,10 @@ Ignore seasons if the characters are underground or in open ocean.
 
 #### Weeks Stranded
 
-If the party has been stranded for over three weeks, add +1 starting with the fourth week.
+For the below, count the number of complete weeks stranded so far, not the next week.
+
+* 0: 1-3 weeks
+* +1: 4+ weeks
 
 Smithing
 ---
@@ -1174,8 +1269,17 @@ Brewing
 ---
 Brewing during downtime mixes ingredients to create medicinal and toxic products. At the beginning of the week, spend money according to the brewing cost. At the end of the week, roll a Brewing check versus the brewing difficulty. If the check is Fair or better, then brewing is successful. The item lists how many of the item is produced per week, if successful.
 
-* **Medicinal Salve:** Cost: 30 ud. Difficulty: Fair (0). Produces: 3. +1 to a Medicine check to remove Near Death status.
-* **Sleep Poison:** Cost: 30 ud. Difficulty: Fair (0). Produces: 3. Apply to a weapon. If the weapon successfully strikes the enemy, then the enemy falls asleep.
+* **Potion of Cure Wounds:** Cost: 20 ud. Difficulty: Fair (0). Produces: 3. The character who drinks this potion heals, as if the Cure Wounds spell were cast with Good success.
+* **Potion of Invisibility:** Cost: 40 ud. Difficulty: Great (+2). Produces: 3. The character who drinks this potion becomes invisible, as if the Invisibility spell were cast.
+* **Poison of Sleep:** Cost: 10 ud. Difficulty: Fair (0). Produces: 3.
+    * *Apply to a weapon.* If the weapon successfully strikes the target, then the target must make a Physique check. The toxin has no effect if the Physique check is Fair, or better. Otherwise, the target falls asleep instantly and will awaken 1 hour later.
+    * *Ingested.* If ingested, the target must roll Great or better Physique, to avoid the effect. The effect is identical.
+* **Poison of Delirium:** Cost: 20 ud. Difficulty: Fair (0). Produces: 3.
+    * *Apply to a weapon.* If the weapon successfully strikes the target, then the target must make a Physique check. The toxin has no effect if the Physique check is Fair, or better. Otherwise, the target becomes aggressive as if they were under the influence of Rage spell.
+    * *Ingested.* The target must make a Physique check. The toxin has no effect if the Physique check is Fair, or better. Otherwise, the target suffers hallucinations and confusion for the next 24 hours.
+* **Poison of Death:** Cost: 40 ud. Difficulty: Good (+1). Produces: 3.
+    * *Apply to a weapon.* If the weapon successfully strikes the target, then the target must make a Physique check. The toxin has no effect if the Physique check is Fair, or better. Otherwise, the target suffers a -2 penalty to all rolls for 1 hour, and will die at the end of the hour. Killing animals with this poison does not make the meat unsafe for consumption.
+    * *Ingested.* If ingested, the target must roll Superb or better Physique, to avoid the effect. The effect is identical.
 
 Combat Threats
 ---
@@ -1326,23 +1430,27 @@ Because the Agathoi do not actively intervene in the mortal realm, the Imperial 
 
 A Devout's power relies on the Devout's own internal devotion to the ideals of their Agathos. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
 
-* **Iazus** of storms and law.
-* **Inidilt** of agriculture and seasons.
-* **Burrue** of beauty and philosophy.
-* **Lidnozie** of wilderness and the full moon.
-* **Ereng** of marriage and family.
-* **Izdoeng** of peace and fraternal love.
+All Devouts may cast Commune With Agathos, Consecrate, and Detect Souls.
+
+* **Iazus**: Pillar Blast (bolt of lightning), Command, Confession, Banish, Bane
+* **Inidilt**: Preserve, Healing Hands, Light
+* **Burrue**: Pillar Blast (sun beam), Light, Enthrall, Whisper, Hope, Dispel Magic
+* **Lidnozie**: Pillar Blast (moon beam), Light, Turn Undead, Cthonic Ward
+* **Ereng**: Sanctuary, Healing Hands, Cure Wounds, Mending, Hope
+* **Izdoeng**: Pillar Blast (pillar of fire), Sanctuary, Silence, Healing Hands, Cure Wounds, Dispel Magic
 
 #### Archons
 
 Archon worship used to be widespread in Conliah, and Agathos worship was little known. The Magellian Empire nearly eliminated Archon Worship for a millenium. However, it is still possible to contact the Archons through breaches in ancient pre-Magellian ruins, and some dare to do so.
 
-* **Ulviazing** of dreams and illusions.
-* **Ogzim** of darkness and silence.
-* **Igedeng** of knowledge and necromancy.
-* **Lize** of war and torture.
-* **Lundazing** of rebellion and power.
-* **Inizozim** of retribution and plots.
+All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian.
+
+* **Ulviazing**: Sleep, Blur, Invisibility, Charm
+* **Ogzim**: Darkness, Silence, Invisibility, Bane
+* **Igedeng**: Animate Dead, Trap Yellow Soul, Blight, Whisper
+* **Lize**: Rage, Acid Splash, Burning Hands, Blight
+* **Lundazing**: Lightning Bolt, Fire Bolt, Gust of Wind, Command, Enthrall
+* **Inizozim**: Acid Splash, Charm, Mage Hand
 
 Appendix D: Cosmology
 ---
@@ -1367,4 +1475,18 @@ Session time ensures that players never miss major world events, but also make d
 In a real-time campaign, a week of real world time corresponds to a week of in-game time. Suppose a group meets to play once every week. In that case, a typical table session resolves and plans the week, then conducts a single adventure from start to finish. If the table does not meet for more than one week, then multiple weeks of downtime may be planned.
 
 Real-time makes downtime activities pass quickly, but also rapidly accelerates the progression of major world events.
+
+Append F: Avoiding Player Death
+---
+The heaviness of violence is intentionally a central pillar of Breach's gameplay. However, GMs and players may be understandably uncomfortable with permanent player death. Permanent death is not absolutely required for Breach's gameplay to work. What matters is that mechanical death is handled as substantially more consequential than having wounds or being near death.
+
+Whenever a character would die, the GM may allow the below options as an alternative. If the player and GM agree, then the character is no longer dead or near death, but takes a long-term consequence.
+
+A simple option is to require the character to take a Fault which cannot be bought off. This represent a permanent injury to the affected body part. The body part still heals completely, but is no longer as strong as it once was. See the below suggestions, by body part:
+
+* For limbs, the character's limb may be permanently Crippled, even if both wound bubbles are not filled.
+* For the chest and abdomen, the character may take a permanent penalty to Physique checks representing damaged organs.
+* For the head, the character may partially lose vision or hearing.
+
+Another solution is to have the character fall comatose, and to require a long-term storyline to heal the character. A simple mechanical check will not bring this character back into the field.
 
