@@ -562,9 +562,11 @@ Spells
 * Difficulty: Fair (0)
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
-* Range: Touch
+* Range: 10 ft.
 
-A glob of corrosive liquid is hurled from the caster's hands. Deal MoS Armor Penetrating (1) damage to a target creature.
+A glob of corrosive liquid is hurled from the caster's hands.
+
+Target a creature within 10 feet. The target must resist with standard defense. If the target fails, then it takes MoS Armor Penetrating (1) damage.
 
 ### Animate Dead
 
@@ -804,6 +806,7 @@ Select a target area measuring 1000 square feet or less. Roll an Enchanting skil
 * Difficulty: Mediocre (-1)
 * Cast by: Schoolmage
 * Skill: Mental
+* Duration: 1 hour
 
 A text written in another Schoolmage's Arcane Shorthand becomes expanded into full Classical script in the caster's vision. This effect lasts for one hour.
 
@@ -873,24 +876,32 @@ At the end of the week, roll an Enchanting skill check.
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Mental
+* Range: 30 ft. around the caster
+* Duration: 1 hour
 
 The caster's performance has the undivided attention of those present.
+
+All creatures within 30 feet must resist with Personality. Those who fail must stand in place, and witness the caster's performance. The caster must dance, speak, play music, or otherwise perform for the duration of the spell, or else it ends. If an affected creature cannot physically witness the performance, then the effect ends for that creature.
 
 ### Fire Bolt
 
 * Difficulty: Fair (0)
 * Cast by: Schoolmage, Invoker
 * Skill: Elemental
+* Range: 40 ft.
 
 The caster projects a streak of fire towards a target.
+
+Target a creature within 40 feet. The target must resist with standard defense. If the target fails, then it takes MoS damage.
 
 ### Flare
 
 * Difficulty: Mediocre (-1)
 * Cast by: Schoolmage
 * Skill: Elemental
+* Range: 200 ft.
 
-A ball of light flies from the caster's fingertip, in a straight line, then disappears.
+A ball of light flies from the caster's fingertip, in a straight line for 200 feet, then disappears.
 
 ### Fly
 
