@@ -125,7 +125,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
-* **Schoolmage Spell Caster:** Only characters who know the Classical language may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying personal notes from their spellbooks, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
+* **Schoolmage Spell Caster:** Only characters who know the Classical language fluently may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying personal notes from their spellbooks, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. Devouts spend one hour worshipping their Agathos, with their holy symbols, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
@@ -372,7 +372,9 @@ Close-quarters combat is an opposed check. Defense rolls are automatic and do no
 * If the attacker is using Melee and the defender is using Brawling, then subtract 1.
 * If the defender is using Melee and has a shield equipped, then add the shield bonus.
 
-* **The Roll:** Attacker (4dF + Attack Skill) vs. Defender (4dF + Defense Skill + Defense Adjustment).
+There may be effects like low lighting which penalize the attacker, too.
+
+* **The Roll:** Attacker (4dF + Attack Skill + Attack Adjustment) vs. Defender (4dF + Defense Skill + Defense Adjustment).
 * **The Result:** If the attacker's roll is strictly higher than the defender's, then the blow lands. On a tie or loss, the attack misses.
 
 ##### Ranged Weapons
@@ -400,7 +402,7 @@ Even if the target is incapacitated, the GM should consider whether anyone is pr
 
 #### Calculating Damage
 
-Regardless of the type of strike, skill does not alter the force of an attack. Do not include either combatant's skill ranks, or the defender's dice, in the calculation.
+Regardless of the type of strike, skill does not alter the force of an attack. Do not include either combatant's skill ranks, or the defender's dice, in the calculation. Do not include any other adjustments to "attack" rolls, unless "damage" is explicitly mentioned.
 
 * **Damage:** Attacker's Dice + Weapon Damage - Armor
 
@@ -550,9 +552,9 @@ Furthermore, some spells do not have an in-the-field effect at all, and are alwa
 
 #### Attack Spells
 
-Even when a spell which targets an unwilling creature is cast successfully, the target has an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
+Even when a spell which targets an unwilling creature is cast successfully, the target may have an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
 
-If an attack deals damage, then the same rules for damage reduction apply as other sources of combat damage.
+If a spell attack deals damage, then apply the damage reduction from armor and the Golden Rule of Damage.
 
 Spells
 ---
@@ -567,6 +569,26 @@ Spells
 A glob of corrosive liquid is hurled from the caster's hands.
 
 Target a creature within 10 feet. The target must resist with standard defense. If the target fails, then it takes MoS Armor Penetrating (1) damage.
+
+### Animal Form
+
+* Difficulty: Great (+2)
+* Cast by: Devout
+* Skill: Spiritual
+* Duration: 1 hour
+
+The caster transforms into an animal for one hour.
+
+Pick an animal species to transform into. The target animal may not have a Physique more than 1 step above the caster's. This effect lasts for 1 hour, but may be ended early at-will. While in animal form, the following effects apply to the caster.
+
+* **Physique:** For all Physique rolls, use the animal's Physique.
+* **Attack:** If it is appropriate for the animal to attack with claws and teeth, then use the caster's Brawling skill for attacks. The caster's damage bonus is based on Physique.
+    * **Mediocre or worse:** Do not give a damage bonus.
+    * **Fair or Good:** Give a +1 damage bonus.
+    * **Great or better:** Give a +2 damage bonus.
+* **Defense:** The caster may only use Brawling or Acrobatics for defense rolls. The caster is not wearing any armor while in animal form.
+* **Movement:** The caster may run, climb, swim, burrow, or fly as appropriate to the animal form.
+* **Restrictions:** The caster may not use tools, cast spells, or speak. The caster still understands languages they know. The caster is otherwise unchanged in terms of attributes and skills.
 
 ### Animate Dead
 
@@ -596,7 +618,7 @@ Animated dead magically repair themselves. They recover from scratches immediate
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Mental
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 1 minute
 
 The caster's enemies feel a powerful aura of discouragement, dampening their morale.
@@ -692,7 +714,7 @@ The caster may have a two-way conversation with an Archon for one minute.
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Mental
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 15 minutes
 
 The caster becomes surrounded by an aura of truth, discouraging those nearby from lying.
@@ -734,7 +756,7 @@ Select a target Cthonic breach measuring 1000 square feet or less. Roll an Encha
 * Cast by: Devout
 * Skill: Enchanting
 
-The caster crafts talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
+The caster crafts silver talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
 
 #### Downtime Activity
 
@@ -744,6 +766,19 @@ At the beginning of the week, spend 30 Drachmas (ud). At the end of the week, ro
 * **Good:** One talisman is successfully crafted.
 * **Great:** Two talismans are successfully crafted.
 * **Superb or better:** Three talismans are successfully crafted.
+
+Those who wear a properly crafted silver talisman are protected from Cthonians. Incoming attacks from Cthonians suffer a -1 penalty to their attack rolls. Only one talisman may be worn.
+
+### Cure Poison
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Spiritual
+* Range: Touch
+
+The caster remove poison from a creature.
+
+Select a target creature who is poisoned. That creature is no longer poisoned.
 
 ### Cure Wounds
 
@@ -773,7 +808,7 @@ Select a target benched character, who has taken heal wounds as a downtime activ
 
 Unnatural darkness spreads from a point near the caster, swallowing the nearby light.
 
-A 10-foot-radius sphere centered at a target point becomes shrouded in absolute inky darkness.
+A 10-foot-radius sphere centered at a target point becomes shrouded in absolute inky darkness. Attack rolls against creatures inside the darkness suffer a -2 penalty.
 
 ### Desecrate
 
@@ -819,7 +854,7 @@ If the caster has another Schoolmage's spell book, then the caster may try to le
 * Difficulty: Good (+1)
 * Cast by: Schoolmage, Devout, Invoker
 * Skill: Spiritual
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 1 minute
 
 The souls of nearby creatures light up in the vision of the caster. Creatures can be detected through solid objects, but their exact locations are obscured. The caster can discern different colors of souls:
@@ -844,6 +879,20 @@ If a creature that would be detected has the Soul Suppression gift, then Detect 
 The caster removes ongoing magical effects imposed on itself or a target.
 
 Select a target creature, object, or place under the influence of a magical effect. If the caster's MoS equals or exceeds the difficulty of the spell that caused the magical effect, then the magical effect ends.
+
+### Divine Awe
+
+* Difficulty: Great (+2)
+* Cast by: Devout
+* Skill: Mental
+* Area: 30 ft. around the caster
+* Duration: 1 minute
+
+The caster radiates a brilliant light which heals and encourages allies and distracts enemies.
+
+All allied creatures within 30 feet get a +1 bonus to attack rolls. They also have all scratches removed, at the initial moment the spell is cast.
+
+All enemy creatures within 30 feet must resist with Personality. Those who fail get a -1 penalty to attack rolls.
 
 ### Enchant With Flames
 
@@ -876,12 +925,23 @@ At the end of the week, roll an Enchanting skill check.
 * Difficulty: Good (+1)
 * Cast by: Devout, Invoker
 * Skill: Mental
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 1 hour
 
 The caster's performance has the undivided attention of those present.
 
 All creatures within 30 feet must resist with Personality. Those who fail must stand in place, and witness the caster's performance. The caster must dance, speak, play music, or otherwise perform for the duration of the spell, or else it ends. If an affected creature cannot physically witness the performance, then the effect ends for that creature.
+
+### Far Stride
+
+* Difficulty: Great (+2)
+* Cast by: Schoolmage
+* Skill: Physical
+* Range: 100 ft.
+
+The caster instantly steps from one location to another far away.
+
+The caster instantly teleports to another point within 100 feet, in clear view. The caster may touch a willing ally, to bring the ally with them. If the MoS is Fair, then the ally is left behind. If the MoS is Good or better, then the ally also teleports.
 
 ### Fire Bolt
 
@@ -901,23 +961,39 @@ Target a creature within 40 feet. The target must resist with standard defense. 
 * Skill: Elemental
 * Range: 200 ft.
 
-A ball of light flies from the caster's fingertip, in a straight line for 200 feet, then disappears.
+A ball of light flies from the caster's fingertip, moves in a straight line for 200 feet, then disappears.
 
 ### Fly
 
-* Difficulty: Great (+2)
+* Difficulty: Superb (+3)
 * Cast by: Schoolmage
 * Skill: Physical
+* Duration: 10 minutes
 
-The caster or target becomes capable of flying through the air.
+The caster or target becomes capable of freely flying through the air. The target may fly at the same speed as they would sprint.
 
 ### Gust of Wind
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker, Devout
 * Skill: Elemental
+* Range: 15 ft. cone
 
 A powerful wind rises from behind the caster, knocking down people and objects.
+
+Target all creatures in a 15-foot cone. Each target must resist with Physique. Every target who fails is pushed back 10 feet and is knocked down. Knocked down creatures must skip their next round of major action and movement to get off the ground.
+
+### Hallucination
+
+* Difficulty: Good (+1)
+* Cast by: Schoolmage
+* Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
+
+The caster manifests a convincing illusion in another creature's mind.
+
+Target a creature within 40 feet. The target must resist with Intellect. If the target succeeds, then the target knows the illusion is not real, and the spell ends. If the target fails, then the target believes the illusion, however absurd. The caster has total control over the content of the illusion. The illusion is incapable of physically harming the target, except by leading the target to take self-destructive actions.
 
 ### Healing Hands
 
@@ -929,33 +1005,70 @@ The caster touches a creature with healing energy that stabilizes injuries.
 
 Select a target character. If the target is Near Death, then the target is no longer Near Death.
 
+#### Downtime Activity
+
+Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
+
+### Hold
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
+
+The caster forces another creature to stand in place.
+
+Target a creature within 40 feet. The target must resist with Personality. If the target fails, then the target may not take any actions. This spell requires the caster to remain in place. If the caster takes any actions, then the spell ends.
+
+### Hologram
+
+* Difficulty: Mediocre (-1)
+* Cast by: Schoolmage
+* Skill: Physical
+* Duration: 1 minute
+
+The caster creates a small, static projection in the palm of their hand. The projection is purely visual, and may occupy the volume of a 1-foot cube.
+
 ### Hope
 
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Mental
+* Area: 30 ft. around the caster
+* Duration: 1 minute
 
 The caster becomes surrounded by an aura of support, raising the morale of their allies.
 
-#### Downtime Activity
-
-Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
+All allies within 30 feet gain a +1 bonus to attack and defense rolls for the next two rounds.
 
 ### Ice Bolt
 
 * Difficulty: Good (+1)
 * Cast by: Schoolmage
 * Skill: Elemental
+* Range: 40 ft.
 
 The caster projects an icy gust full of icicle spears at a target.
+
+Target a creature within 40 feet. The target must resist with standard defense. If the target fails, then it takes MoS + 2 damage, and may only move 5 feet on its next turn.
 
 ### Invisibility
 
 * Difficulty: Great (+2)
 * Cast by: Schoolmage, Invoker
 * Skill: Physical
+* Duration: 1 hour
 
 The caster or target's appearance vanishes entirely, while remaining fully present and able to interact.
+
+### Give Life
+
+* Difficulty: Great (+2)
+* Cast by: Devout
+* Skill: Spiritual
+
+The caster removes wounds from a target creature, by receiving the exact same wounds.
 
 ### Jump
 
@@ -964,6 +1077,14 @@ The caster or target's appearance vanishes entirely, while remaining fully prese
 * Skill: Physical
 
 The caster or target becomes capable of leaping multiple times higher and farther than before.
+
+### Last Strike
+
+* Difficulty: Good (+1)
+* Cast by: Invoker
+* Skill: Elemental
+
+The caster becomes surrounded by levitating stone spikes that lash out at any attackers, even against blows that kill the caster.
 
 ### Levitate
 
@@ -976,7 +1097,7 @@ The caster or target becomes suspended in the air.
 ### Light
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout, Invoker
+* Cast by: Schoolmage, Devout
 * Skill: Elemental
 
 An orb of light appears at the caster's fingertip, and provides continuous illumination.
@@ -989,10 +1110,26 @@ An orb of light appears at the caster's fingertip, and provides continuous illum
 
 A lightning bolt leaps from the caster's fingertips, damaging anything in its path.
 
+### Lock
+
+* Difficulty: Mediocre (-1)
+* Cast by: Schoolmage
+* Skill: Physical
+
+The caster magically seals a door or container.
+
+### Mage Eye
+
+* Difficulty: Fair (0)
+* Cast by: Schoolmage
+* Skill: Mental
+
+The caster conjures a ghostly eye that the caster may look through, at a distance.
+
 ### Mage Hand
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage
 * Skill: Physical
 
 The caster conjures a ghostly hand that can perform simple tasks from a distance.
@@ -1012,6 +1149,14 @@ The caster draws their finger across a single crack of a broken object, which he
 * Skill: Elemental
 
 The caster calls forth an elemental blast from the skies which lands on a target creature, which is especially destructive against Cthonically corrupt beings. The specific nature of the elemental blast varies according to the Agathos the caster serves.
+
+### Polymorph
+
+* Difficulty: Great (+2)
+* Cast by: Schoolmage
+* Skill: Physical
+
+The caster transforms another creature into a different form.
 
 ### Preserve
 
@@ -1033,12 +1178,28 @@ The caster's target becomes aggressive and may wildly attack friend and foe alik
 
 Select target creature. The target must resist with Personality. If the target fails, then the target becomes enraged. For each round the target takes, the target must attack the nearest creature.
 
+### Recollection
+
+* Difficulty: Mediocre (-1)
+* Cast by: Devout
+* Skill: Mental
+
+The caster or a target creature perfectly recalls an earlier memory. This spell can overcome magical amnesia.
+
+### Retribution
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Physical
+
+If the caster is wounded, then the caster becomes physically stronger.
+
 ### Sanctuary
 
 * Difficulty: Fair (0)
 * Cast by: Devout
 * Skill: Spiritual
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 1 minute
 
 The caster becomes surrounded by an aura of peace, discouraging their enemies from fighting.
@@ -1048,7 +1209,7 @@ All enemies within 30 feet must resist with Personality. Each enemy who fails be
 ### Shield
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage
+* Cast by: Schoolmage, Devout
 * Skill: Physical
 * Range: 40 ft.
 * Duration: MoS rounds
@@ -1081,6 +1242,14 @@ The caster targets one or more creatures to fall asleep.
 
 This spell may target up to MoS number of creatures. Each target must resist with Physique. Every target who fails falls asleep for the next minute. Any amount of damage will cause the target to wake up.
 
+### Speak With Animals
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Spiritual
+
+The caster gains the ability to communicate with animals.
+
 ### Summon Cthonian
 
 * Difficulty: Great (+2)
@@ -1088,6 +1257,14 @@ This spell may target up to MoS number of creatures. Each target must resist wit
 * Skill: Spiritual
 
 The caster calls forth a creature from a Cthonic sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the Archon the caster serves.
+
+### Surveillance
+
+* Difficulty: Great (+2)
+* Cast by: Schoolmage
+* Skill: Mental
+
+The caster gains the ability to see and hear in a location the caster has physically been to, before.
 
 ### Trap Yellow Soul
 
@@ -1110,12 +1287,20 @@ Note the Physique of the soul captured. That ladder step is the size of the soul
 * Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Spiritual
-* Range: 30 ft. around the caster
+* Area: 30 ft. around the caster
 * Duration: 1 minute
 
 The caster compels nearby undead creatures to flee.
 
 All undead creatures within 30 feet must resist with Personality. Each undead creature who fails becomes incapable of attacking, and runs directly away from the caster.
+
+### Union
+
+* Difficulty: Good (+1)
+* Cast by: Devout
+* Skill: Physical
+
+The caster blesses either themselves and another target, or two other targets. Those blessed become more accurate in physical attacks, if the duo remain in proximity to each other.
 
 ### War Puppet
 
@@ -1168,12 +1353,12 @@ Target all creatures in a 15-foot cone. Each target must resist with Physique. E
 ### Whisper
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout, Invoker
+* Cast by: Schoolmage, Invoker
 * Skill: Mental
 * Range: 40 ft.
-* Duration: 10 seconds
+* Duration: 1 round
 
-The target hears a short message whispered by the caster, lasting no more than 10 seconds. Nobody nearby except the target can hear the message.
+The target hears a short message whispered by the caster, lasting no more than 1 round (6 seconds). Nobody nearby except the target can hear the message.
 
 Downtime
 ---
@@ -1353,6 +1538,19 @@ GMs should be generous with enemy Gifts and Faults. These are the main lever to 
 * **Phobia: Fire:** This animal will refuse to attack a character swinging a torch.
 * **Greedy:** This grunt will readily give up a fight, in exchange for a bribe.
 
+### Animal Physique
+
+For reference, a table of Physiques of real-world animals are given. Each step of the ladder represents a rough doubling of average mass for the species.
+
+* **Terrible (-3):** Rat
+* **Poor (-2):** Rabbit
+* **Mediocre (-1):** House cat
+* **Fair (0):** Raccoon
+* **Good (+1):** Coyote
+* **Great (+2):** Wolf
+* **Superb (+3):** Jaguar
+* **Legendary (+4):** Black bear
+
 Appendix A: Factions
 ---
 Every campaign revolves around interacting factions. Players may belong to a single faction, or the party may represent several factions working uneasily towards a common goal. If players belong to several factions, then conflicts of interest will naturally arise, creating friction between player characters. This may be a source of compelling drama, if that is the table's goal. Players and GMs are encouraged to tailor faction lists to each campaign.
@@ -1439,29 +1637,31 @@ The true nature of the Agathoi is intentionally ambiguous in the setting. Differ
 
 Because the Agathoi do not actively intervene in the mortal realm, the Imperial Cult has no ability to regulate divine magic. Many Devouts are employed as chaplains for hire, to mercenary companies.
 
-A Devout's power relies on the Devout's own internal devotion to the ideals of their Agathos. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause.
+A Devout's power relies on the Devout's own internal devotion to the ideals of their Agathos. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause. If a Devout's gift is permanently revoked, then the character should receive 6 EP as compensation.
 
-All Devouts may cast Commune With Agathos, Consecrate, and Detect Souls.
+All Devouts may cast Commune With Agathos, Consecrate, Detect Souls, and Pillar Blast.
 
-* **Iazus**: Pillar Blast (bolt of lightning), Command, Confession, Banish, Bane
-* **Inidilt**: Preserve, Healing Hands, Light
-* **Burrue**: Pillar Blast (sun beam), Light, Enthrall, Whisper, Hope, Dispel Magic
-* **Lidnozie**: Pillar Blast (moon beam), Light, Turn Undead, Cthonic Ward
-* **Ereng**: Sanctuary, Healing Hands, Cure Wounds, Mending, Hope
-* **Izdoeng**: Pillar Blast (pillar of fire), Sanctuary, Silence, Healing Hands, Cure Wounds, Dispel Magic
+* **Iazus**: Devouts may cast Command, Confession, Banish, Bane, and Retribution. Pillar Blast is a bolt of lightning.
+* **Inidilt**: Devouts may cast Preserve, Healing Hands, Cthonic Ward, Dispel Magic, and Shield. Pillar Blast is a falling boulder.
+* **Burrue**: Devouts may cast Light, Enthrall, Hope, Dispel Magic, and Divine Awe. Pillar Blast is a sun beam.
+* **Lidnozie**: Devouts may cast Light, Gust of Wind, Cure Poison, Speak With Animals, and Animal Form. Pillar Blast is a moon beam.
+* **Ereng**: Devouts may cast Healing Hands, Cure Wounds, Mending, Recollection, and Union. Pillar Blast is a column of water.
+* **Izdoeng**: Devouts may cast Sanctuary, Silence, Healing Hands, Hold, and Give Life. Pillar Blast is a column of fire.
 
 #### Archons
 
 Archon worship used to be widespread in Conliah, and Agathos worship was little known. The Magellian Empire nearly eliminated Archon Worship for a millenium. However, it is still possible to contact the Archons through breaches in ancient pre-Magellian ruins, and some dare to do so.
 
+Archons grant magical power in exchange for continued service. If an Invoker displeases an Archon, then the Archon make revoke the Invoker's power at-will. If an Invoker's gift is permanently revoked, then the character should receive 6 EP as compensation.
+
 All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian.
 
-* **Ulviazing**: Sleep, Blur, Invisibility, Charm
-* **Ogzim**: Darkness, Silence, Invisibility, Bane
-* **Igedeng**: Animate Dead, Trap Yellow Soul, Blight, Whisper
-* **Lize**: Rage, Acid Splash, Burning Hands, Blight
-* **Lundazing**: Lightning Bolt, Fire Bolt, Gust of Wind, Command, Enthrall
-* **Inizozim**: Acid Splash, Charm, Mage Hand
+* **Ulviazing**: Invokers may cast Sleep, Enthrall, Blur, and Charm. Summon Cthonian is an Arachnaur.
+* **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian is a Nightcreep.
+* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian is a Tentacle Head.
+* **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian is a Tormentor.
+* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Gust of Wind, and Command. Summon Cthonian is a Dragon.
+* **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian is a Naga.
 
 Appendix D: Cosmology
 ---
