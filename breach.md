@@ -1180,11 +1180,18 @@ Select target creature. The target must resist with Personality. If the target f
 
 ### Recollection
 
-* Difficulty: Mediocre (-1)
+* Difficulty: Good (+1)
 * Cast by: Devout
 * Skill: Mental
+* Range: Touch
 
-The caster or a target creature perfectly recalls an earlier memory. This spell can overcome magical amnesia.
+The caster or target creature focuses on an earlier memory, and retrieves it with perfect recall. This spell can overcome magical amnesia.
+
+If the MoS is 5 or greater, then the target also receives visions that appear to be memories of a divine realm or a past life. Repeated successful attempts may result in identical visions.
+
+#### Downtime Activity
+
+The caster may use this spell to reproduce a book which the writer has read in its entirety. Either the caster must have read the book, or a target who is also spending downtime to write the book. The writer must possess a blank book at the beginning of the week. At the end of the week, the book becomes a faithful reproduction of the original.
 
 ### Retribution
 
