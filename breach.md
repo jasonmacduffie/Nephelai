@@ -1184,8 +1184,9 @@ Select target creature. The target must resist with Personality. If the target f
 * Cast by: Devout
 * Skill: Mental
 * Range: Touch
+* Duration: 1 minute
 
-The caster or target creature focuses on an earlier memory, and retrieves it with perfect recall. This spell can overcome magical amnesia.
+The caster or target creature focuses on an earlier memory of an event lasting up to one minute, and retrieves it with perfect recall. This spell can overcome magical amnesia. Once the spell ends, the recalled memory sits in the target's mind as an ordinary memory. Therefore, the recalled memory can be forgotten or distorted again.
 
 If the MoS is 5 or greater, then the target also receives visions that appear to be memories of a divine realm or a past life. Repeated successful attempts may result in identical visions.
 
