@@ -1192,7 +1192,13 @@ If the MoS is 5 or greater, then the target also receives visions that appear to
 
 #### Downtime Activity
 
-The caster may use this spell to reproduce a book which the writer has read in its entirety. Either the caster must have read the book, or a target who is also spending downtime to write the book. The writer must possess a blank book at the beginning of the week. At the end of the week, the book becomes a faithful reproduction of the original.
+The caster may use this spell to reproduce up to 100 pages of a book which the writer has read in its entirety. Either the caster must have read the pages, or a target who is also spending downtime to write the pages. The writer must possess the blank pages at the beginning of the week. At the end of the week, a certain number of pages are faithfully reproduced from the original.
+
+At the end of the week, roll a Mental skill check. Any incomplete pages are still kept blank.
+
+* **Fair or worse:** 20 pages are written.
+* **Good:** 50 pages are written.
+* **Great or better:** 100 pages are written.
 
 ### Retribution
 
