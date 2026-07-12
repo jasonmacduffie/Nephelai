@@ -595,10 +595,10 @@ Target a creature within 10 feet. The target must resist with standard defense. 
 
 The caster transforms into an animal for one hour.
 
-Pick an animal species to transform into. The target animal may not have a Physique more than 1 step above the caster's. This effect lasts for 1 hour, but may be ended early at-will. While in animal form, the following effects apply to the caster.
+Pick an animal species to transform into. The target animal species may not have a Scale above Superb (599 lbs.). This effect lasts for 1 hour, but may be ended early at-will. While in animal form, the following effects apply to the caster.
 
-* **Physique:** For all Physique rolls, use the animal's Physique.
-* **Attack:** If it is appropriate for the animal to attack with claws and teeth, then use the caster's Brawling skill for attacks. The caster's damage bonus is based on Physique.
+* **Physique:** For all Physique rolls, use the animal's Scale.
+* **Attack:** If it is appropriate for the animal to attack with claws and teeth, then use the caster's Brawling skill for attacks. The caster's damage bonus is based on Scale.
     * **Mediocre or worse:** Do not give a damage bonus.
     * **Fair or Good:** Give a +1 damage bonus.
     * **Great or better:** Give a +2 damage bonus.
@@ -1323,13 +1323,13 @@ Select a specific location the caster has physically been to and seen. For the n
 
 The caster transfers the soul of a creature into an empty yellow beryl gemstone. To cast this spell, the caster must have an appropriately sized and cut stone. Select a target creature that possesses a yellow soul (an animal) that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
 
-The quality of the yellow beryl gemstone used limits the strength of animal that may by trapped. The strength of the animal trapped determines the strength of the enchantment.
+The quality of the yellow beryl gemstone used limits the Scale of animal that may by trapped. The Scale of the animal trapped determines the strength of the enchantment.
 
-* **Good:** The gem may hold the soul of an animal with Good (+1) Physique or less.
-* **Great:** The gem may hold the soul of an animal with Great (+2) Physique or less.
-* **Superb:** The gem may hold the soul of an animal with Superb (+3) Physique or less.
+* **Good:** The gem may hold the soul of an animal with Good (+1) Scale or less.
+* **Great:** The gem may hold the soul of an animal with Great (+2) Scale or less.
+* **Superb:** The gem may hold the soul of an animal with Superb (+3) Scale or less.
 
-Note the Physique of the soul captured. That ladder step is the size of the soul in the gem, which may be referenced during enchantment.
+Note the Scale of the soul captured. That ladder step is the size of the soul in the gem, which may be referenced during enchantment.
 
 ### Turn Undead
 
