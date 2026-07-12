@@ -1428,11 +1428,11 @@ It is possible that no characters are in the field for this week, if the players
 
 If a character is benched, there are standard activities they may perform for the week. These are called downtime activities. The downtime activity is chosen at the beginning of the week, and benefits are collected at the end of the week.
 
-* Heal wounds: The character may perform a Medicine check, or receive medical attention from another character. See Stabilization & Healing, under Combat.
+* Heal and Tend wounds: The character may perform a Medicine check, or receive medical attention from another character. See Stabilization & Healing, under Combat.
 * Train skills: The character may train an unused skill. This allows 2 EP to be spent on an unused skill. Multiple weeks allow cumulative EP to be spent.
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
 * Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
-* Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
+* Learn and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
 * Brew: The character may work on creating poitons and poisons. See Brewing.
 * Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
