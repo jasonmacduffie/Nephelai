@@ -125,9 +125,9 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 Gifts are unranked traits that are positive for the character. Gifts may grant access to opportunities, reduce penalties, or present alternatives to skill checks for resolving situations.
 
-* **Schoolmage Spell Caster:** Only characters who know the Classical language fluently may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and already knows one Mediocre (-1) and one Fair (0) spell. The character may learn and cast spells from the Schoolmage list. Schoolmages spend one hour studying personal notes from their spellbooks, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
-* **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. Devouts spend one hour worshipping their Agathos, with their holy symbols, after waking up. If they skip this step, they do not recover from Soul Burn. The character may not take a second Spell Caster gift.
-* **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power. The character may cast spells from the Invoker list aligned with the character's patron Archon. Invokers recover from Soul Burn immediately upon waking up, without requiring any ritual. The character may not take a second Spell Caster gift.
+* **Schoolmage Spell Caster:** Only characters who know the Classical language fluently may take the Schoolmage Spell Caster gift. The character has training as a Schoolmage, and may learn and cast spells from the Schoolmage list. The character may not take a second Spell Caster gift. See Magical Gifts under the Magic section for further details.
+* **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. The character may not take a second Spell Caster gift. See Magical Gifts under the Magic section for further details.
+* **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power in exchange for continued service. The character may cast spells from the Invoker list aligned with the character's patron Archon. The character may not take a second Spell Caster gift. See Magical Gifts under the Magic section for further details.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
 * **Etiquette Training:** The character has deeply ingrained standards of etiquette, from an early age. The character gets +1 on social rolls in formal situations.
 * **Hardy Constitution:** The character can shrug off disease and poison more easily than others. The character may not take the Frail Constitution fault.
@@ -260,7 +260,7 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
 * Small shield - 20 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
-* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. If that character loses their spellbook, then that character may not recover from Soul Burn. Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Therefore, if that character starts a new blank spellbook, then that character forgets all known spells. Note that the spellbook is not inherently magical.
+* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. A spellbook is 1000 pages long, which may hold up to 10 spells. If the character does not possess a spellbook written in the caster's own Arcane Shorthand, then that character may not recover from Soul Burn. Note that the spellbook is not inherently magical.
 * Holy symbol - 10 ud. If the character is a Devout Spell Caster, then that character possesses a holy symbol. If that character loses their Holy Symbol, then that character may not recover from Soul Burn. The holy symbol is specific to a particular Agathos, matching the Devout's patron. Note that the holy symbol is not inherently magical.
 * Alcohol - 0.1 ud per drink. Addictive.
 * Tobacco - 0.2 ud per dose. Addictive.
@@ -531,15 +531,31 @@ Spells always have verbal and somatic components. A character who is unable to b
 
 #### Magical Gifts
 
-Characters do not know how to cast spells, without a corresponding Gift. The Gifts that control access to magic are below:
+Characters do not know how to cast spells, without a corresponding Gift.
 
-* **Schoolmage Spell Caster**
-* **Devout Spell Caster**
-* **Invoker Spell Caster**
+##### Schoolmage Spell Caster
 
-Devouts and Invokers do not learn spells. However, their powers come from a relationship to an external deity, so they are limited to that deity's portfolio.
+Schoolmages cast spells through knowledge of specific formulae.
 
-Schoolmages cast spells through knowledge of specific formulae. While they are not restricted by divine portfolio, they must research spells to cast them.
+* *Prerequisite:* Schoolmages must know the Classical language.
+* *Spell List:* Schoolmages are not restricted by divine portfolio. However, they must research spells to cast them. A beginning Schoolmage already knows one Mediocre (-1) and one Fair (0) spell.
+* *Soul Burn:* Schoolmages recover from Soul Burn after waking up by reading spellbooks written in their own Arcane Shorthand.
+* *Choosing Spells:* Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Schoolmages may not memorize more than 10 spells at a time. Each time a Schoolmage reviews their spellbooks, the Schoolmage may choose a different set of 10 known spells.
+* *Spellbooks:* Schoolmages begin with a single spellbook. Spellbooks are 1000 pages long, which may contain up to 10 spells at a time. If the Schoolmage wants more options than 10 known spells, then it is necessary to carry more than one spellbook. If a spellbook is lost, then the Schoolmage may not choose from those spells when reviewing spells.
+
+##### Devout Spell Caster
+
+Devouts cast spells by absolute faith in an Agathos.
+
+* *Spell List:* Devouts cast spells from the Devout list, which are aligned with their specific Agathos.
+* *Soul Burn:* Devouts recover from Soul Burn after waking up by spending one hour worshipping their Agathos with a holy symbol.
+
+##### Invoker Spell Caster
+
+Invokers cast spells by a pact with an Archon which is continually renewed by obedience to the Archon.
+
+* *Spell List:* Invokers cast spells from the Invokers list, which are aligned with their specific Archon.
+* *Soul Burn:* Invokers recover from Soul Burn after fully resting, without any additional ritual step.
 
 #### Downtime Spells
 
