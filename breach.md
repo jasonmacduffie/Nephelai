@@ -1226,7 +1226,7 @@ If the MoS is 5 or greater, then the target also receives visions that appear to
 
 #### Downtime Activity
 
-The caster may use this spell to reproduce up to 100 pages of a book which the writer has read in its entirety. Either the caster must have read the pages, or a target who is also spending downtime to write the pages. The writer must possess the blank pages at the beginning of the week. At the end of the week, a certain number of pages are faithfully reproduced from the original.
+The caster may use this spell to flawlessly reproduce up to 100 pages of a book, based on only a memory of reading the book. Either the caster must have read the pages, or a target who is also spending downtime to write the pages. The target must possess the blank pages at the beginning of the week.
 
 At the end of the week, roll a Mental skill check. Any incomplete pages are still kept blank.
 
@@ -1234,7 +1234,7 @@ At the end of the week, roll a Mental skill check. Any incomplete pages are stil
 * **Good:** 50 pages are written.
 * **Great or better:** 100 pages are written.
 
-If this activity is used to copy a spellbook, then the writer may choose which spell is being completely copied for every 100-page block.
+If this activity is used to reconstruct a spellbook from memory, then each 100-page sequence represents one complete spell. Note that the reconstruction is still written in its original Arcane Shorthand, which cannot be understood by anyone except its original author.
 
 ### Retribution
 
