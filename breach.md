@@ -72,8 +72,8 @@ Traits
 There are three attributes. The GM calls for an attribute check in situations where the character's raw capabilities are tested.
 
 * **Physique** represents a character's physical strength, endurance, speed, and balance.
-* **Intellect** represents a character's knowledge, perception, and comprehension.
-* **Personality** represents a character's charm, confidence, and willpower.
+* **Intellect** represents a character's knowledge, perception, logic, and comprehension.
+* **Personality** represents a character's charm, confidence, willpower, and social and emotional intelligence.
 
 ### Skills
 
