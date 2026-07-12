@@ -1538,6 +1538,8 @@ Most enemies do not have the full PC injury track. There are three tiers of enem
 * **Heavy:** Three scratch bubbles, two wound bubbles. If both wound bubbles are filled, the enemy is incapacitated.
 * **Elite:** Elites have the same injury tracker as player characters.
 
+While granular tracking is not necessary for every single Light and Heavy enemy, wound location may still be narratively relevant. If a player succeeds on a called shot against a Light or Heavy enemy, then the GM should allow the player to elaborate the intended consequences of that called shot.
+
 For larger, more monstrous enemies, GMs may create custom injury trackers with even more wound bubbles than player characters.
 
 ### Combat Style and Standard Modifier
