@@ -590,7 +590,7 @@ Target a creature within 10 feet. The target must resist with standard defense. 
 
 * Difficulty: Great (+2)
 * Cast by: Devout
-* Skill: Spiritual
+* Skill: Physical
 * Duration: 1 hour
 
 The caster transforms into an animal for one hour.
@@ -1291,7 +1291,7 @@ This spell may target up to MoS number of creatures. Each target must resist wit
 
 * Difficulty: Good (+1)
 * Cast by: Devout
-* Skill: Spiritual
+* Skill: Mental
 
 The caster gains the ability to communicate with animals.
 
@@ -1589,18 +1589,19 @@ GMs should be generous with enemy Gifts and Faults. These are the main lever to 
 * **Phobia: Fire:** This animal will refuse to attack a character swinging a torch.
 * **Greedy:** This grunt will readily give up a fight, in exchange for a bribe.
 
-### Animal Physique
+### Animal Scale
 
-For reference, a table of Physiques of real-world animals are given. Each step of the ladder represents a rough doubling of average mass for the species.
+For reference, a table of Scales of real-world animals are given. Each step of the ladder represents a rought 1.5-fold increase in average mass for the species.
 
-* **Terrible (-3):** Rat
-* **Poor (-2):** Rabbit
-* **Mediocre (-1):** House cat
-* **Fair (0):** Raccoon
-* **Good (+1):** Coyote
-* **Great (+2):** Wolf
-* **Superb (+3):** Jaguar
-* **Legendary (+4):** Black bear
+* **Abysmal (-4):** Badger. 20 lbs. - 29 lbs.
+* **Terrible (-3):** Lynx. 30 lbs. - 49 lbs.
+* **Poor (-2):** Coyote. 50 lbs. - 74 lbs.
+* **Mediocre (-1):** Hyena. 75 lbs. - 114 lbs.
+* **Fair (0):** Gray wolf. 115 lbs. - 169 lbs.
+* **Good (+1):** Cougar. 170 lbs. - 259 lbs.
+* **Great (+2):** Lion. 260 lbs. - 399 lbs.
+* **Superb (+3):** Black bear. 400 lbs. - 599 lbs.
+* **Legendary (+4):** Grizzly bear. 600 lbs. - 799 lbs.
 
 Appendix A: Factions
 ---
