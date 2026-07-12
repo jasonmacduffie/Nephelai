@@ -595,15 +595,18 @@ Target a creature within 10 feet. The target must resist with standard defense. 
 
 The caster transforms into an animal for one hour.
 
-Pick an animal species to transform into. The target animal species may not have a Scale above Superb (599 lbs.). This effect lasts for 1 hour, but may be ended early at-will. While in animal form, the following effects apply to the caster.
+Pick an animal species to transform into. The target animal species may not have a Scale above Superb (> 599 lbs.). This effect lasts for 1 hour, but may be ended early at-will. While in animal form, the following effects apply to the caster.
 
 * **Physique:** For all Physique rolls, use the animal's Scale.
 * **Attack:** If it is appropriate for the animal to attack with claws and teeth, then use the caster's Brawling skill for attacks. The caster's damage bonus is based on Scale.
     * **Mediocre or worse:** Do not give a damage bonus.
     * **Fair or Good:** Give a +1 damage bonus.
     * **Great or better:** Give a +2 damage bonus.
-* **Defense:** The caster may only use Brawling or Acrobatics for defense rolls. The caster is not wearing any armor while in animal form.
+* **Defense:** The caster may only use Acrobatics for defense rolls, or Brawling when defending against Brawling. The caster is not wearing any armor while in animal form.
+* **Damage:** The caster takes damage identically in animal form. Injuries transfer from one form to another.
+* **Damage for small animals:** If the caster's animal species has Terrible or worse Scale (<= 49 lbs.), then the caster's animal form cannot tolerate any kind of injury. Even a single scratch reverts the caster back to their original form. Even if this happens, calculate damage normally.
 * **Movement:** The caster may run, climb, swim, burrow, or fly as appropriate to the animal form.
+* **Inventory:** The caster's inventory and equipment disappear while in animal form, then re-appear once reverted.
 * **Restrictions:** The caster may not use tools, cast spells, or speak. The caster still understands languages they know. The caster is otherwise unchanged in terms of attributes and skills.
 
 ### Animate Dead
