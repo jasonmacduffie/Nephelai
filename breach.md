@@ -666,7 +666,7 @@ Select target creature. The target must resist with standard defense. If the tar
 ### Blur
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage
 * Skill: Physical
 * Duration: 1 minute
 
@@ -1153,6 +1153,17 @@ Choose a target within 40 feet of the caster. A translucent floating eye appears
 * Skill: Physical
 
 The caster conjures a ghostly hand that can perform simple tasks from a distance.
+
+### Memory Wipe
+
+* Difficulty: Good (+1)
+* Cast by: Invoker
+* Skill: Mental
+* Range: 10 ft.
+
+The caster wipes recent memories from a target's mind.
+
+Target creature must resist with Intellect. If the target fails, then all memories from the past 30 minutes are forgotten. The target is not aware that their mind has been wiped, and rationalizes any gaps unless convinced otherwise by another character.
 
 ### Mending
 
@@ -1694,7 +1705,7 @@ Archons grant magical power in exchange for continued service. If an Invoker dis
 
 All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian.
 
-* **Ulviazing**: Invokers may cast Sleep, Enthrall, Blur, and Charm. Summon Cthonian is an Arachnaur.
+* **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian is an Arachnaur.
 * **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian is a Nightcreep.
 * **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian is a Tentacle Head.
 * **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian is a Tormentor.
