@@ -1234,6 +1234,8 @@ At the end of the week, roll a Mental skill check. Any incomplete pages are stil
 * **Good:** 50 pages are written.
 * **Great or better:** 100 pages are written.
 
+If this activity is used to copy a spellbook, then the writer may choose which spell is being completely copied for every 100-page block.
+
 ### Retribution
 
 * Difficulty: Good (+1)
