@@ -1139,8 +1139,12 @@ The caster magically seals a door or container.
 * Difficulty: Fair (0)
 * Cast by: Schoolmage
 * Skill: Mental
+* Range: 40 ft.
+* Duration: 1 minute
 
 The caster conjures a ghostly eye that the caster may look through, at a distance.
+
+Choose a target within 40 feet of the caster. A translucent floating eye appears there, which the caster may see through. The eye can move 10 feet every round. The eye is inconspicuous from more than 20 feet from any observer, but is clearly visible within 20 feet.
 
 ### Mage Hand
 
@@ -1293,8 +1297,12 @@ The caster calls forth a creature from a Cthonic sphere, to temporarily serve th
 * Difficulty: Great (+2)
 * Cast by: Schoolmage
 * Skill: Mental
+* Range: 10 miles
+* Duration: 1 minute
 
-The caster gains the ability to see and hear in a location the caster has physically been to, before.
+The caster gains the ability to see and hear in a location the caster has physically been to and seen before.
+
+Select a specific location the caster has physically been to and seen. For the next minute, the caster can see and hear as if the caster were standing in exactly that position.
 
 ### Trap Yellow Soul
 
