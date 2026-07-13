@@ -13,6 +13,9 @@ Breach follows Fudge's core mechanic. Players can usually simply say what their 
 
 Fudge uses a ladder of descriptive terms for character traits, instead of just numbers.
 
+* ... to positive infinity
+* Legendary, L3 (+6)
+* Legendary, L2 (+5)
 * Legendary (+4)
 * Superb (+3)
 * Great (+2)
@@ -22,6 +25,9 @@ Fudge uses a ladder of descriptive terms for character traits, instead of just n
 * Poor (-2)
 * Terrible (-3)
 * Abysmal (-4)
+* Abysmal, L2 (-5)
+* Abysmal, L3 (-6)
+* ... to negative infinity
 
 When a character attempts an action requiring a roll, the player rolls four Fudge dice (4dF) which are six-sided die with two sides marked +1, 0, and -1. The result is added to the relevant trait, then compared to a difficulty level. Whether the action succeeds or fails, and by how much, is measured by its step on the ladder.
 
@@ -195,13 +201,13 @@ Characters may pick a language from the below list, or any others the GM allows.
 
 Characters may know other special languages and codes, besides those given by the Languages skill.
 
-* **High Tongue:** If the character is a Devout, then the character knowns High Tongue. This is a supernaturally closed languages known only by Devouts. High Tongue sounds like gibberish to non-Devouts, yet all listening know instantly and certainly that the language being spoken is indeed High Tongue. High Tongue cannot be used to convey complete sentences. It takes five seconds to convey a single concept like "Yes", "No", "Danger", or "Now". High Tongue has no written language.
+* **High Tongue:** If the character is a Devout, then the character knowns High Tongue. This is a supernaturally closed languages known only by Devouts. High Tongue sounds like gibberish to non-Devouts, yet all listening know instantly and certainly that the language being spoken is indeed High Tongue. High Tongue cannot be used to convey complete sentences. It takes six seconds to convey a single concept like "Yes", "No", "Danger", or "Now". High Tongue has no written language.
 * **Cthonic Cult Languages:** If the character is an Invoker, then the character knows their own Archon's Cthonic Cult Language. Note this with the Archon's name, e.g. "Lize's Language". Cthonic Cult Languages are languages with full grammar and writing systems. An Archon's Cthonic Cult Language is known by that Archon, Cthonians who serve that Archon, and mortals who form pacts with that Archon. Cthonic Cult Languages are uncommon, but not supernaturally closed off; anybody can learn a Cthonic Cult Language by ordinary means. Each Cthonic Cult Language has a unique script.
 * **Oundar Edturn:** If the character has Good (+1) or better Streetwise, then the character knows Oundar Edturn. Oundar Edturn is a slang form of Imperial that involves swapping syllables within words. The ability to speak and listen to Oundar Edturn fluently and quickly marks one as an insider to the criminal underworld. Oundar Edturn has no written language. Even those who cannot speak and listen to Oundar Edturn fluently may be aware that it exists. Because of the simplicity of the transformation, there are rules for non-fluent eavesdroppers to comprehend Oundar Edturn.
-    * *Real-time comprehension:* If the character is attempting to hear a conversation in real time, the listener makes a Languages check. If the result is Great (+2) or better, then the listener fully understands the conversation. Fair (0) or Good (+1) results may give partial understanding.
-    * *Record phonetics by memory:* If the character gives up listening in real time and tries to memorize exact phonetics, then the listener makes an Intellect check. If the result is Great (+2) or better, then the listener fully memorizes the phonetics. Fair (0) or Good (+1) results may give partial recollection of phonetics. At a later point, the character needs to spend twice as much time as the conversation took to decode it.
+    * *Real-time comprehension:* If the character is attempting to hear a conversation in real time, the listener makes a Languages check every minute. If the result is Great (+2) or better, then the listener fully understands the conversation for that one minute. Fair (0) or Good (+1) results may give partial understanding.
+    * *Record phonetics by memory:* If the character gives up listening in real time and tries to memorize exact phonetics, then the listener makes an Intellect check every minute. If the result is Great (+2) or better, then the listener fully memorizes the phonetics for that one minute. Fair (0) or Good (+1) results may give partial recollection of phonetics. At a later point, the character needs to spend twice as much time as the conversation took to decode it.
     * *Record phonetics by writing:* If the character has the ability to write down phonetics, then the listener may write them down exactly without any roll. At a later point, the character needs to spend twice as much time as the conversation took to decode it.
-* **Arcane Shorthand:** Arcane Shorthand is a compressed form of Classical, used by Schoolmages to write spell books and personal notes. Schoolmages can only read their own shorthand, unless the Decipher Magic spell is used.
+* **Arcane Shorthand:** Arcane Shorthand is a compressed form of Classical, used by Schoolmages to write spell books and personal notes. Schoolmages can only read their own shorthand, unless the Decipher Shorthand spell is used.
 
 Equipment
 ---
@@ -260,7 +266,7 @@ Standard items are easily purchased in major cities. Not every vendor may stock 
 * Plate armor - 800 ud. Set of armor (+3). Heavy (-2).
 * Small shield - 20 ud. Shield (+1).
 * Tower shield - 40 ud. Shield (+2). Heavy (-1).
-* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. A spellbook is 1000 pages long, which may hold up to 10 spells. If the character does not possess a spellbook written in the caster's own Arcane Shorthand, then that character may not recover from Soul Burn. Note that the spellbook is not inherently magical.
+* Blank spellbook - 10 ud. If the character is a Schoolmage Spell Caster, then that character possesses a spellbook. A spellbook is 1000 pages long. If the Schoolmage does not possess a spellbook written in the caster's own Arcane Shorthand, then that character may not recover from Soul Burn. Note that the spellbook is not inherently magical.
 * Holy symbol - 10 ud. If the character is a Devout Spell Caster, then that character possesses a holy symbol. If that character loses their Holy Symbol, then that character may not recover from Soul Burn. The holy symbol is specific to a particular Agathos, matching the Devout's patron. Note that the holy symbol is not inherently magical.
 * Alcohol - 0.1 ud per drink. Addictive.
 * Tobacco - 0.2 ud per dose. Addictive.
@@ -345,7 +351,9 @@ If a player character is tied with an enemy for initiative, then the player char
 
 #### Actions
 
-Every turn consists of movement, and a major action. Examples of major actions are attacking, using an item, or casting a spell. Examples of movement are running up to an enemy, running away to escape, or changing position. Characters are always allowed to skip movement, skip major action, or skip both.
+Every turn consists of movement, a major action, and a minor action. Examples of major actions are attacking, using an item, or casting a spell. Examples of movement are running up to an enemy, running away to escape, or changing position. Characters are always allowed to skip movement, skip major action, or skip both.
+
+Minor actions are restricted to a few activities. As long as the character is not otherwise speaking, such as for the verbal component of a spell, then the character may speak to issue a command or attempt to parley as a minor action. Picking up a single item from the ground is also a minor action. The GM may allow other minor actions if they seem brief and do not logically conflict with the major action.
 
 #### Movement
 
@@ -540,8 +548,25 @@ Schoolmages cast spells through knowledge of specific formulae.
 * *Prerequisite:* Schoolmages must know the Classical language.
 * *Spell List:* Schoolmages are not restricted by divine portfolio. However, they must research spells to cast them. A beginning Schoolmage already knows one Mediocre (-1) and one Fair (0) spell.
 * *Soul Burn:* Schoolmages recover from Soul Burn after waking up by reading spellbooks written in their own Arcane Shorthand.
-* *Choosing Spells:* Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Schoolmages may not memorize more than 10 spells at a time. Each time a Schoolmage reviews their spellbooks, the Schoolmage may choose a different set of 10 known spells.
-* *Spellbooks:* Schoolmages begin with a single spellbook. Spellbooks are 1000 pages long, which may contain up to 10 spells at a time. If the Schoolmage wants more options than 10 known spells, then it is necessary to carry more than one spellbook. If a spellbook is lost, then the Schoolmage may not choose from those spells when reviewing spells.
+* *Choosing Spells:* Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Each time a Schoolmage reviews their spellbooks, the Schoolmage must choose an updated set spells contained in those spellbooks. Schoolmages may not memorize more than a certain number of spells at a time based on Intellect.
+    * *Terrible (-3):* 50 pages worth of spells may be memorized.
+    * *Poor (-2):* 100 pages worth of spells may be memorized.
+    * *Mediocre (-1):* 200 pages worth of spells may be memorized.
+    * *Fair (0):* 400 pages worth of spells may be memorized.
+    * *Good (+1):* 600 pages worth of spells may be memorized.
+    * *Great (+2):* 800 pages worth of spells may be memorized.
+    * *Superb (+3):* 1000 pages worth of spells may be memorized.
+* *Spellbooks:* Schoolmages begin with a single spellbook. Spellbooks are 1000 pages long. If the Schoolmage wants more options than 1000 pages worth of spells, then it is necessary to carry more than one spellbook. If a spellbook is lost, then the Schoolmage may not choose from those spells when reviewing spells. Having a spell memorized is not sufficient to reconstruct the original spell, in its written form. Therefore, it is not possible to simply write down the spell the Schoolmage memorized into a new book, without the original as reference.
+* *Verbal Component:* Schoolmages speak in Classical while casting spells.
+
+Schoolmage spells are quantified by the number of pages required to write down the spell in Arcane Shorthand. This size is based on the difficulty of the spell.
+
+* *Mediocre (-1) or worse:* The spell occupies 25 pages.
+* *Fair (0):* The spell occupies 50 pages.
+* *Good (+1):* The spell occupies 100 pages.
+* *Great (+2):* The spell occupies 200 pages.
+* *Superb (+3):* The spell occupies 400 pages.
+* *Legendary (+4) or better:* Continue doubling the number of pages for each step of the ladder.
 
 ##### Devout Spell Caster
 
@@ -549,6 +574,7 @@ Devouts cast spells by absolute faith in an Agathos.
 
 * *Spell List:* Devouts cast spells from the Devout list, which are aligned with their specific Agathos.
 * *Soul Burn:* Devouts recover from Soul Burn after waking up by spending one hour worshipping their Agathos with a holy symbol.
+* *Verbal Component:* Devouts speak in High Tongue while casting spells.
 
 ##### Invoker Spell Caster
 
@@ -556,6 +582,7 @@ Invokers cast spells by a pact with an Archon which is continually renewed by ob
 
 * *Spell List:* Invokers cast spells from the Invokers list, which are aligned with their specific Archon.
 * *Soul Burn:* Invokers recover from Soul Burn after fully resting, without any additional ritual step.
+* *Verbal Component:* Invokers speak in their specific patron's Cthonic cult language while casting spells.
 
 #### Downtime Spells
 
@@ -578,7 +605,7 @@ Spells
 ### Acid Splash
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Lize, Inizozim)
 * Skill: Elemental
 * Range: 10 ft.
 
@@ -589,7 +616,7 @@ Target a creature within 10 feet. The target must resist with standard defense. 
 ### Animal Form
 
 * Difficulty: Great (+2)
-* Cast by: Devout
+* Cast by: Devout (Lidnozie)
 * Skill: Physical
 * Duration: 1 hour
 
@@ -612,7 +639,7 @@ Pick an animal species to transform into. The target animal species may not have
 ### Animate Dead
 
 * Difficulty: Great (+2)
-* Cast by: Invoker
+* Cast by: Invoker (Igedeng)
 * Skill: Spiritual
 
 The caster targets a corpse or skeleton to rise up, and act as the caster's undead servant. This spell has no field effect; it may only be taken as a downtime activity.
@@ -635,7 +662,7 @@ Animated dead magically repair themselves. They recover from scratches immediate
 ### Bane
 
 * Difficulty: Good (+1)
-* Cast by: Devout, Invoker
+* Cast by: Devout (Iazus), Invoker (Ogzim)
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -647,7 +674,7 @@ All enemies within 30 feet must resist with Personality. Each enemy who fails ta
 ### Banish
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Iazus)
 * Skill: Spiritual
 * Range: 40 ft.
 
@@ -658,7 +685,7 @@ Select target summoned creature. The target creature must resist with Personalit
 ### Blight
 
 * Difficulty: Good (+1)
-* Cast by: Invoker
+* Cast by: Invoker (Igedeng, Lize)
 * Skill: Spiritual
 * Range: Touch
 
@@ -680,7 +707,7 @@ Any attack rolls against the caster suffer a -1 penalty. If MoS is 2 or higher, 
 ### Burning Hands
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Lize)
 * Skill: Elemental
 * Range: 15 ft. cone
 
@@ -691,7 +718,7 @@ Target all creatures in a 15-foot cone. Each target must resist with standard de
 ### Charm
 
 * Difficulty: Good (+1)
-* Cast by: Invoker
+* Cast by: Invoker (Ulviazing, Inizozim)
 * Skill: Mental
 * Range: 40 ft.
 * Duration: 1 minute
@@ -703,7 +730,7 @@ Select target creature. The target must resist with Personality. If the target f
 ### Command
 
 * Difficulty: Good (+1)
-* Cast by: Devout, Invoker
+* Cast by: Devout (Iazus), Invoker (Lundazing)
 * Skill: Mental
 * Range: 40 ft.
 * Duration: 1 minute
@@ -714,24 +741,26 @@ Select target creature. The target must resist with Personality. If the target f
 
 ### Commune With Agathos
 
-* Difficulty: Great (+2)
-* Cast by: Devout
+* Difficulty: Superb (+3)
+* Cast by: Devout (All)
 * Skill: Spiritual
+* Duration: 30 seconds
 
 The caster asks a simple question to an Agathos, and receives a reply in one or two words of High Tongue.
 
 ### Commune With Archon
 
-* Difficulty: Good (+1)
-* Cast by: Invoker
+* Difficulty: Superb (+3)
+* Cast by: Invoker (All)
 * Skill: Spiritual
+* Duration: 1 minute
 
-The caster may have a two-way conversation with an Archon for one minute.
+The caster may have a two-way conversation with an Archon for one minute. Even if this spell is successfully cast, the Archon may simply reject the attempt to communicate, which ends the spell.
 
 ### Confession
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Iazus)
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 15 minutes
@@ -743,7 +772,7 @@ All creatures within 30 feet must resist with Personality. Those who fail are in
 ### Consecrate
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (All)
 * Skill: Enchanting
 * Range: Touch
 
@@ -756,23 +785,25 @@ The caster either (A) transforms an area into holy ground or (B) seals a Cthonic
 Select a target area measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
-* **Good:** The area becomes holy ground for one month.
-* **Great:** The area becomes holy ground for one year.
+* **Good:** The area becomes holy ground for 4 weeks.
+* **Great:** The area becomes holy ground for 52 weeks.
 * **Superb or better:** The area becomes holy ground permanently.
+
+Cthonians cannot enter holy ground. Invokers are completely incapable of casting spells in holy ground, except Desecrate. Devouts get a +1 bonus to casting spells in the field, while in holy ground.
 
 ##### Seal Breach
 
 Select a target Cthonic breach measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
-* **Good:** The Cthonic breach is suppressed for one month.
-* **Great:** The Cthonic breach is suppressed for one year.
+* **Good:** The Cthonic breach is suppressed for 4 weeks.
+* **Great:** The Cthonic breach is suppressed for 52 weeks.
 * **Superb or better:** The Cthonic breach is permanently removed.
 
 ### Cthonic Ward
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Inidilt)
 * Skill: Enchanting
 
 The caster crafts silver talismans to ward Cthonians. This spell has no field effect; it may only be taken as a downtime activity.
@@ -791,7 +822,7 @@ Those who wear a properly crafted silver talisman are protected from Cthonians. 
 ### Cure Poison
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Lidnozie)
 * Skill: Spiritual
 * Range: Touch
 
@@ -802,7 +833,7 @@ Select a target creature who is poisoned. That creature is no longer poisoned.
 ### Cure Wounds
 
 * Difficulty: Great (+2)
-* Cast by: Devout
+* Cast by: Devout (Ereng)
 * Skill: Spiritual
 * Range: Touch
 
@@ -820,7 +851,7 @@ Select a target benched character, who has taken heal wounds as a downtime activ
 ### Darkness
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Invoker (Ogzim)
 * Skill: Elemental
 * Range/Area: 40 ft./10 ft.
 * Duration: 1 minute
@@ -832,7 +863,7 @@ A 10-foot-radius sphere centered at a target point becomes shrouded in absolute 
 ### Desecrate
 
 * Difficulty: Good (+1)
-* Cast by: Invoker
+* Cast by: Invoker (All)
 * Skill: Enchanting
 
 The caster either (A) removes the effect of holy ground or (B) opens a Cthonic breach, where Cthonians may overstay in the mortal realm. This spell has no field effect; it may only be taken as a downtime activity.
@@ -842,8 +873,8 @@ The caster either (A) removes the effect of holy ground or (B) opens a Cthonic b
 Select a target holy ground measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
-* **Good:** The holy ground is suppressed for one month.
-* **Great:** The holy ground is suppressed for one year.
+* **Good:** The holy ground is suppressed for 4 weeks.
+* **Great:** The holy ground is suppressed for 52 weeks.
 * **Superb or better:** The holy ground is permanently removed.
 
 ##### Open Breach
@@ -851,18 +882,20 @@ Select a target holy ground measuring 1000 square feet or less. Roll an Enchanti
 Select a target area measuring 1000 square feet or less. Roll an Enchanting skill check.
 
 * **Fair or worse:** Nothing happens.
-* **Good:** The area becomes a Cthonic breach for one month.
-* **Great:** The area becomes a Cthonic breach for one year.
+* **Good:** The area becomes a Cthonic breach for 4 weeks.
+* **Great:** The area becomes a Cthonic breach for 52 weeks.
 * **Superb or better:** The area becomes a Cthonic breach permanently.
 
-### Decipher Magic
+If a summoned Cthonian is in a Cthonic breach, then the Cthonian is not compelled to return to its native sphere when its summoning spell ends. Invokers get a +1 bonus to casting spells in the field, while standing in a Cthonic breach.
+
+### Decipher Shorthand
 
 * Difficulty: Mediocre (-1)
 * Cast by: Schoolmage
 * Skill: Mental
 * Duration: 1 hour
 
-A text written in another Schoolmage's Arcane Shorthand becomes expanded into full Classical script in the caster's vision. This effect lasts for one hour.
+A text written in someone else's shorthand becomes expanded into fully legible script in the caster's vision. In particular, this may be used to read another Schoolmage's Arcane Shorthand by expanding it into full Classical writing. This effect lasts for one hour.
 
 #### Downtime Activity
 
@@ -871,7 +904,7 @@ If the caster has another Schoolmage's spell book, then the caster may try to le
 ### Detect Souls
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Devout, Invoker
+* Cast by: Schoolmage, Devout (All), Invoker (All)
 * Skill: Spiritual
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -891,7 +924,7 @@ If a creature that would be detected has the Soul Suppression gift, then Detect 
 ### Dispel Magic
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Inidilt, Burrue)
 * Skill: Spiritual
 * Range: 40 ft.
 
@@ -902,7 +935,7 @@ Select a target creature, object, or place under the influence of a magical effe
 ### Divine Awe
 
 * Difficulty: Great (+2)
-* Cast by: Devout
+* Cast by: Devout (Burrue)
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -942,7 +975,7 @@ At the end of the week, roll an Enchanting skill check.
 ### Enthrall
 
 * Difficulty: Good (+1)
-* Cast by: Devout, Invoker
+* Cast by: Devout (Burrue), Invoker (Ulviazing)
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 1 hour
@@ -965,7 +998,7 @@ The caster instantly teleports to another point within 100 feet, in clear view. 
 ### Fire Bolt
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Lundazing)
 * Skill: Elemental
 * Range: 40 ft.
 
@@ -994,7 +1027,7 @@ The caster or target becomes capable of freely flying through the air. The targe
 ### Gust of Wind
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker, Devout
+* Cast by: Schoolmage, Devout (Lidnozie)
 * Skill: Elemental
 * Range: 15 ft. cone
 
@@ -1017,7 +1050,7 @@ Target a creature within 40 feet. The target must resist with Intellect. If the 
 ### Healing Hands
 
 * Difficulty: Fair (0)
-* Cast by: Devout
+* Cast by: Devout (Inidilt, Ereng, Izdoeng)
 * Skill: Spiritual
 
 The caster touches a creature with healing energy that stabilizes injuries.
@@ -1031,7 +1064,7 @@ Select a target benched character, who has taken heal wounds as a downtime activ
 ### Hold
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Izdoeng)
 * Skill: Mental
 * Range: 40 ft.
 * Duration: 1 minute
@@ -1052,7 +1085,7 @@ The caster creates a small, static projection in the palm of their hand. The pro
 ### Hope
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Burrue)
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -1075,7 +1108,7 @@ Target a creature within 40 feet. The target must resist with standard defense. 
 ### Invisibility
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Ogzim)
 * Skill: Physical
 * Duration: 1 hour
 
@@ -1084,7 +1117,7 @@ The caster or target's appearance vanishes entirely, while remaining fully prese
 ### Give Life
 
 * Difficulty: Great (+2)
-* Cast by: Devout
+* Cast by: Devout (Izdoeng)
 * Skill: Spiritual
 
 The caster removes wounds from a target creature, by receiving the exact same wounds.
@@ -1100,7 +1133,7 @@ The caster or target becomes capable of leaping multiple times higher and farthe
 ### Last Strike
 
 * Difficulty: Good (+1)
-* Cast by: Invoker
+* Cast by: Invoker (Inizozim)
 * Skill: Elemental
 
 The caster becomes surrounded by levitating stone spikes that lash out at any attackers, even against blows that kill the caster.
@@ -1116,7 +1149,7 @@ The caster or target becomes suspended in the air.
 ### Light
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Burrue, Lidnozie)
 * Skill: Elemental
 
 An orb of light appears at the caster's fingertip, and provides continuous illumination.
@@ -1124,7 +1157,7 @@ An orb of light appears at the caster's fingertip, and provides continuous illum
 ### Lightning Bolt
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Lundazing)
 * Skill: Elemental
 
 A lightning bolt leaps from the caster's fingertips, damaging anything in its path.
@@ -1147,7 +1180,9 @@ The caster magically seals a door or container.
 
 The caster conjures a ghostly eye that the caster may look through, at a distance.
 
-Choose a target within 40 feet of the caster. A translucent floating eye appears there, which the caster may see through. The eye can move 10 feet every round. The eye is inconspicuous from more than 20 feet from any observer, but is clearly visible within 20 feet.
+Choose a target point within 40 feet of the caster, within the caster's line of sight. A translucent floating eye appears there, which the caster may see through. The eye can move 40 feet every round. There is no limit to the distance the eye may move from the caster. The eye cannot go through solid walls, but it can fit through holes 1 inch in diameter.
+
+The eye is completely invisible from more than 80 feet from any observer, but is clearly visible within 40 feet. If the eye is between 40 to 80 feet from an observer, then the observer must make an Intellect check. If the result is Good (+1) or better, then the eye is detected.
 
 ### Mage Hand
 
@@ -1159,19 +1194,21 @@ The caster conjures a ghostly hand that can perform simple tasks from a distance
 
 ### Memory Wipe
 
-* Difficulty: Good (+1)
-* Cast by: Invoker
+* Difficulty: Great (+2)
+* Cast by: Invoker (Ulviazing)
 * Skill: Mental
-* Range: 10 ft.
+* Range: 15 ft.
 
-The caster wipes recent memories from a target's mind.
+The caster wipes recent memories from one or more targets' minds.
 
-Target creature must resist with Intellect. If the target fails, then all memories from the past 30 minutes are forgotten. The target is not aware that their mind has been wiped, and rationalizes any gaps unless convinced otherwise by another character.
+Target up to 8 creatures within 15 feet, and choose a length of time up to 10 minutes. Each target must resist with Intellect. If the target fails, then all recent memories within that length of time are forgotten.
+
+The target is not aware that their mind has been wiped, and rationalizes any gaps. The target's propensity to accept any rationalization is powerful but not unlimited. If the circumstances are self-evidently suspicious, then the target may suddenly realize their memory has been wiped. The target may also be convinced by another character that their memory has been wiped.
 
 ### Mending
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Ereng)
 * Skill: Physical
 
 The caster draws their finger across a single crack of a broken object, which heals the damage as if it never happened.
@@ -1179,7 +1216,7 @@ The caster draws their finger across a single crack of a broken object, which he
 ### Pillar Blast
 
 * Difficulty: Fair (0)
-* Cast by: Devout
+* Cast by: Devout (All)
 * Skill: Elemental
 
 The caster calls forth an elemental blast from the skies which lands on a target creature, which is especially destructive against Cthonically corrupt beings. The specific nature of the elemental blast varies according to the Agathos the caster serves.
@@ -1195,7 +1232,7 @@ The caster transforms another creature into a different form.
 ### Preserve
 
 * Difficulty: Fair (0)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Inidilt)
 * Skill: Physical
 
 The caster or target creature or object becomes more resilient against decay, rot, and rust. This grants resistance to spells which deal damage through decay.
@@ -1203,7 +1240,7 @@ The caster or target creature or object becomes more resilient against decay, ro
 ### Rage
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Invoker (Lize)
 * Skill: Mental
 * Range: 40 ft.
 * Duration: 1 minute
@@ -1215,12 +1252,12 @@ Select target creature. The target must resist with Personality. If the target f
 ### Recollection
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Ereng)
 * Skill: Mental
 * Range: Touch
-* Duration: 1 minute
+* Duration: 10 minutes
 
-The caster or target creature focuses on an earlier memory of an event lasting up to one minute, and retrieves it with perfect recall. This spell can overcome magical amnesia. Once the spell ends, the recalled memory sits in the target's mind as an ordinary memory. Therefore, the recalled memory can be forgotten or distorted again.
+The caster or target creature focuses on an earlier memory of an event lasting up to 10 minutes, and retrieves it with perfect recall. This spell can overcome magical amnesia. Once the spell ends, the recalled memory sits in the target's mind as an ordinary memory. Therefore, the recalled memory can be forgotten or distorted again.
 
 If the MoS is 5 or greater, then the target also receives visions that appear to be memories of a divine realm or a past life. Repeated successful attempts may result in identical visions.
 
@@ -1230,16 +1267,16 @@ The caster may use this spell to flawlessly reproduce up to 100 pages of a book,
 
 At the end of the week, roll a Mental skill check. Any incomplete pages are still kept blank.
 
-* **Fair or worse:** 20 pages are written.
+* **Fair or worse:** 25 pages are written.
 * **Good:** 50 pages are written.
 * **Great or better:** 100 pages are written.
 
-If this activity is used to reconstruct a spellbook from memory, then each 100-page sequence represents one complete spell. Note that the reconstruction is still written in its original Arcane Shorthand, which cannot be understood by anyone except its original author.
+If this activity is used to reconstruct a spellbook from memory, then the reconstruction is still written in its original Arcane Shorthand which cannot be understood by anyone except its original author.
 
 ### Retribution
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Iazus), Invoker (Inizozim)
 * Skill: Physical
 
 If the caster is wounded, then the caster becomes physically stronger.
@@ -1247,7 +1284,7 @@ If the caster is wounded, then the caster becomes physically stronger.
 ### Sanctuary
 
 * Difficulty: Fair (0)
-* Cast by: Devout
+* Cast by: Devout (Izdoeng)
 * Skill: Spiritual
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -1259,7 +1296,7 @@ All enemies within 30 feet must resist with Personality. Each enemy who fails be
 ### Shield
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Devout
+* Cast by: Schoolmage, Devout (Inidilt)
 * Skill: Physical
 * Range: 40 ft.
 * Duration: MoS rounds
@@ -1271,7 +1308,7 @@ Select a target creature, or oneself. The target becomes surrounded by a barrier
 ### Silence
 
 * Difficulty: Good (+1)
-* Cast by: Devout, Invoker
+* Cast by: Devout (Izdoeng), Invoker (Ogzim)
 * Skill: Physical
 * Range/Area: 40 ft./10 ft.
 * Duration: 1 minute
@@ -1283,7 +1320,7 @@ A 10-foot-radius sphere centered at a target point becomes silent. Because casti
 ### Sleep
 
 * Difficulty: Good (+1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Ulviazing)
 * Skill: Mental
 * Range/Area: 40 ft.
 * Duration: 1 minute
@@ -1295,7 +1332,7 @@ This spell may target up to MoS number of creatures. Each target must resist wit
 ### Speak With Animals
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Lidnozie)
 * Skill: Mental
 
 The caster gains the ability to communicate with animals.
@@ -1303,10 +1340,18 @@ The caster gains the ability to communicate with animals.
 ### Summon Cthonian
 
 * Difficulty: Great (+2)
-* Cast by: Invoker
+* Cast by: Invoker (All)
 * Skill: Spiritual
+* Range: 40 ft.
+* Duration: 1 hour
 
-The caster calls forth a creature from a Cthonic sphere, to temporarily serve the caster. The specific nature of the creature summoned depends on the Archon the caster serves.
+The caster calls forth a Cthonian associated with the caster's patron Archon. The caster may declare their intended purpose for the summoning, but they cannot fully control which specific Cthonian answers the call.
+
+A Cthonian aligned with the caster's patron Archon appears at a target point within range. Once present, the Cthonian is not obligated to obey the caster and acts according to its own nature. The caster may dismiss the Cthonian voluntarily as a major action, at any time.
+
+When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the caster may no longer dismiss it. The Cthonian may not leave the Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere.
+
+Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. A Cthonian may fight bravely in service to its patron Archon, but death is more painful than being otherwise returning to its native sphere.
 
 ### Surveillance
 
@@ -1323,7 +1368,7 @@ Select a specific location the caster has physically been to and seen. For the n
 ### Trap Yellow Soul
 
 * Difficulty: Great (+2)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Igedeng)
 * Skill: Spiritual
 
 The caster transfers the soul of a creature into an empty yellow beryl gemstone. To cast this spell, the caster must have an appropriately sized and cut stone. Select a target creature that possesses a yellow soul (an animal) that is Near Death. That creature is instantly dead, and the creature's soul moves into the gem.
@@ -1339,7 +1384,7 @@ Note the Scale of the soul captured. That ladder step is the size of the soul in
 ### Turn Undead
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (All)
 * Skill: Spiritual
 * Area: 30 ft. around the caster
 * Duration: 1 minute
@@ -1351,10 +1396,30 @@ All undead creatures within 30 feet must resist with Personality. Each undead cr
 ### Union
 
 * Difficulty: Good (+1)
-* Cast by: Devout
+* Cast by: Devout (Ereng)
 * Skill: Physical
 
 The caster blesses either themselves and another target, or two other targets. Those blessed become more accurate in physical attacks, if the duo remain in proximity to each other.
+
+### Groundburst
+
+* Difficulty: Superb (+3)
+* Cast by: Invoker (Lundazing)
+* Skill: Elemental
+
+The caster summons a tremendous force from below the earth, to launch a devastating strike at a specific time and place. This spell has no field effect; it may only be taken as a downtime activity.
+
+#### Downtime Activity
+
+At the beginning of the week, declare a specific time after 4 weeks from now but before 52 weeks from now. Also choose a specific point within 10 miles of where the caster is now which the caster has physically been to and seen. At the end of the week, roll an Elemental skill check.
+
+* **Great or worse:** Nothing happens.
+* **Superb:** A spectacular seismic event will occur at that specific time and place, but will fail to cause widespread destruction.
+* **Legendary or better:** The attack is successfully scheduled at that specific time and place, with its full destructive force. An eruption of steam and debris will burst forth from the ground in that location. The eruption causes near total destruction in a 500-foot radius. Any holy ground is completely immune to the destruction. In general, the GM must judge exactly how the destruction resolves.
+
+Only one such event (destructive or not) may be scheduled per caster at a given time. If such an event has already been scheduled by the caster, then the caster may not take Groundburst as a downtime activity. However, if the spell failed and no event was scheduled, then the caster may attempt the downtime activity again another week.
+
+Once scheduled, the event occurs even if the caster dies before then. Dispel Magic also does not stop the event. The only way the event can entirely fail to occur is if the exact targeted point is holy ground at the moment the event would occur.
 
 ### War Puppet
 
@@ -1407,7 +1472,7 @@ Target all creatures in a 15-foot cone. Each target must resist with Physique. E
 ### Whisper
 
 * Difficulty: Mediocre (-1)
-* Cast by: Schoolmage, Invoker
+* Cast by: Schoolmage, Invoker (Igedeng)
 * Skill: Mental
 * Range: 40 ft.
 * Duration: 1 round
@@ -1533,7 +1598,7 @@ Brewing during downtime mixes ingredients to create medicinal and toxic products
 
 Combat Threats
 ---
-GMs should not stat every enemy combatant as a full player character, with EP spend. Instead, follow this toolkit to design balanced combat encounters. These rules are flexible enough to handle NPCs, animals, and more monstrous enemies.
+GMs should not stat every enemy single combatant as a full player character, with EP spend. Full character sheets should be reserved for recurring antagonists who are unlikely to be neutralized after a single fight. Instead, follow this toolkit to design balanced combat encounters with expendable threats. These rules are flexible enough to handle NPCs, animals, and more monstrous enemies.
 
 ### Durability
 
@@ -1696,7 +1761,7 @@ Because the Agathoi do not actively intervene in the mortal realm, the Imperial 
 
 A Devout's power relies on the Devout's own internal devotion to the ideals of their Agathos. The only way for a Devout to lose access to divine magic is by a total loss of faith. Such loss of faith is demonstrated by repeated, reckless self-interest and shirking of religious rites without cause. If a Devout's gift is permanently revoked, then the character should receive 6 EP as compensation.
 
-All Devouts may cast Commune With Agathos, Consecrate, Detect Souls, and Pillar Blast.
+All Devouts may cast Commune With Agathos, Consecrate, Detect Souls, Turn Undead, and Pillar Blast.
 
 * **Iazus**: Devouts may cast Command, Confession, Banish, Bane, and Retribution. Pillar Blast is a bolt of lightning.
 * **Inidilt**: Devouts may cast Preserve, Healing Hands, Cthonic Ward, Dispel Magic, and Shield. Pillar Blast is a falling boulder.
@@ -1717,7 +1782,7 @@ All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon C
 * **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian is a Nightcreep.
 * **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian is a Tentacle Head.
 * **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian is a Tormentor.
-* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Gust of Wind, and Command. Summon Cthonian is a Dragon.
+* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian is a Dragon.
 * **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian is a Naga.
 
 Appendix D: Cosmology
