@@ -1351,7 +1351,7 @@ A Cthonian aligned with the caster's patron Archon appears at a target point wit
 
 When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the caster may no longer dismiss it. The Cthonian may not leave the Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere.
 
-Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. A Cthonian may fight bravely in service to its patron Archon, but death is more painful than being otherwise returning to its native sphere.
+Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. A Cthonian may fight bravely in service to its patron Archon, but death is more painful than being otherwise returned to its native sphere.
 
 ### Surveillance
 
