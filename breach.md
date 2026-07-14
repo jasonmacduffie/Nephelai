@@ -620,6 +620,8 @@ Furthermore, some spells do not have an in-the-field effect at all, and are alwa
 
 Even when a spell which targets an unwilling creature is cast successfully, the target may have an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
 
+The target of an attack spell may always voluntarily fail to resist it.
+
 If a spell attack deals damage, then apply the damage reduction from armor and the Golden Rule of Damage.
 
 #### Daily Limits
@@ -1290,11 +1292,13 @@ Select target creature. The target must resist with Personality. If the target f
 
 The caster can read the surface thoughts of other creatures.
 
-For the next minute, the caster may focus on any target creature within 40 feet in clear view. The target must resist with Personality. If the target fails, then the caster hears the surface thoughts of the creature. The caster may switch to another target at any time, who must resist the same way. If the caster switches back to a previous target, then the previous target also may resist with Personality again.
+For the next minute, the caster may focus on any target creature within 40 feet in clear view. The target must resist with Personality. If the target fails, then the caster hears the surface thoughts of the creature. The caster may switch to another target at any time, who must resist the same way.
 
 Targets do not inherently realize their minds are being read for 3 rounds. If a target has its mind read for 4 rounds during a single cast of the spell, whether continuous or broken up, then the target realizes its mind is being read. The target may also contextually realize its mind is being read.
 
 If a target knows its mind is being read, and also knows what specific information is being searched for, then the target must secondarily resist with Intellect. If the target fails, then the caster knows exactly what the target is attempting to conceal. Usually, the only way the target would know what specific information is being searched for is if the target is being actively interrogated.
+
+If a target successfully resists with either Personality or Intellect, then the target's resistance holds for the remainder of the spell. However, if the caster drops focus for a target then attempts to read the same target's mind again, then the target gains a new opportunity to resist with Personality and Intellect.
 
 ### Recollection
 
