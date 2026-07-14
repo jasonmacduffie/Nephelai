@@ -157,10 +157,12 @@ Faults are unranked traits that make life difficult for a character. Faults may 
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
 * **Doctrinaire:** The character is deeply committed to a dogmatic worldview, and refuses to act in a way that compromises it in the slightest.
 * **Frail Constitution:** The character is more vulnerable to disease and poison than others. The character may not take the Hardy Constitution gift.
+* **Gratuitous Sadism:** The character takes excessive delight in causing pain to their enemies.
 * **Greedy:** The character searches for wealth, and hoards it. The character is not cooperative in situations requiring sharing resources.
 * **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
 * **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
 * **Small Stature:** The character is exceptionally short. The character cannot wield two-handed weapons, and must use two hands to large one-handed weapons.
+* **Spiteful:** The character would sacrifice tactical advantage to get payback. If the character has been attacked in combat, then they will not attack anyone else except their attacker.
 * **Tuned Out:** The character is a bit spacey, and is slow to react to the beginning of combat. The character suffers -1 on initiative rolls.
 * **Watched By Authority:** The character is personally marked by a person of authority in the Empire. Operatives from one of the Empire's ruling factions is monitoring this character's movements.
 
@@ -339,7 +341,7 @@ Field kits are provisioned for between one and four anticipated days. If the fie
 * Sailing ship - 10000 ud. Merchant vessel.
 * War ship - 250000 ud. Military vessel with an armament.
 
-Combat
+Combat & Taking Damage
 ---
 Combat is divided into *rounds* and *turns*. Every combatant takes a turn every round. A round represents about 6 seconds, taken near-simultaneously between combatants.
 
@@ -415,10 +417,6 @@ Regardless of the type of strike, skill does not alter the force of an attack. D
 * **Damage:** Attacker's Dice + Weapon Damage - Armor
 
 If the target is not instantly incapacitated or killed by a concealed strike, then the GM should call for initiative.
-
-##### Other Sources of Damage
-
-Damage may also be taken from various other sources, such as natural hazards. As a general rule, the defender does not reduce the damage taken with an attribute or skill. Attribute or skill rolls should only be used to avoid the damage entirely.
 
 #### Armor Penetrating Damage
 
@@ -513,6 +511,21 @@ Wounds require downtime to naturally heal. After resting for a week of downtime,
 
 If a character is Incapacitated, and wounds are healed, then check for any remaining wounds. If all wounds on the head, abdomen, and chest are below two filled bubbles, then the character is no longer Incapacitated.
 
+#### Other Sources of Damage
+
+Damage may also be taken from various other sources, such as traps, spells, and natural hazards. There is a general formula for applying damage from other sources.
+
+1. The defender may have an opportunity to defend with an attribute or skill. This only avoids the damage entirely, and never reduces the damage taken.
+2. Increase or decrease the damage based on relevant bonuses. Determine whether the damage is armor penetrating, and by how much.
+3. Apply the Golden Rule of Damage.
+4. The character takes damage using the same table as used in the Taking Damage section.
+
+##### Fall Damage
+
+Characters who fall from more than 5 feet risk taking fall damage. This is one of the few exceptions where a skill check directly reduces damage taken.
+
+Roll for an Acrobatics check. The difficulty is set by the fall distance. 6 feet is Terrible (-3). Each additional foot adds one step of the ladder. The character takes damage equal to the margin of failure below Fair (0). Armor does not reduce this damage.
+
 Social Conflict
 ---
 Characters do not resolve every conflict through violence. Many situations call for diplomacy, negotiation, and social awareness. These may test the characters' skill, and carry significant consequences for failure.
@@ -520,6 +533,16 @@ Characters do not resolve every conflict through violence. Many situations call 
 Before calling for a social skill check, a GM must clarify two things: leverage of the attempt, and stakes of the outcome. The player should clearly communicate any leverage the character should have in this situation. It does not make sense to call for an Intimidation check, without clearly describing the threat being made. The GM should modify the difficulty level according to the actual leverage.
 
 A social skill check usually does not carry a binary result. The stakes may contains partial failure, partial success, and neutral outcomes. GMs should interpret the outcome of the roll according to this spectrum.
+
+Sleeping
+---
+Characters generally require 7 hours of sleep every 24 hours, which is the definition of a full sleep. Minor interruptions are allowed to break up sleep, as long as the 7 hours of sleep are still contained within a 10 hour window.
+
+Once a character has been awake for 16 hours since a full sleep, they become tired. A tired character takes a -1 penalty to all rolls.
+
+Once a character has been awake for 24 hours since a full sleep, they become very tired. A very tired character takes a -3 penalty to all rolls, and may fall asleep involuntarily unless forced to stay awake.
+
+Once a character has been awake for 48 hours since a full sleep, they become unconscious for the next 7 hours. The character cannot be forced to stay awake.
 
 Magic
 ---
@@ -533,9 +556,9 @@ To cast a spell, the player first performs a skill check. The magic skill used a
 * If the result of the check is 0, then nothing happens. This is called a **whiff**.
 * If the result of the check is negative, then the negative value gives that many **Soul Burns** to the character.
 
-Soul Burn represents strain between the character and the magical source of power. One or two Soul Burns have no mechanical impact. However, once the third Soul Burn is received, the character is Burned Out. Do not track Soul Burns above three. Being Burned Out means the character cannot cast any more spells. Characters must take eight hours of sleep to recover from Soul Burn. Some magical gifts impose additional requirements beyond sleep. Once the requirements are met, all Soul Burns are removed and the character is no longer Burned Out.
+Soul Burn represents strain between the character and the magical source of power. One or two Soul Burns have no mechanical impact. However, once the third Soul Burn is received, the character is Burned Out. Do not track Soul Burns above three. Being Burned Out means the character cannot cast any more spells. Characters must take a full sleep to recover from Soul Burn. Some magical gifts impose additional requirements beyond sleep. Once the requirements are met, all Soul Burns are removed and the character is no longer Burned Out.
 
-Spells always have verbal and somatic components. A character who is unable to both speak and move cannot cast spells.
+Spells always have verbal and somatic components. A character who is unable to both speak and move cannot cast spells. The verbal component requires speaking at an audible volume, as in ordinary conversation. This means that it is possible to identify a spell by verbal component, if the listener knows the spoken language.
 
 #### Magical Gifts
 
@@ -599,6 +622,10 @@ Even when a spell which targets an unwilling creature is cast successfully, the 
 
 If a spell attack deals damage, then apply the damage reduction from armor and the Golden Rule of Damage.
 
+#### Daily Limits
+
+Some spells may only be successfully cast a certain number of times per day. Failed casts do not count towards this daily limit. The daily limit is reset after a full sleep.
+
 Spells
 ---
 
@@ -619,6 +646,7 @@ Target a creature within 10 feet. The target must resist with standard defense. 
 * Cast by: Devout (Lidnozie)
 * Skill: Physical
 * Duration: 1 hour
+* Limit: 2 / day
 
 The caster transforms into an animal for one hour.
 
@@ -745,6 +773,7 @@ Select target creature. The target must resist with Personality. If the target f
 * Cast by: Devout (All)
 * Skill: Spiritual
 * Duration: 30 seconds
+* Limit: 1 / day
 
 The caster asks a simple question to an Agathos, and receives a reply in one or two words of High Tongue.
 
@@ -754,6 +783,7 @@ The caster asks a simple question to an Agathos, and receives a reply in one or 
 * Cast by: Invoker (All)
 * Skill: Spiritual
 * Duration: 1 minute
+* Limit: 1 / day
 
 The caster may have a two-way conversation with an Archon for one minute. Even if this spell is successfully cast, the Archon may simply reject the attempt to communicate, which ends the spell.
 
@@ -939,6 +969,7 @@ Select a target creature, object, or place under the influence of a magical effe
 * Skill: Mental
 * Area: 30 ft. around the caster
 * Duration: 1 minute
+* Limit: 2 / day
 
 The caster radiates a brilliant light which heals and encourages allies and distracts enemies.
 
@@ -1198,6 +1229,7 @@ The caster conjures a ghostly hand that can perform simple tasks from a distance
 * Cast by: Invoker (Ulviazing)
 * Skill: Mental
 * Range: 15 ft.
+* Limit: 1 / day
 
 The caster wipes recent memories from one or more targets' minds.
 
@@ -1248,6 +1280,21 @@ The caster or target creature or object becomes more resilient against decay, ro
 The caster's target becomes aggressive and may wildly attack friend and foe alike.
 
 Select target creature. The target must resist with Personality. If the target fails, then the target becomes enraged. For each round the target takes, the target must attack the nearest creature.
+
+### Read Minds
+
+* Difficulty: Good (+1)
+* Cast by: Schoolmage
+* Skill: Mental
+* Duration: 1 minute
+
+The caster can read the surface thoughts of other creatures.
+
+For the next minute, the caster may focus on any target creature within 40 feet in clear view. The target must resist with Personality. If the target fails, then the caster hears the surface thoughts of the creature. The caster may switch to another target at any time, who must resist the same way. If the caster switches back to a previous target, then the previous target also may resist with Personality again.
+
+Targets do not inherently realize their minds are being read for 3 rounds. If a target has its mind read for 4 rounds during a single cast of the spell, whether continuous or broken up, then the target realizes its mind is being read. The target may also contextually realize its mind is being read.
+
+If a target knows its mind is being read, and also knows what specific information is being searched for, then the target must secondarily resist with Intellect. If the target fails, then the caster knows exactly what the target is attempting to conceal. Usually, the only way the target would know what specific information is being searched for is if the target is being actively interrogated.
 
 ### Recollection
 
@@ -1344,12 +1391,13 @@ The caster gains the ability to communicate with animals.
 * Skill: Spiritual
 * Range: 40 ft.
 * Duration: 1 hour
+* Limit: 1 / day
 
 The caster calls forth a Cthonian associated with the caster's patron Archon. The caster may declare their intended purpose for the summoning, but they cannot fully control which specific Cthonian answers the call.
 
 A Cthonian aligned with the caster's patron Archon appears at a target point within range. Once present, the Cthonian is not obligated to obey the caster and acts according to its own nature. The caster may dismiss the Cthonian voluntarily as a major action, at any time.
 
-When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the caster may no longer dismiss it. The Cthonian may not leave the Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere.
+When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the caster may no longer dismiss it. The Cthonian may not stay outside a Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere. The Cthonian may also voluntarily return to its native sphere while in a Cthonic breach.
 
 Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. A Cthonian may fight bravely in service to its patron Archon, but death is more painful than being otherwise returned to its native sphere.
 
@@ -1388,6 +1436,7 @@ Note the Scale of the soul captured. That ladder step is the size of the soul in
 * Skill: Spiritual
 * Area: 30 ft. around the caster
 * Duration: 1 minute
+* Limit: 3 / day
 
 The caster compels nearby undead creatures to flee.
 
@@ -1596,7 +1645,7 @@ Brewing during downtime mixes ingredients to create medicinal and toxic products
     * *Apply to a weapon.* If the weapon successfully strikes the target, then the target must make a Physique check. The toxin has no effect if the Physique check is Fair, or better. Otherwise, the target suffers a -2 penalty to all rolls for 1 hour, and will die at the end of the hour. Killing animals with this poison does not make the meat unsafe for consumption.
     * *Ingested.* If ingested, the target must roll Superb or better Physique, to avoid the effect. The effect is identical.
 
-Combat Threats
+Threat Toolkit
 ---
 GMs should not stat every enemy single combatant as a full player character, with EP spend. Full character sheets should be reserved for recurring antagonists who are unlikely to be neutralized after a single fight. Instead, follow this toolkit to design balanced combat encounters with expendable threats. These rules are flexible enough to handle NPCs, animals, and more monstrous enemies.
 
@@ -1616,7 +1665,7 @@ For larger, more monstrous enemies, GMs may create custom injury trackers with e
 
 Enemies do not need detailed skill lists. They only need a combat style (melee, ranged, spells, etc.) and a standard modifier for all rolls. Use this modifier for all attack, defense, and initiative rolls.
 
-For magical attacks, do not track Soul Burn. Instead, use the same rules as Ranged Weapons to decide whether the attack lands.
+For magical attacks, do not track Soul Burn. To be fair, only cast spells of difficulty 1 step or below the enemy's standard modifier.
 
 * **Fair (0):** Ordinary civilians.
 * **Good (+1):** Low-ranking soldiers.
@@ -1672,6 +1721,69 @@ For reference, a table of Scales of real-world animals are given. Each step of t
 * **Great (+2):** Lion. 260 lbs. - 399 lbs.
 * **Superb (+3):** Black bear. 400 lbs. - 599 lbs.
 * **Legendary (+4):** Grizzly bear. 600 lbs. - 799 lbs.
+
+Cthonians
+---
+
+### Arachnaur
+
+* Durability: Elite
+* Standard Modifier: Great (+2)
+* Scale: Great (+2)
+* Weapons: None
+* Armor: None
+* Gifts: Spell Caster (Fire Bolt, Hallucination, Enthrall)
+* Faults: Vain Performer
+
+### Nightcreep
+
+* Durability: Light
+* Standard Modifier: Good (+1)
+* Scale: Poor (-2)
+* Weapons: None
+* Armor: None
+* Gifts: Death Aura
+* Faults: Phobia: Bright lights
+
+### Tentacle Head
+
+* Durability: Elite
+* Standard Modifier: Superb (+3)
+* Scale: Great (+2)
+* Weapons: Tentacles (Brawling, +2)
+* Armor: None
+* Gifts: Levitation, Spell Caster (Read Minds)
+* Faults: Automaton Weakness
+
+### Tormentor
+
+* Durability: Elite
+* Standard Modifier: Superb (+3)
+* Scale: Good (+1)
+* Weapons: Claws (Brawling, +1), Shortsword (Melee, +2)
+* Armor: None
+* Gifts: Flight
+* Faults: Gratuitous Sadism
+
+### Drake
+
+* Durability: Heavy
+* Standard Modifier: Great (+2)
+* Scale: Good (+1)
+* Weapons: Claws (Brawling, +1), Shortsword (Melee, +2)
+* Armor: Plate armor (+3), Small shield (+1)
+* Gifts: Flight, Fire Breath
+* Faults: Greedy
+
+### Naga
+
+* Durability: Heavy
+* Standard Modifier: Great (+2)
+* Scale: Good (+1)
+* Weapons: Two Longswords (Melee, +2)
+* Armor: None
+* Gifts: Hold Breath, Double Strike
+* Faults: Spiteful
 
 Appendix A: Factions
 ---
@@ -1778,12 +1890,12 @@ Archons grant magical power in exchange for continued service. If an Invoker dis
 
 All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian.
 
-* **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian is an Arachnaur.
-* **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian is a Nightcreep.
-* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian is a Tentacle Head.
-* **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian is a Tormentor.
-* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian is a Dragon.
-* **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian is a Naga.
+* **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian brings an Arachnaur.
+* **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian brings a Nightcreep.
+* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian brings a Tentacle Head.
+* **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian brings a Tormentor.
+* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian brings a Drake.
+* **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian brings a Naga.
 
 Appendix D: Cosmology
 ---
