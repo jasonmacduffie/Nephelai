@@ -146,7 +146,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Ruin Wise:** The character has a depth of experience exploring ruins from all eras. The character may automatically notice details and traps.
 * **Soul Suppression:** The character may conceal the true nature of their own soul material, against spells that detect soul material. Those attempting to see the character's soul material know the soul material is suppressed, but cannot discern its true nature. If the character is physically hiding, then the character's soul material is not visible at all. The character may not take the Conspicuous Soul fault.
 * **Tundra Hardened:** The character is physically adapted to climates with harsh winters. The character gets a +1 bonus to stranding rolls in tundras and winter weather, and also takes 1 fewer wound from failed stranding rolls in that environment.
-* **Wastrel Heir:** The character is from an aristocratic background, and receives an additional weekly income of 50 Drachmas (ud).
+* **Wastrel Heir:** The character is the black sheep of a noble family, who receives hush money to stay far away from aristocratic politics. The character receives an additional weekly income of 50 Drachmas (ud).
 
 #### Faults
 
