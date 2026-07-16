@@ -1430,6 +1430,17 @@ Oktocheirs are fifteen-foot-tall creatures who are composed of Human torsos with
 
 Tentacle Heads are ten-foot-tall Human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their tentacles.
 
+#### Snail Heads
+
+*   **Robustness:** 2
+*   **Number appearing:** 3-18
+*   **Disposition:** Cautious
+*   **Courage:** Pragmatic
+*   **Soul color:** Red
+*   **Intelligence:** Mortal-like
+
+Snail Heads are humanoids with the bodies of ordinary humans, but whose heads are snails. Each Tentacle Head commands 5 or 6 Snail Heads in Igedeng's Deadwoods. The Tentacle Heads provide forbidden knowledge to the Snail Heads, who use that bait to lure mortals into the Deadwoods. In combat, Snail Heads are physically frail and rely on elemental spells to attack. Snail Heads are terrified of salt.
+
 #### Microdragons
 
 *   **Robustness:** 0

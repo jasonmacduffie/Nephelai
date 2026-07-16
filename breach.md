@@ -117,7 +117,7 @@ GMs may optionally allow for improvised checks. If a character does not have a h
 
 * **Bartering:** Negotiating prices.
 * **Bluffing:** Telling confident lies about specific facts.
-* **Cold-Reading:** Guessing strangers' backgrounds, detecting intentions, and probing for deception.
+* **Elicitation:** Using manipulation in conversation to prove deception and expose secrets.
 * **Intimidation:** Coercing others by threat.
 * **Mental:** Casting magic that influences the minds of others. The Mental skill is also used to sense whether mental manipulation magic is affecting someone.
 * **Persuasion:** Convincing others.
@@ -135,6 +135,7 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 * **Devout Spell Caster:** The character has training as a Devout, whose magic is fueled by absolute faith in an Agathos. The character may cast spells from the Devout list aligned with the Agathos's portfolio. The character may not take a second Spell Caster gift. See Magical Gifts under the Magic section for further details.
 * **Invoker Spell Caster:** The character has a pact with an Archon, who granted the character magical power in exchange for continued service. The character may cast spells from the Invoker list aligned with the character's patron Archon. The character may not take a second Spell Caster gift. See Magical Gifts under the Magic section for further details.
 * **Ambidextrous:** The character is competent with both arms. If one arm is Crippled, the character seamlessly switches to the other arm without an attack penalty.
+* **Brave:** The character is single-mindedly devoted to a single cause. The character gets a +1 bonus to resisting Mental spells. If an NPC is Brave, then the character gets a +2 bonus to morale checks. The character cannot take the Cowardly fault.
 * **Etiquette Training:** The character has deeply ingrained standards of etiquette, from an early age. The character gets +1 on social rolls in formal situations.
 * **Hardy Constitution:** The character can shrug off disease and poison more easily than others. The character may not take the Frail Constitution fault.
 * **Hold Breath:** The character can stop breathing for five minutes, without any negative effects.
@@ -152,14 +153,17 @@ Gifts are unranked traits that are positive for the character. Gifts may grant a
 Faults are unranked traits that make life difficult for a character. Faults may present difficult circumstances the character will face, penalize the characters in certain situations, or limit what the character can do at all.
 
 * **Addiction:** The character is physically and emotionally dependent on a physical substance. The character spends 15 Drachmas (ud) at the start of every week, to feed this addiction.
+* **Automaton Weakness:** The character relies on feints in combat, which are useless against enemies without minds. The character suffers a -2 penalty on attack and defense rolls against mindless creatures.
 * **Cave Dweller:** The character is physically adapted to living underground. While in daylight, the character sees as well in daylight as the average person may see in low light.
 * **Conspicuous Soul:** The character is uniquely exposed by spells which detect the character's soul material. The character may not take the Soul Suppression gift.
+* **Cowardly:** The character prioritizes self-preservation over strategic advantage. When the character takes an injury for the first time during combat, they must skip their next major action and spend their next movement running away from the one who attacked them. If an NPC is Cowardly, then that character gets a -2 penalty to morale checks. The character cannot take the Brave gift.
 * **Dangerously Curious:** The character has a bad habit of touching and picking things up without regard for the consequences.
 * **Doctrinaire:** The character is deeply committed to a dogmatic worldview, and refuses to act in a way that compromises it in the slightest.
 * **Frail Constitution:** The character is more vulnerable to disease and poison than others. The character may not take the Hardy Constitution gift.
 * **Gratuitous Sadism:** The character takes excessive delight in causing pain to their enemies.
 * **Greedy:** The character searches for wealth, and hoards it. The character is not cooperative in situations requiring sharing resources.
-* **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia.
+* **Memory Impaired:** The character has a brain condition causing unreliable recall of recent events. Whenever Intellect would be rolled to check for memorization, the character has a -3 penalty. If the character is a Schoolmage, then also apply a -3 penalty to Intellect down to a minimum of Terrible to determine the maximum pages of memorized spells.
+* **Phobia:** The character is terrified of something like darkness or spiders, and may act irrationally when encountering this phobia. An NPC confronted with their object of Phobia in combat is forced to make an ad hoc morale check with a -2 penalty.
 * **Provincial Enemy:** The character has widespread hatred from the residents of a specific province. The character may not take the Provincial Friend gift for the same province.
 * **Small Stature:** The character is exceptionally short. The character cannot wield two-handed weapons, and must use two hands to large one-handed weapons.
 * **Spiteful:** The character would sacrifice tactical advantage to get payback. If the character has been attacked in combat, then they will not attack anyone else except their attacker.
@@ -341,23 +345,23 @@ Field kits are provisioned for between one and four anticipated days. If the fie
 * Sailing ship - 10000 ud. Merchant vessel.
 * War ship - 250000 ud. Military vessel with an armament.
 
-Combat & Taking Damage
+Combat
 ---
 Combat is divided into *rounds* and *turns*. Every combatant takes a turn every round. A round represents about 6 seconds, taken near-simultaneously between combatants.
 
-#### Initiative
+### Initiative
 
 Once it is clear combat is starting, all combatants roll a Physique check. This is called rolling for initiative. The turn order begins with the one whose Physique check was the greatest, descending. Once all combatants have taken their turn for the round, the next round begins. Initiative is only rolled once at the beginning of combat, not every round.
 
 If a player character is tied with an enemy for initiative, then the player character wins the tie. If two or more characters from the same team are adjacent or tied in initiative, then the characters may freely exchange turn orders.
 
-#### Actions
+### Actions
 
 Every turn consists of movement, a major action, and a minor action. Examples of major actions are attacking, using an item, or casting a spell. Examples of movement are running up to an enemy, running away to escape, or changing position. Characters are always allowed to skip movement, skip major action, or skip both.
 
 Minor actions are restricted to a few activities. As long as the character is not otherwise speaking, such as for the verbal component of a spell, then the character may speak to issue a command or attempt to parley as a minor action. Picking up a single item from the ground is also a minor action. The GM may allow other minor actions if they seem brief and do not logically conflict with the major action.
 
-#### Movement
+### Movement
 
 The maximum distance a character may sprint per turn of combat is based on the Athletics skill.
 
@@ -370,11 +374,27 @@ The maximum distance a character may sprint per turn of combat is based on the A
 
 When one character is pursuing another, the character with higher speed succeeds. If the characters have equal speed, then roll an opposed Physique check between pursuer and pursued. Each margin of success represents a 5 foot increase or decrease in distance.
 
-#### Resolving The Attack
+### Morale
 
-Whether a character's blow lands, and how it lands, depends entirely on the nature of the attack. If the attacker has no weapon equipped, then the attacker is using Brawling. Otherwise, the attack skill used is determined by the weapon used.
+Combatant NPCs do not always fight to the death. If an NPC is not mindless, then they have a self-preservation instinct. A party of NPCs rolls for morale twice: first, when the first party member is incapacitated (or worse); secondly, when half of the party is incapacitated (or worse). The incapacitation of summoned and mindless creatures never causes morale to be rolled, nor do those creatures contribute to the party's effective size. However, that does not mean summoned creatures cannot have their individual morale broken.
 
-##### Melee Weapons & Brawling
+Roll 4dF once for the whole party, but add each NPC's Personality per combatant. If the result is Fair or better, then that character continues fighting. If the result is Mediocre or worse, then that character's morale is broken, and they try to flee. If fleeing is not possible, then that character surrenders. If surrender is also rejected, then the character continues to fight until a self-preserving option becomes available.
+
+Sometimes an ad hoc morale check is called for due to a condition or spell effect. As usual, morale is rolled once for all NPCs influenced by a common source of the ad hoc morale check, then compared individually.
+
+### Ending Combat
+
+When all enemies are incapacitated, have fled the scene, or surrenders, then combat ends. The next time combat begins, initiative must be rolled again.
+
+Attacking & Damage
+---
+Characters take damage from a variety of sources. There are specific rules for taking damage from attacks during combat, as well as general principles of taking damage.
+
+### Attacks
+
+The nature of an attack is based on what kind of weapon is used. If the attacker has no weapon equipped, then the attacker is using Brawling. Otherwise, the attack skill used is determined by the weapon used.
+
+#### Melee Weapons & Brawling
 
 Close-quarters combat is an opposed check. Defense rolls are automatic and do not consume an action on the defender's turn. Apply the following adjustments to the defender's roll:
 
@@ -387,14 +407,14 @@ There may be effects like low lighting which penalize the attacker, too.
 * **The Roll:** Attacker (4dF + Attack Skill + Attack Adjustment) vs. Defender (4dF + Defense Skill + Defense Adjustment).
 * **The Result:** If the attacker's roll is strictly higher than the defender's, then the blow lands. On a tie or loss, the attack misses.
 
-##### Ranged Weapons
+#### Ranged Weapons
 
 Shooting or throwing weapons are static checks.
 
 * **The Roll:** Attacker makes an unopposed 4dF + Ranged skill check.
 * **The Result:** The blow lands if the total result is at least **Good (+1)**.
 
-##### Concealed Weapons
+#### Concealed Weapons
 
 Concealed attacks may only be used outside of combat, before initiative is rolled. Once the character has rolled for initiative, the weapon must use one of the other attack skills.
 
@@ -410,7 +430,7 @@ Even if the weapon is indeed concealed, the strike is not guaranteed to land. A 
 
 Even if the target is incapacitated, the GM should consider whether anyone is present to witness the attack. If the attack instantly killed the target with a head wound, then the target dies instantly. However, other types of injuries may give the target time to scream for help. If there are witnesses who will intervene, then the GM should call for initiative.
 
-#### Calculating Damage
+### Calculating Damage
 
 Regardless of the type of strike, skill does not alter the force of an attack. Do not include either combatant's skill ranks, or the defender's dice, in the calculation. Do not include any other adjustments to "attack" rolls, unless "damage" is explicitly mentioned.
 
@@ -418,18 +438,18 @@ Regardless of the type of strike, skill does not alter the force of an attack. D
 
 If the target is not instantly incapacitated or killed by a concealed strike, then the GM should call for initiative.
 
-#### Armor Penetrating Damage
+### Armor Penetrating Damage
 
 Sometimes, a source of damage is said to be Armor Penetrating. There are two kinds:
 
 1. Armor Penetrating, without qualification. In this case, the armor is completely ignored in the damage calculation.
 2. Armor Penetrating (N). In this case, the effect of armor is reduced by N. If N is greater than the armor's effect, then the armor has no effect.
 
-##### The Golden Rule of Damage
+#### The Golden Rule of Damage
 
 First, calculate damage with *all formulas and modifiers*. If the final result is 0 or negative, then the damage is automatically raised to 1. A successful hit always inflicts at least one point of damage.
 
-#### Injury
+### Injury
 
 Typical player characters have the following injury trackers:
 
@@ -452,7 +472,7 @@ There are three levels of being taken out of the fight:
 * Near Death
 * Dead
 
-#### Taking Damage
+### Taking Damage
 
 After calculating damage, apply the following table to determine the injury.
 
@@ -492,7 +512,7 @@ If two wound bubbles on a body part are ever full, and another wound bubble woul
 
 If a character is Near Death, and receives another wound, then the character dies.
 
-#### Called Shots
+### Called Shots
 
 Attacks made with Brawling, Melee, Ranged, and Concealed, may always be modified as called shots. A called shot is a precision strike against a specific body part.
 
@@ -501,7 +521,7 @@ Attacks made with Brawling, Melee, Ranged, and Concealed, may always be modified
 3. If the attack hits, there is no penalty to damage. Calculate damage without the -2 penalty to hit.
 4. If the attack causes a wound, then the wound is on the body part the attacker called.
 
-#### Stabilization & Healing
+### Stabilization & Healing
 
 Scratches heal quickly outside of a fight, without any special medical attention. Wounds do not heal naturally without a Medicine check. Being Near Death is even more serious.
 
@@ -511,7 +531,7 @@ Wounds require downtime to naturally heal. After resting for a week of downtime,
 
 If a character is Incapacitated, and wounds are healed, then check for any remaining wounds. If all wounds on the head, abdomen, and chest are below two filled bubbles, then the character is no longer Incapacitated.
 
-#### Other Sources of Damage
+### Other Sources of Damage
 
 Damage may also be taken from various other sources, such as traps, spells, and natural hazards. There is a general formula for applying damage from other sources.
 
@@ -520,7 +540,7 @@ Damage may also be taken from various other sources, such as traps, spells, and 
 3. Apply the Golden Rule of Damage.
 4. The character takes damage using the same table as used in the Taking Damage section.
 
-##### Fall Damage
+#### Fall Damage
 
 Characters who fall from more than 5 feet risk taking fall damage. This is one of the few exceptions where a skill check directly reduces damage taken.
 
@@ -530,7 +550,9 @@ Social Conflict
 ---
 Characters do not resolve every conflict through violence. Many situations call for diplomacy, negotiation, and social awareness. These may test the characters' skill, and carry significant consequences for failure.
 
-Before calling for a social skill check, a GM must clarify two things: leverage of the attempt, and stakes of the outcome. The player should clearly communicate any leverage the character should have in this situation. It does not make sense to call for an Intimidation check, without clearly describing the threat being made. The GM should modify the difficulty level according to the actual leverage.
+Before calling for a social skill check, a GM must clarify two things: leverage of the attempt, and stakes of the outcome. The player should clearly communicate any leverage the character should have in this situation. It does not make sense to call for an Intimidation check, without clearly describing the threat being made. If the player is floundering, then the GM should gently assist the player in describing possible leverage under the circumstances.
+
+The GM should modify the difficulty level according to the actual leverage, as well as the NPC's Intellect or Personality.
 
 A social skill check usually does not carry a binary result. The stakes may contains partial failure, partial success, and neutral outcomes. GMs should interpret the outcome of the roll according to this spectrum.
 
@@ -570,8 +592,8 @@ Schoolmages cast spells through knowledge of specific formulae.
 
 * *Prerequisite:* Schoolmages must know the Classical language.
 * *Spell List:* Schoolmages are not restricted by divine portfolio. However, they must research spells to cast them. A beginning Schoolmage already knows one Mediocre (-1) and one Fair (0) spell.
-* *Soul Burn:* Schoolmages recover from Soul Burn after waking up by reading spellbooks written in their own Arcane Shorthand.
-* *Choosing Spells:* Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. Each time a Schoolmage reviews their spellbooks, the Schoolmage must choose an updated set spells contained in those spellbooks. Schoolmages may not memorize more than a certain number of spells at a time based on Intellect.
+* *Soul Burn:* Schoolmages recover from Soul Burn by memorizing spells for the first time after waking up from a full sleep.
+* *Memorizing Spells:* Formulas for spells are so vast that a mortal mind cannot permanently retain a single spell without daily reference to notes. To update which spells are memorized at a given time, a Schoolmage much spend exactly one hour continuously reading their spellsbooks. This one hour session allows Schoolmages to memorize a certain number of spells at a time based on Intellect, immediately overwriting any previously memorized spells. This one hour session may be performed at any point during the day.
     * *Terrible (-3):* 50 pages worth of spells may be memorized.
     * *Poor (-2):* 100 pages worth of spells may be memorized.
     * *Mediocre (-1):* 200 pages worth of spells may be memorized.
@@ -596,7 +618,7 @@ Schoolmage spells are quantified by the number of pages required to write down t
 Devouts cast spells by absolute faith in an Agathos.
 
 * *Spell List:* Devouts cast spells from the Devout list, which are aligned with their specific Agathos.
-* *Soul Burn:* Devouts recover from Soul Burn after waking up by spending one hour worshipping their Agathos with a holy symbol.
+* *Soul Burn:* Devouts recover from Soul Burn by spending one hour worshipping their Agathos with a holy symbol after waking up from a full sleep.
 * *Verbal Component:* Devouts speak in High Tongue while casting spells.
 
 ##### Invoker Spell Caster
@@ -604,7 +626,7 @@ Devouts cast spells by absolute faith in an Agathos.
 Invokers cast spells by a pact with an Archon which is continually renewed by obedience to the Archon.
 
 * *Spell List:* Invokers cast spells from the Invokers list, which are aligned with their specific Archon.
-* *Soul Burn:* Invokers recover from Soul Burn after fully resting, without any additional ritual step.
+* *Soul Burn:* Invokers recover from Soul Burn after fully sleeping, without any additional ritual step.
 * *Verbal Component:* Invokers speak in their specific patron's Cthonic cult language while casting spells.
 
 #### Downtime Spells
@@ -618,7 +640,7 @@ Furthermore, some spells do not have an in-the-field effect at all, and are alwa
 
 #### Attack Spells
 
-Even when a spell which targets an unwilling creature is cast successfully, the target may have an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
+Even when a spell which targets an unwilling creature is cast successfully, the target might have an opportunity to resist. The specific attribute or skill used to resist is described by the spell. If a spell mentions it is resisted by "standard defense", then the spell may roll either Acrobatics or Melee to evade the attack. If they choose Melee, then include their equipped shield bonus. In all such cases, the difficulty of the resistance check is set by the caster's Margin of Success (MoS). In order for the spell to miss, the target's resistance roll must be strictly higher than the caster's MoS.
 
 The target of an attack spell may always voluntarily fail to resist it.
 
@@ -640,7 +662,7 @@ Spells
 
 A glob of corrosive liquid is hurled from the caster's hands.
 
-Target a creature within 10 feet. The target must resist with standard defense. If the target fails, then it takes MoS Armor Penetrating (1) damage.
+Target a creature within 10 feet. It takes MoS Armor Penetrating (1) damage.
 
 ### Animal Form
 
@@ -699,7 +721,7 @@ Animated dead magically repair themselves. They recover from scratches immediate
 
 The caster's enemies feel a powerful aura of discouragement, dampening their morale.
 
-All enemies within 30 feet must resist with Personality. Each enemy who fails takes a -1 penalty to attack and defense rolls for the next two rounds.
+All enemies within 30 feet must resist with Personality. Each enemy who fails takes a -1 penalty to attack, defense, and morale rolls for the next two rounds. Furthermore, any NPCs who are affected must make an ad hoc morale check.
 
 ### Banish
 
@@ -1037,7 +1059,7 @@ The caster instantly teleports to another point within 100 feet, in clear view. 
 
 The caster projects a streak of fire towards a target.
 
-Target a creature within 40 feet. The target must resist with standard defense. If the target fails, then it takes MoS damage.
+Target a creature within 40 feet. It takes MoS damage.
 
 ### Flare
 
@@ -1125,7 +1147,7 @@ The caster creates a small, static projection in the palm of their hand. The pro
 
 The caster becomes surrounded by an aura of support, raising the morale of their allies.
 
-All allies within 30 feet gain a +1 bonus to attack and defense rolls for the next two rounds.
+All allies within 30 feet gain a +1 bonus to attack, defense, and morale rolls for the next two rounds.
 
 ### Ice Bolt
 
@@ -1136,7 +1158,7 @@ All allies within 30 feet gain a +1 bonus to attack and defense rolls for the ne
 
 The caster projects an icy gust full of icicle spears at a target.
 
-Target a creature within 40 feet. The target must resist with standard defense. If the target fails, then it takes MoS + 2 damage, and may only move 5 feet on its next turn.
+Target a creature within 40 feet. It takes MoS + 2 damage, and may only move 5 feet on its next turn.
 
 ### Invisibility
 
@@ -1292,11 +1314,14 @@ Select target creature. The target must resist with Personality. If the target f
 
 The caster can read the surface thoughts of other creatures.
 
-For the next minute, the caster may focus on any target creature within 40 feet in clear view. The target must resist with Personality. If the target fails, then the caster hears the surface thoughts of the creature. The caster may switch to another target at any time, who must resist the same way.
+For the next minute, the caster may focus on any target creature within 40 feet in clear view. The target must resist with Personality. If the target fails, then the caster hears the surface thoughts of the creature. The caster may switch to another target at any time as a major action, who must resist the same way.
 
-Targets do not inherently realize their minds are being read for 3 rounds. If a target has its mind read for 4 rounds during a single cast of the spell, whether continuous or broken up, then the target realizes its mind is being read. The target may also contextually realize its mind is being read.
+Targets do not inherently realize their minds are being read for 3 rounds. If a target has its mind read for 4 rounds during a single cast of the spell, whether continuous or broken up, then the target realizes its mind is being read. The target may also realize its mind is being read based on context. For example, the target may see the spell being cast and correctly identify it.
 
-If a target knows its mind is being read, and also knows what specific information is being searched for, then the target must secondarily resist with Intellect. If the target fails, then the caster knows exactly what the target is attempting to conceal. Usually, the only way the target would know what specific information is being searched for is if the target is being actively interrogated.
+If the target is asked a specific question, then what happens next depends on whether the target knows its mind is being read.
+
+* *If the target does not know its mind is being read:* The caster instantly knows the target's truthful reply to the question.
+* *If the target knows its mind is being read:* The target must secondarily resist with Intellect. If the target fails, then the caster knows the target's truthful reply to the question.
 
 If a target successfully resists with either Personality or Intellect, then the target's resistance holds for the remainder of the spell. However, if the caster drops focus for a target then attempts to read the same target's mind again, then the target gains a new opportunity to resist with Personality and Intellect.
 
@@ -1397,13 +1422,15 @@ The caster gains the ability to communicate with animals.
 * Duration: 1 hour
 * Limit: 1 / day
 
-The caster calls forth a Cthonian associated with the caster's patron Archon. The caster may declare their intended purpose for the summoning, but they cannot fully control which specific Cthonian answers the call.
+The caster calls forth a Cthonian associated with the caster's patron Archon. The caster may ask for a specific Cthonian by name, but they cannot fully control which specific Cthonian answers the call. It is unusual, but possible, that no Cthonian answers at all.
 
-A Cthonian aligned with the caster's patron Archon appears at a target point within range. Once present, the Cthonian is not obligated to obey the caster and acts according to its own nature. The caster may dismiss the Cthonian voluntarily as a major action, at any time.
+A Cthonian aligned with the caster's patron Archon appears at a target point within range. The Cthonian is not obligated to obey the caster and acts according to its own will, although it is usually cooperative. The caster may dismiss the Cthonian voluntarily as a major action, at any time.
 
-When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the caster may no longer dismiss it. The Cthonian may not stay outside a Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere. The Cthonian may also voluntarily return to its native sphere while in a Cthonic breach.
+When the spell ends, the Cthonian is compelled to return to its native sphere unless it is currently inside a Cthonic breach. If the Cthonian overstays after the spell ends, then the Cthonian is no longer a summoned creature, and the caster may no longer dismiss it. The Cthonian may not stay outside a Cthonic breach for more than 1 hour at a time, or else the Cthonian is compelled to return to its native sphere. The Cthonian may also voluntarily return to its native sphere while in a Cthonic breach.
 
-Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. A Cthonian may fight bravely in service to its patron Archon, but death is more painful than being otherwise returned to its native sphere.
+Most summoned Cthonians are intelligent. When a Cthonian dies in the mortal realm, its body turns to dust and its soul material returns to its native sphere. The Cthonian then slowly reconstitutes its body in its native sphere for 4 downtime weeks. The reconstituted Cthonian retains all of its memories. Cthonians usually fight bravely, but death is more painful than being otherwise returned to its native sphere.
+
+Cthonians cannot be crippled, incapacitated, or near death. If a Cthonian would ever have such a condition, the Cthonian dies instead.
 
 ### Surveillance
 
@@ -1543,9 +1570,12 @@ Players are expected to maintain a roster of benched characters, in addition to 
 Downtime operates in strict blocks, from the start to the end of the calendar week. If a character spent even one day in the field, the rest of the week is forfeit. The remaining days are spent planning for and recovering from the mission.
 
 ### Planning The Week
-At the start of every week, every character in the group must decide between (a) adventuring in the field and (b) staying on the bench. Characters who go on adventures earn EP, but benched characters are not simply waiting for a turn. Instead, they continue doing other beneficial activities outside the frame of the adventure.
+
+At the start of every week, every character in the group must decide between adventuring in the field and staying on the bench. Characters who go on adventures earn EP, but benched characters are not simply waiting for a turn. Instead, they continue doing other beneficial activities outside the frame of the adventure.
 
 It is possible that no characters are in the field for this week, if the players want to advance time immediately. The same downtime rules apply, except no adventures occur for that week.
+
+Characters who are in the field at the end of the previous week usually remain in the field at the beginning of this week. Otherwise, the GM must decide whether the character may quickly and safely return to a settlement to perform downtime activities, or whether the chosen downtime activity is possible while away from a settlement. If the party has a Medicine Kit, then the Heal and Tend Wounds activity may be taken.
 
 #### Downtime Activities
 
@@ -1559,7 +1589,7 @@ If a character is benched, there are standard activities they may perform for th
 * Brew: The character may work on creating poitons and poisons. See Brewing.
 * Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
-* Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier.
+* Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier. Players may also declare that a character is gathering intel with a specific skill, for a specific purpose. The GM may decide that the character is competent enough to succeed, or call to roll for a skill check at the end of the week to decide the quality of the results.
 
 #### Downtime Services
 
@@ -1585,7 +1615,7 @@ Next, group the characters by party and roll for Survival versus the difficulty 
 * **Mediocre (-1):** Each party member rolls for wounds, once.
 * **Fair (0) or better:** The party has sufficient provisions for the week.
 
-Most downtime activities are not allowed for stranded characters. If the party has a Medicine Kit, then the Heal Wounds activity may be taken. Stranded characters may choose to adventure into the field, presumably to find their way home.
+Most downtime activities are not allowed for stranded characters. If the party has a Medicine Kit, then the Heal and Tend Wounds activity may be taken. Stranded characters may choose to adventure into the field, presumably to find their way home.
 
 Stranded characters do not receive income. Their income is held in escrow, and paid in full once contact is made with a passing faction or settlement.
 
@@ -1726,61 +1756,90 @@ For reference, a table of Scales of real-world animals are given. Each step of t
 * **Superb (+3):** Black bear. 400 lbs. - 599 lbs.
 * **Legendary (+4):** Grizzly bear. 600 lbs. - 799 lbs.
 
-Cthonians
+Bestiary
 ---
 
 ### Arachnaur
 
-* Durability: Elite
+* Type: Cthonian (Ulviazing)
+* Durability: Heavy
 * Standard Modifier: Great (+2)
-* Scale: Great (+2)
+* Scale: Superb (+3)
 * Weapons: None
 * Armor: None
 * Gifts: Spell Caster (Fire Bolt, Hallucination, Enthrall)
 * Faults: Vain Performer
 
+Arachnaurs are centaur-like creatures with the upper body of a human and the lower body of a spider. They are highly magically inclined. Arachnaurs lurk in Ulviazing's Blissful Hollow, a land of petrified trees. Arachnaurs spin webs and play them like instruments. They are friendly to intruders at first, but Arachnaurs expect their audience to applaud the performance. Those who do not applaud become immediate enemies of the Arachnaurs. Arachnaurs fight with magical spells, which include a combination of elemental blasts and mental control.
+
 ### Nightcreep
 
+* Type: Cthonian (Ogzim)
 * Durability: Light
 * Standard Modifier: Good (+1)
 * Scale: Poor (-2)
 * Weapons: None
 * Armor: None
 * Gifts: Death Aura
-* Faults: Phobia: Bright lights
+* Faults: Phobia: Bright lights, Cowardly
+
+Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormally large, pitch-black eyes. They are native to Ogzim's sphere of the Starless Abyss, where they live on permanent wooden rafts that float across a pitch-black ocean. They are very stealthy, but are afraid of bright lights. Proximity to a Nightcreep gradually dulls all of one's senses. After several minutes of exposure, those affected instantly die.
 
 ### Tentacle Head
 
+* Type: Cthonian (Igedeng)
 * Durability: Elite
 * Standard Modifier: Superb (+3)
-* Scale: Great (+2)
+* Scale: Legendary, L9 (+12)
 * Weapons: Tentacles (Brawling, +2)
 * Armor: None
 * Gifts: Levitation, Spell Caster (Read Minds)
 * Faults: Automaton Weakness
 
+Tentacle Heads are ten-foot-tall human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read minds. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their tentacles.
+
+### Snail Head
+
+* Type: Cthonian (Igedeng)
+* Durability: Light
+* Standard Modifier: Great (+2)
+* Scale: Fair (0)
+* Weapons: None
+* Armor: None
+* Gifts: Spell Caster (Fire Bolt, Whisper)
+* Faults: Phobia: Salt
+
+Snail Heads are humanoids with the bodies of ordinary humans, but whose heads are snails. Each Tentacle Head commands 5 or 6 Snail Heads in Igedeng's Deadwoods. The Tentacle Heads provide forbidden knowledge to the Snail Heads, who use that bait to lure mortals into the Deadwoods. In combat, Snail Heads are physically frail and rely on elemental spells to attack. Snail Heads are terrified of salt.
+
 ### Tormentor
 
-* Durability: Elite
+* Type: Cthonian (Lize)
+* Durability: Heavy
 * Standard Modifier: Superb (+3)
-* Scale: Good (+1)
+* Scale: Legendary (+4)
 * Weapons: Claws (Brawling, +1), Shortsword (Melee, +2)
 * Armor: None
 * Gifts: Flight
 * Faults: Gratuitous Sadism
 
+Tormentors are eight-foot-tall muscular humanoids with horns, crimson skin, leathery wings, and hooked tails who reside in Lize's sphere of the Reaping Grounds. Tormentors use implements of torture to inflict unspeakable pain on mortals who phase into her Reaping Grounds.
+
 ### Drake
 
+* Type: Cthonian (Lundazing)
 * Durability: Heavy
 * Standard Modifier: Great (+2)
-* Scale: Good (+1)
+* Scale: Legendary (+4)
 * Weapons: Claws (Brawling, +1), Shortsword (Melee, +2)
 * Armor: Plate armor (+3), Small shield (+1)
 * Gifts: Flight, Fire Breath
 * Faults: Greedy
 
+Drakes are bipedal reptiles standing at eight feet tall who can breathe fire. They are broad and strong, and have powerful wings capable of flight. Drakes often wield melee weapons, but switch between these weapons and their natural claws and fire breath. Drakes march into battle more confidently than Microdragons, who they command as cannon fodder. In Lundazing's sphere of Cinderthrone, Drakes stand above Microdragons but below all other castes. Often times, Drakes will band with either Dragonsnakes or Drakotherians to demote the other caste, in order to earn the spoils of siding with the victor.
+
 ### Naga
 
+* Type: Cthonian (Inizozim)
 * Durability: Heavy
 * Standard Modifier: Great (+2)
 * Scale: Good (+1)
@@ -1788,6 +1847,8 @@ Cthonians
 * Armor: None
 * Gifts: Hold Breath, Double Strike
 * Faults: Spiteful
+
+Nagas are creatures with the upper body of a human and the lower body of a snake. They can hold their breath underwater for hours at a time. They lurk in Inizozim's Mirror Marshes, where they meticulously balance the weight of logs sitting on rocks. Nagas will not hesitate to strike anyone who disturbs the weight of one of the logs. They are very fast when slithering or swimming, and they typically wield two longswords to strike their opponents.
 
 Appendix A: Factions
 ---
@@ -1896,7 +1957,7 @@ All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon C
 
 * **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian brings an Arachnaur.
 * **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian brings a Nightcreep.
-* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian brings a Tentacle Head.
+* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian brings a Snail Head.
 * **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian brings a Tormentor.
 * **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian brings a Drake.
 * **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian brings a Naga.
