@@ -1796,7 +1796,7 @@ Nightcreeps are short, three-foot-tall humanoids with eerie faces with abnormall
 * Gifts: Levitation, Spell Caster (Read Minds)
 * Faults: Automaton Weakness
 
-Tentacle Heads are ten-foot-tall human heads with eight tentacles attached at the neck. They levitate in the air, and have the power to read minds. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their tentacles.
+Tentacle Heads are ten-foot-tall Human heads with eight octopus arms attached at the neck. They levitate in the air, and have the power to read thoughts. They are native to Igedeng's Deadwoods, where they compile knowledge of the world by probing the thoughts those visiting the Deadwoods. Tentacle Heads primarily fight by grappling and crushing their opponents with their
 
 ### Snail Head
 
@@ -1809,7 +1809,7 @@ Tentacle Heads are ten-foot-tall human heads with eight tentacles attached at th
 * Gifts: Spell Caster (Fire Bolt, Whisper)
 * Faults: Phobia: Salt
 
-Snail Heads are humanoids with the bodies of ordinary humans, but whose heads are snails. Each Tentacle Head commands 5 or 6 Snail Heads in Igedeng's Deadwoods. The Tentacle Heads provide forbidden knowledge to the Snail Heads, who use that bait to lure mortals into the Deadwoods. In combat, Snail Heads are physically frail and rely on elemental spells to attack. Snail Heads are terrified of salt.
+Snail Heads are creatures with the bodies of human skeletons, but whose heads are snails. Each Tentacle Head commands 5 or 6 Snail Heads in Igedeng's Deadwoods. The Tentacle Heads provide forbidden knowledge to the Snail Heads, who use that bait to lure mortals into the Deadwoods. In combat, Snail Heads are physically frail and rely on elemental spells to attack. Snail Heads are terrified of salt.
 
 ### Tormentor
 
