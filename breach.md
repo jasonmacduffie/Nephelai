@@ -5,7 +5,7 @@ Introduction
 ---
 Breach is a build of Fudge RPG designed to work with the Nephelai campaign setting.
 
-Think of Breach as a TV series with a large ensemble cast. Players guide a roster of agents working for influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. These agents are competent, but far from invincible. Violence can cause injuries that sideline characters for weeks. While a party of operatives take on field assignments, their off-the-field teammates spend the week doing useful activities behind the scenes. The game's drama hinges on whether the roster can advance the faction's agenda.
+Think of Breach as a TV series with a large ensemble cast. Players guide a roster of agents working for influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. These agents are competent, but far from invincible. Violence can cause injuries that sideline characters for weeks. While a party of operatives take on field assignments, their benched teammates spend the week doing useful activities behind the scenes. The game's drama hinges on whether the roster can advance the faction's agenda.
 
 The Core Mechanic
 ---
@@ -67,9 +67,9 @@ The below table is used for both character creation and advancement. For player 
 * Each Gift taken costs 6 EP.
 * Each Fault taken rewards 6 EP.
 
-### Off-The-Field Characters
+### Benched Characters
 
-Players may, and are encouraged to, make several player characters. Player characters can die, and even the victors of difficult battles need time to recover. The character creation rules for additional characters are identical to the first character. See additional rules regarding off-the-field characters in the Downtime section.
+Players may, and are encouraged to, make several player characters. Player characters can die, and even the victors of difficult battles need time to recover. The character creation rules for benched characters are identical to the primary character. See additional rules regarding benched characters in the Downtime section.
 
 Traits
 ---
@@ -217,7 +217,7 @@ Characters may know other special languages and codes, besides those given by th
 
 Equipment
 ---
-At the end of every week, characters earn 10 Drachmas (ud) as income from their employer faction. This is granted regardless of whether the character was in the field or not. If a character did not make contact with their employer for an entire week, then that character's income is held in escrow until contact is made. Characters may earn additional income from the field, such as by discovering treasure.
+At the end of every week, characters earn 10 Drachmas (ud) as income from their supporting faction. This is granted regardless of whether the character was benched, or not. Characters may earn additional income from the field, such as by discovering treasure.
 
 ### Currency
 
@@ -634,7 +634,7 @@ Invokers cast spells by a pact with an Archon which is continually renewed by ob
 Some spells have the option to be used as a downtime activity. If so, the following requirements must be met:
 
 * The caster's respective skill must be at least equal to the spell's difficulty.
-* The caster must be off the field, to take the downtime activity.
+* The caster must be benched, to take the downtime activity.
 
 Furthermore, some spells do not have an in-the-field effect at all, and are always used during downtime. These are complex rituals which require time to take effect.
 
@@ -900,7 +900,7 @@ Select a target character. Both of these happen:
 
 #### Downtime Activity
 
-Select a target off-the-field character, who has taken heal wounds as a downtime activity. At the end of the week, skip the target character's Medicine check. Instead, the target character is fully healed.
+Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, skip the target character's Medicine check. Instead, the target character is fully healed.
 
 ### Darkness
 
@@ -1114,7 +1114,7 @@ Select a target character. If the target is Near Death, then the target is no lo
 
 #### Downtime Activity
 
-Select a target off-the-field character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
+Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
 
 ### Hold
 
@@ -1561,7 +1561,7 @@ The target hears a short message whispered by the caster, lasting no more than 1
 
 Downtime
 ---
-Players are expected to maintain a roster of off-the-field characters, in addition to characters in the field. Downtime rules provide a structured way to handle off-the-field characters. Downtime cycles are measured in weeks. The general cycle of the week is:
+Players are expected to maintain a roster of benched characters, in addition to characters in the field. Downtime rules provide a structured way to handle benched characters. Downtime cycles are measured in weeks. The general cycle of the week is:
 
 1. Resolve the previous week
 2. Plan the next week
@@ -1571,67 +1571,61 @@ Downtime operates in strict blocks, from the start to the end of the calendar we
 
 ### Planning The Week
 
-At the start of every week, every player character must be assigned one of three positions.
+At the start of every week, every character in the group must decide between adventuring in the field and staying on the bench. Characters who go on adventures earn EP, but benched characters are not simply waiting for a turn. Instead, they continue doing other beneficial activities outside the frame of the adventure.
 
-* In the base. When a character is not in the base, they are said to be away from the base.
-* On the bench. Benched characters are away from the base, but off the field.
-* In the field. When a character is not in the field, they are said to be off the field.
+It is possible that no characters are in the field for this week, if the players want to advance time immediately. The same downtime rules apply, except no adventures occur for that week.
 
-Characters who adventure in the field earn EP, but off-the-field characters do not passively wait to be called. Instead, they continue doing other beneficial activities outside the frame of the adventure.
-
-Characters who are in the base are physically located in a settlement where the character's employer faction is present. Characters who are on the bench are nearby the in-the-field characters, but staying in an expedition camp. In-the-field characters are actively exploring dangerous environments and situations.
-
-It is possible that no characters are in the field for a week. The same downtime rules apply, except no adventures occur for that week.
+Characters who are in the field at the end of the previous week usually remain in the field at the beginning of this week. Otherwise, the GM must decide whether the character may quickly and safely return to a settlement to perform downtime activities, or whether the chosen downtime activity is possible while away from a settlement. If the party has a Medicine Kit, then the Heal and Tend Wounds activity may be taken.
 
 #### Downtime Activities
 
-If a character is off the field, there are standard activities they may perform for the week. These are called downtime activities. The downtime activity is chosen at the beginning of the week, and benefits are collected at the end of the week. Certain downtime activities may only be taken from in the base.
+If a character is benched, there are standard activities they may perform for the week. These are called downtime activities. The downtime activity is chosen at the beginning of the week, and benefits are collected at the end of the week.
 
-* Heal and Tend wounds: Requires a Medicine Kit, unless in the base. The character may perform a Medicine check, or receive medical attention from another character. See Stabilization & Healing, under Combat.
+* Heal and Tend wounds: The character may perform a Medicine check, or receive medical attention from another character. See Stabilization & Healing, under Combat.
 * Train skills: The character may train an unused skill. This allows 2 EP to be spent on an unused skill. Multiple weeks allow cumulative EP to be spent.
 * Buy off faults: The character may work on a fault. This allows 2 EP to be spent towards removing a fault. Buying off a fault requires 6 EP, which takes three weeks.
-* Research spells: This action may only be taken in the base. Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
-* Learn and Teach spells: This action may only be taken in the base. If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
-* Brew: This action may only be taken in the base. The character may work on creating poitons and poisons. See Brewing.
-* Smith: This action may only be taken in the base. The character may work on creating new weapons and armor. See Smithing.
+* Research spells: Schoolmages may research new spells. Each week, the Schoolmage rolls the respective skill check against the difficulty of the target spell. If the skill check result is Great (+2), then the Schoolmage obtains the spell.
+* Learn and Teach spells: If one Schoolmage already knows a spell, and another lacks the spell, then it may be taught. The difficulty of the spell must be equal or less to the learning Schoolmage's respective skill. This guarantees the spell is obtained, without a skill check.
+* Brew: The character may work on creating poitons and poisons. See Brewing.
+* Smith: The character may work on creating new weapons and armor. See Smithing.
 * Downtime spells: Some spells have options for use during downtime. See Magic.
-* Survive: This action may only be taken on the bench. If the party is stranded, then characters may contribute to the party's weekly survival. See Stranding.
-* Gather Intel: This action may only be taken in the base. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier. Players may also declare that a character is gathering intel with a specific skill, for a specific purpose. The GM may decide that the character is competent enough to succeed, or call to roll for a skill check at the end of the week to decide the quality of the results.
+* Gather Intel: This is a default action that benched characters take, when nothing else applies. Characters who gather intel are rewarded with information and relationships that will make the next adventure easier. Players may also declare that a character is gathering intel with a specific skill, for a specific purpose. The GM may decide that the character is competent enough to succeed, or call to roll for a skill check at the end of the week to decide the quality of the results.
 
 #### Downtime Services
 
-There are common NPCs who can perform paid services, who are available in the base. These NPCs may be hired instead of player characters rolling for skill checks. Even so, these NPCs are still ordinary characters who can fail to achieve results. If the service fails, the money spent at the beginning of the week is still lost.
+There are common NPCs who can perform paid services, instead of player characters rolling for skill checks. Even so, these are still ordinary characters who can fail to achieve results. If the service fails, the money spent at the beginning of the week is still lost.
 
 * Doctors: A doctors who is Great (+2) at Medicine may treat a character for 10 ud per week.
-* Schoolmages: A Schoolmage who is Great (+2) at all kinds of spells may tutor a character or cast a downtime spell for 20 ud per week. As with player characters, the Schoolmage only knows the spells written in their spellbook.
-* Devouts: A Devout who is Great (+2) at all kinds of spells may cast a downtime spell for 20 ud per week. As with player characters, the Devout only knows the spells aligned with their Agathos.
+* Spell Tutors: A Schoolmage who is Great (+2) at all kinds of spells may tutor a character for 20 ud per week. As with player characters, the tutor can only teach known spells.
+* Devout Healers: A Devout who is Great (+2) at all kinds of spells may heal a character for 20 ud per week.
 
 ### Interrupting Downtime
+A player's main character may die or be forced to stay benched in the middle of an adventure. In this case, one of the player's benched characters joins the adventure, and becomes the main character. When this happens, all benefits of downtime are discarded.
 
-A player's main character may die or be forced to stay off the field in the middle of an adventure. In this case, one of the player's off the field characters joins the adventure, and becomes the current active character. When this happens, all benefits of downtime are discarded.
+Stranding
+---
+Usually, characters bring just enough provisions to survive in the field for between one and four anticipated days. However, characters may become stranded by circumstances. In that case, they are forced to rely on the Survival skill to acquire food, water, and shelter in the wilderness. To account for these challenges, there is an additional Stranding phase every week. This phase takes place after resolving the previous week of downtime, but before planning the next week of downtime.
 
-It takes time to bring a character onto the field. First, a character on the field must travel to where the off-the-field character is. Next, the off-the-field character must travel onto the field. If a character is on the bench, then that character is usually no more than a 30 minute travel from the adventure. If a character is in the base, then that character is usually no more than a 1 day travel from the adventure.
+First, check if the character is stranded. If the character started the past week outside of a settlement, ended the past week outside of a settlement, and never received new provisions from a settlement or passing faction last week, then the character is stranded.
 
-### Stranding
-
-Usually, characters bring just enough provisions to survive away from the base for between 1 and 4 anticipated days. However, characters may become stranded by circumstances. In that case, they are forced to rely on the Survival skill to acquire food, water, and shelter in the wilderness. To account for these challenges, there is an additional Stranding phase every week. This phase takes place after resolving the previous week of downtime, but before planning the next week of downtime.
-
-First, check if the character is stranded. If the character started the past week away from the base, ended the past week away from the base, and never received new provisions from a settlement or passing faction last week, then the character is stranded.
-
-Next, consider all characters in the party who took Survive as their downtime action last week. For each such character, roll for Survival versus the difficulty of the environment. The highest Survival rolled in a party determines whether the entire party successfully acquired sufficient food, water, and shelter to last the week without harm. If the highest rolling party member does not succeed, then the entire party suffers wounds based on the margin of failure.
+Next, group the characters by party and roll for Survival versus the difficulty of the environment. The highest Survival rolled in a party determines whether the entire party successfully acquired sufficient food, water, and shelter to last the week without harm. If the highest rolling party member does not succeed, then the entire party suffers wounds based on the margin of failure.
 
 * **Terrible (-3) or worse:** Each party member rolls for wounds, three separate times.
 * **Poor (-2):** Each party member rolls for wounds, two separate times.
 * **Mediocre (-1):** Each party member rolls for wounds, once.
 * **Fair (0) or better:** The party has sufficient provisions for the week.
 
-#### Stranding Difficulty
+Most downtime activities are not allowed for stranded characters. If the party has a Medicine Kit, then the Heal and Tend Wounds activity may be taken. Stranded characters may choose to adventure into the field, presumably to find their way home.
+
+Stranded characters do not receive income. Their income is held in escrow, and paid in full once contact is made with a passing faction or settlement.
+
+### Stranding Difficulty
 
 The GM should adjust the difficulty of the Survival check based on the party's environment. There are standard adjustments for biome, season, and weeks stranded. All formulas assume the party still possesses the entire non-consumable portion of the Day Kit and Overnight Kit. If non-consumable items have been lost, then the GM should raise the difficulty accordingly. On the other hand, if the party started the week with some faction-provisioned food and water, then the GM should lower the difficulty.
 
 Start with Mediocre (-1) difficulty first, then apply modifiers for biome, season, and weeks stranded.
 
-##### Biomes
+#### Biomes
 
 * 0: Forest, Grasslands, Coastline
 * +1: Swamp, Jungle, Hills
@@ -1639,7 +1633,7 @@ Start with Mediocre (-1) difficulty first, then apply modifiers for biome, seaso
 * +3: Desert, Tundra, Underground
 * +4: Open Ocean
 
-##### Seasons
+#### Seasons
 
 Ignore seasons if the characters are underground or in open ocean.
 
@@ -1647,7 +1641,7 @@ Ignore seasons if the characters are underground or in open ocean.
 * +1: Fall
 * +2: Winter (except Desert), Spring and Summer (Desert)
 
-##### Weeks Stranded
+#### Weeks Stranded
 
 For the below, count the number of complete weeks stranded so far, not the next week.
 
