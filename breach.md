@@ -692,7 +692,7 @@ Pick an animal species to transform into. The target animal species may not have
 
 * Difficulty: Great (+2)
 * Cast by: Invoker (Igedeng)
-* Skill: Spiritual
+* Skill: Enchanting
 
 The caster targets a corpse or skeleton to rise up, and act as the caster's undead servant. This spell has no field effect; it may only be taken as a downtime activity.
 
