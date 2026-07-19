@@ -5,7 +5,7 @@ Introduction
 ---
 Breach is a build of Fudge RPG designed to work with the Nephelai campaign setting.
 
-Think of Breach as a TV series with a large ensemble cast. Players guide a roster of agents working for influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. These agents are competent, but far from invincible. Violence can cause injuries that sideline characters for weeks. While a party of operatives take on adventures, their teammates in the base spend the week doing useful activities behind the scenes. The game's drama hinges on whether the roster can advance the faction's agenda.
+Think of Breach as a TV series with a large ensemble cast. Players guide a roster of agents working for influential factions like temples, guilds, philosophic lodges, academies, and mercenary companies. These agents are competent, but far from invincible. Violence can cause injuries that sideline characters for weeks. While a party of operatives take on adventures, their teammates spend the week doing useful activities behind the scenes. The game's drama hinges on whether the roster can advance the faction's agenda.
 
 The Core Mechanic
 ---
@@ -67,7 +67,7 @@ The below table is used for both character creation and advancement. For player 
 * Each Gift taken costs 6 EP.
 * Each Fault taken rewards 6 EP.
 
-### Characters in the Base
+### Additional Characters
 
 Players may, and are encouraged to, make several player characters. Player characters can die, and even the victors of difficult battles need time to recover. The character creation rules for additional characters are identical to the first character.
 
