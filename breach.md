@@ -345,6 +345,12 @@ Field kits are provisioned for between one and four anticipated days. If the fie
 * Sailing ship - 10000 ud. Merchant vessel.
 * War ship - 250000 ud. Military vessel with an armament.
 
+Character Location and Resupply
+---
+The GM must track each character's location throughout the week. Characters are either in the base, or in the field. Characters who are in the field are grouped by party.
+
+Sometimes, a party of characters must remain in the field for weeks at a time. If so, the faction is expected to provide resupply to that party. If a character is in the field for an entire week without resupply, then they are at risk of taking damage from the elements. See Stranding under Downtime.
+
 Combat
 ---
 Combat is divided into *rounds* and *turns*. Every combatant takes a turn every round. A round represents about 6 seconds, taken near-simultaneously between combatants.
@@ -1127,7 +1133,7 @@ Select a target character. If the target is Near Death, then the target is no lo
 
 #### Downtime Activity
 
-This downtime activity may be taken in the base or on the field.
+This downtime activity may be taken in the base or in the field.
 
 Select a target benched character, who has taken heal wounds as a downtime activity. At the end of the week, if the target would naturally heal wounds with a Medicine check at the end of this week, then the target heals an additional two wounds.
 
