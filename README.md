@@ -167,42 +167,42 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
   <tbody>
     <tr>
       <td>Imperial</td>
-      <td>Nordic</td>
+      <td>Northic</td>
       <td>Spoken by the Humans of Eastgardia, and most other Conlian races.</td>
     </tr>
     <tr>
       <td>Dwarvish</td>
-      <td>Nordic</td>
+      <td>Northic</td>
       <td>Spoken by the Dwarves of Helscar.</td>
     </tr>
     <tr>
       <td>Halfling</td>
-      <td>Nordic</td>
+      <td>Northic</td>
       <td>Spoken by the Halflings of Middlestone.</td>
     </tr>
     <tr>
       <td>Dark Elvish</td>
-      <td>Sudic</td>
+      <td>Suthic</td>
       <td>Spoken by the Dark Elves of Valorgale.</td>
     </tr>
     <tr>
       <td>Wood Elvish</td>
-      <td>Sudic</td>
+      <td>Suthic</td>
       <td>Spoken by the Wood Elves of Westerwood.</td>
     </tr>
     <tr>
       <td>High Elvish</td>
-      <td>Sudic</td>
+      <td>Suthic</td>
       <td>Spoken by the High Elves of Fair Island.</td>
     </tr>
     <tr>
       <td>Catfolk</td>
-      <td>Sudic</td>
+      <td>Suthic</td>
       <td>Spoken by the Catfolk of Wuthelark.</td>
     </tr>
     <tr>
       <td>Lizardfolk</td>
-      <td>Nordic</td>
+      <td>Northic</td>
       <td>Spoken by the Lizardfolk of Nightglade.</td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
 In addition to the languages spoken by those of a particular race, there are languages which are important for other reasons. While they may be obscure, they still have a writing system and structure of a full language.
 
 * **Cthonic cult languages:** Every Cthonic cult has a secret spoken language with its own distinct writing system. The names of the languages are simply given the name of the associated Archon (e.g. "Igedeng's language", "Lize's language") and this is the language cultists use to commune with their deity. In general, any and all beings who are influenced by the specific Archon can understand these secret languages. Examples are intelligent Cthonians, corrupted mortals, and cultists. However, it is also possible to learn a Cthonic cult language through ordinary means.
-* **Classical:** The elite language spoken by the ancient Magellian Empire is known as Classical. It is written in Elvish script, and superficially sounds like modern High Elvish to those unfamiliar with both languages. However, the modern language of High Elvish is significantly different from the dialect spoken by the Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge generally know Classical, and it is widely known by scholars of the Imperial Cult and the Philosophers Guild. It is the lingua franca of Schoolmages, such that modern spell books are also written in Classical. Intelligent constructs from the Magellian Empire also speak this language. Bizarrely, Schoolmages of the Uzvu Confederation also use Classical (written in Sudic) as their lingua franca, yet they are completely ignorant of the Magellian Empire. Uzvu Schoolmages have completely different legends regarding the origin of the Classical language which have no obvious relation to the Magellian Empire.
+* **Classical:** The elite language spoken by the ancient Magellian Empire is known as Classical. It is written in Suthic script, and superficially sounds like modern High Elvish to those unfamiliar with both languages. However, the modern language of High Elvish is significantly different from the dialect spoken by the Magellians, such that they are mutually unintelligible. Schoolmages of the Academy of Knowledge generally know Classical, and it is widely known by scholars of the Imperial Cult and the Philosophers Guild. It is the lingua franca of Schoolmages, such that modern spell books are also written in Classical. Intelligent constructs from the Magellian Empire also speak this language. Bizarrely, Schoolmages of the Uzvu Confederation also use Classical (written in Suthic) as their lingua franca, yet they are completely ignorant of the Magellian Empire. Uzvu Schoolmages have completely different legends regarding the origin of the Classical language which have no obvious relation to the Magellian Empire.
 
 #### Slang, Codes, and Signs
 
@@ -361,8 +361,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** As the ruling race of the Yargyez Empire, Humans seek to maintain its continuity in Conliah, restore its former glory, and broker agreement between the other provinces.
 *   **Language:** Humans speak Common, the official language of the Yargyez Empire.
 *   **Names:**
-    *   **Male:** Lale, Kite, Rothik, Barap, Satip, Guthin
-    *   **Female:** Giha, Basitra, Resha, Kata, Sapitha, Valeta
+    *   **Male:** Barapi, Guthin, Kiti, Lalen, Nathi, Nelin, Pathin, Rothik, Satip, Usmit
+    *   **Female:** Bahut, Basitra, Gathi, Geela, Giha, Hota, Kata, Resha, Sapitha, Valeta
     *   **Second names:** Only the Human aristocracy has true patrilineal surnames of the form [Given Name] of House [Family]. Examples of major families are Yargyez, Gothiko, and Parsha. There is no standard rule for commoner bynames.
 
 ### Dwarves
@@ -376,8 +376,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.
 *   **Language:** Dwarves speak Dwarvish and Common.
 *   **Names:**
-    *   **Male:** Yurz, Frang, Wolfhan, Horik, Yarel, Karik
-    *   **Female:** Heigrid, Inya, Sonti, Elya, Godhi, Bagrid
+    *   **Male:** Amnil, Bellen, Frang, Horik, Karik, Viel, Warhab, Wolfhan, Yarel, Yurz
+    *   **Female:** Aber, Brigat, Elya, Gorim, Helgrid, Imka, Inya, Nikt, Sonka, Wolya
     *   **Second names:** Dwarves use patronymic bynames, of the form [Father]son, [Father]daughter, or [Father]kid.
 
 ### Halflings
@@ -391,8 +391,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.
 *   **Language:** Halflings speak Halfling and Common.
 *   **Names:**
-    *   **Male:** Ashiko, Yokashi, Takira, Kiriko, Shishito, Katako
-    *   **Female:** Fuho, Miho, Shiko, Niko, Kiko, Tato
+    *   **Male:** Arima, Ashiko, Kamiso, Katako, Kiriko, Naruka, Razushi, Shishito, Takira, Yokashi
+    *   **Female:** Fuho, Kiko, Kito, Miho, Niko, Riho, Sano, Shiko, Tato, Yoto
     *   **Second names:** Halflings have true patrilineal surnames of the form [Given Name] [Family]-zu. Examples of major clans are Teteko, Atana, and Kariko.
 
 ### Dark Elves
@@ -406,8 +406,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** Perspectives on the Yargyez Empire vary widely across clans: some are loyal to the Yargyez, and others are outright Archon worshipping revivalists.
 *   **Language:** Dark Elves speak Dark Elvish and Common.
 *   **Names:**
-    *   **Male:** Azong, Taiguda, Tiyun, Gozing, Yongtin, Gaiti
-    *   **Female:** Bumjer, Erbutai, Jerdeni, Umbani, Erjer, Jerutai
+    *   **Male:** Azong, Gaiti, Gozeti, Gozing, Taiguda, Tainur, Tiyun, Tozang, Yaigun, Yongtin
+    *   **Female:** Bantori, Bumjer, Erbutai, Erjer, Jerdeni, Jerutai, Jerzani, Ozgani, Umbani, Zunhai
     *   **Second names:** Although clan identity is very important in Dark Elf culture, there is no formal system of surnames. The inconsistent use of bynames are common.
 
 ### Wood Elves
@@ -421,8 +421,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** Having historically suffered under High Elf domination, Wood Elves see the Empire as a stabilizing buffer preserving their autonomy. However, there are secret factions in Westerwood who side with High Elven revivalists.
 *   **Language:** Wood Elves speak Wood Elvish and Common.
 *   **Names:**
-    *   **Male:** Takhildin, Turlandel, Akhsunal, Lursukhil, Tamirnal, Mirlakhil
-    *   **Female:** Nazhan, Ainura, Dilima, Gizhan, Zhanura, Linira
+    *   **Male:** Akhsunal, Ankhiral, Lursukhil, Mirkhudel, Mirlakhil, Takhildin, Tamirnal, Turlandel, Tursanal, Zakhildin
+    *   **Female:** Ainura, Ainuza, Dilima, Dilinar, Gizhan, Gizhara, Linira, Nazhan, Nazhira, Zhanura
     *   **Second names:** Wood Elves use patronymic bynames, of the form [Given Name] lim [Father].
 
 ### High Elves
@@ -436,8 +436,8 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Disposition:** High Elves are nostalgic for the Magellian Empire, which prioritized High Elf superiority. Many High Elves view the Yargyez Empire as having strayed from the original form of Agathos worship practiced in the Magellian Empire.
 *   **Language:** High Elves speak High Elvish and Common.
 *   **Names:**
-    *   **Male:** Achos, Taleas, Diacrates, Lenysis, Goreas, Homias
-    *   **Female:** Astera, Zedara, Ozia, Elaria, Dorela, Soria
+    *   **Male:** Achos, Aristopan, Diacrates, Goreas, Homias, Lenysis, Lykos, Menos, Polis, Taleas
+    *   **Female:** Astera, Dorela, Elaria, Menodora, Ozia, Philora, Soria, Zedara, Zenara, Zephyra
     *   **Second names:** High Elves use toponymic bynames, of the form [Given Name] lin [District]. Populous districts in the capital of Thesekira are Apolek, Tarnis, and Maphelius.
 
 ### Catfolk

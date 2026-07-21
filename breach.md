@@ -190,15 +190,15 @@ The Languages skill is not only for knowing bonus languages. Players may use the
 
 Characters may pick a language from the below list, or any others the GM allows.
 
-* **Imperial:** Imperial is the official language of politics and trade in the Yargyez Empire. It is the dominant language in Eastgardia province, which is the seat of power in the Yargyez Empire. Imperial uses Nordic Script for its writing system.
-* **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books. Classical uses Sudic Script for its writing system.
-* **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire. Dwarvish uses Nordic Script for its writing system.
-* **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire. Halfling uses Nordic Script for its writing system.
-* **Dark Elvish:** Dark Elvish is the local language of Valorgale province. It is also widely spoken by Dark Elves across the Empire. Dark Elvish uses Sudic Script for its writing system.
-* **Wood Elvish:** Wood Elvish is the local language of Westerwood province. It is also widely spoken by Wood Elves across the Empire. Wood Elvish uses Sudic Script for its writing system.
-* **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire. High Elvish uses Sudic Script for its writing system.
-* **Catfolk:** Catfolk is the local language of Wuthelark province. It is also widely spoken by Catfolk across the Empire. Catfolk uses Sudic Script for its writing system.
-* **Lizardfolk:** Lizardfolk is the local language of Nightglade province. It is also widely spoken by Lizardfolk across the Empire. Lizardfolk uses Nordic Script for its writing system.
+* **Imperial:** Imperial is the official language of politics and trade in the Yargyez Empire. It is the dominant language in Eastgardia province, which is the seat of power in the Yargyez Empire. Imperial uses Northic Script for its writing system.
+* **Classical:** Classical is the dead language of the Magellian Empire. This language is mandatory for Schoolmages, as it is the lingua franca of modern spell books. Classical uses Suthic Script for its writing system.
+* **Dwarvish:** Dwarvish is the local language of Helscar province. It is also widely spoken by Dwarves across the Empire. Dwarvish uses Northic Script for its writing system.
+* **Halfling:** Halfling is the local language of Middlestone province. It is also widely spoken by Halflings across the Empire. Halfling uses Northic Script for its writing system.
+* **Dark Elvish:** Dark Elvish is the local language of Valorgale province. It is also widely spoken by Dark Elves across the Empire. Dark Elvish uses Suthic Script for its writing system.
+* **Wood Elvish:** Wood Elvish is the local language of Westerwood province. It is also widely spoken by Wood Elves across the Empire. Wood Elvish uses Suthic Script for its writing system.
+* **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire. High Elvish uses Suthic Script for its writing system.
+* **Catfolk:** Catfolk is the local language of Wuthelark province. It is also widely spoken by Catfolk across the Empire. Catfolk uses Suthic Script for its writing system.
+* **Lizardfolk:** Lizardfolk is the local language of Nightglade province. It is also widely spoken by Lizardfolk across the Empire. Lizardfolk uses Northic Script for its writing system.
 * **Orcish:** Orcish is the native language of Orcs, and the common language of the Uzvu Confederation.
 * **Goblin:** Goblin is spoken by Goblins of the Uzvu Confederation.
 * **Ogre:** Ogre is spoken by Ogres of the Uzvu Confederation.
@@ -2014,4 +2014,47 @@ A simple option is to require the character to take a Fault which cannot be boug
 * For the head, the character may partially lose vision or hearing.
 
 Another solution is to have the character fall comatose, and to require a long-term storyline to heal the character. A simple mechanical check will not bring this character back into the field.
+
+Append G: The Conlian Calendar
+---
+Conliah uses a different calendar than the real world. The year is 366 days long, with 12 months of exactly 30 days each and concluding with 6 intercalary days. There are no leap years. There are four seasons in Conliah, and daylight changes between months. For each month, there is a birthsign associated with that month, and each of the last 6 intercalary days of the year have their own birthsign. The below sunrise and sunset times are not intended as exact, but are a reasonably accurate reference for the GM.
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Type</th>
+      <th>Birthsign</th>
+      <th>Season</th>
+      <th>Sunrise</th>
+      <th>Sunset</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>Askonos</td><td>Month</td><td>Scorpion</td><td>Spring</td><td>7:00 AM</td><td>7:30 PM</td></tr>
+    <tr><td>Bamos</td><td>Month</td><td>Horse</td><td>Spring</td><td>6:30 AM</td><td>8:30 PM</td></tr>
+    <tr><td>Chomos</td><td>Month</td><td>Twin Princes</td><td>Spring</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Destachtos</td><td>Month</td><td>Crab</td><td>Summer</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Ekerios</td><td>Month</td><td>Sheep</td><td>Summer</td><td>6:00 AM</td><td>9:00 PM</td></tr>
+    <tr><td>Flogos</td><td>Month</td><td>Princess</td><td>Summer</td><td>6:30 AM</td><td>8:30 PM</td></tr>
+    <tr><td>Gaieros</td><td>Month</td><td>Trilobite</td><td>Fall</td><td>7:00 AM</td><td>7:30 PM</td></tr>
+    <tr><td>Hanemos</td><td>Month</td><td>Pig</td><td>Fall</td><td>7:30 AM</td><td>7:00 PM</td></tr>
+    <tr><td>Ikatagedos</td><td>Month</td><td>Servant</td><td>Fall</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Jostagonos</td><td>Month</td><td>Spider</td><td>Winter</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Kepotamos</td><td>Month</td><td>Donkey</td><td>Winter</td><td>8:00 AM</td><td>6:30 PM</td></tr>
+    <tr><td>Lithalasos</td><td>Month</td><td>Judge</td><td>Winter</td><td>7:30 AM</td><td>7:00 PM</td></tr>
+    <tr><td>Uletas</td><td>Intercalary Day</td><td>Moon</td><td>Spring</td><td>7:17 AM</td><td>7:13 PM</td></tr>
+    <tr><td>Valentas</td><td>Intercalary Day</td><td>Sun</td><td>Spring</td><td>7:16 AM</td><td>7:14 PM</td></tr>
+    <tr><td>Wethias</td><td>Intercalary Day</td><td>Hearth Fire</td><td>Spring</td><td>7:15 AM</td><td>7:15 PM</td></tr>
+    <tr><td>Exostas</td><td>Intercalary Day</td><td>Wedding</td><td>Spring</td><td>7:14 AM</td><td>7:16 PM</td></tr>
+    <tr><td>Yargasas</td><td>Intercalary Day</td><td>Mountain</td><td>Spring</td><td>7:13 AM</td><td>7:17 PM</td></tr>
+    <tr><td>Zitimas</td><td>Intercalary Day</td><td>Thunderbolt</td><td>Spring</td><td>7:12 AM</td><td>7:18 PM</td></tr>
+  </tbody>
+</table>
+
+There are seven days in a week, starting with Onodes Day. The days of the week are Onodes, Twetes, Tritos, Fodras, Fefdes, Sigtes, and Seftos.
+
+The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is a full moon, and it is Onodes Day.
+
+The current year is noted as 189 YE. The Yargyez Empire was founded in the year 1 YE. The first year before the Yargyez Empire is noted as 1 BYE.
 
