@@ -1089,15 +1089,6 @@ Target a creature within 40 feet. It takes MoS damage.
 
 A ball of light flies from the caster's fingertip, moves in a straight line for 200 feet, then disappears.
 
-### Fly
-
-* Difficulty: Superb (+3)
-* Cast by: Schoolmage
-* Skill: Physical
-* Duration: 10 minutes
-
-The caster or target becomes capable of freely flying through the air. The target may fly at the same speed as they would sprint.
-
 ### Gust of Wind
 
 * Difficulty: Good (+1)
