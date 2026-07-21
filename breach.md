@@ -1427,7 +1427,7 @@ This spell may target up to MoS number of creatures. Each target must resist wit
 
 The caster gains the ability to communicate with animals.
 
-### Summon Cthonian
+### Summon Cthonian Ally
 
 * Difficulty: Great (+2)
 * Cast by: Invoker (All)
@@ -1968,14 +1968,14 @@ Archon worship used to be widespread in Conliah, and Agathos worship was little 
 
 Archons grant magical power in exchange for continued service. If an Invoker displeases an Archon, then the Archon make revoke the Invoker's power at-will. If an Invoker's gift is permanently revoked, then the character should receive 6 EP as compensation.
 
-All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian.
+All Invokers may cast Commune With Archon, Desecrate, Detect Souls, and Summon Cthonian Ally.
 
-* **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian brings an Arachnaur.
-* **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian brings a Nightcreep.
-* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian brings a Snail Head.
-* **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian brings a Tormentor.
-* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian brings a Drake.
-* **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian brings a Naga.
+* **Ulviazing**: Invokers may cast Sleep, Enthrall, Memory Wipe, and Charm. Summon Cthonian Ally brings an Arachnaur.
+* **Ogzim**: Invokers may cast Darkness, Silence, Invisibility, and Bane. Summon Cthonian Ally brings a Nightcreep.
+* **Igedeng**: Invokers may cast Animate Dead, Trap Yellow Soul, Blight, and Whisper. Summon Cthonian Ally brings a Snail Head.
+* **Lize**: Invokers may cast Rage, Acid Splash, Burning Hands, and Blight. Summon Cthonian Ally brings a Tormentor.
+* **Lundazing**: Invokers may cast Lightning Bolt, Fire Bolt, Groundburst, and Command. Summon Cthonian Ally brings a Drake.
+* **Inizozim**: Invokers may cast Acid Splash, Charm, Retribution, and Last Strike. Summon Cthonian Ally brings a Naga.
 
 Appendix D: Cosmology
 ---
