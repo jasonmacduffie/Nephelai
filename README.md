@@ -18,7 +18,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
 
 *   **Where Are You:** You are on the continent of Conliah. Conliah was thought to be the only continent in the world, surrounded by endless ocean, until explorers from a continent to the east called Lodumpis landed on its shores nineteen years ago.
 *   **History:** In ancient times, there was a High Elven empire called the Magellian Empire. They had incredible magical technology which is now lost to time, and they mysteriously collapsed. 188 years ago, the Yargyez Empire was formed which reunited all of Conliah under Human rule.
-*   **Races:** There are eight major races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inton, Eastgardia.
+*   **Races:** There are eight major races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inthen, Eastgardia.
 *   **Religion:** There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.
 *   **Cosmology:** There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.
 *   **Magic:** Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.
@@ -50,7 +50,7 @@ _\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
 
 ### Geographic Summary
 
-Conliah is the main continent on the surface of Arbigard. It is bordered by two oceans: the Talantic Ocean to the east, and the Acivic Ocean to the west. The entire continent is approximately 10.8 million square miles in area, including all land and bodies of water.
+Conliah is the main continent on the surface of Arbigard. It is bordered by four oceans: the Esdic Ocean to the east, the Suthic Ocean to the south, the Vesdic Ocean to the west, and the Northic Ocean to the north. The entire continent is approximately 10.8 million square miles in area, including all land and bodies of water.
 
 The Yargyez Empire has divided the continent into eight provinces, each one the homeland of a distinct race:
 
@@ -63,7 +63,7 @@ The Yargyez Empire has divided the continent into eight provinces, each one the 
 *   **Wuthelark** is a land of deserts and jungles to the south. It is the homeland of the Catfolk.
 *   **Nightglade** is a marsh to the southeast. It is the homeland of the Lizardfolk.
 
-Until very recently, denizens of Conliah believed they were the only continent in the world and no other lands were beyond the oceans. Recently this was proven incorrect by explorers from across the Talantic Ocean, who claim to be from a continent called Lodumpis.
+Until very recently, denizens of Conliah believed they were the only continent in the world and no other lands were beyond the oceans. Recently this was proven incorrect by explorers from across the Esdic Ocean, who claim to be from a continent called Lodumpis.
 
 ### Cosmological Summary
 
@@ -168,7 +168,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
     <tr>
       <td>Imperial</td>
       <td>Northic</td>
-      <td>Spoken by the Humans of Eastgardia, and most other Conlian races.</td>
+      <td>Spoken by the Humans of Eastgardia, and most other Conlian races. There are four widely spoken dialects of Imperial in Eastgardia, corresponding to four major regions. These dialects are Walasian, Kastian, Maramian, and Apnian. The dialect of Imperial used in formal settings is Walasian, while the other three dialects are perceived as informal or uneducated when spoken outside of a private setting. All of these dialects are mutually intelligible, but also immediately identifiable.</td>
     </tr>
     <tr>
       <td>Dwarvish</td>
@@ -327,7 +327,7 @@ Humans conquered Conliah, uniting it once again. 1 YE marks the consolidation of
 Now, in the past twenty years, the below events happened:
 
 *   170 YE: Contact was made with peoples from a continent in the east named Lodumpis. They called themselves the Uzvu Confederation, a coalition between Orc warlords, Goblin traders and craftsmen, and Ogre manual laborers and soldiers. They have brought with them arcane technology superior to the Yargyez but inferior to the Magellians, and claim to be on a divine civilization mission to bring the continent under the ruler of the Uzvu Confederation.
-*   172 YE: A group of high ranking Human officials launched a failed coup against the emperor in Inton. It was later uncovered that they were Brannenlads, cultists of Lundazing.
+*   172 YE: A group of high ranking Human officials launched a failed coup against the emperor in Inthen. It was later uncovered that they were Brannenlads, cultists of Lundazing.
 *   175 YE: In Nightglade, a faction of Lizardfolk launched a rebellion against the Empire. They were suppressed with force, undermining the legitimacy of the Empire.
 *   178 YE: In western Helscar, a coalition of Chieftains have agreed to revive forbidden forms of ancestor worship that bind mortal souls, which the Imperial Cult considers a heresy.
 *   178 YE: Philosophical lodges across the continent have joined forces for mutual protection, calling themselves the Philosophers Guild. While not promoting outright Archon worship, their questioning opens the door to heresy.
@@ -359,11 +359,43 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from the temperate coast of Eastgardia, which has a variety of mountains, hills, forests, and wetlands.
 *   **Culture:** Human society is defined by pragmatism, diplomacy, and political aptitude.
 *   **Disposition:** As the ruling race of the Yargyez Empire, Humans seek to maintain its continuity in Conliah, restore its former glory, and broker agreement between the other provinces.
-*   **Language:** Humans speak Common, the official language of the Yargyez Empire.
+*   **Language:** Humans speak Imperial, the official language of the Yargyez Empire.
 *   **Names:**
-    *   **Male:** Barapi, Guthin, Kiti, Lalen, Nathi, Nelin, Pathin, Rothik, Satip, Usmit
-    *   **Female:** Bahut, Basitra, Gathi, Geela, Giha, Hota, Kata, Resha, Sapitha, Valeta
+    *   **Male:** Barapi, Kithi, Kuthin, Lalen, Nathi, Nelin, Pathin, Rothik, Sathip, Usmit
+    *   **Female:** Bahut, Basitra, Kathi, Kiha, Kotha, Lila, Pesh, Sasha, Sathipa, Valethi
     *   **Second names:** Only the Human aristocracy has true patrilineal surnames of the form [Given Name] of House [Family]. Examples of major families are Yargyez, Gothiko, and Parsha. There is no standard rule for commoner bynames.
+
+The spelling and pronunication of given names vary by dialect of Imperial.
+
+<table>
+  <thead>
+    <tr>
+    <th>Walasian</th><th>Kastian</th><th>Maramian</th><th>Apnian</th></tr>
+  </thead>
+  <tbody>
+<tr><td>Barapi</td><td>Barapi</td><td>Biripar</td><td>Barapi</td></tr>
+<tr><td>Kithi</td><td>Gidi</td><td>Kathar</td><td>Kuthi</td></tr>
+<tr><td>Kuthin</td><td>Gudin</td><td>Kuthan</td><td>Kothun</td></tr>
+<tr><td>Lalen</td><td>Lalen</td><td>Lilen</td><td>Lalen</td></tr>
+<tr><td>Nathi</td><td>Nadi</td><td>Nithar</td><td>Nathi</td></tr>
+<tr><td>Nelin</td><td>Nelin</td><td>Nelan</td><td>Nelun</td></tr>
+<tr><td>Pathin</td><td>Padin</td><td>Pithan</td><td>Pathun</td></tr>
+<tr><td>Rothik</td><td>Roding</td><td>Rothak</td><td>Rithuk</td></tr>
+<tr><td>Sathip</td><td>Sadip</td><td>Sithap</td><td>Sathup</td></tr>
+<tr><td>Usmit</td><td>Usmita</td><td>Usmat</td><td>Osmut</td></tr>
+<tr><td>Bahut</td><td>Bahuta</td><td>Bihut</td><td>Bahot</td></tr>
+<tr><td>Basitra</td><td>Basidra</td><td>Bisatri</td><td>Basutra</td></tr>
+<tr><td>Kathi</td><td>Gadi</td><td>Kithar</td><td>Kathi</td></tr>
+<tr><td>Kiha</td><td>Giha</td><td>Kahi</td><td>Kuha</td></tr>
+<tr><td>Kotha</td><td>Goda</td><td>Kothi</td><td>Kitha</td></tr>
+<tr><td>Lila</td><td>Lila</td><td>Lali</td><td>Lula</td></tr>
+<tr><td>Pesh</td><td>Pesh</td><td>Pesh</td><td>Pesh</td></tr>
+<tr><td>Sasha</td><td>Sasha</td><td>Sishi</td><td>Sasha</td></tr>
+<tr><td>Sathipa</td><td>Sadipa</td><td>Sithapi</td><td>Sathupa</td></tr>
+<tr><td>Valethi</td><td>Valedi</td><td>Vilethar</td><td>Valethi</td></tr>
+  </tbody>
+</table>
+
 
 ### Dwarves
 
@@ -374,7 +406,7 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** Their homeland is the icy mountain province of Helscar.
 *   **Culture:** Dwarven society emphasizes stoicism, artisanry, military reverence.
 *   **Disposition:** The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.
-*   **Language:** Dwarves speak Dwarvish and Common.
+*   **Language:** Dwarves speak Dwarvish and Imperial.
 *   **Names:**
     *   **Male:** Amnil, Bellen, Frang, Horik, Karik, Viel, Warhab, Wolfhan, Yarel, Yurz
     *   **Female:** Aber, Brigat, Elya, Gorim, Helgrid, Imka, Inya, Nikt, Sonka, Wolya
@@ -389,7 +421,7 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from Middlestone, which consists of three regions: rolling hills and valleys to the north, a massive fertile prarie in the center, and forested hills to the south.
 *   **Culture:** Halfling society values chivalry, formal etiquette, humility, and piety.
 *   **Disposition:** As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.
-*   **Language:** Halflings speak Halfling and Common.
+*   **Language:** Halflings speak Halfling and Imperial.
 *   **Names:**
     *   **Male:** Arima, Ashiko, Kamiso, Katako, Kiriko, Naruka, Razushi, Shishito, Takira, Yokashi
     *   **Female:** Fuho, Kiko, Kito, Miho, Niko, Riho, Sano, Shiko, Tato, Yoto
@@ -404,10 +436,10 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** Their homeland is the volcanic taiga province of Valorgale.
 *   **Culture:** Dark Elven culture is steeped in secrecy and clan loyalty.
 *   **Disposition:** Perspectives on the Yargyez Empire vary widely across clans: some are loyal to the Yargyez, and others are outright Archon worshipping revivalists.
-*   **Language:** Dark Elves speak Dark Elvish and Common.
+*   **Language:** Dark Elves speak Dark Elvish and Imperial.
 *   **Names:**
-    *   **Male:** Azong, Gaiti, Gozeti, Gozing, Taiguda, Tainur, Tiyun, Tozang, Yaigun, Yongtin
-    *   **Female:** Bantori, Bumjer, Erbutai, Erjer, Jerdeni, Jerutai, Jerzani, Ozgani, Umbani, Zunhai
+    *   **Male:** Azong, Dolash, Gaiti, Gozeti, Miyor, Taiguda, Tainur, Tozduk, Yaigun, Yongtin
+    *   **Female:** Bantori, Bulma, Erbutai, Erjer, Jerdeni, Jebula, Ozgani, Umbiz, Zorzani, Zunhai
     *   **Second names:** Although clan identity is very important in Dark Elf culture, there is no formal system of surnames. The inconsistent use of bynames are common.
 
 ### Wood Elves
@@ -419,7 +451,7 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from the mountainous forests of Westerwood.
 *   **Culture:** Wood Elven culture values ecological spirituality, resourcefulness, and a strong hunting tradition.
 *   **Disposition:** Having historically suffered under High Elf domination, Wood Elves see the Empire as a stabilizing buffer preserving their autonomy. However, there are secret factions in Westerwood who side with High Elven revivalists.
-*   **Language:** Wood Elves speak Wood Elvish and Common.
+*   **Language:** Wood Elves speak Wood Elvish and Imperial.
 *   **Names:**
     *   **Male:** Akhsunal, Ankhiral, Lursukhil, Mirkhudel, Mirlakhil, Takhildin, Tamirnal, Turlandel, Tursanal, Zakhildin
     *   **Female:** Ainura, Ainuza, Dilima, Dilinar, Gizhan, Gizhara, Linira, Nazhan, Nazhira, Zhanura
@@ -434,7 +466,7 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from the arid mountains of Fair Island.
 *   **Culture:** High Elven society upholds religious dogma, the arcane arts, and a hierarchy based on lineage.
 *   **Disposition:** High Elves are nostalgic for the Magellian Empire, which prioritized High Elf superiority. Many High Elves view the Yargyez Empire as having strayed from the original form of Agathos worship practiced in the Magellian Empire.
-*   **Language:** High Elves speak High Elvish and Common.
+*   **Language:** High Elves speak High Elvish and Imperial.
 *   **Names:**
     *   **Male:** Achos, Aristopan, Diacrates, Goreas, Homias, Lenysis, Lykos, Menos, Polis, Taleas
     *   **Female:** Astera, Dorela, Elaria, Menodora, Ozia, Philora, Soria, Zedara, Zenara, Zephyra
@@ -449,10 +481,10 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from Wuthelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.
 *   **Culture:** Catfolk culture centers celestial spirituality, clan loyalty, and libertinism.
 *   **Disposition:** Perspectives on the Yargyez Empire are split geographically between jungle and desert Catfolk. The northern nomads resist the Yargyez Empire's encroachment due to its unwillingness to recognize nomadic land rights.
-*   **Language:** Catfolk speak Catfolk and Common.
+*   **Language:** Catfolk speak Catfolk and Imperial.
 *   **Names:**
-    *   **Male:** Golni, Pundi, Dadiya, Tunnad, Samuha, Dvariya
-    *   **Female:** Bangu, Binan, Enduk, Konis, Kalis, Untam
+    *   **Male:** Adaval, Apiham, Dadiya, Dvariya, Golni, Omahet, Pundi, Samuha, Takana, Tunnad
+    *   **Female:** Bangu, Binan, Dveta, Enduk, Eniya, Konis, Kalis, Liyata, Untam, Yanara
     *   **Second names:** Southern Catfolk use toponymic bynames, but these are informal and flexible. They take the form [Given Name] di [Place]. Occasionally, Southern Catfolk use other kinds of bynames too. Northern Catfolk have no consistent system of bynames.
 
 ### Lizardfolk
@@ -464,10 +496,10 @@ There are eight major races in Conliah, each hailing from one of the eight provi
 *   **Homeland:** They hail from the marsh province of Nightglade.
 *   **Culture:** Lizardfolk culture emphasizes ecological spirituality, ancestor veneration, and clan loyalty.
 *   **Disposition:** Lizardfolk are, on the whole, enemies of the Yargyez Empire. The Lizardfolk rulers who agreed to peacefully cede their lands to the Yargyez Empire in exchange for continuous rule are viewed as traitors to their own race. Factions of Lizardfolk across Nightglade actively resist Yargyez presence in the province. Many rebels have taken to underground caves across Nightglade and Eastgardia to stage attacks on Imperial outposts.
-*   **Language:** Lizardfolk speak Lizardfolk and Common.
+*   **Language:** Lizardfolk speak Lizardfolk and Imperial.
 *   **Names:**
-    *   **Male:** Yengtan, Hobuing, Dongok, Toavan, Kuyet, Sontan
-    *   **Female:** Bithui, Nuwan, Natlan, Thiho, Tangko, Trinku
+    *   **Male:** Anang, Dongok, Hobuing, Kuyet, Lahat, Param, Sontan, Stayong, Toavan, Yengtan
+    *   **Female:** Bithui, Bukan, Halian, Lalaba, Langyet, Natlan, Nuwan, Tangko, Thiho, Trinku
     *   **Second names:** Lizardfolk have true patrilineal surnames of the form [Given Name] [Family]. Examples of major clans are Yehok-Tin, Engpan-Yet, and Okyeng-Weng. These patrilineal surnames are somewhat political. Those who are loyal to the Yargyez Empire and the Lizardfolk aristocracy tend to retain traditional surnames. Those who support the Lizardfolk rebellion tend to abandon traditional family names in favor of self-assumed neologized honorifics like Dark-Eyes, Virtue-Speaker, and No-Name. These neologized honorifics are sometimes passed down patrilineally, matrilineally, or sometimes replaced with new honorifics of the same kind.
 
 ### Orcs
@@ -1029,7 +1061,7 @@ _\-- The Thirty-Third Cloudruled Dialogue: The Warlords_
 
 ### The Yargyez Empire
 
-The Yargyez Empire is the dominant political force on the continent of Conliah. The center of power in the Yargyez Empire is the royal palace in Inton, Eastgardia. The Yargyez Emperor is the absolute ruler of the Yargyez Empire. The Grand Vizier oversees the Imperial Council and reports directly to the Yargyez Emperor.
+The Yargyez Empire is the dominant political force on the continent of Conliah. The center of power in the Yargyez Empire is the royal palace in Inthen, Eastgardia. The Yargyez Emperor is the absolute ruler of the Yargyez Empire. The Grand Vizier oversees the Imperial Council and reports directly to the Yargyez Emperor.
 
 The Imperial Council handles the day-to-day affairs of the Empire. It is composed of viziers, Royal Guard generals, and religious scholars. The Imperial Council decides the law and its practical enforcement across Conliah. They appoint provincial governors for each province across the continent, and have the power to revoke provincial governors' authority at-will.
 
@@ -1041,7 +1073,7 @@ The Yargyez Royal Guard are the military and law enforcement of the Yargyez Empi
 
 ### The Uzvu Confederation
 
-The Uzvu Confederation are a foreign state from a newly encountered continent named Lodumpis. They are a technologically advanced civilization that views its military incursion into Conliah as divinely sanctioned.
+The Uzvu Confederation is a technologically advanced coalition of Orcs, Goblins, and Ogres from the continent of Lodumpis. The continent of Lodumpis only made contact with Conliah nineteen years ago. Uzvu Confederation fleets harass ports in eastern Conliah, seeking ports and fortresses to stage further expansion. The Uzvu Confederation also engages in diplomacy and trade with disaffected factions in Conliah, such as Lizardfolk rebels in Nightglade province. The Confederation is dominated by fanatical Cloud Worship, and its religious intolerance makes diplomacy with the Yargyez Empire difficult. Uzvu soldiers often destroy artifacts and temples dedicated to the Agathoi. The Uzvu Confederation gladly employs outlaws from the Yargyez Empire, so long as they abandon reverence to the Agathoi and Archons alike.
 
 Their symbol is a white greataxe standing up straight, with three tulips at the base. The tulips are red, orange, and yellow with green stems. Behind the logo is a black background.
 
@@ -1133,7 +1165,7 @@ The Destructivist school of thought emerged in Helscar, based on their epistemol
 
 The Academy of Knowledge is the largest magical organization in Conliah, and has direct ties to the Yargyez Empire. It is dedicated to the open, systematic study of magic.
 
-Each university is overseen by a Rectormage, who is appointed by an Archmage Provincial. Likewise, the Rectormage appoints Chairmages for each department of study. There are eight Archmage Provincials, one for each province. Above all of them stand the Archmage General in Inton, Eastgardia.
+Each university is overseen by a Rectormage, who is appointed by an Archmage Provincial. Likewise, the Rectormage appoints Chairmages for each department of study. There are eight Archmage Provincials, one for each province. Above all of them stand the Archmage General in Inthen, Eastgardia.
 
 In addition to learning the principles of schoolmagic, the universities also emphasize civil, moral, and philosophical education to ensure graduates employ magic in line with the Yargyez Empire's wishes.
 
@@ -1898,7 +1930,7 @@ Provinces
 
 ![The Catskills by Asher B Durand](The_Catskills_Asher_B_Durand.jpeg "Eastgardia is a land of hills, forests, and rivers.")
 
-*   **Capital:** Inton (pop. 80,000)
+*   **Capital:** Inthen (pop. 80,000)
 *   **Population:** 24 million
 *   **Majority Race:** Human
 *   **Wild Beasts:** Black Bears, Giant Rats, Wild Boars
@@ -1909,12 +1941,12 @@ Provinces
 *   **Resources:** grain, timber, livestock, fish
 *   **Area:** 720 thousand square miles
 *   **Important NPCs:**
-    *   **Emperor Ezgar of House Yargyez (Human)** is the head of the Yargyez Empire. He rules from the Royal Palace, in Inton.
-    *   **Archmage General Gopa (Human)** is the head of the Academy of Knowledge, and resides in Inton. He does not have any personal loyalty to the Yargyez Empire, but cooperates with it in order to continue his research.
+    *   **Emperor Ezgar of House Yargyez (Human)** is the head of the Yargyez Empire. He rules from the Royal Palace, in Inthen.
+    *   **Archmage General Gopa (Human)** is the head of the Academy of Knowledge, and resides in Inthen. He does not have any personal loyalty to the Yargyez Empire, but cooperates with it in order to continue his research.
     *   **Archbishop Ushra (Human)** is the head of the Order of Iazus. She is incredibly dedicated to rooting out Archon worship across Conliah, but worries that her inquisitors are stretched thin.
     *   **Bandit King Lo the Vicious (Human)** is the head of a province-spanning Tyvenlad syndicate. He operates out of Bridgeport, where he controls the government.
 
-Eastgardia is a temperate region with fertile soil, and numerous lakes and rivers. The heart of the Yargyez Empire is in the Royal Palace, located in the mountain city of Inton. In the Jang River region, there is the city of Bridgeport, which has a corrupt government loyal to the local Bandit King. The Karlsvale region to the south borders Nightglade, and faces constant attacks from Lizardfolk rebels. To the north are the Chainledges region, home to Portborough University, the largest school of the Academy of Knowledge.
+Eastgardia is a temperate region with fertile soil, and numerous lakes and rivers. There are four major regions of Eastgardia: the Gray Mountains to the center and west, also called Walasia; the Jang River region to the center and east, also called Maramia; the Kalis Valley region to the south and east, also called Kastia; and the Chain Ledges region to the north, also called Apnia. The heart of the Yargyez Empire is the Royal Palace, located in the Gray Mountains city of Inthen. In the Jang River region, there is the city of Bridgeport, which has a corrupt government loyal to the local Bandit King. The Kalis Valley region borders Nightglade, and faces constant attacks from Lizardfolk rebels. The Chain Ledges region, home to Parithborough University, the largest school of the Academy of Knowledge.
 
 ### Helscar
 
@@ -2049,7 +2081,7 @@ Wuthelark is divided into three regions. First is the southern Tamain Jungle, wh
 *   **Resources:** fish
 *   **Area:** 720 thousand square miles
 
-Nightglade is divided into two regions. First is the Kangiet Highlands to the west, which are the headwaters of the marsh. Second is the Aungkong Lowlands to the east, which drain the rivers into the Talantic Ocean. Since the conquest of the Yargyez Empire, the entire region has been in an open civil war between the land-owning Lizardfolk nobles who willingly surrendered to the Yargyez Empire and answer the Imperial governor, and the vast majority of Lizardfolk who view the Yargyez Empire's presence as an illegitimate occupier of their lands. There are numerous deep caves across Nightglade which have served as fortresses for Lizardfolk rebels.
+Nightglade is divided into two regions. First is the Kangiet Highlands to the west, which are the headwaters of the marsh. Second is the Aungkong Lowlands to the east, which drain the rivers into the Esdic Ocean. Since the conquest of the Yargyez Empire, the entire region has been in an open civil war between the land-owning Lizardfolk nobles who willingly surrendered to the Yargyez Empire and answer the Imperial governor, and the vast majority of Lizardfolk who view the Yargyez Empire's presence as an illegitimate occupier of their lands. There are numerous deep caves across Nightglade which have served as fortresses for Lizardfolk rebels.
 
 Daily Life
 ----------
