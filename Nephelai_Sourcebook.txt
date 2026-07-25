@@ -1930,6 +1930,8 @@ Provinces
 
 ![The Catskills by Asher B Durand](The_Catskills_Asher_B_Durand.jpeg "Eastgardia is a land of hills, forests, and rivers.")
 
+![Eastgardia Map](EASTGARDIA_MAP.png "A map of Eastgardia.")
+
 *   **Capital:** Inthen (pop. 80,000)
 *   **Population:** 24 million
 *   **Majority Race:** Human
