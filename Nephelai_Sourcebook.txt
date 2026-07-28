@@ -18,7 +18,7 @@ Most of this sourcebook is written for GMs. It contains spoilers, so players sho
 
 *   **Where Are You:** You are on the continent of Conliah. Conliah was thought to be the only continent in the world, surrounded by endless ocean, until explorers from a continent to the east called Lodumpis landed on its shores nineteen years ago.
 *   **History:** In ancient times, there was a High Elven empire called the Magellian Empire. They had incredible magical technology which is now lost to time, and they mysteriously collapsed. 188 years ago, the Yargyez Empire was formed which reunited all of Conliah under Human rule.
-*   **Races:** There are eight major races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Wuthelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inthen, Eastgardia.
+*   **Races:** There are eight major races in Conliah: the Humans of Eastgardia, the Dwarves of Helscar, the Halflings of Middlestone, the Dark Elves of Valorgale, the Wood Elves of Westerwood, the High Elves of Fair Island, the Catfolk of Southelark, and the Lizardfolk of Nightglade. All eight provinces are ruled by the Yargyez Empire, a Human empire whose capital is in the city of Inthen, Eastgardia.
 *   **Religion:** There are good gods called the Agathoi, and evil gods called the Archons. The Imperial Cult worships the Agathoi (especially the Six Guardians) and hunts down those who worship the Archons. Archon worship is uncommon, but Archons grant their worshippers immense power in exchange for spiritual corruption.
 *   **Cosmology:** There are three realms of existence: Ksylia, Asteria, and Cthonia. The Agathoi reside in Asteria, the Archons reside in Cthonia, and mortals reside in Ksylia. Ksylia is further divided into three parts: The Skies above are the open atmosphere, the Neaths below are a network of deep caverns, and Arbigard is the surface where the majority of mortal affairs take place.
 *   **Magic:** Soul material is present in all three realms of existence. Soul material grants animate beings their life force, and magic wielders gain powers by manipulating this soul material. However, magic wielders possess different magical powers based on which realm their soul material is sourced from.
@@ -60,7 +60,7 @@ The Yargyez Empire has divided the continent into eight provinces, each one the 
 *   **Valorgale** is made of volcanically active barrens and boreal forests to the northwest. It is the homeland of the Dark Elves.
 *   **Westerwood** is made of dense, old growth forest to the west. It is the homeland of the Wood Elves.
 *   **Fair Island** is a massive island of arid mountains to the southwest. It is the homeland of the High Elves.
-*   **Wuthelark** is a land of deserts and jungles to the south. It is the homeland of the Catfolk.
+*   **Southelark** is a land of deserts and jungles to the south. It is the homeland of the Catfolk.
 *   **Nightglade** is a marsh to the southeast. It is the homeland of the Lizardfolk.
 
 Until very recently, denizens of Conliah believed they were the only continent in the world and no other lands were beyond the oceans. Recently this was proven incorrect by explorers from across the Esdic Ocean, who claim to be from a continent called Lodumpis.
@@ -198,7 +198,7 @@ The moon completes a lunar cycle in 28 days. The first day of the year 189 YE is
     <tr>
       <td>Catfolk</td>
       <td>Suthic</td>
-      <td>Spoken by the Catfolk of Wuthelark.</td>
+      <td>Spoken by the Catfolk of Southelark.</td>
     </tr>
     <tr>
       <td>Lizardfolk</td>
@@ -478,7 +478,7 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 
 *   **Physical Description:** Catfolk are feline humanoids with sandy brown fur, upright ears, sharp claws, and long tails.
 *   **Lifespan:** Catfolk reach adulthood at 20 years, middle age at 40 years, elderhood at 60 years, and usually die by 80 years. They can live up to 110 years.
-*   **Homeland:** They hail from Wuthelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.
+*   **Homeland:** They hail from Southelark, which consists of three regions: a jungle to the south, a desert to the north, and a mountain range dividing them.
 *   **Culture:** Catfolk culture centers celestial spirituality, clan loyalty, and libertinism.
 *   **Disposition:** Perspectives on the Yargyez Empire are split geographically between jungle and desert Catfolk. The northern nomads resist the Yargyez Empire's encroachment due to its unwillingness to recognize nomadic land rights.
 *   **Language:** Catfolk speak Catfolk and Imperial.
@@ -1131,7 +1131,7 @@ The symbol used by the Artisans Guild is an eight-toothed gear with an eye in th
 
 #### The Quietists
 
-The Quietist school of thought emerged in Wuthelark, based on their epistemological claim that truth can only be revealed by inward and outward silence. Their worldview rejected that it is necessary to act in the world or engage discursively to arrive at truth. Their goal is to defend the practice of solitude and silence as a pathway to truth. In their lodges, they offer silent meditation rooms where practicioners seek to obtain visions through total silence. Their followers have the ability to cast Ardent Magic, but only in complete darkness and silence. They are resistant to silencing spells, and have enhanced vision in darkness. Their master lodge is located in Wuthelark. Their lodge seal is a lion, sleeping on a hill. Their harshest critics are the Destructivists, and their sympathizers are the Refinists, the Escapists, and the Symphonists.
+The Quietist school of thought emerged in Southelark, based on their epistemological claim that truth can only be revealed by inward and outward silence. Their worldview rejected that it is necessary to act in the world or engage discursively to arrive at truth. Their goal is to defend the practice of solitude and silence as a pathway to truth. In their lodges, they offer silent meditation rooms where practicioners seek to obtain visions through total silence. Their followers have the ability to cast Ardent Magic, but only in complete darkness and silence. They are resistant to silencing spells, and have enhanced vision in darkness. Their master lodge is located in Southelark. Their lodge seal is a lion, sleeping on a hill. Their harshest critics are the Destructivists, and their sympathizers are the Refinists, the Escapists, and the Symphonists.
 
 #### The Refinists
 
@@ -1968,7 +1968,7 @@ Eastgardia is a temperate region with fertile soil, and numerous lakes and river
     *   **Chieftain Asbirn Hamarson (Dwarf)** resides in the Highchill Mountains city of Hrafnagil. He is a firebrand who supports soul-binding ancestral veneration.
     *   **Manufacturer Supreme Vasa (Human)** is the head of the Artisans Guild. She resides in Eithar.
 
-Helscar is a massive tundra region, which mainly exports ore and requires agricultural exports from Middlestone and Eastgardia for survival. The local chieftains have no formal authority, but are respected by the Imperial provincial governor as representatives of their clans. The region is divided between the western chieftains of the Highchill Mountains who demand greater autonomy, and the eastern chieftains of the Shifting Foothills who willingly submit to Imperial oversight.
+Helscar is a massive tundra region, which mainly exports ore and requires agricultural exports from Middlestone and Eastgardia for survival. The local chieftains have no formal authority, but are respected by the Imperial provincial governor as representatives of their clans. The province is divided between the western chieftains of the Highchill Mountains who demand greater autonomy, and the eastern chieftains of the Shifting Foothills who willingly submit to Imperial oversight. To the north of the Shifting Foothills is the vast Ice Barrens region, which is hardly populated at all.
 
 ### Middlestone
 
@@ -2046,11 +2046,11 @@ Westerwood is divided into three regions. First is the densely forested Teren Ba
 
 Fair Island is a massive arid island divided into three regions. The Tispus Coast to the west receives winter rainfall which allows for massive orchards. The Tipsus Coast is home to the capital of Thesekira, as well as the ancient Magellian capital of Atherita which is still inhabited. The Taknis Mountains at the center are sparsely populated grasslands, and the Gastus Coast to the east is a barren, uninhabited desert. The High Elf King Typhen resides in Thesekira, and jointly rules Fair Island with the Imperial governor. However, he is not loyal to the Yargyez Empire and is part of the Synomachos conspiracy.
 
-### Wuthelark
+### Southelark
 
-![Chasm of the Colorado by Thomas Moran](Chasm_of_the_Colorado_Thomas_Moran.jpeg "Northern Wuthelark is a vast desert.")
+![Chasm of the Colorado by Thomas Moran](Chasm_of_the_Colorado_Thomas_Moran.jpeg "Northern Southelark is a vast desert.")
 
-![Brazilian Virgin Forest by Johann Moritz Rugendas](Brazilian_Virgin_Forest_Johann_Moritz_Rugendas.jpeg "Southern Wuthelark is a vast jungle.")
+![Brazilian Virgin Forest by Johann Moritz Rugendas](Brazilian_Virgin_Forest_Johann_Moritz_Rugendas.jpeg "Southern Southelark is a vast jungle.")
 
 *   **Capital:** Ramadiya (pop. 15,000)
 *   **Population:** 4.5 million
@@ -2063,10 +2063,10 @@ Fair Island is a massive arid island divided into three regions. The Tispus Coas
 *   **Resources:** fruit, ore
 *   **Area:** 1.8 million square miles
 *   **Important NPCs:**
-    *   **Willis the Watcher (Catfolk)** is the founder of the Quietest Master Lodge in Wuthelark. He trains new members in the art of silent contemplation.
+    *   **Willis the Watcher (Catfolk)** is the founder of the Quietest Master Lodge in Southelark. He trains new members in the art of silent contemplation.
     *   **Pip the Crier (Catfolk)** is a legendary prankster who seeks a revival of Lozie worship.
 
-Wuthelark is divided into three regions. First is the southern Tamain Jungle, which is an untamed wilderness ruled by land-owning Catfolk nobles who ultimately answer to the Imperial governor. Second are the Karamain Highlands, which are a semi-arid region dividing the southern jungle and the northern desert, which is hardly inhabited. Last is the Namara Desert to the north, which is home to nomadic tribes who resist Imperial rule. They have not formed an active resistance, but essentially do not respect the laws of the Yargyez Empire and view it as an illegitimate occupier of their nomadic lands.
+Southelark is divided into three regions. First is the southern Tamain Jungle, which is an untamed wilderness ruled by land-owning Catfolk nobles who ultimately answer to the Imperial governor. Second are the Karamain Highlands, which are a semi-arid region dividing the southern jungle and the northern desert, which is hardly inhabited. Last is the Namara Desert to the north, which is home to nomadic tribes who resist Imperial rule. They have not formed an active resistance, but essentially do not respect the laws of the Yargyez Empire and view it as an illegitimate occupier of their nomadic lands.
 
 ### Nightglade
 
@@ -2099,7 +2099,7 @@ Daily Life
 
 * **Mola dust** is a powdered stimulant which is snorted and absorbed in the nostrils. It is derived from the the mola nut, which must be roasted then ground into a fine powder. Without exposure to high temperatures, the drug is inert. Mola trees grow natively in Westerwood. It is highly addictive, and it is illegal to trade, possess and consume.
 * **Mola tea** is a more mild stimulant created by brewing the dry leaves of the mola tree. It contains the same active ingredient as mola dust. Brewing the dry leaves in hot water activates a smaller quantity of the active drug, but also releases the complex flavors of the leaf. Despite it being only weakly addictive, it is illegal to trade, possess, and consume due to its association with the highly addictive mola dust.
-* **Azeta nectar** is a sweet secretion given by azetas, a species of giant aphid native to Wuthelark. It has depressant effects when ingested. It is highly addictive, and it is illegal to trade, possess and consume.
+* **Azeta nectar** is a sweet secretion given by azetas, a species of giant aphid native to Southelark. It has depressant effects when ingested. It is highly addictive, and it is illegal to trade, possess and consume.
 * **Haze shrooms** are brown mushrooms with pink spots which have a depressant effect when ingested. They can also be cut, dried, and smoked through a pipe for the same effect. They grow underground across all of Conliah. It is illegal to trade, possess and consume.
 * **Ongvakong plants** are herbs native to Nightglade with hallucinogenic effects. They are used by Lizardfolk for ancestor veneration rituals.
 

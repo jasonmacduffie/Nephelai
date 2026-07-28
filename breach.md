@@ -198,7 +198,7 @@ Characters may pick a language from the below list, or any others the GM allows.
 * **Dark Elvish:** Dark Elvish is the local language of Valorgale province. It is also widely spoken by Dark Elves across the Empire. Dark Elvish uses Suthic Script for its writing system.
 * **Wood Elvish:** Wood Elvish is the local language of Westerwood province. It is also widely spoken by Wood Elves across the Empire. Wood Elvish uses Suthic Script for its writing system.
 * **High Elvish:** High Elvish is the local language of Fair Island province. It is also widely spoken by High Elves across the Empire. High Elvish uses Suthic Script for its writing system.
-* **Catfolk:** Catfolk is the local language of Wuthelark province. It is also widely spoken by Catfolk across the Empire. Catfolk uses Suthic Script for its writing system.
+* **Catfolk:** Catfolk is the local language of Southelark province. It is also widely spoken by Catfolk across the Empire. Catfolk uses Suthic Script for its writing system.
 * **Lizardfolk:** Lizardfolk is the local language of Nightglade province. It is also widely spoken by Lizardfolk across the Empire. Lizardfolk uses Northic Script for its writing system.
 * **Orcish:** Orcish is the native language of Orcs, and the common language of the Uzvu Confederation.
 * **Goblin:** Goblin is spoken by Goblins of the Uzvu Confederation.
