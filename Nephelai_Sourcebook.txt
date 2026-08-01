@@ -423,9 +423,9 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** As a central and agriculturally productive region, Middlestone was under constant attacks from adjacent regions during the interregnum. As a result, Halflings are among the most fervent supporters of the Yargyez Empire as protectors.
 *   **Language:** Halflings speak Halfling and Imperial.
 *   **Names:**
-    *   **Male:** Arima, Ashiko, Kamiso, Katako, Kiriko, Naruka, Razushi, Shishito, Takira, Yokashi
-    *   **Female:** Fuho, Kiko, Kito, Miho, Niko, Riho, Sano, Shiko, Tato, Yoto
-    *   **Second names:** Halflings have true patrilineal surnames of the form [Given Name] [Family]-zu. Examples of major clans are Teteko, Atana, and Kariko.
+    *   **Male:** Arimius, Ashikius, Damisius, Kantakus, Kirisius, Narukus, Razushius, Shishius, Takirius, Yokatus
+    *   **Female:** Amia, Amuza, Aroma, Bogata, Divina, Luna, Mara, Potenta, Tinera, Vita
+    *   **Second names:** Halflings have true patrilineal surnames of the form [Given Name] [Family]-zu. Examples of major clans are Teteko, Antana, and Kariko.
 
 ### Dark Elves
 
@@ -1988,7 +1988,7 @@ Helscar is a massive tundra region, which mainly exports ore and requires agricu
     *   **Supreme Commander Taeko Kariko-zu (Halfling)** is the head of the Belligerantes. She resides in Omugi.
     *   **Lord Kobuno Atana-zu (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
 
-Middlestone is divided into three regions. First are the massive Uzu Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.
+Middlestone is divided into three regions. First are the massive Untiku Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.
 
 ### Valorgale
 
