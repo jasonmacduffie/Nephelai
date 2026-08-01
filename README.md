@@ -513,9 +513,9 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** They see the Yargyez Empire as decadent and corrupt, and view the incursion of the Uzvu as a divinely sanctioned civilizing mission.
 *   **Language:** Orcs speak Orcish.
 *   **Names:**
-    *   **Male:** Goruk, Gona, Zargan, Estokel, Yabi, Kola, Margozek
-    *   **Female:** Ruwa, Fiyotaz, Bozai, Ledo, Tigo, Rabo, Saka
-    *   **Second names:** Orcs use patronymic bynames, of the form [Given Name] iz-[Father].
+    *   **Male:** Chowuk, Chola, Chona, Mani, Mawosik, Nihakwo, Pemin, Sakwan, Tahali, Wesokwa
+    *   **Female:** Cheto, Kahela, Mari, Noxan, Posa, Sakwa, Tiho, Waho, Wehota, Woha
+    *   **Second names:** Orcs use patronymic bynames, of the form [Given Name] ish-[Father].
 
 ### Goblins
 
@@ -528,8 +528,8 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** Goblins view the Yargyez Empire as a repository of riches, ripe for extraction and development.
 *   **Language:** Goblins speak Goblin and Orcish.
 *   **Names:**
-    *   **Male:** Tims, Tins, Trix, Trops, Pats, Pils, Tox
-    *   **Female:** Marx, Max, Renks, Rinks, Lits, Larts, Mux
+    *   **Male:** Lars, Lax, Mars, Max, Nits, Pits, Tims, Tinks, Trix, Traps
+    *   **Female:** Kims, Kits, Lits, Marx, Mux, Nats, Pats, Pinks, Rinks, Tox
     *   **Second names:** Goblins almost exclusively use profession-based bynames, of the form [Given Name] the [Profession].
 
 ### Ogres

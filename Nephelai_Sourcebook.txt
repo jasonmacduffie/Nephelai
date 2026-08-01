@@ -528,8 +528,8 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** Goblins view the Yargyez Empire as a repository of riches, ripe for extraction and development.
 *   **Language:** Goblins speak Goblin and Orcish.
 *   **Names:**
-    *   **Male:** Tims, Tins, Trix, Trops, Pats, Pils, Tox
-    *   **Female:** Marx, Max, Renks, Rinks, Lits, Larts, Mux
+    *   **Male:** Lars, Lax, Mars, Max, Nits, Pits, Tims, Tinks, Trix, Traps
+    *   **Female:** Kims, Kits, Lits, Marx, Mux, Nats, Pats, Pinks, Rinks, Tox
     *   **Second names:** Goblins almost exclusively use profession-based bynames, of the form [Given Name] the [Profession].
 
 ### Ogres
