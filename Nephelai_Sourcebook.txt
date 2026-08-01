@@ -408,8 +408,8 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** The mountain Dwarves of western Helscar tend towards demanding greater autonomy from the Yargyez Empire, whereas the foothill Dwarves of eastern Helscar tend towards loyalty and integration with the Empire.
 *   **Language:** Dwarves speak Dwarvish and Imperial.
 *   **Names:**
-    *   **Male:** Amnil, Bellen, Frang, Horik, Karik, Viel, Warhab, Wolfhan, Yarel, Yurz
-    *   **Female:** Aber, Brigat, Elya, Gorim, Helgrid, Imka, Inya, Nikt, Sonka, Wolya
+    *   **Male:** Aleksnot, Artvik, Bellen, Frang, Horik, Ivel, Mikhud, Viel, Wolfhan, Yurz
+    *   **Female:** Anoya, Barvera, Brigat, Evesk, Helgrid, Inya, Nikt, Sofiya, Sonka, Tori
     *   **Second names:** Dwarves use patronymic bynames, of the form [Father]son, [Father]daughter, or [Father]kid.
 
 ### Halflings
@@ -1986,7 +1986,7 @@ Helscar is a massive tundra region, which mainly exports ore and requires agricu
 *   **Area:** 1.4 million square miles
 *   **Important NPCs:**
     *   **Supreme Commander Taeko Kariko-zu (Halfling)** is the head of the Belligerantes. She resides in Omugi.
-    *   **Lord Kobuno Atana-zu (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
+    *   **Lord Kobunius Antana-zu (Halfling)** is a noble in the Oto foothills who is seeking to revive Omuzast worship.
 
 Middlestone is divided into three regions. First are the massive Untiku Plains to the north, which produce abundant grain. Secondly are the Oto foothills in the center, which is filled with orchards and vinyards. Last are the Koha Highlands to the south, which are forested and haunted. Halflings of Middlestone are fervently loyal to the Yargyez Empire on the surface, but they are also hostile to outsiders and prone to feuding over land rights. Middlestone is governed by land-owning Halfling nobles who ultimately answer to the Imperial governor.
 
