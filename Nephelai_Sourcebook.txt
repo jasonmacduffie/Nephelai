@@ -513,9 +513,9 @@ The spelling and pronunication of given names vary by dialect of Imperial.
 *   **Disposition:** They see the Yargyez Empire as decadent and corrupt, and view the incursion of the Uzvu as a divinely sanctioned civilizing mission.
 *   **Language:** Orcs speak Orcish.
 *   **Names:**
-    *   **Male:** Goruk, Gona, Zargan, Estokel, Yabi, Kola, Margozek
-    *   **Female:** Ruwa, Fiyotaz, Bozai, Ledo, Tigo, Rabo, Saka
-    *   **Second names:** Orcs use patronymic bynames, of the form [Given Name] iz-[Father].
+    *   **Male:** Chowuk, Chola, Chona, Mani, Mawosik, Nihakwo, Pemin, Sakwan, Tahali, Wesokwa
+    *   **Female:** Cheto, Kahela, Mari, Noxan, Posa, Sakwa, Tiho, Waho, Wehota, Woha
+    *   **Second names:** Orcs use patronymic bynames, of the form [Given Name] ish-[Father].
 
 ### Goblins
 
